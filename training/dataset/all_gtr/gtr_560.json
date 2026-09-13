@@ -1,0 +1,109 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or day record of boiler operation.",
+  "extracted_fields": {
+    "boiler_name": "Genus Paper & Board Ltd.",
+    "registration_number": null,
+    "entries": [
+      {
+        "date_period": "30/04/2025",
+        "shift": "07.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "09.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "11.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "13.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "15.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "17.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "19.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "21.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "23.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "01.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "03.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "30/04/2025",
+        "shift": "05.00",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      }
+    ]
+  }
+}

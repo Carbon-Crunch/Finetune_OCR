@@ -1,0 +1,146 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "F.Y. - 2024-25"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "consumption": {
+          "value": 5430272,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 54803,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "consumption": {
+          "value": 4219688,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 49593,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "consumption": {
+          "value": 5718715,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 65552,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "consumption": {
+          "value": 4814517,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 37826,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "consumption": {
+          "value": 4064085,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 57629,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "consumption": {
+          "value": 4311730,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 35776,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "consumption": {
+          "value": 4554120,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 29956,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "consumption": {
+          "value": 3980335,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 37832,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "consumption": {
+          "value": 3658328,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 32482,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "consumption": {
+          "value": 4044737,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 30233,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "consumption": {
+          "value": 2809449,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 38237,
+          "unit": "KVAH"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "consumption": {
+          "value": 4524833,
+          "unit": "KVAH"
+        },
+        "net_generation": {
+          "value": 29494,
+          "unit": "KVAH"
+        }
+      }
+    ]
+  }
+}

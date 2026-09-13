@@ -1,0 +1,97 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consent to Establish",
+    "document_type": "Environmental Consent Order",
+    "report_period": {
+      "value": "09/02/2024 To 08/02/2024"
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "17/02/2024"
+    },
+    "supplier_name": null,
+    "customer_name": "Shri SURESH CHAND GUPTA",
+    "company_name": "M/s DEV PRIYA PAPERS P LTD",
+    "plant_name": "DEV PRIYA PAPERS P LTD",
+    "location": "8th KM, Village Saini, Mawana Road, Meerut (U.P), 250001",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "201186/UPPCB/Meerut(UPPCBRO)/CTE/MEERUT/2024",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "material_description": "RDF",
+        "quantity": {
+          "value": 100,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "material_description": "Biomass Fuel",
+        "quantity": {
+          "value": 300,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "material_description": "Low Sulphur Coal",
+        "quantity": {
+          "value": 100,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "material_description": "Fuel Consumption (Others)",
+        "quantity": {
+          "value": 500,
+          "unit": "tpd/kld"
+        },
+        "remarks": "Used In Existing Boiler of 57 Ton/Hr with 12 MW Captive Power Plant"
+      }
+    ],
+    "additional_fields": {
+      "application_form_no": "24472090",
+      "application_date": "18/01/2024",
+      "authority": "Uttar Pradesh Pollution Control Board"
+    }
+  }
+}

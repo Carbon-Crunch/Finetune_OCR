@@ -1,0 +1,99 @@
+[
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report",
+    "report_period": {
+      "value": "21/10/2019 to 26/10/2019"
+    },
+    "entries": [
+      {
+        "sample_name": "Non-Recyclable Process Waste",
+        "date_period": "21/10/2019",
+        "sample_quantity": {
+          "value": "1",
+          "unit": "Kg."
+        },
+        "moisture_content": {
+          "value": "46.72",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "40.85",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "4.52",
+          "unit": "%"
+        },
+        "gcv": null,
+        "ash_content": {
+          "value": "7.52",
+          "unit": "%"
+        },
+        "supplier_name": "M/s. MEHALI PAPERS PVT. LTD.",
+        "operator_name": null,
+        "remarks": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": true,
+    "degree": 270,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report",
+    "report_period": {
+      "value": "21/10/2019 to 22/10/2019"
+    },
+    "entries": [
+      {
+        "sample_name": "Non-Recyclable Process Waste",
+        "date_period": "21/10/2019",
+        "sample_quantity": {
+          "value": "250",
+          "unit": "g"
+        },
+        "moisture_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": "6142",
+          "unit": "kcal/kg"
+        },
+        "ash_content": null,
+        "supplier_name": "M/s. MEHALI PAPERS PVT. LTD.",
+        "operator_name": null,
+        "remarks": null
+      }
+    ]
+  }
+]

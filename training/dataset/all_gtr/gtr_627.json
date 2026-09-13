@@ -1,0 +1,104 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": {
+    "value": "February-2025"
+  },
+  "truck_count": {
+    "value": "4",
+    "unit": "count"
+  },
+  "entries": [
+    {
+      "truck_no": "PB11 DC 4622",
+      "supplier": "GURU NANAK ENTERPRISES",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "14.860",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3678",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "13.4",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "14.2",
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": "UP19 Q 9138",
+      "supplier": "MK TRADERS",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "19.805",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3585",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "16.7",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "13.3",
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": "UP19 Q 9138",
+      "supplier": "MK TRADERS",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "20.374",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3480",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "14.9",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "13.7",
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": "UP19N 7518",
+      "supplier": "MK TRADERS",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "19.210",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3515",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "18.3",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "14.1",
+        "unit": "%"
+      }
+    }
+  ],
+  "totals": {
+    "total_gross_weight": null,
+    "total_net_weight": {
+      "value": "74.249",
+      "unit": "MT"
+    }
+  }
+}

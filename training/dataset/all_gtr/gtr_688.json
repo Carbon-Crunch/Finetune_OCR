@@ -1,0 +1,76 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 90
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Initial inspection for the electrical installation",
+    "document_type": "Electrical Inspection Certificate",
+    "report_period": {
+      "value": "27/9/2023"
+    },
+    "invoice_date": null,
+    "document_date": "27/9/2023",
+    "supplier_name": null,
+    "customer_name": "jani sales private limited",
+    "company_name": "OFFICE OF THE ELECTRICAL INSPECTOR",
+    "plant_name": null,
+    "location": "survey no.3902,sarigam Plastic Zone.opp Gayatri Shakti paper mill,village-moje fansa(karajgam),Ta-Umbergaon-396155 (Gujarat)",
+    "registration_number": "No/EI/Val/Certi/99730/2023",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "No/EI/Val/Plan/67252/2022",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Engine",
+        "material_description": "CUMMINS INDIA LIMITED",
+        "capacity": {
+          "value": "250.0",
+          "unit": "KW"
+        },
+        "remarks": "Sr. No. 84515790, RPM 1500.00"
+      },
+      {
+        "item_description": "Alternator",
+        "material_description": "STAMFORD",
+        "capacity": {
+          "value": "250.0",
+          "unit": "KVA"
+        },
+        "remarks": "Sr. No. N19E219401, Volt 415"
+      },
+      {
+        "item_description": "Energy Meter",
+        "material_description": "HPL Electric and Power Ltd",
+        "remarks": "Sr. No. 1K 167184, Volt 240.00, C.T. Ratio 600/5A, P.T. Ratio 1, Dial M.F. 1.0, Final M.F. 120.00, Reading 3, Seal No. of Terminal Cover 3652672, Seal No. of MMB 3652673"
+      }
+    ],
+    "additional_fields": {
+      "inspection_date": "03/07/2023",
+      "authorized_by": "J D Chaudhari, ELECTRICAL INSPECTOR, Valsad"
+    }
+  }
+}

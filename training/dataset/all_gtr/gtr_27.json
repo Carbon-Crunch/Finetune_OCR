@@ -1,0 +1,96 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation (CCA)",
+    "document_type": "Environmental Consent Document",
+    "report_period": {
+      "value": "upto 31.03.2028"
+    },
+    "document_date": {
+      "value": "04.02.2023"
+    },
+    "company_name": "M/s Bahl Papers Mills Ltd.",
+    "location": "Kh.no. 28 min & 74/1, 5th KM Stone, Aliganj Road, Kashipur, Distt- Udham Singh Nagar",
+    "registration_number": "CAF ID - 31849, Application no. - 3295351",
+    "entries": [
+      {
+        "product_name": "Duplex Board",
+        "production": {
+          "value": 11000,
+          "unit": "MT/Month"
+        }
+      },
+      {
+        "product_name": "Craft/Paper/Tissue Paper/MG Poster Paper",
+        "production": {
+          "value": 2000,
+          "unit": "MT/Month"
+        }
+      },
+      {
+        "equipment_name": "D.G set (1000KVA) x 1",
+        "capacity": {
+          "value": 1000,
+          "unit": "KVA"
+        }
+      },
+      {
+        "equipment_name": "Boiler (15TPH) x 1 nos.",
+        "capacity": {
+          "value": 15,
+          "unit": "TPH"
+        }
+      },
+      {
+        "equipment_name": "Boiler (27TPH) x 1 nos.",
+        "capacity": {
+          "value": 27,
+          "unit": "TPH"
+        }
+      },
+      {
+        "equipment_name": "Waste to Energy Boiler (100TPD) x 1 nos.",
+        "capacity": {
+          "value": 100,
+          "unit": "TPD"
+        }
+      }
+    ]
+  }
+}

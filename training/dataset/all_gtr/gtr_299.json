@@ -1,0 +1,1215 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01/04/2024 - 31/03/2025"
+    },
+    "entries": [
+      {
+        "date_of_receipt": null,
+        "date_period": "01/04/2024 - 30/04/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 2005250.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/04/2024 - 30/04/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 841060.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/04/2024 - 30/04/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "S N GLOBAL MINERALS LLP",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 987610.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/05/2024 - 31/05/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1517820.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/05/2024 - 31/05/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5900,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 33320.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/05/2024 - 31/05/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1394870.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/05/2024 - 31/05/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1008140.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/05/2024 - 31/05/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MOHIT MINERALS LIMITED",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1995460.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/05/2024 - 31/05/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 36260.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "AGARWAL COAL CORPORATION PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 73080.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "AGARWAL COAL CORPORATION PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1018820.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "AGARWAL FUEL CORPORATION PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 71540.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 99480.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 2089380.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 842130.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 2479450.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "S N GLOBAL MINERALS LLP",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 987010.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "YAJUR COMTRADE PRIVATE LIMITED",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 169770.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/06/2024 - 30/06/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "YAJUR COMTRADE PRIVATE LIMITED",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 34980.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/07/2024 - 31/07/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 805170.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/07/2024 - 31/07/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 527940.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/07/2024 - 31/07/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "SHREE HARI COAL CORPORATION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 391830.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/07/2024 - 31/07/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "YAJUR COMTRADE PRIVATE LIMITED",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 528130.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/08/2024 - 31/08/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5600,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1003190.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/08/2024 - 31/08/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 517010.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/08/2024 - 31/08/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "YAJUR COMTRADE PRIVATE LIMITED",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5400,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 446000.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/09/2024 - 30/09/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 307280.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/09/2024 - 30/09/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "GANPATI ENERGY PVT LTD",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 845960.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/09/2024 - 30/09/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5600,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1004130.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/09/2024 - 30/09/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 467610.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/09/2024 - 30/09/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 998130.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/09/2024 - 30/09/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MOHIT MINERALS LIMITED",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 36280.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/10/2024 - 31/10/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "AGARWAL COAL CORPORATION PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 169530.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/10/2024 - 31/10/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 727970.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/10/2024 - 31/10/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1021730.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/10/2024 - 31/10/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "GREEN GOLD GLOBAL RESOURCES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 167010.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/10/2024 - 31/10/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "GREEN GOLD GLOBAL RESOURCES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 2518760.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/10/2024 - 31/10/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5500,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 996350.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/10/2024 - 31/10/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 70600.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/11/2024 - 30/11/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "AGARWAL COAL CORPORATION PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1016270.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/11/2024 - 30/11/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "GREEN GOLD GLOBAL RESOURCES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 3020240.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/12/2024 - 31/12/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "AGARWAL COAL CORPORATION PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1055570.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/12/2024 - 31/12/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1009320.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/12/2024 - 31/12/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "GREEN GOLD GLOBAL RESOURCES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1011840.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/12/2024 - 31/12/2024",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 2999000.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/01/2025 - 31/01/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1013580.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/01/2025 - 31/01/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "GREEN GOLD GLOBAL RESOURCES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1497570.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/01/2025 - 31/01/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED - TRADE DIVISION",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 6000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 110090.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/01/2025 - 31/01/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 564600.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/02/2025 - 28/02/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 995320.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/02/2025 - 28/02/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1483380.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/02/2025 - 28/02/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5900,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 26150.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/02/2025 - 28/02/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1041800.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/02/2025 - 28/02/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5900,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1548080.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/03/2025 - 31/03/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1000120.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/03/2025 - 31/03/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "CHANDRA COAL COMPANY",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1013060.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/03/2025 - 31/03/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "GREEN GOLD GLOBAL RESOURCES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1018340.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/03/2025 - 31/03/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT. LTD.",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5900,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 1018060.0,
+          "unit": "KG"
+        }
+      },
+      {
+        "date_of_receipt": null,
+        "date_period": "01/03/2025 - 31/03/2025",
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "YAJUR COMTRADE PRIVATE LIMITED",
+        "truck_vehicle_no": null,
+        "total_trucks": null,
+        "gcv": {
+          "value": 5700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": null,
+        "ash_content": null,
+        "net_weight": {
+          "value": 497600.0,
+          "unit": "KG"
+        }
+      }
+    ]
+  }
+}

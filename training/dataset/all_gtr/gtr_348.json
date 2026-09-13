@@ -1,0 +1,117 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Kashi Vishwanath TEXTILE MILL (P) LIMITED - ZERO LIQUID DISCHARGE (ZLD)",
+    "document_type": "Process Flow Diagram / Plant Capacity Schematic",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Kashi Vishwanath TEXTILE MILL (P) LIMITED",
+    "plant_name": "ZERO LIQUID DISCHARGE (ZLD)",
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": {
+      "value": 800.0,
+      "unit": "KLD"
+    },
+    "entries": [
+      {
+        "equipment_name": "Collection Tank",
+        "quantity": {
+          "value": 90.0,
+          "unit": "KL"
+        }
+      },
+      {
+        "equipment_name": "Equalization Tank",
+        "quantity": {
+          "value": 660.0,
+          "unit": "KL"
+        }
+      },
+      {
+        "equipment_name": "Biological on SBR Technology",
+        "quantity": {
+          "value": 800.0,
+          "unit": "KL"
+        }
+      },
+      {
+        "equipment_name": "SRB Outlet Tank",
+        "quantity": {
+          "value": 100.0,
+          "unit": "KL"
+        }
+      },
+      {
+        "equipment_name": "Treated Water Tank",
+        "quantity": {
+          "value": 10.0,
+          "unit": "KL"
+        }
+      },
+      {
+        "equipment_name": "Sludge Thickener Clarifier",
+        "quantity": {
+          "value": 20.0,
+          "unit": "KL"
+        }
+      },
+      {
+        "equipment_name": "RO-1st Unit",
+        "flow_rate": {
+          "value": 50.0,
+          "unit": "M3/h"
+        }
+      },
+      {
+        "equipment_name": "RO-3rd Unit",
+        "flow_rate": {
+          "value": 14.0,
+          "unit": "M3/h"
+        }
+      },
+      {
+        "equipment_name": "RO-4th Unit",
+        "flow_rate": {
+          "value": 6.0,
+          "unit": "M3/h"
+        }
+      },
+      {
+        "equipment_name": "MEE",
+        "flow_rate": {
+          "value": 20.0,
+          "unit": "M3/DAY"
+        }
+      },
+      {
+        "equipment_name": "Dryer",
+        "flow_rate": {
+          "value": 5.0,
+          "unit": "M3/DAY"
+        }
+      },
+      {
+        "equipment_name": "Permeate Water Storage Tank",
+        "quantity": {
+          "value": 10.0,
+          "unit": "KL"
+        }
+      }
+    ],
+    "additional_fields": {
+      "plant_capacity": "800KLD"
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "04-OCT-2024 to 18-OCT-2024"
+  },
+  "vendor": {
+    "value": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED"
+  },
+  "vendor_gstin": {
+    "value": null
+  },
+  "buyer": {
+    "value": "SARJU SAHKARI CHINI MILL LTD"
+  },
+  "buyer_gstin": {
+    "value": null
+  },
+  "invoice_no": {
+    "value": "358873563879"
+  },
+  "invoice_date": {
+    "value": "04-OCT-2024"
+  },
+  "document_type": {
+    "value": "Electricity Bill"
+  },
+  "company_pan": {
+    "value": null
+  },
+  "entries": [
+    {
+      "item": {
+        "value": "ऊर्जा प्रभार / Energy Charges"
+      },
+      "hsn_sac": {
+        "value": null
+      },
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate": {
+        "value": null
+      },
+      "amount": {
+        "value": "430989.30"
+      }
+    },
+    {
+      "item": {
+        "value": "मांग प्रभार / Demand Charges"
+      },
+      "hsn_sac": {
+        "value": null
+      },
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate": {
+        "value": null
+      },
+      "amount": {
+        "value": "31862.16"
+      }
+    },
+    {
+      "item": {
+        "value": "न्यूनतम प्रभार / Minimum Charges"
+      },
+      "hsn_sac": {
+        "value": null
+      },
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate": {
+        "value": null
+      },
+      "amount": {
+        "value": "0.00"
+      }
+    },
+    {
+      "item": {
+        "value": "ग्रीन ऊर्जा शुल्क / Green Energy Charges"
+      },
+      "hsn_sac": {
+        "value": null
+      },
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate": {
+        "value": null
+      },
+      "amount": {
+        "value": "0.00"
+      }
+    },
+    {
+      "item": {
+        "value": "विद्युत कर / Electricity Duty"
+      },
+      "hsn_sac": {
+        "value": null
+      },
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate": {
+        "value": null
+      },
+      "amount": {
+        "value": "23745.68"
+      }
+    },
+    {
+      "item": {
+        "value": "अतिरिक्त मांग प्रभार / Excess Demand Penalty"
+      },
+      "hsn_sac": {
+        "value": null
+      },
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate": {
+        "value": null
+      },
+      "amount": {
+        "value": "12062.16"
+      }
+    },
+    {
+      "item": {
+        "value": "कम पीएफ अधिभार / Low PF Surcharge"
+      },
+      "hsn_sac": {
+        "value": null
+      },
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate": {
+        "value": null
+      },
+      "amount": {
+        "value": "0.00"
+      }
+    },
+    {
+      "item": {
+        "value": "विविध चार्जेस / Misc. Charges"
+      },
+      "hsn_sac": {
+        "value": null
+      },
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate": {
+        "value": null
+      },
+      "amount": {
+        "value": "0.27"
+      }
+    }
+  ]
+}

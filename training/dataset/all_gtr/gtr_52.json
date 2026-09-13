@@ -1,0 +1,37 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Summary",
+  "extraction_rules": "Extract period, fuel type, inwards, outwards, closing balance.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "1-Apr-24 to 31-Mar-25"
+    },
+    "entries": [
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "1-Apr-24 to 31-Mar-25",
+        "opening_balance": {
+          "value": "1,72,002.71",
+          "unit": "QTL"
+        },
+        "received_quantity": null,
+        "inwards": {
+          "value": "5,20,287.67",
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": "4,86,630.00",
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": "2,05,660.38",
+          "unit": "QTL"
+        }
+      }
+    ]
+  }
+}

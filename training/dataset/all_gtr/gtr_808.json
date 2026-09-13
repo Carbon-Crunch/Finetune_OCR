@@ -1,0 +1,28 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "02.10.2024"
+  },
+  "supplier_name": "Adani Enterprises Ltd.",
+  "entries": [
+    {
+      "item_description": "LIQUEFIED PROPANE GAS",
+      "material_description": "LIQUEFIED PROPANE GAS",
+      "item_code": "31010102",
+      "hsn_sac": "27111200",
+      "quantity": {
+        "value": "19.403",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "19.403",
+        "unit": "MT"
+      },
+      "gross_amount": {
+        "value": "1110317.27",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

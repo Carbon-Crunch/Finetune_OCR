@@ -1,0 +1,27 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "July 2021"
+    },
+    "entries": [
+      {
+        "sample_name": "Coal Ash (6/20) (27-07-2021) July 2021",
+        "date_period": "30.07.2021",
+        "sample_quantity": null,
+        "moisture_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": null,
+        "ash_content": null,
+        "supplier_name": "Kajaria Ceramics Ltd.",
+        "operator_name": "Mitra S.K. Private Limited",
+        "remarks": "Unburnt Carbon: 10.13 %"
+      }
+    ]
+  }
+}

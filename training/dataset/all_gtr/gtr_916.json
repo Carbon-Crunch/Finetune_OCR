@@ -1,0 +1,263 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "production/machine_consumption_summary.json": {
+    "data_type": "Operational and Production Data",
+    "data_category": "Electricity Consumption",
+    "extraction_rules": "This is a tabular production or machine consumption summary. Extract EVERY row from the table into the entries array. Each object in entries represents one product, machine, or period record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": "FY 2024-25"
+      },
+      "entries": [
+        {
+          "date_period": "APRIL",
+          "machine_consumption": {
+            "value": 1261864,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1367019,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 123713,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 2752596,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "MAY",
+          "machine_consumption": {
+            "value": 1247116,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1308448,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 119137,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 2674701,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "JUNE",
+          "machine_consumption": {
+            "value": 1054836,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1156559,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 112828,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 2324223,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "JULY",
+          "machine_consumption": {
+            "value": 1376206,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1484928,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 128540,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 2989674,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "AUGUST",
+          "machine_consumption": {
+            "value": 1206083,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1311835,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 118284,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 2636202,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "SEPTEMBER",
+          "machine_consumption": {
+            "value": 283147,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 324463,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 96936,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 704546,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "OCTOBER",
+          "machine_consumption": {
+            "value": 1230999,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1317652,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 128060,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 2676711,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "NOVEMBER",
+          "machine_consumption": {
+            "value": 859396,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 890900,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 95032,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 1845328,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "DECEMBER",
+          "machine_consumption": {
+            "value": 1251559,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1339660,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 134494,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 2725713,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "JANUARY",
+          "machine_consumption": {
+            "value": 1420349,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1551092,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 121332,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 3092773,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "FEBRUARY",
+          "machine_consumption": {
+            "value": 1546595,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1648848,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 124856,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 3320299,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "MARCH",
+          "machine_consumption": {
+            "value": 1216279,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 1319747,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 113416,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 2649442,
+            "unit": "KWH"
+          }
+        },
+        {
+          "date_period": "TOTAL",
+          "machine_consumption": {
+            "value": 13954429,
+            "unit": "KWH"
+          },
+          "pulp_mill_consumption": {
+            "value": 15021151,
+            "unit": "KWH"
+          },
+          "etp_consumption": {
+            "value": 1416628,
+            "unit": "KWH"
+          },
+          "total_consumption": {
+            "value": 30392208,
+            "unit": "KWH"
+          }
+        }
+      ]
+    }
+  }
+}

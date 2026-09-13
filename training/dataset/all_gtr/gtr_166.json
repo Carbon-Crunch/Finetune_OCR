@@ -1,0 +1,47 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Process Chart",
+    "document_type": "Process Flow Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "24-06-2015"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Mehali Papers Pvt Ltd",
+    "plant_name": "Mehali Papers Pvt Ltd",
+    "location": "D2/11/B2, GIDC, Dahej - 392 120 Gujarat",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {
+      "layers": [
+        "Top Layer",
+        "Under Top Layer",
+        "Filler Layer"
+      ],
+      "drawn_by": "P. Kumar",
+      "scale": "N.T.S."
+    }
+  }
+}

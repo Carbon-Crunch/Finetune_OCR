@@ -1,0 +1,96 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "937",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": null,
+        "entries": [
+          {
+            "sample_name": "Sample 1 (Coal)",
+            "date_period": "11/04/2025",
+            "sample_quantity": "41790.00 kg",
+            "moisture_content": "14%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3600 kcal/kg",
+            "ash_content": "10%",
+            "supplier_name": "Reyansh Corporations",
+            "operator_name": null,
+            "remarks": "Truck no. RJ32GC1152, Bill no. GUJ/24-25/010"
+          },
+          {
+            "sample_name": "Sample 2 (Coal)",
+            "date_period": "30/05/2025",
+            "sample_quantity": "41990.00 kg",
+            "moisture_content": "17%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3600 kcal/kg",
+            "ash_content": "9%",
+            "supplier_name": "Reyansh Corporations",
+            "operator_name": null,
+            "remarks": "Truck no. RJ32GB8305, Bill no. GUJ/24-25/052"
+          },
+          {
+            "sample_name": "Sample 3 (Coal)",
+            "date_period": "14/06/2025",
+            "sample_quantity": "28570.00 kg",
+            "moisture_content": "19%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3650 kcal/kg",
+            "ash_content": "10.5%",
+            "supplier_name": "Northern Coalfield Ltd.",
+            "operator_name": null,
+            "remarks": "Truck no. UP25FT8169, Bill no. RD1220001755"
+          },
+          {
+            "sample_name": "Sample 1 (Bagasse)",
+            "date_period": "02/04/2024",
+            "sample_quantity": "15730.00 kg",
+            "moisture_content": "45%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "1850 kcal/kg",
+            "ash_content": "3.5%",
+            "supplier_name": "Singhal Traders",
+            "operator_name": null,
+            "remarks": "Truck no. Tractor Traly, Bill no. ST/24-25/0005"
+          },
+          {
+            "sample_name": "Sample 2 (Bagasse)",
+            "date_period": "05/05/2024",
+            "sample_quantity": "5830.00 kg",
+            "moisture_content": "48%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "1900 kcal/kg",
+            "ash_content": "4%",
+            "supplier_name": "Shree Narayan Chemicals",
+            "operator_name": null,
+            "remarks": "Truck no. Tractor Traly, Bill no. 585"
+          },
+          {
+            "sample_name": "Sample 3 (Bagasse)",
+            "date_period": "26/05/2024",
+            "sample_quantity": "5860.00 kg",
+            "moisture_content": "49%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "1800 kcal/kg",
+            "ash_content": "3.5%",
+            "supplier_name": "Shree Narayan Chemicals",
+            "operator_name": null,
+            "remarks": "Truck no. Tractor Traly, Bill no. 820"
+          }
+        ]
+      }
+    }
+  ]
+}

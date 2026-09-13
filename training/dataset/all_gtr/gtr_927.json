@@ -1,0 +1,30 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_no": "SRHZR24250006018",
+  "invoice_date": "20-10-2024",
+  "supplier_name": "MAHESHWARI LOGISTICS LIMITED-TRADE DIVISION",
+  "supplier_gstin": "24AAECM8332N4Z3",
+  "buyer_name": "MAHESHWARI LOGISTICS LIMITED - PAPER DIV",
+  "buyer_gstin": "24AAECM8332N1Z6",
+  "total_amount": {
+    "value": "262015.00",
+    "unit": "Rs."
+  },
+  "entries": [
+    {
+      "item_description": "IMP COAL",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": "27011920",
+      "quantity": {
+        "value": "34.750",
+        "unit": "MTS"
+      },
+      "gross_amount": {
+        "value": "236300.00",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

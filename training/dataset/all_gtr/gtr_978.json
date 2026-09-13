@@ -1,0 +1,104 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "978",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Consumption History / Generation Report",
+      "boilerplate_used": "energy/electric_consumption_history.json",
+      "data": {
+        "report_period": {
+          "value": "Apr-24 to Mar-25"
+        },
+        "entries": [
+          {
+            "date_period": "Apr-24",
+            "consumption": {
+              "value": 3787760,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "May-24",
+            "consumption": {
+              "value": 3870520,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Jun-24",
+            "consumption": {
+              "value": 3743400,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Jul-24",
+            "consumption": {
+              "value": 3804840,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Aug-24",
+            "consumption": {
+              "value": 3904240,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Sep-24",
+            "consumption": {
+              "value": 3823160,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Oct-24",
+            "consumption": {
+              "value": 3887280,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Nov-24",
+            "consumption": {
+              "value": 3777920,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Dec-24",
+            "consumption": {
+              "value": 3834920,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Jan-25",
+            "consumption": {
+              "value": 3511960,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Feb-25",
+            "consumption": {
+              "value": 3498840,
+              "unit": "kWh"
+            }
+          },
+          {
+            "date_period": "Mar-25",
+            "consumption": {
+              "value": 3867440,
+              "unit": "kWh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

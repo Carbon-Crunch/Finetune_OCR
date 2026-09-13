@@ -1,0 +1,656 @@
+[
+  {
+    "rotation_needed": true,
+    "degree": 90,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 90
+      }
+    ],
+    "data_type": "Generic",
+    "data_category": "Generic Fallback Document",
+    "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+    "extracted_fields": {
+      "document_title": "INVOICE",
+      "document_type": "Invoice",
+      "report_period": {
+        "value": "November - 2024"
+      },
+      "invoice_date": {
+        "value": "23.12.2024"
+      },
+      "company_name": "SAHAKARMAHARSHI BHAUSAHEB THORAT SAHAKARI SAKHAR KARKHANA LTD.",
+      "plant_name": "SBT SSKL, Amrutnagar",
+      "invoice_number": "03",
+      "total_amount": {
+        "value": 30892055.0,
+        "unit": "Rs."
+      },
+      "entries": [
+        {
+          "product_name": "(10+20)MW Generation",
+          "generation": {
+            "value": 6696019.0,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.32,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 49014859.08,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Solar",
+          "generation": {
+            "value": 28316.2,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 2.69,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 76170.58,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Hybrid",
+          "generation": {
+            "value": 6724335.2,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.3005,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 49091029.66,
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": true,
+    "degree": 90,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 0
+      }
+    ],
+    "data_type": "Generic",
+    "data_category": "Generic Fallback Document",
+    "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+    "extracted_fields": {
+      "document_title": "INVOICE",
+      "document_type": "Invoice",
+      "report_period": {
+        "value": "December - 2024"
+      },
+      "invoice_date": {
+        "value": "02.01.2025"
+      },
+      "company_name": "SAHAKARMAHARSHI BHAUSAHEB THORAT SAHAKARI SAKHAR KARKHANA LTD.",
+      "plant_name": "SBT SSKL, Amrutnagar",
+      "invoice_number": "04",
+      "total_amount": {
+        "value": 96163856.0,
+        "unit": "Rs."
+      },
+      "entries": [
+        {
+          "product_name": "(10+20)MW Generation",
+          "generation": {
+            "value": 19845410.0,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.32,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 145268401.2,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Solar",
+          "generation": {
+            "value": 26175.7,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 2.69,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 70412.63,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Hybrid",
+          "generation": {
+            "value": 19871585.7,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.3139,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 145338813.83,
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": true,
+    "degree": 90,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 0
+      }
+    ],
+    "data_type": "Generic",
+    "data_category": "Generic Fallback Document",
+    "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+    "extracted_fields": {
+      "document_title": "INVOICE",
+      "document_type": "Invoice",
+      "report_period": {
+        "value": "January - 2025"
+      },
+      "invoice_date": {
+        "value": "06.02.2025"
+      },
+      "company_name": "SAHAKARMAHARSHI BHAUSAHEB THORAT SAHAKARI SAKHAR KARKHANA LTD.",
+      "plant_name": "SBT SSKL, Amrutnagar",
+      "invoice_number": "05",
+      "total_amount": {
+        "value": 93738278.0,
+        "unit": "Rs."
+      },
+      "entries": [
+        {
+          "product_name": "(10+20)MW Generation",
+          "generation": {
+            "value": 19719363.0,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.32,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 144345737.16,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Solar",
+          "generation": {
+            "value": 28351.1,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 2.69,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 76264.46,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Hybrid",
+          "generation": {
+            "value": 19747714.1,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.3133,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 144422001.62,
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": true,
+    "degree": 90,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 0
+      }
+    ],
+    "data_type": "Generic",
+    "data_category": "Generic Fallback Document",
+    "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+    "extracted_fields": {
+      "document_title": "INVOICE",
+      "document_type": "Invoice",
+      "report_period": {
+        "value": "February - 2025"
+      },
+      "invoice_date": {
+        "value": "03.03.2025"
+      },
+      "company_name": "SAHAKARMAHARSHI BHAUSAHEB THORAT SAHAKARI SAKHAR KARKHANA LTD.",
+      "plant_name": "SBT SSKL, Amrutnagar",
+      "invoice_number": "06",
+      "total_amount": {
+        "value": 89958978.0,
+        "unit": "Rs."
+      },
+      "entries": [
+        {
+          "product_name": "(10+20)MW Generation",
+          "generation": {
+            "value": 18242965.0,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.32,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 133538503.8,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Solar",
+          "generation": {
+            "value": 33255.6,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 2.69,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 89457.56,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Hybrid",
+          "generation": {
+            "value": 18276220.6,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.3115,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 133627961.36,
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": true,
+    "degree": 90,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 0
+      }
+    ],
+    "data_type": "Generic",
+    "data_category": "Generic Fallback Document",
+    "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+    "extracted_fields": {
+      "document_title": "INVOICE",
+      "document_type": "Invoice",
+      "report_period": {
+        "value": "March - 2025"
+      },
+      "invoice_date": {
+        "value": "03.04.2025"
+      },
+      "company_name": "SAHAKARMAHARSHI BHAUSAHEB THORAT SAHAKARI SAKHAR KARKHANA LTD.",
+      "plant_name": "SBT SSKL, Amrutnagar",
+      "invoice_number": "07",
+      "total_amount": {
+        "value": 74654075.0,
+        "unit": "Rs."
+      },
+      "entries": [
+        {
+          "product_name": "(10+20)MW Generation",
+          "generation": {
+            "value": 14421427.0,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.32,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 105564845.64,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Solar",
+          "generation": {
+            "value": 42774.7,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 2.69,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 115063.94,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Hybrid",
+          "generation": {
+            "value": 14464201.7,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.3063,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 105679909.58,
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": true,
+    "degree": 90,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 90
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 0
+      }
+    ],
+    "data_type": "Generic",
+    "data_category": "Generic Fallback Document",
+    "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+    "extracted_fields": {
+      "document_title": "INVOICE",
+      "document_type": "Invoice",
+      "report_period": {
+        "value": "April - 2025"
+      },
+      "invoice_date": {
+        "value": "12.05.2025"
+      },
+      "company_name": "SAHAKARMAHARSHI BHAUSAHEB THORAT SAHAKARI SAKHAR KARKHANA LTD.",
+      "plant_name": "SBT SSKL, Amrutnagar",
+      "invoice_number": "01",
+      "total_amount": {
+        "value": 1144060.0,
+        "unit": "Rs."
+      },
+      "entries": [
+        {
+          "product_name": "(10+20)MW Generation",
+          "generation": {
+            "value": 212505.0,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 7.32,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 1555536.6,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Solar",
+          "generation": {
+            "value": 48081.5,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 2.69,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 129339.24,
+            "unit": "Rs."
+          }
+        },
+        {
+          "product_name": "Hybrid",
+          "generation": {
+            "value": 260586.5,
+            "unit": "KWH"
+          },
+          "rate": {
+            "value": 6.4657,
+            "unit": "Rs/Unit"
+          },
+          "amount": {
+            "value": 1684875.83,
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  }
+]

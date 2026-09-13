@@ -1,0 +1,66 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Energy",
+  "data_category": "Electricity Bill",
+  "extraction_rules": "This is a tabular billing document. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period or charge entry.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "DEC-2024"
+    },
+    "entries": [
+      {
+        "supply_voltage": {
+          "value": "11",
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": "MW/kVA"
+        },
+        "contract_demand": {
+          "value": "2500",
+          "unit": null
+        },
+        "billed_demand": {
+          "value": "2559",
+          "unit": null
+        },
+        "kwh_consumption": {
+          "value": "1112670",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "1112700",
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": ".999",
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": "1112670",
+          "unit": "kWH"
+        }
+      }
+    ]
+  }
+}

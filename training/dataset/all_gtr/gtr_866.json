@@ -1,0 +1,145 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation (CCA) (Renewal)",
+    "document_type": "Environmental Clearance",
+    "report_period": {
+      "value": "Up to 31.03.2026"
+    },
+    "invoice_date": null,
+    "document_date": "13.02.2024",
+    "supplier_name": null,
+    "customer_name": "M/s Kashi Vishwanath Textile Mill Pvt. Ltd.",
+    "company_name": "M/s Kashi Vishwanath Textile Mill Pvt. Ltd.",
+    "plant_name": "M/s Kashi Vishwanath Textile Mill Pvt. Ltd.",
+    "location": "5th Km Stone, Ramnagar Road, Distt- Udham Singh Nagar",
+    "registration_number": "Application no. - 1963668, CAF ID - 3058",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "UKPCB/HO/Con/S-3/2024/1280",
+    "total_amount": {
+      "value": "13617.0",
+      "unit": "Lakh (Capital Investment)"
+    },
+    "total_quantity": null,
+    "entries": [
+      {
+        "product_name": "Synthetic Polyster Yarn/P.V dyed Yarn",
+        "quantity": {
+          "value": "968",
+          "unit": "MT/Month"
+        }
+      },
+      {
+        "product_name": "Recycled Polyster Fiber",
+        "quantity": {
+          "value": "3000",
+          "unit": "MT/Month"
+        }
+      },
+      {
+        "equipment_name": "Boiler (8TPH)",
+        "capacity": {
+          "value": "8",
+          "unit": "TPH"
+        }
+      },
+      {
+        "equipment_name": "D.G set",
+        "capacity": {
+          "value": "1250",
+          "unit": "KVA"
+        }
+      },
+      {
+        "equipment_name": "D.G set",
+        "capacity": {
+          "value": "810",
+          "unit": "KVA"
+        }
+      },
+      {
+        "equipment_name": "Fuel Heater (Thermic)",
+        "capacity": {
+          "value": "30",
+          "unit": "Lac Kcl/hr"
+        }
+      },
+      {
+        "equipment_name": "Boiler (6TPH)",
+        "capacity": {
+          "value": "6",
+          "unit": "TPH"
+        }
+      }
+    ],
+    "additional_fields": {
+      "effluent_trade_quantity": "1500.0 KLD",
+      "effluent_sewage_quantity": "45 KLD",
+      "hazardous_waste_authorizations": [
+        {
+          "category": "Schedule I-33.1",
+          "quantity": "3.0 MTA",
+          "disposal": "Recyclable"
+        },
+        {
+          "category": "Schedule I-5.1",
+          "quantity": "0.5 MTA",
+          "disposal": "Recyclable"
+        },
+        {
+          "category": "Schedule I-35.3",
+          "quantity": "20 MTA",
+          "disposal": "Secure Land Fill"
+        },
+        {
+          "category": "Schedule I-33.2",
+          "quantity": "1.0 MTA",
+          "disposal": "Incinerable"
+        }
+      ]
+    }
+  }
+}

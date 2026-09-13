@@ -1,0 +1,331 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "KASHI VISHWANATH TEXTILE MILL LTD.",
+    "document_type": "DG Run Log Sheet",
+    "report_period": {
+      "value": "07/12/2025 - 20/12/2025"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "KASHI VISHWANATH TEXTILE MILL LTD.",
+    "plant_name": "Spinning Division",
+    "location": "5th Km. Ramnagar Road, Kashipur - 244713 (U.S. Nagar)",
+    "registration_number": "DG No. I / 1250 K.V.A.",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": "07/12/25",
+        "timestamp": "1:32 Am Start",
+        "temperature": {
+          "value": 90.5,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30678.0,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.64,
+          "unit": "kWh"
+        },
+        "consumption": null,
+        "balance": {
+          "value": 917.0,
+          "unit": "Ltr"
+        },
+        "quantity": null,
+        "rate": {
+          "value": 3.0,
+          "unit": "kWh/Ltr"
+        },
+        "remarks": "Outlet Water Temp / Run Hours: 20886"
+      },
+      {
+        "date_period": "07/12/25",
+        "timestamp": "2:00 Am Stopped",
+        "temperature": {
+          "value": 90.6,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30678.0,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.69,
+          "unit": "kWh"
+        },
+        "consumption": {
+          "value": 225.0,
+          "unit": "kWh"
+        },
+        "balance": {
+          "value": 849.0,
+          "unit": "Ltr"
+        },
+        "quantity": {
+          "value": 75.0,
+          "unit": "Ltr"
+        },
+        "rate": {
+          "value": 3.0,
+          "unit": "kWh/Ltr"
+        },
+        "remarks": "Outlet Water Temp / Run Hours: 20887"
+      },
+      {
+        "date_period": "07/12/25",
+        "timestamp": "2:15 Am Stopped",
+        "temperature": {
+          "value": 90.6,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30678.0,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.72,
+          "unit": "kWh"
+        },
+        "consumption": {
+          "value": 135.0,
+          "unit": "kWh"
+        },
+        "balance": {
+          "value": 800.0,
+          "unit": "Ltr"
+        },
+        "quantity": {
+          "value": 42.0,
+          "unit": "Ltr"
+        },
+        "rate": {
+          "value": 3.21,
+          "unit": "kWh/Ltr"
+        },
+        "remarks": "Outlet Water Temp / Run Hours: 20887"
+      },
+      {
+        "date_period": "08/12/2025",
+        "timestamp": "11:32 Am Start",
+        "temperature": {
+          "value": 90.6,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30678.0,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.72,
+          "unit": "kWh"
+        },
+        "consumption": null,
+        "balance": null,
+        "quantity": null,
+        "rate": null,
+        "remarks": "Outlet Water Temp / Run Hours: 20887"
+      },
+      {
+        "date_period": "08/12/2025",
+        "timestamp": "11:45 Am Stopped",
+        "temperature": {
+          "value": 90.6,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30678.1,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.73,
+          "unit": "kWh"
+        },
+        "consumption": {
+          "value": 45.0,
+          "unit": "kWh"
+        },
+        "balance": {
+          "value": 780.0,
+          "unit": "Ltr"
+        },
+        "quantity": {
+          "value": 20.0,
+          "unit": "Ltr"
+        },
+        "rate": {
+          "value": 2.25,
+          "unit": "kWh/Ltr"
+        },
+        "remarks": "Outlet Water Temp / Run Hours: 20887"
+      },
+      {
+        "date_period": "10/12/2025",
+        "timestamp": "11:26 Am Start",
+        "temperature": {
+          "value": 90.6,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30628.1,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.73,
+          "unit": "kWh"
+        },
+        "consumption": null,
+        "balance": null,
+        "quantity": null,
+        "rate": null,
+        "remarks": "Outlet Water Temp / Run Hours: 20887"
+      },
+      {
+        "date_period": "10/12/2025",
+        "timestamp": "11:37 Am Stopped",
+        "temperature": {
+          "value": 90.6,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30679.1,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.74,
+          "unit": "kWh"
+        },
+        "consumption": {
+          "value": 45.0,
+          "unit": "kWh"
+        },
+        "balance": {
+          "value": 760.0,
+          "unit": "Ltr"
+        },
+        "quantity": {
+          "value": 20.0,
+          "unit": "Ltr"
+        },
+        "rate": {
+          "value": 2.25,
+          "unit": "kWh/Ltr"
+        },
+        "remarks": "Outlet Water Temp / Run Hours: 20887"
+      },
+      {
+        "date_period": "16/12/25",
+        "timestamp": "7:50 Am Started",
+        "temperature": {
+          "value": 90.6,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30679.1,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.77,
+          "unit": "kWh"
+        },
+        "consumption": {
+          "value": 135.0,
+          "unit": "kWh"
+        },
+        "balance": {
+          "value": 718.0,
+          "unit": "Ltr"
+        },
+        "quantity": {
+          "value": 42.0,
+          "unit": "Ltr"
+        },
+        "rate": {
+          "value": 3.21,
+          "unit": "kWh/Ltr"
+        },
+        "remarks": "Outlet Water Temp / Run Hours: 20887"
+      },
+      {
+        "date_period": "16/12/25",
+        "timestamp": "8:07 Am Stopped",
+        "temperature": null,
+        "meter_reading": null,
+        "kwh": null,
+        "consumption": null,
+        "balance": null,
+        "quantity": null,
+        "rate": null,
+        "remarks": null
+      },
+      {
+        "date_period": "20/12/25",
+        "timestamp": "4:57 Pm Started",
+        "temperature": {
+          "value": 90.7,
+          "unit": "C"
+        },
+        "meter_reading": {
+          "value": 30679.2,
+          "unit": "kWh"
+        },
+        "kwh": {
+          "value": 69.8,
+          "unit": "kWh"
+        },
+        "consumption": {
+          "value": 135.0,
+          "unit": "kWh"
+        },
+        "balance": {
+          "value": 676.0,
+          "unit": "Ltr"
+        },
+        "quantity": {
+          "value": 42.0,
+          "unit": "Ltr"
+        },
+        "rate": {
+          "value": 3.21,
+          "unit": "kWh/Ltr"
+        },
+        "remarks": "Outlet Water Temp / Run Hours: 20887"
+      },
+      {
+        "date_period": "20/12/25",
+        "timestamp": "5:23 Pm Stopped",
+        "temperature": null,
+        "meter_reading": null,
+        "kwh": null,
+        "consumption": null,
+        "balance": null,
+        "quantity": null,
+        "rate": null,
+        "remarks": null
+      }
+    ],
+    "additional_fields": {}
+  }
+}

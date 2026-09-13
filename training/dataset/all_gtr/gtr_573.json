@@ -1,0 +1,74 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Production & Operational",
+  "data_category": "Production Summary / Machine Consumption Summary",
+  "extraction_rules": "This is a tabular production or machine consumption summary. Extract EVERY row from the table into the entries array. Each object in entries represents one product, machine, or period record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2025-2026"
+    },
+    "entries": [
+      {
+        "product_name": "KAPPA BOARD",
+        "date_period": "APRIL",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": null
+        },
+        "total_production": {
+          "value": 0.0,
+          "unit": null
+        },
+        "total_dispatch": {
+          "value": 0.0,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": 0.0,
+          "unit": null
+        }
+      },
+      {
+        "product_name": "KAPPA BOARD",
+        "date_period": "MAY",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": null
+        },
+        "total_production": {
+          "value": 0.0,
+          "unit": null
+        },
+        "total_dispatch": {
+          "value": 0.0,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": 0.0,
+          "unit": null
+        }
+      },
+      {
+        "product_name": "KAPPA BOARD",
+        "date_period": "JUNE",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": null
+        },
+        "total_production": {
+          "value": 3056.746,
+          "unit": null
+        },
+        "total_dispatch": {
+          "value": 1054.132,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": 2002.614,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

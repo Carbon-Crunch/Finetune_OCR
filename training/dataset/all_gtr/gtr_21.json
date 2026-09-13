@@ -1,0 +1,470 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Production & Operational",
+  "data_category": "Process Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one timestamp record of process parameters.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "8/07/2015"
+    },
+    "entries": [
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "7:00 AM",
+        "pressure": {
+          "value": 62,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 421,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 306,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "8:00 AM",
+        "pressure": {
+          "value": 60,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 431,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "9:00 AM",
+        "pressure": {
+          "value": 65,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 483,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 20,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "10:00 AM",
+        "pressure": {
+          "value": 63,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 476,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 18,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "11:00 AM",
+        "pressure": {
+          "value": 64,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 459,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 19,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "12:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 474,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "1:00 PM",
+        "pressure": {
+          "value": 65,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 480,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "2:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 473,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "3:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 473,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "4:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 476,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "5:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 468,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "6:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 471,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "7:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 476,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "8:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 472,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "9:00 PM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 469,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "10:00 PM",
+        "pressure": {
+          "value": 65,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 475,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "11:00 PM",
+        "pressure": {
+          "value": 64,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 470,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "12:00 AM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 475,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "1:00 AM",
+        "pressure": {
+          "value": 65,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 470,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "2:00 AM",
+        "pressure": {
+          "value": 64,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 472,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "3:00 AM",
+        "pressure": {
+          "value": 65,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 477,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "4:00 AM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 461,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "5:00 AM",
+        "pressure": {
+          "value": 64,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 472,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "8/07/2015",
+        "timestamp": "6:00 AM",
+        "pressure": {
+          "value": 66,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 470,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": 30,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      }
+    ]
+  }
+}

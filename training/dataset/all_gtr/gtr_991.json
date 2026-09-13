@@ -1,0 +1,330 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "991",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "AUG-2024"
+        },
+        "vendor": {
+          "value": "Maharashtra State Electricity Distribution Co. Ltd."
+        },
+        "vendor_gstin": {
+          "value": "27AAECM2933K1ZB"
+        },
+        "buyer": {
+          "value": "Padmashri Dr D Y Patil SSK Ltd"
+        },
+        "buyer_gstin": {
+          "value": "27AAACO9310N1Z6"
+        },
+        "invoice_no": {
+          "value": "202408550099983"
+        },
+        "invoice_date": {
+          "value": "06/09/2024"
+        },
+        "document_type": {
+          "value": "BILL OF SUPPLY"
+        },
+        "company_pan": {
+          "value": "AAACO9310N"
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "Demand Charges"
+            },
+            "hsn_sac": null,
+            "quantity": null,
+            "rate": {
+              "value": "549.00"
+            },
+            "amount": {
+              "value": "8,23,500.00"
+            }
+          },
+          {
+            "item": {
+              "value": "Energy Charges"
+            },
+            "hsn_sac": null,
+            "quantity": {
+              "value": "1,39,610",
+              "unit": null
+            },
+            "rate": {
+              "value": "8.36"
+            },
+            "amount": {
+              "value": "11,67,139.60"
+            }
+          },
+          {
+            "item": {
+              "value": "TOD Tariff EC"
+            },
+            "hsn_sac": null,
+            "quantity": null,
+            "rate": null,
+            "amount": {
+              "value": "-25,803.70"
+            }
+          },
+          {
+            "item": {
+              "value": "FAC @ 65.00 Ps./U"
+            },
+            "hsn_sac": null,
+            "quantity": null,
+            "rate": null,
+            "amount": {
+              "value": "90,746.50"
+            }
+          },
+          {
+            "item": {
+              "value": "Electricity Duty"
+            },
+            "hsn_sac": null,
+            "quantity": null,
+            "rate": null,
+            "amount": {
+              "value": "1,54,168.68"
+            }
+          },
+          {
+            "item": {
+              "value": "Bulk Consumption Rebate"
+            },
+            "hsn_sac": null,
+            "quantity": null,
+            "rate": null,
+            "amount": {
+              "value": "-7,137.72"
+            }
+          },
+          {
+            "item": {
+              "value": "Tax on Sale @ 18.00 Ps./U"
+            },
+            "hsn_sac": null,
+            "quantity": null,
+            "rate": null,
+            "amount": {
+              "value": "24,049.26"
+            }
+          },
+          {
+            "item": {
+              "value": "Incremental Consumption Rebate"
+            },
+            "hsn_sac": null,
+            "quantity": null,
+            "rate": null,
+            "amount": {
+              "value": "-66,525.75"
+            }
+          },
+          {
+            "item": {
+              "value": "Tax Collection at Source"
+            },
+            "hsn_sac": null,
+            "quantity": null,
+            "rate": null,
+            "amount": {
+              "value": "1,841.18"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "AUG-2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "86.658",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": "1500.000",
+              "unit": null
+            },
+            "kwh": {
+              "value": "1,30,182.000",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "1,39,610.000",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": "26,655.000",
+              "unit": "KVARH"
+            },
+            "peak_hour": null,
+            "night_hour": null,
+            "amd": {
+              "value": "631.00",
+              "unit": "KVA"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Consumption History / Generation Report",
+      "boilerplate_used": "energy/electric_consumption_history.json",
+      "data": {
+        "report_period": {
+          "value": "AUG-2023 to JUL-2024"
+        },
+        "entries": [
+          {
+            "date_period": "JUL-24",
+            "consumption": {
+              "value": "1,02,820",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "JUN-24",
+            "consumption": {
+              "value": "1,52,887",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "MAY-24",
+            "consumption": {
+              "value": "1,98,852",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "APR-24",
+            "consumption": {
+              "value": "1,69,544",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "MAR-24",
+            "consumption": {
+              "value": "4,217",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "FEB-24",
+            "consumption": {
+              "value": "15,220",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "JAN-24",
+            "consumption": {
+              "value": "19,980",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "DEC-23",
+            "consumption": {
+              "value": "0",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "NOV-23",
+            "consumption": {
+              "value": "0",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "OCT-23",
+            "consumption": {
+              "value": "1,34,312",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "SEP-23",
+            "consumption": {
+              "value": "81,953",
+              "unit": null
+            },
+            "net_generation": null
+          },
+          {
+            "date_period": "AUG-23",
+            "consumption": {
+              "value": "1,00,519",
+              "unit": null
+            },
+            "net_generation": null
+          }
+        ]
+      }
+    }
+  ]
+}

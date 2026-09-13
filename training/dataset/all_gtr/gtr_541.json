@@ -1,0 +1,526 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or time-period reading.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "30-10-24 to 02-02-25"
+    },
+    "entries": [
+      {
+        "date_period": "30-10-24",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10270201",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15584460",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "26245",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "31-12-24",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10287739",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15610705",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "23259",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "1-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10302767",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15633964",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "29886",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "2-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10318930",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15658850",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "27540",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "3-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10336646",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15688393",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "22159",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "4-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10349808",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15710552",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "15388",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "7-1-25",
+        "shift": "3PM",
+        "meter_reading_left": {
+          "value": "10350183",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15713992",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "25405",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "8-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10360461",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15729880",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "28416",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "9-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10378729",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15754785",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "28477",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "10-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10399700",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15783201",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "29457",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "11-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10420017",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15811678",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "27816",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "12-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10440404",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15841135",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "19050",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "13-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10459454",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15868951",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "8736",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "14-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10459905",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15869533",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "26258",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "15-1-25",
+        "shift": "6PM",
+        "meter_reading_left": {
+          "value": "10466552",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15878269",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "24222",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "16-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10484410",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15904527",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "29442",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "17-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10504612",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15932830",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "29790",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10527468",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15962272",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "29044",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10549972",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "15992062",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "20722",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "20-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10571588",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16021106",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "25245",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "21-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10584669",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16041828",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "23440",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "22-1-25",
+        "shift": "6PM",
+        "meter_reading_left": {
+          "value": "10602453",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16067073",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "22690",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "23-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10616797",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16090513",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "26339",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "24-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10635040",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16113203",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "16593",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "25-1-25",
+        "shift": "6PM",
+        "meter_reading_left": {
+          "value": "10654120",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16189542",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "16453",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "26-1-25",
+        "shift": "9PM",
+        "meter_reading_left": {
+          "value": "10665550",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16156135",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "28551",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "27-1-25",
+        "shift": "2PM",
+        "meter_reading_left": {
+          "value": "10665969",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16156868",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "27570",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "28-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10677557",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16173321",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "27441",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "30-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10697324",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16201872",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "31-1-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10716840",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16229442",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "01-2-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10735399",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16256883",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "02-2-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "10747854",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "16276165",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

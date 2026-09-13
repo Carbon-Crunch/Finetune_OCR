@@ -1,0 +1,62 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "PROCESS FLOW DIAGRAM SHANGHAI PACIFIC",
+    "document_type": "Process Flow Diagram",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Shanghai Pacific",
+    "plant_name": "SPNG Fibre Division",
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "item_description": "WASHING: Used PET Bottle received (in Bale) -> To RM Store (if OK) -> Issue of PET Bottle to Wash -> PET Bottle Processing (Washing) -> PET Bottle to PET wash flakes -> Wash flakes stored on the basis of grade"
+      },
+      {
+        "item_description": "SPINNING: Issued Wash Flakes conveying to Crystallizer and Dryer for Drying -> Material move to Extruder (Wash Flakes Melting) -> Addition of Master Batch (if required) -> Melt Polymer moves to spin -> Take Up process & collect to cane"
+      },
+      {
+        "item_description": "DRAWING & DISPATCH: Cane Arrange in Draw Line -> Drawing of Tow -> Drying of Drawn Material -> Cutting of draw material as per customer requirement -> Packing of Finished Goods -> Move to FG Store -> Dispatch to customer"
+      },
+      {
+        "item_description": "WASHING INSPECTION: PET Bottle inspection -> Manual shorting at 2 stage -> Inspection Wash Flakes"
+      },
+      {
+        "item_description": "SPINNING QUALITY: Moisture % & IV -> Master batch LDR % -> Dropping & IV"
+      },
+      {
+        "item_description": "DRAWING QUALITY: Visually -> FG Fibre Properties -> Hard Fibre and other abnormality"
+      }
+    ],
+    "additional_fields": {
+      "washing_stage_inspections": [
+        "PET Bottle inspection",
+        "Manual shorting at 2 stage",
+        "Inspection Wash Flakes"
+      ],
+      "spinning_stage_quality_checks": [
+        "Moisture % & IV",
+        "Master batch LDR %",
+        "Dropping & IV"
+      ],
+      "drawing_dispatch_quality_checks": [
+        "Visually",
+        "FG Fibre Properties",
+        "Hard Fibre and other abnormality"
+      ]
+    }
+  }
+}

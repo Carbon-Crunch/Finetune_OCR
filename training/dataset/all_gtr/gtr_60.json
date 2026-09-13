@@ -1,0 +1,66 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "NON-RECYCLABLE SOLID WASTE (NRSW) FOR WASTE TO ENERGY",
+    "document_type": "Process Flow Diagram",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "BAHL PAPER MILLS LTD.",
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "equipment_name": "Boiler",
+        "capacity": {
+          "value": "14.9",
+          "unit": "TPH"
+        }
+      },
+      {
+        "equipment_name": "Turbine",
+        "capacity": {
+          "value": "2.5",
+          "unit": "MW"
+        }
+      }
+    ],
+    "additional_fields": {
+      "process_components": [
+        "Non-Recyclable Solid Waste (NRSW)",
+        "Bale Press / Dewatering Machine",
+        "Conveying System",
+        "Reverse Osmosis (R.O.Plant)",
+        "Storage Tank",
+        "Deaerator",
+        "Feed Pump",
+        "Hydraulic Ram Feeder",
+        "Hydraulic Grate",
+        "Selective noncatalytic reduction System",
+        "Burner Management Systems",
+        "Secondary Air Fan",
+        "Force draft Fan",
+        "Submerged Conveyor",
+        "Bag Filter",
+        "Hydrated Lime",
+        "Activated Carbon",
+        "Induced Draught Fan",
+        "Chimney",
+        "Condenser",
+        "Cooling Tower"
+      ]
+    }
+  }
+}

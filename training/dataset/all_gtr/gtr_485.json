@@ -1,0 +1,44 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Power Plant Report",
+  "extraction_rules": "This is a tabular plant report. Extract EVERY row from the table into the entries array. Each object in entries represents one plant or unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "JUNE 2025"
+    },
+    "entries": [
+      {
+        "total_power_generation": {
+          "value": "5121300",
+          "unit": "MW"
+        },
+        "internal_dg_generation": {
+          "value": "0",
+          "unit": "MW"
+        },
+        "steam_generation": {
+          "value": "34305",
+          "unit": "TPH"
+        },
+        "turbine_input": {
+          "value": "33591",
+          "unit": "Steam"
+        },
+        "condensate": {
+          "value": "9224",
+          "unit": "Quantity"
+        },
+        "bleed_steam": {
+          "value": "416",
+          "unit": "Quantity"
+        },
+        "boiler_fuel_use": {
+          "value": "8141.5",
+          "unit": "Consumption"
+        }
+      }
+    ]
+  }
+}

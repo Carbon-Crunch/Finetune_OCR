@@ -1,0 +1,191 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "Power Plant 5 MW Generation Logbook",
+  "document_type": "Power Plant Report",
+  "report_period": {
+    "value": "23/4/25 to 26/5/25"
+  },
+  "entries": [
+    {
+      "date_period": "23/4/25",
+      "meter_reading": "152730.2",
+      "consumption": "91000",
+      "generation": "59890.5"
+    },
+    {
+      "date_period": "24/4/25",
+      "meter_reading": "152821.2",
+      "consumption": "35100",
+      "generation": "59944.2"
+    },
+    {
+      "date_period": "25/4/25",
+      "meter_reading": "152856.3",
+      "consumption": "54300",
+      "generation": "59964.9"
+    },
+    {
+      "date_period": "27/4/25",
+      "meter_reading": "152910.6",
+      "consumption": "96000",
+      "generation": "59990.9"
+    },
+    {
+      "date_period": "28/4/25",
+      "meter_reading": "153006.6",
+      "consumption": "79500",
+      "generation": "60036.7"
+    },
+    {
+      "date_period": "29/4/25",
+      "meter_reading": "153086.1",
+      "consumption": "77000",
+      "generation": "60077.1"
+    },
+    {
+      "date_period": "30/4/25",
+      "meter_reading": "153163.1",
+      "consumption": "88100",
+      "generation": "60081.1"
+    },
+    {
+      "date_period": "1/5/25",
+      "meter_reading": "153212.7",
+      "consumption": "92800",
+      "generation": "60138.2"
+    },
+    {
+      "date_period": "2/5/25",
+      "meter_reading": "153303.5",
+      "consumption": "77000",
+      "generation": "60167.9"
+    },
+    {
+      "date_period": "3/5/25",
+      "meter_reading": "153380.5",
+      "consumption": "80400",
+      "generation": "60192.7"
+    },
+    {
+      "date_period": "4/5/25",
+      "meter_reading": "153460.9",
+      "consumption": "72600",
+      "generation": "60218.6"
+    },
+    {
+      "date_period": "5/5/25",
+      "meter_reading": "153533.5",
+      "consumption": "56000",
+      "generation": "60242.0"
+    },
+    {
+      "date_period": "7/5/25",
+      "meter_reading": "153589.5",
+      "consumption": "56400",
+      "generation": "60260.3"
+    },
+    {
+      "date_period": "8/5/25",
+      "meter_reading": "153645.9",
+      "consumption": "95800",
+      "generation": "60273.7"
+    },
+    {
+      "date_period": "9/5/25",
+      "meter_reading": "153741.7",
+      "consumption": "83600",
+      "generation": "60332.5"
+    },
+    {
+      "date_period": "10/5/25",
+      "meter_reading": "153825.3",
+      "consumption": "57500",
+      "generation": "60380.1"
+    },
+    {
+      "date_period": "11/5/25",
+      "meter_reading": "153882.8",
+      "consumption": "60413.2",
+      "generation": "60413.2"
+    },
+    {
+      "date_period": "14/5/25",
+      "meter_reading": "153882.9",
+      "consumption": "57400",
+      "generation": "60413.3"
+    },
+    {
+      "date_period": "15/5/25",
+      "meter_reading": "153940.3",
+      "consumption": "91900",
+      "generation": "60441.2"
+    },
+    {
+      "date_period": "16/5/25",
+      "meter_reading": "154032.2",
+      "consumption": "95700",
+      "generation": "60485.8"
+    },
+    {
+      "date_period": "17/5/25",
+      "meter_reading": "154127.9",
+      "consumption": "96700",
+      "generation": "60532.9"
+    },
+    {
+      "date_period": "18/5/25",
+      "meter_reading": "154224.6",
+      "consumption": "89500",
+      "generation": "60579.2"
+    },
+    {
+      "date_period": "19/5/25",
+      "meter_reading": "154314.1",
+      "consumption": "86800",
+      "generation": "60622.7"
+    },
+    {
+      "date_period": "20/5/25",
+      "meter_reading": "154400.9",
+      "consumption": "97100",
+      "generation": "60665.0"
+    },
+    {
+      "date_period": "21/5/25",
+      "meter_reading": "154498.0",
+      "consumption": "81900",
+      "generation": "60712.0"
+    },
+    {
+      "date_period": "22/5/25",
+      "meter_reading": "154579.9",
+      "consumption": "77400",
+      "generation": "60759.8"
+    },
+    {
+      "date_period": "23/5/25",
+      "meter_reading": "154657.3",
+      "consumption": "333300",
+      "generation": "60789.4"
+    },
+    {
+      "date_period": "24/5/25",
+      "meter_reading": "154690.6",
+      "consumption": "59800",
+      "generation": "60805.5"
+    },
+    {
+      "date_period": "25/5/25",
+      "meter_reading": "154750.4",
+      "consumption": "88800",
+      "generation": "60845.5"
+    },
+    {
+      "date_period": "26/5/25",
+      "meter_reading": "154839.2",
+      "consumption": "66600",
+      "generation": "60904.8"
+    }
+  ]
+}

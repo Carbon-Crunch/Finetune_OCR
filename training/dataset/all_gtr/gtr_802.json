@@ -1,0 +1,110 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "PRESS DAILY PRODUCTION REPORT",
+  "document_type": "Production Report",
+  "report_period": {
+    "value": "11/08/24"
+  },
+  "company_name": "KAJARIA CERAMICS LTD.",
+  "location": "MALUTANA, DISTT. ALWAR (RAJ.)",
+  "entries": [
+    {
+      "product_name": "K-6204",
+      "machine_name": "PRESS 1",
+      "production": {
+        "value": "4386.96",
+        "unit": "m2"
+      },
+      "consumption": {
+        "value": "99.92",
+        "unit": "Powder"
+      },
+      "runtime": {
+        "value": "1270",
+        "unit": "min"
+      }
+    },
+    {
+      "product_name": "11",
+      "machine_name": "PRESS 2",
+      "production": {
+        "value": "4029.84",
+        "unit": "m2"
+      },
+      "consumption": {
+        "value": "91.79",
+        "unit": "Powder"
+      },
+      "runtime": {
+        "value": "1165",
+        "unit": "min"
+      }
+    },
+    {
+      "product_name": "11",
+      "machine_name": "PRESS 3",
+      "production": {
+        "value": "4887.86",
+        "unit": "m2"
+      },
+      "consumption": {
+        "value": "111.32",
+        "unit": "Powder"
+      },
+      "runtime": {
+        "value": "1825",
+        "unit": "min"
+      }
+    },
+    {
+      "product_name": "11",
+      "machine_name": "PRESS 4",
+      "production": {
+        "value": "4217.76",
+        "unit": "m2"
+      },
+      "consumption": {
+        "value": "96.07",
+        "unit": "Powder"
+      },
+      "runtime": {
+        "value": "1210",
+        "unit": "min"
+      }
+    },
+    {
+      "product_name": "11",
+      "machine_name": "PRESS 5",
+      "production": {
+        "value": "4376.16",
+        "unit": "m2"
+      },
+      "consumption": {
+        "value": "99.67",
+        "unit": "Powder"
+      },
+      "runtime": {
+        "value": "1260",
+        "unit": "min"
+      }
+    }
+  ],
+  "additional_fields": {
+    "total_gas_consumption": "692 m3",
+    "total_production": "21898.08 m2",
+    "total_powder_consumption": "498.77 ton",
+    "breakdown_reasons": [
+      "Compansiter unloading work",
+      "Glaze line stop",
+      "Drin stop for tiles broken in elivator",
+      "Grid, glass and base bin clean",
+      "H hopper extender problem to stop",
+      "Tilter gate problem to setting work",
+      "Next design K-6212 in sampling work",
+      "Punch cleaning for powder sticking problem",
+      "Compansiter full so press stop for overswing",
+      "Punch not fixed alarm electrical problem"
+    ]
+  }
+}

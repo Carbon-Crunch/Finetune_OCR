@@ -1,0 +1,135 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "FY - 2024 - 2025"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "consumption": {
+          "value": "1578950",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "1987645",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "consumption": {
+          "value": "1469000",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "1529180",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "consumption": {
+          "value": "1662400",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "1949055",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "consumption": {
+          "value": "1828000",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "2242195",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "consumption": {
+          "value": "1264900",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "1453620",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "consumption": {
+          "value": "1906750",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "2383050",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "consumption": {
+          "value": "1633200",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "2066600",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "consumption": {
+          "value": "1858250",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "2387600",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "consumption": {
+          "value": "1895900",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "2313100",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "consumption": {
+          "value": "1834350",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "2130200",
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "consumption": {
+          "value": "1965800",
+          "unit": "KWH"
+        },
+        "net_generation": {
+          "value": "2360900",
+          "unit": "KWH"
+        }
+      }
+    ]
+  }
+}

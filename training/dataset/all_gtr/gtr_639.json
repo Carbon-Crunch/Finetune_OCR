@@ -1,0 +1,191 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Production & Operational",
+  "data_category": "Production Summary / Machine Consumption Summary",
+  "report_period": {
+    "value": "2024-2025"
+  },
+  "entries": [
+    {
+      "date_period": "APRIL",
+      "opening_stock": {
+        "value": 6.879
+      },
+      "total_production": {
+        "value": 0.0
+      },
+      "total_dispatch": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 6.879
+      }
+    },
+    {
+      "date_period": "MAY",
+      "opening_stock": {
+        "value": 6.879
+      },
+      "total_production": {
+        "value": -6.879
+      },
+      "total_dispatch": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "date_period": "JUNE",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "total_production": {
+        "value": 0.0
+      },
+      "total_dispatch": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "date_period": "JULY",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "total_production": {
+        "value": 0.0
+      },
+      "total_dispatch": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "date_period": "AUGUST",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "total_production": {
+        "value": 0.0
+      },
+      "total_dispatch": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "date_period": "SEPTEMBER",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "total_production": {
+        "value": 0.0
+      },
+      "total_dispatch": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "date_period": "OCTOBER",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "total_production": {
+        "value": 1334.092
+      },
+      "total_dispatch": {
+        "value": 802.363
+      },
+      "closing_stock": {
+        "value": 531.729
+      }
+    },
+    {
+      "date_period": "NOVEMBER",
+      "opening_stock": {
+        "value": 531.729
+      },
+      "total_production": {
+        "value": 3620.771
+      },
+      "total_dispatch": {
+        "value": 3593.346
+      },
+      "closing_stock": {
+        "value": 559.154
+      }
+    },
+    {
+      "date_period": "DECEMBER",
+      "opening_stock": {
+        "value": 559.154
+      },
+      "total_production": {
+        "value": 5412.916
+      },
+      "total_dispatch": {
+        "value": 5539.301
+      },
+      "closing_stock": {
+        "value": 432.769
+      }
+    },
+    {
+      "date_period": "JANUARY",
+      "opening_stock": {
+        "value": 432.769
+      },
+      "total_production": {
+        "value": 5983.001
+      },
+      "total_dispatch": {
+        "value": 5361.915
+      },
+      "closing_stock": {
+        "value": 1053.855
+      }
+    },
+    {
+      "date_period": "FEBUARY",
+      "opening_stock": {
+        "value": 1053.855
+      },
+      "total_production": {
+        "value": 7337.884
+      },
+      "total_dispatch": {
+        "value": 6344.748
+      },
+      "closing_stock": {
+        "value": 2046.991
+      }
+    },
+    {
+      "date_period": "MARCH",
+      "opening_stock": {
+        "value": 2046.991
+      },
+      "total_production": {
+        "value": 6301.404
+      },
+      "total_dispatch": {
+        "value": 5674.888
+      },
+      "closing_stock": {
+        "value": 2673.507
+      }
+    }
+  ]
+}

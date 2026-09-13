@@ -1,0 +1,119 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Process Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one timestamp record of process parameters.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "15/05/2024 to 31/05/2024"
+    },
+    "entries": [
+      {
+        "date_period": "15/05/2024",
+        "power": {
+          "value": "82.5",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "16/05/2024",
+        "power": {
+          "value": "86.0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "17/05/2024",
+        "power": {
+          "value": "81.3",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/05/2024",
+        "power": {
+          "value": "79.6",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/05/2024",
+        "power": {
+          "value": "84.5",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "20/05/2024",
+        "power": {
+          "value": "84.3",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "21/05/2024",
+        "power": {
+          "value": "80.1",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "22/05/2024",
+        "power": {
+          "value": "82.1",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "23/05/2024",
+        "power": {
+          "value": "85.6",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "24/05/2024",
+        "power": {
+          "value": "85.0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "25/05/2024",
+        "power": {
+          "value": "85.4",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "26/05/2024",
+        "power": {
+          "value": "83.7",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "27/05/2024",
+        "power": {
+          "value": "85.7",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "30/05/2024",
+        "power": {
+          "value": "72.5",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "31/05/2024",
+        "power": {
+          "value": "83.5",
+          "unit": null
+        }
+      }
+    ]
+  }
+}

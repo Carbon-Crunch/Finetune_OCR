@@ -1,0 +1,70 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "P&I DIAGRAM FOR AIR & FLUE GAS SYSTEM",
+    "document_type": "P&I Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": "THERMODYNE",
+    "customer_name": "M/s. RAJESH PAPER PRODUCTS LTD.",
+    "company_name": "M/s. RAJESH PAPER PRODUCTS LTD.",
+    "plant_name": null,
+    "location": "Moradabad (U.P.)",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "equipment_name": "ELECTROSTATIC PRECIPITATOR (ESP)",
+        "remarks": "HUMIDIFIER'S SONO"
+      },
+      {
+        "equipment_name": "F.D. FAN"
+      },
+      {
+        "equipment_name": "I.D. FAN"
+      },
+      {
+        "equipment_name": "CHIMNEY"
+      },
+      {
+        "equipment_name": "STEAM DRUM"
+      },
+      {
+        "equipment_name": "WATER DRUM"
+      },
+      {
+        "equipment_name": "FURNACE"
+      },
+      {
+        "equipment_name": "BUNKER"
+      }
+    ],
+    "additional_fields": {
+      "drawing_title": "P&I DIAGRAM FOR AIR & FLUE GAS SYSTEM",
+      "project_name": "FLUIDIZED BED BOILER",
+      "client": "M/s. RAJESH PAPER PRODUCTS LTD.",
+      "consultant": "THERMODYNE"
+    }
+  }
+}

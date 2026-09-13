@@ -1,0 +1,32 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "boiler_name": "30 TPH BOILER",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "18/01/2025",
+      "shift": "A Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": "14:00 pm"
+    },
+    {
+      "date_period": "18/01/2025",
+      "shift": "B Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": "06:00 pm and 10:00 pm"
+    },
+    {
+      "date_period": "18/01/2025",
+      "shift": "C Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": "05:35 am"
+    }
+  ]
+}

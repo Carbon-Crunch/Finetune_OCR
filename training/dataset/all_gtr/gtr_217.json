@@ -1,0 +1,119 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Summary",
+  "report_period": {
+    "value": "1-Apr-24 to 31-Mar-25"
+  },
+  "entries": [
+    {
+      "fuel_name": "BAGASSE",
+      "fuel_type": null,
+      "date_period": "Opening Balance",
+      "opening_balance": {
+        "value": 436.9,
+        "unit": "QTL"
+      },
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": {
+        "value": 105403.07,
+        "unit": "Value"
+      }
+    },
+    {
+      "fuel_name": "BAGASSE",
+      "fuel_type": null,
+      "date_period": "April",
+      "opening_balance": null,
+      "received_quantity": {
+        "value": 647.0,
+        "unit": "QTL"
+      },
+      "inwards": {
+        "value": 273031.0,
+        "unit": "Value"
+      },
+      "outwards": {
+        "value": 320.0,
+        "unit": "QTL"
+      },
+      "consumption": {
+        "value": 64000.0,
+        "unit": "Value"
+      },
+      "closing_balance": {
+        "value": 266708.9,
+        "unit": "Value"
+      }
+    },
+    {
+      "fuel_name": "BAGASSE",
+      "fuel_type": null,
+      "date_period": "May",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": {
+        "value": 266708.9,
+        "unit": "Value"
+      }
+    },
+    {
+      "fuel_name": "BAGASSE",
+      "fuel_type": null,
+      "date_period": "June",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": {
+        "value": 266708.9,
+        "unit": "Value"
+      }
+    },
+    {
+      "fuel_name": "BAGASSE",
+      "fuel_type": null,
+      "date_period": "July",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": {
+        "value": 560.0,
+        "unit": "QTL"
+      },
+      "consumption": {
+        "value": 260141.7,
+        "unit": "Value"
+      },
+      "closing_balance": {
+        "value": 71189.87,
+        "unit": "Value"
+      }
+    },
+    {
+      "fuel_name": "BAGASSE",
+      "fuel_type": null,
+      "date_period": "August",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": {
+        "value": 203.9,
+        "unit": "QTL"
+      },
+      "consumption": {
+        "value": 111412.05,
+        "unit": "Value"
+      },
+      "closing_balance": null
+    }
+  ]
+}

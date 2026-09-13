@@ -1,0 +1,362 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-25"
+    },
+    "entries": [
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "APRIL-2024",
+        "opening_balance": {
+          "value": "263.305",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "602.135",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "350.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "515.440",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "MAY-2024",
+        "opening_balance": {
+          "value": "515.440",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "421.675",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "760.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "177.115",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "JUNE-2024",
+        "opening_balance": {
+          "value": "177.115",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "303.645",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "480.760",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "JULY-2024",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "AUG-2024",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "SEP-2024",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "43.280",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "43.280",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "OCT-2024",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "309.180",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "309.180",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "NOV-2024",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "247.520",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "125.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "122.520",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "DEC-2024",
+        "opening_balance": {
+          "value": "122.520",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "3378.580",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "3501.100",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "JAN-2025",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "2147.765",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "2045",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "102.765",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "FEB-2025",
+        "opening_balance": {
+          "value": "102.765",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "986.815",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "1089.580",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "fuel_type": null,
+        "date_period": "MARCH-2025",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "260.475",
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": "260.475",
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      }
+    ]
+  }
+}

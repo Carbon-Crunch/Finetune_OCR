@@ -1,0 +1,22 @@
+{
+  "data_type": "Energy",
+  "data_category": "Hydel Bill Summary",
+  "extraction_rules": "This is a tabular bill summary. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period or charge entry.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "hydel_bill_amount": {
+          "value": null,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      }
+    ]
+  }
+}

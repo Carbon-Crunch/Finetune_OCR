@@ -1,0 +1,38 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "GPS Map Camera Photo",
+    "document_type": "Geotagged Photograph",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": {
+      "value": "2025-07-07"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": "Mawana Road, Mawana, Meerut, Uttar Pradesh 250401, India",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "date_period": "07/07/2025",
+        "timestamp": "12:52 GMT+05:30",
+        "remarks": "Captured by GPS Map Camera"
+      }
+    ],
+    "additional_fields": {
+      "latitude": 29.094448,
+      "longitude": 77.884846
+    }
+  }
+}

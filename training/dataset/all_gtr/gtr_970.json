@@ -1,0 +1,47 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This document is a formal Agreement between two parties (DPPPL and DPIPL) for the supply of Electricity and Steam. It is not an invoice, bill, or operational log but a legal contract document. As such, I am populating the fields based on the contract details.",
+  "extracted_fields": {
+    "document_title": "AGREEMENT",
+    "document_type": "Legal Agreement",
+    "report_period": {
+      "value": "01st April 2015 till cancellation"
+    },
+    "document_date": "1st April, 2015",
+    "supplier_name": "Dev Priya Papers Pvt. Ltd. (DPPPL)",
+    "customer_name": "Dev Priya Industries Pvt. Ltd. (DPIPL)",
+    "company_name": "Dev Priya Papers Pvt. Ltd.",
+    "plant_name": "Dev Priya Industries Pvt. Ltd.",
+    "location": "Village Saini, 8th KM Mawana Road, Meerut (U.P.)",
+    "entries": [
+      {
+        "item_description": "Supply of Electricity and Steam",
+        "remarks": "Supply through Cables and Pipe Lines from DPPPL to DPIPL"
+      }
+    ],
+    "additional_fields": {
+      "dpppl_director": "Shri Suresh chand Gupta",
+      "dpipl_director": "Shri Amit Gupta",
+      "jurisdiction": "District Meerut",
+      "agreement_date": "1st April, 2015",
+      "arbitration": "Arbitration in terms of the provisions of the India Arbitration and Conciliation Act 1996"
+    }
+  }
+}

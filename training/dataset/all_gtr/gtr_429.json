@@ -1,0 +1,44 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "GPS Map Camera Photo",
+    "document_type": "Site Photograph",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "07/30/2025"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": "Baghpat Road, Panchli Khurd, Meerut, Uttar Pradesh 250005, India",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {
+      "latitude": "28.967262",
+      "longitude": "77.631393",
+      "time": "12:53 GMT+05:30",
+      "city_state_country": "Meerut, Uttar Pradesh, India"
+    }
+  }
+}

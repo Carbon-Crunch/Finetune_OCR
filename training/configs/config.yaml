@@ -1,0 +1,78 @@
+# OCR Pipeline Configuration
+
+# Preprocessing thresholds
+preprocessing:
+  ideal_min_width: 1600
+  blur_threshold_low: 80
+  blur_threshold_high: 300
+  noise_threshold_low: 4
+  noise_threshold_high: 12
+  shadow_threshold: 35
+  low_contrast_threshold: 35
+  skew_threshold: 1.5
+
+# Handwriting detector thresholds
+handwriting_detector:
+  uncertain_threshold: 0.48
+  manual_review_confidence: 0.52
+  min_content_pixels: 500
+  min_width: 200
+  min_height: 150
+  sw_printed_max: 0.18
+  sw_handwritten_min: 0.32
+  curv_printed_max: 0.18
+  curv_hw_min: 0.42
+  slant_printed_max: 5.0
+  slant_hw_min: 14.0
+  solidity_printed_min: 0.84
+  solidity_hw_max: 0.72
+  runlen_printed_max: 0.38
+  runlen_hw_min: 1.45
+  loop_printed_min: 0.35
+  loop_hw_max: 0.03
+  signal_weights:
+    stroke_width: 3.5
+    contour_irregularity: 3.0
+    curvature_variance: 2.8
+    slant_variation: 2.5
+    component_entropy: 2.2
+    run_length: 1.0
+    loop_ratio: 0.6
+    edge_straightness: 0.5
+    baseline_regularity: 0.4
+    spatial_consistency: 0.1
+
+# PDF analyzer settings
+pdf_analyzer:
+  min_text_chars: 20
+  min_image_area: 5000
+  pdf_type_confidence:
+    text_only: 0.90
+    image_based: 0.85
+    mixed: 0.70
+    table_heavy: 0.80
+    embedded_files: 1.00
+
+# Content classification / manual review routing
+content_classifier:
+  min_meaningful_text_chars: 20
+  repetition_token_ratio: 0.22
+  ui_noise_markers:
+    - whatsapp
+    - instagram
+    - facebook
+    - telegram
+
+# Gemini mapping settings
+mapping:
+  gemini_model: "gemini-3.1-flash-lite"
+  gemini_timeout_seconds: 30
+
+# API and file limits
+file_limits:
+  max_file_size_mb: 20
+  allowed_extensions:
+    - ".jpeg"
+    - ".jpg"
+    - ".png"
+    - ".pdf"

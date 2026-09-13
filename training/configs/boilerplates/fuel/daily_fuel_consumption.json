@@ -1,0 +1,39 @@
+{
+  "data_type": "Fuel",
+  "data_category": "Daily Fuel Consumption",
+  "extraction_rules": "This is a tabular daily log. Extract EVERY row from the table into the entries array. Each object in entries represents one day's fuel consumption record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "date_period": null,
+        "rice_husk_consumption": {
+          "value": null,
+          "unit": null
+        },
+        "steam_coal_consumption": {
+          "value": null,
+          "unit": null
+        },
+        "rdf_consumption": {
+          "value": null,
+          "unit": null
+        },
+        "bagasse_consumption": {
+          "value": null,
+          "unit": null
+        },
+        "biomass_consumption": {
+          "value": null,
+          "unit": null
+        },
+        "diesel_consumption": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

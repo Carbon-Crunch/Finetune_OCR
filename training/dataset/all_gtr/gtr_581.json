@@ -1,0 +1,82 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": "May-2024",
+  "entries": [
+    {
+      "sample_name": null,
+      "date_period": "3.04.2024",
+      "sample_quantity": {
+        "value": 1263.54,
+        "unit": "MT"
+      },
+      "moisture_content": {
+        "value": 12.0,
+        "unit": "%"
+      },
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": {
+        "value": 4298,
+        "unit": "kcal/kg"
+      },
+      "ash_content": {
+        "value": 27.5,
+        "unit": "%"
+      },
+      "supplier_name": "Northern coal Field Ltd",
+      "operator_name": null,
+      "remarks": null
+    },
+    {
+      "sample_name": null,
+      "date_period": "09.04.2024",
+      "sample_quantity": {
+        "value": 4037.14,
+        "unit": "MT"
+      },
+      "moisture_content": {
+        "value": 14.4,
+        "unit": "%"
+      },
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": {
+        "value": 4230,
+        "unit": "kcal/kg"
+      },
+      "ash_content": {
+        "value": 28.9,
+        "unit": "%"
+      },
+      "supplier_name": "Northern coal Field Ltd",
+      "operator_name": null,
+      "remarks": null
+    },
+    {
+      "sample_name": null,
+      "date_period": "21.04.2024",
+      "sample_quantity": {
+        "value": 3770.64,
+        "unit": "MT"
+      },
+      "moisture_content": {
+        "value": 14.4,
+        "unit": "%"
+      },
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": {
+        "value": 4059,
+        "unit": "kcal/kg"
+      },
+      "ash_content": {
+        "value": 30.9,
+        "unit": "%"
+      },
+      "supplier_name": "Northern coal Field Ltd",
+      "operator_name": null,
+      "remarks": null
+    }
+  ]
+}

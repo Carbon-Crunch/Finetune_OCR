@@ -1,0 +1,200 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "989",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "OCT-2024"
+        },
+        "vendor": {
+          "value": "MAHARASHTRA STATE ELECTRICITY DISTRIBUTION CO. LTD."
+        },
+        "vendor_gstin": {
+          "value": "27AAECM2933K1ZB"
+        },
+        "buyer": {
+          "value": "Padmashri Dr D Y Patil SSK Ltd"
+        },
+        "buyer_gstin": {
+          "value": "27AAACO9310N1Z6"
+        },
+        "invoice_no": {
+          "value": "202410450002275"
+        },
+        "invoice_date": {
+          "value": "08/11/2024"
+        },
+        "document_type": {
+          "value": "BILL OF SUPPLY"
+        },
+        "company_pan": {
+          "value": "AAACO9310N"
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "Demand Charges"
+            },
+            "amount": {
+              "value": 823500.0
+            }
+          },
+          {
+            "item": {
+              "value": "Energy Charges"
+            },
+            "amount": {
+              "value": 1020973.36
+            }
+          },
+          {
+            "item": {
+              "value": "TOD Tariff EC"
+            },
+            "amount": {
+              "value": -11119.8
+            }
+          },
+          {
+            "item": {
+              "value": "FAC"
+            },
+            "amount": {
+              "value": 79381.9
+            }
+          },
+          {
+            "item": {
+              "value": "Electricity Duty"
+            },
+            "amount": {
+              "value": 143455.16
+            }
+          },
+          {
+            "item": {
+              "value": "Tax on Sale"
+            },
+            "amount": {
+              "value": 20311.92
+            }
+          },
+          {
+            "item": {
+              "value": "Tax Collection at Source"
+            },
+            "amount": {
+              "value": 1856.71
+            }
+          },
+          {
+            "item": {
+              "value": "Prompt Payment Discount"
+            },
+            "amount": {
+              "value": -18174.0
+            }
+          },
+          {
+            "item": {
+              "value": "Incremental Consum. Rebate"
+            },
+            "amount": {
+              "value": -51411.75
+            }
+          },
+          {
+            "item": {
+              "value": "Bulk Consumption Rebate"
+            },
+            "amount": {
+              "value": -3987.11
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "OCT-2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": 108634.0,
+              "unit": "KWH"
+            },
+            "multiplying_factor": {
+              "value": 1500.0
+            },
+            "kwh": {
+              "value": 108634.0,
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": 122126.0,
+              "unit": "KVAH"
+            },
+            "amd": {
+              "value": 541.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

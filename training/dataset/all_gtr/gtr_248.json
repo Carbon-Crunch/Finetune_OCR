@@ -1,0 +1,146 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation (CCA)",
+    "document_type": "Environmental Permit / CCA",
+    "report_period": {
+      "value": "01/01/2023 to 31/12/2025"
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "26/12/2022"
+    },
+    "supplier_name": null,
+    "customer_name": "JAIN CORD INDUSTRIES PRIVATE LIMITED",
+    "company_name": "JAIN CORD INDUSTRIES PRIVATE LIMITED",
+    "plant_name": null,
+    "location": "Khasra no. 173, Village Dautana, Tehsil Chhata, Mathura, U.P., 281401",
+    "registration_number": "18968733",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "172270/UPPCB/Mathura(UPPCBRO/CTO/both/MATHURA/2022",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "product_name": "Processed Cotton Fabric",
+        "quantity": {
+          "value": "7500000",
+          "unit": "Numbers/Month"
+        }
+      },
+      {
+        "item_description": "Domestic effluent",
+        "consumption": {
+          "value": "50.0",
+          "unit": "KLD"
+        }
+      },
+      {
+        "item_description": "Industrial effluent",
+        "consumption": {
+          "value": "5800",
+          "unit": "KLD"
+        }
+      },
+      {
+        "equipment_name": "D.G. Set 1010 KVA x 2",
+        "remarks": "Sulphur Dioxide, 30x2 meter high stack"
+      },
+      {
+        "equipment_name": "D.G. Set 600 KVA",
+        "remarks": "Sulphur Dioxide, 30 meter high stack"
+      },
+      {
+        "equipment_name": "D.G. Set 1010 KVA",
+        "remarks": "Sulphur Dioxide, 30 meter high stack"
+      },
+      {
+        "equipment_name": "D.G. Set 250 KVA",
+        "remarks": "Sulphur Dioxide, 30 meter high stack"
+      },
+      {
+        "equipment_name": "Boiler 14.0 TPH and One Thermopac k- 40 Lac Kcal",
+        "remarks": "Particulate Matter, 33.0 mtr high stack"
+      },
+      {
+        "item_description": "used oil (category-5.1)",
+        "quantity": {
+          "value": "5000",
+          "units": "Leter/Year"
+        }
+      },
+      {
+        "item_description": "Discarded container (category-33.1)",
+        "quantity": {
+          "value": "200000",
+          "units": "Pcs/Year"
+        }
+      },
+      {
+        "item_description": "ETP sludge (category-12.8)",
+        "quantity": {
+          "value": "500",
+          "units": "MT/Year"
+        }
+      }
+    ],
+    "additional_fields": {
+      "environmental_standards": "As per the EP Rules as amended",
+      "noise_levels": {
+        "industrial_area": "75 (day), 70 (night)",
+        "commercial_area": "65 (day), 55 (night)",
+        "residential_area": "55 (day), 45 (night)",
+        "silence_zone": "50 (day), 40 (night)"
+      }
+    }
+  }
+}

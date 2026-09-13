@@ -1,0 +1,85 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "831",
+  "extractions": [
+    {
+      "data_type": "Generic",
+      "data_category": "Generic Fallback Document",
+      "boilerplate_used": "generic_fallback",
+      "data": {
+        "document_title": "Renewable Consumption Obligation (RCO) Data Collection Checklist",
+        "document_type": "Data Collection Checklist",
+        "extracted_fields": {
+          "grid_contract_demand_kva": "Nill",
+          "dg_sets_used": "Nill",
+          "boilers": [
+            {
+              "size_tph": "20 TPH",
+              "count": "02 nos"
+            },
+            {
+              "size_tph": "30 TPH",
+              "count": "01 no"
+            },
+            {
+              "size_tph": "40 TPH",
+              "count": "02 nos"
+            }
+          ],
+          "fuel_type": "Bagasse",
+          "no_of_boilers": "05",
+          "whr_boiler_installed": "No",
+          "no_of_turbines": "03",
+          "turbine_sizes": [
+            {
+              "capacity": "1.5 MW",
+              "count": "02 nos"
+            },
+            {
+              "capacity": "03 MW",
+              "count": "01 no"
+            }
+          ],
+          "installed_crushing_capacity_tpd": "5000 TCD",
+          "machines": [
+            {
+              "type": "Continous",
+              "count": "10 nos"
+            },
+            {
+              "type": "Batch Type",
+              "count": "05 nos"
+            }
+          ],
+          "distillery_details": {
+            "total_working_days": "Nill",
+            "production_capacity_klpd": "Nill",
+            "products": "Nill"
+          }
+        }
+      }
+    }
+  ]
+}

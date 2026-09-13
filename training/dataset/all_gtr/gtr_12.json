@@ -1,0 +1,33 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "30-Oct-24"
+    },
+    "supplier_name": "Indian Oil Corporation Limited",
+    "entries": [
+      {
+        "item_description": "HSD - BS VI",
+        "material_description": "HSD - BS VI",
+        "item_code": "50700",
+        "hsn_sac": "2710 19 44",
+        "quantity": {
+          "value": 12.0,
+          "unit": "KL"
+        },
+        "units": {
+          "value": "KL",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": 906891.28,
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

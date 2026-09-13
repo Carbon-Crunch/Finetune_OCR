@@ -1,0 +1,51 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "01/Jul/2024 to 31/Jul/2024",
+  "entries": [
+    {
+      "fuel_name": "STRAW RICE BALE 1121",
+      "fuel_type": null,
+      "date_period": "01/Jul/2024 to 31/Jul/2024",
+      "opening_balance": 0,
+      "received_quantity": 0,
+      "inwards": 0,
+      "outwards": 0,
+      "consumption": 0,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "STRAW RICE PR (FUEL)",
+      "fuel_type": null,
+      "date_period": "01/Jul/2024 to 31/Jul/2024",
+      "opening_balance": 0,
+      "received_quantity": 0,
+      "inwards": 0,
+      "outwards": 0,
+      "consumption": 0,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "SUGER CANE WASTE (BAIL)",
+      "fuel_type": null,
+      "date_period": "01/Jul/2024 to 31/Jul/2024",
+      "opening_balance": 0,
+      "received_quantity": 0,
+      "inwards": 0,
+      "outwards": 0,
+      "consumption": 0,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "WASTE EXHAUSTED HERB",
+      "fuel_type": null,
+      "date_period": "01/Jul/2024 to 31/Jul/2024",
+      "opening_balance": 0,
+      "received_quantity": 0,
+      "inwards": 0,
+      "outwards": 0,
+      "consumption": 0,
+      "closing_balance": 0
+    }
+  ]
+}

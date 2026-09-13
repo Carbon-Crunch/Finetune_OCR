@@ -1,0 +1,253 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Gas Bill",
+  "extraction_rules": "This is a tabular gas bill document. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period entry.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01.06.2024 To 15.06.2024"
+    },
+    "entries": [
+      {
+        "consumption_scm": {
+          "value": 2566.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 2566.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 3264.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 3264.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 4037.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 4037.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 4903.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 4903.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 5447.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 5447.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 5796.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 5796.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 5911.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 5911.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 7113.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 7113.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 8313.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 8313.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 10455.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 10455.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 13034.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 13034.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 13729.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 13729.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 14421.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 14421.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 14686.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 14686.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      },
+      {
+        "consumption_scm": {
+          "value": 14776.0,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": 14776.0,
+          "unit": "SCM"
+        },
+        "excess_gas_quantity": null,
+        "gas_price": {
+          "value": 42.68,
+          "unit": "Rs/SCM"
+        }
+      }
+    ]
+  }
+}

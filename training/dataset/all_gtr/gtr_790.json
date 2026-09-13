@@ -1,0 +1,63 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "01/Jun/2024 to 30/Jun/2024",
+  "entries": [
+    {
+      "fuel_name": "CHILKA (RICE HUSK)",
+      "opening_balance": 0,
+      "received_quantity": 70560.2,
+      "consumption": 70560.2,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "COTTON DUST",
+      "opening_balance": 158240.8,
+      "received_quantity": 828153.65,
+      "consumption": 770780.0,
+      "closing_balance": 215614.45
+    },
+    {
+      "fuel_name": "COTTON STICK",
+      "opening_balance": 0,
+      "received_quantity": 177114.95,
+      "consumption": 166154.4,
+      "closing_balance": 10960.55
+    },
+    {
+      "fuel_name": "DUNG CAKES",
+      "opening_balance": 1891.4,
+      "received_quantity": 20593.65,
+      "consumption": 18279.7,
+      "closing_balance": 4205.35
+    },
+    {
+      "fuel_name": "FADDA",
+      "opening_balance": 16808.0,
+      "received_quantity": 8727.2,
+      "consumption": 12000.0,
+      "closing_balance": 13535.2
+    },
+    {
+      "fuel_name": "FADDA (PUNJAB)",
+      "opening_balance": 0,
+      "received_quantity": 2553.6,
+      "consumption": 0,
+      "closing_balance": 2553.6
+    },
+    {
+      "fuel_name": "FADDA 1121",
+      "opening_balance": 173995.05,
+      "received_quantity": 1340764.1,
+      "consumption": 1309620.0,
+      "closing_balance": 205139.15
+    },
+    {
+      "fuel_name": "STRAW RICE (BALE)",
+      "opening_balance": 74798232.0,
+      "received_quantity": 0,
+      "consumption": 8130000.0,
+      "closing_balance": 66668232.0
+    }
+  ]
+}

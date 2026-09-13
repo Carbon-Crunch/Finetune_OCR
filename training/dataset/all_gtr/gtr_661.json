@@ -1,0 +1,229 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": {
+    "value": "01/Apr/2024 to 31/Mar/2025"
+  },
+  "entries": [
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "22/Apr/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "07/May/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "05/Jun/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "30/Jun/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "15/Jul/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "30/Dec/24",
+      "opening_balance": null,
+      "received_quantity": "4000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "04/Jan/25",
+      "opening_balance": null,
+      "received_quantity": "4000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "03/Feb/25",
+      "opening_balance": null,
+      "received_quantity": "4000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "26/Feb/25",
+      "opening_balance": null,
+      "received_quantity": "1000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "26/Feb/25",
+      "opening_balance": null,
+      "received_quantity": "3000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "25/Jul/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "22/Aug/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "07/Sep/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "28/Sep/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "11/Oct/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "30/Oct/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "16/Nov/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "12/Dec/24",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "08/Jan/25",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "HSD (DIESEL) [LTR]",
+      "fuel_type": "HSD (DIESEL)",
+      "date_period": "04/Feb/25",
+      "opening_balance": null,
+      "received_quantity": "12000.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    }
+  ]
+}

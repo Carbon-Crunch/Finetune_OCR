@@ -1,0 +1,461 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Daily Fuel Consumption",
+  "report_period": {
+    "value": "April 2015"
+  },
+  "entries": [
+    {
+      "date_period": "01/04/2025",
+      "rice_husk_consumption": {
+        "value": 160.11,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 124.06,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 35.5,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "02/04/2025",
+      "rice_husk_consumption": {
+        "value": 146.31,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 105.15,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 38.6,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "03/04/2025",
+      "rice_husk_consumption": {
+        "value": 165.06,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 130.31,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 20.5,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "04/04/2025",
+      "rice_husk_consumption": {
+        "value": 135.17,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 129.4,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 4,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "05/04/2025",
+      "rice_husk_consumption": {
+        "value": 135.06,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 138.21,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 0.7,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "06/04/2025",
+      "rice_husk_consumption": {
+        "value": 150.11,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 112.5,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 32.5,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "07/04/2025",
+      "rice_husk_consumption": {
+        "value": 58.2,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 212.11,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 35.6,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "08/04/2025",
+      "rice_husk_consumption": {
+        "value": 109.14,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 165.06,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 35.3,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "09/04/2025",
+      "rice_husk_consumption": {
+        "value": 80.31,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 187.15,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 25.4,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "10/04/2025",
+      "rice_husk_consumption": {
+        "value": 184.23,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 82.5,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 29,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "11/04/2025",
+      "rice_husk_consumption": {
+        "value": 152.06,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 110.03,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 34,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "12/04/2025",
+      "rice_husk_consumption": {
+        "value": 159.31,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 105.26,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 28,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "13/04/2025",
+      "rice_husk_consumption": {
+        "value": 170.06,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 106.15,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 30.4,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "14/04/2025",
+      "rice_husk_consumption": {
+        "value": 152.19,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 110.32,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 25,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "15/04/2025",
+      "rice_husk_consumption": {
+        "value": 0,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 8.5,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 27,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "16/04/2025",
+      "rice_husk_consumption": {
+        "value": 0,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 0,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 24,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "17/04/2025",
+      "rice_husk_consumption": {
+        "value": 154.2,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 92.15,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 26,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "18/04/2025",
+      "rice_husk_consumption": {
+        "value": 22.35,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 207.3,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 7,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "19/04/2025",
+      "rice_husk_consumption": {
+        "value": 162.06,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 124.31,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 0,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "20/04/2025",
+      "rice_husk_consumption": {
+        "value": 206.15,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 105.5,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 0,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "21/04/2025",
+      "rice_husk_consumption": {
+        "value": 191.2,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 90.35,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 0,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "22/04/2025",
+      "rice_husk_consumption": {
+        "value": 186.22,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 88.15,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 0,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "23/04/2025",
+      "rice_husk_consumption": {
+        "value": 182.4,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 110.13,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 0,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "24/04/2025",
+      "rice_husk_consumption": {
+        "value": 89.23,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 180.2,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 0,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "25/04/2025",
+      "rice_husk_consumption": {
+        "value": 83.17,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 121.3,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 0,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "26/04/2025",
+      "rice_husk_consumption": {
+        "value": 104.15,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 88.45,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 34,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "27/04/2025",
+      "rice_husk_consumption": {
+        "value": 132,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 85.25,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 25,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "28/04/2025",
+      "rice_husk_consumption": {
+        "value": 134.5,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 84.6,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 20,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "29/04/2025",
+      "rice_husk_consumption": {
+        "value": 179.5,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 113.22,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 33.62,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "30/04/2025",
+      "rice_husk_consumption": {
+        "value": 178.25,
+        "unit": "MT"
+      },
+      "steam_coal_consumption": {
+        "value": 113.17,
+        "unit": "MT"
+      },
+      "rdf_consumption": {
+        "value": 30,
+        "unit": "MT"
+      }
+    }
+  ]
+}

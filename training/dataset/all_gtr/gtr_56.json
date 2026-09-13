@@ -1,0 +1,194 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Steam Distribution Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one date or shift record of steam distribution.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-2025"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "turbine_inlet_steam": {
+          "value": "23053",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "18375",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "413",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "turbine_inlet_steam": {
+          "value": "25210",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "17618",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "701",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "turbine_inlet_steam": {
+          "value": "6116",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "17759",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "3763",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "turbine_inlet_steam": {
+          "value": "27067",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "16091",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "90",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "turbine_inlet_steam": {
+          "value": "23324",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "16216",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "172",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "turbine_inlet_steam": {
+          "value": "23072",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "17146",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "218",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "turbine_inlet_steam": {
+          "value": "22828",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "19964",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "216",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "turbine_inlet_steam": {
+          "value": "21769",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "17834",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "391",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "turbine_inlet_steam": {
+          "value": "27371",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "17980",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "798",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "turbine_inlet_steam": {
+          "value": "28198",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "17680",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "626",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "turbine_inlet_steam": {
+          "value": "21450",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "17471",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "650",
+          "unit": "TPH"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "turbine_inlet_steam": {
+          "value": "24073",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "16286",
+          "unit": "TPH"
+        },
+        "distribution_to_process": {
+          "value": "1363",
+          "unit": "TPH"
+        }
+      }
+    ]
+  }
+}

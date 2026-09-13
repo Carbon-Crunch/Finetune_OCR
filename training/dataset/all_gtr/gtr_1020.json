@@ -1,0 +1,34 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "boiler_name": "30 TPH BOILER",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "12/04/24",
+      "shift": "A Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "12/04/24",
+      "shift": "B Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "12/04/24",
+      "shift": "C Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    }
+  ]
+}

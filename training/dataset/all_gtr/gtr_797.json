@@ -1,0 +1,46 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "31/03/25",
+  "entries": [
+    {
+      "date_period": "31/03/25",
+      "timestamp": null,
+      "pressure": {
+        "value": null,
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": null,
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": null,
+        "unit": "TPH"
+      },
+      "runtime": {
+        "value": null,
+        "unit": null
+      },
+      "power": {
+        "value": null,
+        "unit": null
+      },
+      "pulp_levels": {
+        "value": null,
+        "unit": null
+      }
+    }
+  ],
+  "product_codes": [
+    "K-12629",
+    "K-6212",
+    "K-6306"
+  ],
+  "tile_sizes": [
+    "60x120",
+    "60x60"
+  ],
+  "total_boxes": 13914,
+  "quality_average": 90.39
+}

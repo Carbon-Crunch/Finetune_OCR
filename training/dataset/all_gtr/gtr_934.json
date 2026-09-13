@@ -1,0 +1,89 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "934",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "106244005874"
+        },
+        "invoice_date": {
+          "value": "16-AUG-24"
+        },
+        "supplier_name": "GUJARAT MINERAL DEVELOPMENT CORPORATION LIMITED",
+        "supplier_gstin": "24AAACG7987P1Z1",
+        "buyer_name": "MAHESHWARI LOGISTICS LIMITED",
+        "buyer_gstin": "24AAGCM8332N1Z6",
+        "total_amount": {
+          "value": "91865.85",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "TADKESHWAR 'A' GRADE- Lignite TA",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "270220",
+            "quantity": {
+              "value": "21.995",
+              "unit": "MT"
+            },
+            "gross_amount": {
+              "value": "71043.85",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Coal Consignment Report",
+      "boilerplate_used": "fuel/coal_consignment_report.json",
+      "data": {
+        "report_period": {
+          "value": "16-AUG-24"
+        },
+        "truck_count": {
+          "value": "1",
+          "unit": "count"
+        },
+        "entries": [
+          {
+            "truck_no": "GJ16AV-0906",
+            "supplier": "GUJARAT MINERAL DEVELOPMENT CORPORATION LIMITED",
+            "gross_weight": {
+              "value": "21.995",
+              "unit": "MT"
+            },
+            "net_weight": {
+              "value": "21.995",
+              "unit": "MT"
+            },
+            "gcv": null,
+            "moisture": {
+              "value": "45.1",
+              "unit": "%"
+            },
+            "ash": null
+          }
+        ],
+        "totals": {
+          "total_gross_weight": {
+            "value": "21.995",
+            "unit": "MT"
+          },
+          "total_net_weight": {
+            "value": "21.995",
+            "unit": "MT"
+          }
+        }
+      }
+    }
+  ]
+}

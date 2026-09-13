@@ -1,0 +1,588 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "DETAILS OF COAL FROM APRIL 24 TO MARCH 25, DETAILS OF PADDY HUSK FROM APRIL 24 TO MARCH 25, DETAILS OF BAGGASSE FROM APRIL 24 TO MARCH 25",
+  "document_type": "Fuel Stock Register",
+  "report_period": {
+    "value": "APRIL 24 TO MARCH 25"
+  },
+  "company_name": "Agarwal Duplex Board Mills Ltd.",
+  "entries": [
+    {
+      "fuel_name": "Coal",
+      "date_period": "APR.24",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "MAY 24",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "received_quantity": {
+        "value": 1282.71
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 1282.71
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "JUN.24",
+      "opening_stock": {
+        "value": 1282.71
+      },
+      "received_quantity": {
+        "value": 76.75
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 1359.46
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "JUL.24",
+      "opening_stock": {
+        "value": 1359.46
+      },
+      "received_quantity": {
+        "value": 4540.98
+      },
+      "consumption": {
+        "value": 2002.4
+      },
+      "closing_stock": {
+        "value": 3898.04
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "AUG.24",
+      "opening_stock": {
+        "value": 3898.04
+      },
+      "received_quantity": {
+        "value": 3218.44
+      },
+      "consumption": {
+        "value": 3758.1
+      },
+      "closing_stock": {
+        "value": 3358.38
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "SEP.24",
+      "opening_stock": {
+        "value": 3358.38
+      },
+      "received_quantity": {
+        "value": 5618.31
+      },
+      "consumption": {
+        "value": 3982.6
+      },
+      "closing_stock": {
+        "value": 4994.09
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "OCT.24",
+      "opening_stock": {
+        "value": 4994.09
+      },
+      "received_quantity": {
+        "value": 2914.18
+      },
+      "consumption": {
+        "value": 3948.3
+      },
+      "closing_stock": {
+        "value": 3959.97
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "NOV.24",
+      "opening_stock": {
+        "value": 3959.97
+      },
+      "received_quantity": {
+        "value": 145.62
+      },
+      "consumption": {
+        "value": 3506.8
+      },
+      "closing_stock": {
+        "value": 598.79
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "DEC.24",
+      "opening_stock": {
+        "value": 598.79
+      },
+      "received_quantity": {
+        "value": 248.29
+      },
+      "consumption": {
+        "value": 252.4
+      },
+      "closing_stock": {
+        "value": 594.68
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "JAN.25",
+      "opening_stock": {
+        "value": 594.68
+      },
+      "received_quantity": {
+        "value": 456.39
+      },
+      "consumption": {
+        "value": 1008.5
+      },
+      "closing_stock": {
+        "value": 42.57
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "FEB.25",
+      "opening_stock": {
+        "value": 42.57
+      },
+      "received_quantity": {
+        "value": 42.22
+      },
+      "consumption": {
+        "value": 84.79
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "MAR.25",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "APR.24",
+      "opening_stock": {
+        "value": 14976.293
+      },
+      "received_quantity": {
+        "value": 1337.066
+      },
+      "consumption": {
+        "value": 2815.5
+      },
+      "closing_stock": {
+        "value": 13497.859
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "MAY 24",
+      "opening_stock": {
+        "value": 13497.859
+      },
+      "received_quantity": {
+        "value": 2305.396
+      },
+      "consumption": {
+        "value": 3654.4
+      },
+      "closing_stock": {
+        "value": 12148.855
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "JUN.24",
+      "opening_stock": {
+        "value": 12148.855
+      },
+      "received_quantity": {
+        "value": 1107.045
+      },
+      "consumption": {
+        "value": 3587.6
+      },
+      "closing_stock": {
+        "value": 9668.3
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "JUL.24",
+      "opening_stock": {
+        "value": 9668.3
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 1793.5
+      },
+      "closing_stock": {
+        "value": 7874.8
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "AUG.24",
+      "opening_stock": {
+        "value": 7874.8
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 7874.8
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "SEP.24",
+      "opening_stock": {
+        "value": 7874.8
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 7874.8
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "OCT.24",
+      "opening_stock": {
+        "value": 7874.8
+      },
+      "received_quantity": {
+        "value": 89.875
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 7964.675
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "NOV.24",
+      "opening_stock": {
+        "value": 7964.675
+      },
+      "received_quantity": {
+        "value": 918.462
+      },
+      "consumption": {
+        "value": 124.3
+      },
+      "closing_stock": {
+        "value": 8758.837
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "DEC.24",
+      "opening_stock": {
+        "value": 8758.837
+      },
+      "received_quantity": {
+        "value": 3412.219
+      },
+      "consumption": {
+        "value": 3393.8
+      },
+      "closing_stock": {
+        "value": 8777.256
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "JAN.25",
+      "opening_stock": {
+        "value": 8777.256
+      },
+      "received_quantity": {
+        "value": 3203.884
+      },
+      "consumption": {
+        "value": 2068.9
+      },
+      "closing_stock": {
+        "value": 9912.24
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "FEB.25",
+      "opening_stock": {
+        "value": 9912.24
+      },
+      "received_quantity": {
+        "value": 3010.167
+      },
+      "consumption": {
+        "value": 3463.3
+      },
+      "closing_stock": {
+        "value": 9459.107
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "MAR.25",
+      "opening_stock": {
+        "value": 9459.107
+      },
+      "received_quantity": {
+        "value": 2480.719
+      },
+      "consumption": {
+        "value": 3306.6
+      },
+      "closing_stock": {
+        "value": 8633.226
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "APR.24",
+      "opening_stock": {
+        "value": 170.28
+      },
+      "received_quantity": {
+        "value": 735.9
+      },
+      "consumption": {
+        "value": 762.8
+      },
+      "closing_stock": {
+        "value": 143.38
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "MAY 24",
+      "opening_stock": {
+        "value": 143.38
+      },
+      "received_quantity": {
+        "value": 151.68
+      },
+      "consumption": {
+        "value": 295.06
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "JUN.24",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "received_quantity": {
+        "value": 167.94
+      },
+      "consumption": {
+        "value": 167.94
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "JUL.24",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "AUG.24",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "SEP.24",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 0.0
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "OCT.24",
+      "opening_stock": {
+        "value": 0.0
+      },
+      "received_quantity": {
+        "value": 130.115
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 130.115
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "NOV.24",
+      "opening_stock": {
+        "value": 130.115
+      },
+      "received_quantity": {
+        "value": 123.145
+      },
+      "consumption": {
+        "value": 124.8
+      },
+      "closing_stock": {
+        "value": 128.46
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "DEC.24",
+      "opening_stock": {
+        "value": 128.46
+      },
+      "received_quantity": {
+        "value": 197.58
+      },
+      "consumption": {
+        "value": 248.8
+      },
+      "closing_stock": {
+        "value": 77.24
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "JAN.25",
+      "opening_stock": {
+        "value": 77.24
+      },
+      "received_quantity": {
+        "value": 78.025
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 155.265
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "FEB.25",
+      "opening_stock": {
+        "value": 155.265
+      },
+      "received_quantity": {
+        "value": 10.91
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 166.175
+      }
+    },
+    {
+      "fuel_name": "Baggasse",
+      "date_period": "MAR.25",
+      "opening_stock": {
+        "value": 166.175
+      },
+      "received_quantity": {
+        "value": 0.0
+      },
+      "consumption": {
+        "value": 0.0
+      },
+      "closing_stock": {
+        "value": 166.175
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "01/Aug/2024 to 31/Aug/2024"
+  },
+  "entries": [
+    {
+      "fuel_name": "CHILKA (RICE HUSK)",
+      "opening_balance": {
+        "value": null,
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "464863.370",
+        "unit": "KGS"
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": "979413.000",
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": "300000.820",
+        "unit": "KGS"
+      }
+    },
+    {
+      "fuel_name": "COTTON DUST",
+      "opening_balance": {
+        "value": "814550.450",
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": null,
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": null,
+        "unit": null
+      },
+      "closing_balance": {
+        "value": null,
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "COTTON STICK",
+      "opening_balance": {
+        "value": null,
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "5967.550",
+        "unit": "KGS"
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": "5967.550",
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": null,
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "FADDA",
+      "opening_balance": {
+        "value": null,
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "35410.800",
+        "unit": "KGS"
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": "35410.800",
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": null,
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "FADDA 1121",
+      "opening_balance": {
+        "value": "85000.000",
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": "1980985.200",
+        "unit": "KGS"
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": "2065985.200",
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": null,
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "STRAW RICE (BALE)",
+      "opening_balance": {
+        "value": "49665732.000",
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": null,
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": "19095580.000",
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": "30570152.000",
+        "unit": "KGS"
+      }
+    }
+  ]
+}

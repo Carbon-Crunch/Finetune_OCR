@@ -1,0 +1,19 @@
+# ---------------------------------------------------------------------------
+# Fine-Tuning Dependencies for Qwen2.5-VL-7B with Unsloth
+# ---------------------------------------------------------------------------
+# For L4 / A10G / A100 GPUs (PyTorch 2.5 + CUDA 12.4):
+unsloth[cu124-ampere-torch250]
+
+# Vision & processing requirements:
+qwen-vl-utils
+pdf2image
+pillow
+datasets
+trl
+transformers>=4.48.0
+accelerate
+peft
+bitsandbytes
+decord
+plotly
+flash-attn --no-build-isolation

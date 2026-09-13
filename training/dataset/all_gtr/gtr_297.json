@@ -1,0 +1,343 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 15,
+      "image_index": 15,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 16,
+      "image_index": 16,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 17,
+      "image_index": 17,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 18,
+      "image_index": 18,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 19,
+      "image_index": 19,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 20,
+      "image_index": 20,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 21,
+      "image_index": 21,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 22,
+      "image_index": 22,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 23,
+      "image_index": 23,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Renewable Consumption Obligation (RCO) Data Collection Checklist / Bagasse Statement / Boiler & Power Turbine Log Books",
+    "document_type": "RCO Checklist and Operational Log Reports",
+    "report_period": {
+      "value": "Season 2024-25"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "2024-12-11"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Shravasti Kisan Sahakari Chini Mills Ltd.",
+    "plant_name": "Nanpara, Baharaich (U.P.)",
+    "location": "Nanpara, Baharaich (U.P.)",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": 3050757.83,
+      "unit": "Qtls"
+    },
+    "entries": [
+      {
+        "item_description": "Cane Crushed Season 2024-25",
+        "quantity": {
+          "value": 3050757.83,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Production of Bagasse % Cane",
+        "quantity": {
+          "value": 31.15,
+          "unit": "%"
+        }
+      },
+      {
+        "item_description": "Bagasse Opening stock of Previous Seasons 2023-24 - Bailed Bagasse",
+        "quantity": {
+          "value": 2701.44,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Opening stock of Previous Seasons 2023-24 - Loose Bagasse",
+        "quantity": {
+          "value": 15000.0,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Opening stock of Previous Seasons 2023-24 - Total",
+        "quantity": {
+          "value": 17701.44,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse sold before start of season",
+        "quantity": {
+          "value": 10129.7,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Purchased before start of season",
+        "quantity": {
+          "value": 0.0,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Available before start of season",
+        "quantity": {
+          "value": 7571.74,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse consumption during trials of mill",
+        "quantity": {
+          "value": 7571.74,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Available in chini mill at the time start of season 2024-25",
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "remarks": "Nil"
+      },
+      {
+        "item_description": "Production of Bagasse",
+        "quantity": {
+          "value": 950367.83,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Purchased during season",
+        "quantity": {
+          "value": 0.0,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Total Bagasse Available for season 2024-25",
+        "quantity": {
+          "value": 950367.83,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse sold during season",
+        "quantity": {
+          "value": 3392.7,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Consumption during season",
+        "quantity": {
+          "value": 941796.51,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Consumption % Cane",
+        "quantity": {
+          "value": 30.87,
+          "unit": "%"
+        }
+      },
+      {
+        "item_description": "Bagasse closing stock of Season 2024-25 - Bailed Bagasse",
+        "quantity": {
+          "value": 3178.62,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse closing stock of Season 2024-25 - Loose Bagasse",
+        "quantity": {
+          "value": 2000.0,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse closing stock of Season 2024-25 - Total",
+        "quantity": {
+          "value": 5178.62,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Saved { Sl No.12+15 }",
+        "quantity": {
+          "value": 8571.32,
+          "unit": "Qtls"
+        }
+      },
+      {
+        "item_description": "Bagasse Saving % Cane",
+        "quantity": {
+          "value": 0.28,
+          "unit": "%"
+        }
+      }
+    ],
+    "additional_fields": {
+      "grid_contract_demand_kva": "200 KVA",
+      "dg_sets_used_and_ratings": "320 KVA DG sets & 200 KVA DG sets",
+      "boiler_sizes": "2 Nos Boiler 20 TPH & 01 No Boiler 30 TPH",
+      "boiler_fuel_type": "Bagasse",
+      "no_of_boilers": "3 Nos Boiler",
+      "no_of_turbines": "06 Nos Turbines",
+      "turbine_sizes": "400 BHP Mill Turbine 04 Nos & 1.5 MW Power turbine 2 Nos",
+      "installed_production_capacity_qtl_per_annum": "310000 QTL",
+      "installed_crushing_capacity_tpd": "2500 TPD",
+      "no_of_machines_lines": "196 Nos",
+      "key_products_major_energy_consuming_equipment": "1.5 MW Power turbine 2 Nos",
+      "distillery_total_working_days": "0.00",
+      "distillery_production_capacity_klpd": "0.00",
+      "distillery_products": "0.00"
+    }
+  }
+}

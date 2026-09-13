@@ -1,0 +1,83 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": {
+    "value": "JANUARY-2025"
+  },
+  "truck_count": {
+    "value": "24",
+    "unit": "count"
+  },
+  "entries": [
+    {
+      "truck_no": "3",
+      "supplier": "Shree Ganesh coal Enterprises chandauli",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "102.77",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3716.238",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "12.6",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "38.8",
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": "1",
+      "supplier": "S.R.B Traders Kalika Singh Katra Mughalsarai Chandouli",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "34.25",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3960",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "13.8",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "36",
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": "20",
+      "supplier": "Shree Sai Urja Limited",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "576.68",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3560.7",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "12.82",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "40.08",
+        "unit": "%"
+      }
+    }
+  ],
+  "totals": {
+    "total_gross_weight": null,
+    "total_net_weight": {
+      "value": "713.7",
+      "unit": "MT"
+    }
+  }
+}

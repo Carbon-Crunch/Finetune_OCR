@@ -1,0 +1,161 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "962",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "05/03/2025"
+        },
+        "entries": [
+          {
+            "date_period": "05/03/2025",
+            "pressure": null,
+            "temperature": null,
+            "flow_rate": null,
+            "runtime": null,
+            "power": null,
+            "pulp_levels": null
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Generic",
+      "data_category": "Generic Fallback Document",
+      "boilerplate_used": "Generic Fallback",
+      "data": {
+        "document_title": "Load Log Book",
+        "company_name": "Kishan Sahkari Chini Mills Ltd.",
+        "location": "Najibabad(Bijnor)",
+        "document_date": "05/03/2025",
+        "entries": [
+          {
+            "item_description": "New Hopper",
+            "quantity": {
+              "value": "200",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Raw Juice Pump",
+            "quantity": {
+              "value": "104",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Injection M.C.C. Ist",
+            "quantity": {
+              "value": "330",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Injection M.C.C. IInd",
+            "quantity": {
+              "value": "240",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Injection D/C Motor",
+            "quantity": {
+              "value": "180",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "K.C.P. Ist",
+            "quantity": {
+              "value": "350",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "K.C.P. IInd",
+            "quantity": {
+              "value": "330",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Cristillizer M.C.C.",
+            "quantity": {
+              "value": "117",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Spray Pump Turbine Ist Side",
+            "quantity": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Spray Pump Turbine IInd Side",
+            "quantity": {
+              "value": "155",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Colony Ist",
+            "quantity": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Colony IInd",
+            "quantity": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Guest House",
+            "quantity": {
+              "value": "46",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Tubewell Ist",
+            "quantity": {
+              "value": "35",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Tubewell IInd",
+            "quantity": {
+              "value": "9",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Tubewell IIIrd Sugar House",
+            "quantity": {
+              "value": "61",
+              "unit": null
+            }
+          },
+          {
+            "item_description": "Aux. Panel",
+            "quantity": {
+              "value": "330",
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

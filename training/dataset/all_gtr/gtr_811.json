@@ -1,0 +1,223 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "1-Apr-24 to 31-Mar-25",
+  "entries": [
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "Opening Balance",
+      "opening_balance": {
+        "value": 172002.71,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "April",
+      "inwards": {
+        "value": 36985.22,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 46680.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 162307.93,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "May",
+      "inwards": {
+        "value": 28472.81,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 49820.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 140960.74,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "June",
+      "inwards": {
+        "value": 13048.62,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 33040.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 120969.36,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "July",
+      "inwards": {
+        "value": 4017.81,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 44130.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 80857.17,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "August",
+      "inwards": {
+        "value": 2446.55,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 48760.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 34543.72,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "September",
+      "inwards": {
+        "value": 405007.0,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 31970.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 2573.72,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "October",
+      "inwards": {
+        "value": 13424.22,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 1750.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 14247.94,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "November",
+      "inwards": {
+        "value": 79440.72,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 28680.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 65008.66,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "December",
+      "inwards": {
+        "value": 158913.22,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 52450.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 171471.88,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "January",
+      "inwards": {
+        "value": 89002.46,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 53120.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 207354.34,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "February",
+      "inwards": {
+        "value": 44733.68,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 46390.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 205698.02,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "March",
+      "inwards": {
+        "value": 49802.36,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 49840.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 205660.38,
+        "unit": "QTL"
+      }
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "Grand Total",
+      "inwards": {
+        "value": 520287.67,
+        "unit": "QTL"
+      },
+      "outwards": {
+        "value": 486630.0,
+        "unit": "QTL"
+      },
+      "closing_balance": {
+        "value": 205660.38,
+        "unit": "QTL"
+      }
+    }
+  ]
+}

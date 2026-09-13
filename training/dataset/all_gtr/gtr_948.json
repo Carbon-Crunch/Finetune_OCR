@@ -1,0 +1,97 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "948",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Steam Distribution Log",
+      "boilerplate_used": "energy/steam_distribution_log.json",
+      "data": {
+        "report_period": "Oct-24 to Jan-25",
+        "entries": [
+          {
+            "date_period": "October-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": null,
+            "distribution_to_process": null
+          },
+          {
+            "date_period": "November-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": null,
+            "distribution_to_process": null
+          },
+          {
+            "date_period": "December-24",
+            "turbine_inlet_steam": "56 Ton/hr",
+            "extraction_steam": null,
+            "distribution_to_process": null
+          },
+          {
+            "date_period": "January-25",
+            "turbine_inlet_steam": "56 Ton/hr",
+            "extraction_steam": null,
+            "distribution_to_process": null
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Boiler Log Book",
+      "boilerplate_used": "production/boiler_log_book.json",
+      "data": {
+        "boiler_name": null,
+        "registration_number": null,
+        "entries": [
+          {
+            "date_period": "October-24",
+            "shift": null,
+            "total_steam_generated": {
+              "value": "N/A",
+              "unit": "tonne"
+            },
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "November-24",
+            "shift": null,
+            "total_steam_generated": {
+              "value": "1680",
+              "unit": "tonne"
+            },
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "December-24",
+            "shift": null,
+            "total_steam_generated": {
+              "value": "1735",
+              "unit": "tonne"
+            },
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "January-25",
+            "shift": null,
+            "total_steam_generated": {
+              "value": "1736",
+              "unit": "tonne"
+            },
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          }
+        ]
+      }
+    }
+  ]
+}

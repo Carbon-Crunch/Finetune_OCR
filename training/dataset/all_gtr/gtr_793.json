@@ -1,0 +1,84 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "01/May/2024 to 31/May/2024",
+  "entries": [
+    {
+      "fuel_name": "Fuel",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": "87633232.000",
+      "received_quantity": "1195253.650",
+      "inwards": null,
+      "outwards": "13679318.400",
+      "consumption": null,
+      "closing_balance": "75149167.250"
+    },
+    {
+      "fuel_name": "COTTON DUST",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": "1000000.000",
+      "received_quantity": "462236.600",
+      "inwards": null,
+      "outwards": "1303995.800",
+      "consumption": null,
+      "closing_balance": "158240.800"
+    },
+    {
+      "fuel_name": "DUNG CAKES",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": null,
+      "received_quantity": "1891.400",
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": "1891.400"
+    },
+    {
+      "fuel_name": "FADDA",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": null,
+      "received_quantity": "34709.600",
+      "inwards": null,
+      "outwards": "17901.600",
+      "consumption": null,
+      "closing_balance": "16808.000"
+    },
+    {
+      "fuel_name": "FADDA 1121",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": null,
+      "received_quantity": "693515.250",
+      "inwards": null,
+      "outwards": "519520.200",
+      "consumption": null,
+      "closing_balance": "173995.050"
+    },
+    {
+      "fuel_name": "SARSON KA TURA",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": null,
+      "received_quantity": "2900.800",
+      "inwards": null,
+      "outwards": "2900.800",
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "STRAW RICE (BALE)",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": "86633232.000",
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": "11835000.000",
+      "consumption": null,
+      "closing_balance": "74798232.000"
+    }
+  ]
+}

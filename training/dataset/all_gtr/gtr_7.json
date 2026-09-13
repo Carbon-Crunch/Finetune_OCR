@@ -1,0 +1,28 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "27-Jul-24"
+  },
+  "supplier_name": "Indian Oil Corporation Limited",
+  "entries": [
+    {
+      "item_description": "HSD - BS VI",
+      "material_description": "HSD - BS VI",
+      "item_code": "50700",
+      "hsn_sac": "2710 19 44",
+      "quantity": {
+        "value": "12.000",
+        "unit": "KL"
+      },
+      "units": {
+        "value": "KL",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "952237.23",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

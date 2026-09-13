@@ -1,0 +1,48 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Energy",
+  "data_category": "Electric Meter Reading",
+  "extraction_rules": "This is a tabular meter reading document. Extract EVERY row from the table into the entries array. Each object in entries represents one meter reading record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "December 2024"
+    },
+    "entries": [
+      {
+        "meter_reading_difference": {
+          "value": "6558731",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "252300",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

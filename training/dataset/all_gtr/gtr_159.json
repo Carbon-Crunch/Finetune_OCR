@@ -1,0 +1,115 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "report_period": {
+    "value": "Financial Year 2024-25"
+  },
+  "entries": [
+    {
+      "date_period": "Apr-24",
+      "consumption": {
+        "value": "982345",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "May-24",
+      "consumption": {
+        "value": "1049221",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jun-24",
+      "consumption": {
+        "value": "773802",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jul-24",
+      "consumption": {
+        "value": "1050533",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Aug-24",
+      "consumption": {
+        "value": "1031352",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Sep-24",
+      "consumption": {
+        "value": "1018277",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Oct-24",
+      "consumption": {
+        "value": "1025660",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Nov-24",
+      "consumption": {
+        "value": "940516",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Dec-24",
+      "consumption": {
+        "value": "975298",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jan-25",
+      "consumption": {
+        "value": "972680",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Feb-25",
+      "consumption": {
+        "value": "864655",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Mar-25",
+      "consumption": {
+        "value": "904526",
+        "unit": null
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Total",
+      "consumption": {
+        "value": "11588865",
+        "unit": null
+      },
+      "net_generation": null
+    }
+  ]
+}

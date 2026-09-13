@@ -1,0 +1,18 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "01/Apr/2025 to 30/Jun/2025",
+  "entries": [
+    {
+      "fuel_name": "HSD (DIESEL)",
+      "fuel_type": "POWER FUEL (HO108)",
+      "date_period": "01/Apr/2025 to 30/Jun/2025",
+      "opening_balance": 1098.561,
+      "received_quantity": 72000.0,
+      "inwards": 72000.0,
+      "outwards": 58047.91,
+      "consumption": 58047.91,
+      "closing_balance": 15050.651
+    }
+  ]
+}

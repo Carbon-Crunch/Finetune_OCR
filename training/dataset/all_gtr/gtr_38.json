@@ -1,0 +1,508 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or time-period reading.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "15/11/2024 to 19/03/2025"
+    },
+    "entries": [
+      {
+        "date_period": "15/11/2024",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 279035,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 279051,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 16000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "15/11/2024",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 279051,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 279097,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 46000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "30/11/2024",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 282012,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 282086,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 74000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "30/11/2024",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 282086,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 282158,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 72000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "30/11/2024",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 282158,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 282237,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 79000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/12/2024",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 282237,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 282309,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 72000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/12/2024",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 282309,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 282380,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 71000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/12/2024",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 282380,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 282453,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 73000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "30/12/2024",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 288534,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 288610,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 76000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "30/12/2024",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 288610,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 288679,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 69000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "30/12/2024",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 288679,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 288751,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 72000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "31/12/2024",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 288751,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 288824,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 73000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "31/12/2024",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 288824,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 288897,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 73000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "31/12/2024",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 288897,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 288971,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 74000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/01/2025",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 288971,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 289045,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 74000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/01/2025",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 289045,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 289119,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 74000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/01/2025",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 289119,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 289193,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 74000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "02/01/2025",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 295181,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 295261,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 80000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "02/01/2025",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 295261,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 295337,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 76000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "02/01/2025",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 295337,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 295417,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 80000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/02/2025",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 295417,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 295494,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 77000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/02/2025",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 295494,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 295554,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 60000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/02/2025",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 295554,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 295629,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 75000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/03/2025",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 301465,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 301538,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 73000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/03/2025",
+        "shift": "Shift B",
+        "meter_reading_left": {
+          "value": 301538,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 301607,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 69000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "01/03/2025",
+        "shift": "Shift C",
+        "meter_reading_left": {
+          "value": 301607,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 301683,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 76000,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "19/03/2024",
+        "shift": "Shift A",
+        "meter_reading_left": {
+          "value": 304081,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 305098,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 17000,
+          "unit": "KWH"
+        }
+      }
+    ]
+  }
+}

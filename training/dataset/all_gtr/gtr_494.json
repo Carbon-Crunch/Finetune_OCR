@@ -1,0 +1,179 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Production & Operational",
+  "data_category": "Process Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one timestamp record of process parameters.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "December 2024"
+    },
+    "entries": [
+      {
+        "date_period": "23-12-24",
+        "timestamp": "6AM",
+        "pulp_levels": "914127"
+      },
+      {
+        "date_period": "28-12-24",
+        "timestamp": "6AM",
+        "pulp_levels": "9205593"
+      },
+      {
+        "date_period": "29-12-24",
+        "timestamp": "6AM",
+        "pulp_levels": "9246390"
+      },
+      {
+        "date_period": "30-12-24",
+        "timestamp": "6AM",
+        "pulp_levels": "9303458"
+      },
+      {
+        "date_period": "31-12-24",
+        "timestamp": "6AM",
+        "pulp_levels": "9340069"
+      },
+      {
+        "date_period": "01-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9382550"
+      },
+      {
+        "date_period": "02-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9428776"
+      },
+      {
+        "date_period": "03-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9471254"
+      },
+      {
+        "date_period": "04-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9510715"
+      },
+      {
+        "date_period": "05-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9558747"
+      },
+      {
+        "date_period": "06-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9582922"
+      },
+      {
+        "date_period": "07-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9620813"
+      },
+      {
+        "date_period": "08-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9672268"
+      },
+      {
+        "date_period": "09-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9717347"
+      },
+      {
+        "date_period": "10-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9764801"
+      },
+      {
+        "date_period": "11-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "981348"
+      },
+      {
+        "date_period": "12-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9860108"
+      },
+      {
+        "date_period": "13-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9905504"
+      },
+      {
+        "date_period": "14-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9953746"
+      },
+      {
+        "date_period": "15-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "9994462"
+      },
+      {
+        "date_period": "16-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10040934"
+      },
+      {
+        "date_period": "17-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10061421"
+      },
+      {
+        "date_period": "18-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10076500"
+      },
+      {
+        "date_period": "19-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10092507"
+      },
+      {
+        "date_period": "20-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10102838"
+      },
+      {
+        "date_period": "21-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10119651"
+      },
+      {
+        "date_period": "22-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10138987"
+      },
+      {
+        "date_period": "23-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10156476"
+      },
+      {
+        "date_period": "24-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10173419"
+      },
+      {
+        "date_period": "25-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10195573"
+      },
+      {
+        "date_period": "26-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10216858"
+      },
+      {
+        "date_period": "27-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10233615"
+      },
+      {
+        "date_period": "28-01-25",
+        "timestamp": "6AM",
+        "pulp_levels": "10250652"
+      }
+    ]
+  }
+}

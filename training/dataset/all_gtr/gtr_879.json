@@ -1,0 +1,97 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "VLL/VLS/24/23678/002",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": {
+          "value": "2025-03-18"
+        },
+        "entries": [
+          {
+            "sample_name": "NRSW (Plastic Waste)",
+            "date_period": "2025-03-18",
+            "sample_quantity": "1 Packet X 1 No",
+            "moisture_content": {
+              "value": 26.96,
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": 60.3,
+              "unit": "%"
+            },
+            "fixed_carbon": {
+              "value": 11.06,
+              "unit": "%"
+            },
+            "gcv": {
+              "value": 3128,
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": 1.68,
+              "unit": "%"
+            },
+            "supplier_name": "MEHALI PAPERS PRIVATE LIMITED",
+            "operator_name": "Jyothi Ch",
+            "remarks": "Sample tested as received."
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "RDF / Waste Fuel Sampling",
+      "boilerplate_used": "fuel/rdf_waste_fuel_sampling.json",
+      "data": {
+        "report_period": {
+          "value": "2025-03-18"
+        },
+        "entries": [
+          {
+            "waste_type": "NRSW (Plastic Waste)",
+            "weight": null,
+            "composition_percent": null,
+            "gcv": {
+              "value": 3128,
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": 1.68,
+              "unit": "%"
+            },
+            "moisture_content": {
+              "value": 26.96,
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

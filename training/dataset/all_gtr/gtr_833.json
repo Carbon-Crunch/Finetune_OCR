@@ -1,0 +1,717 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "833",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Consumption History / Generation Report",
+      "boilerplate_used": "energy/electric_consumption_history.json",
+      "data": {
+        "report_period": {
+          "value": "2016-2025"
+        },
+        "entries": [
+          {
+            "date_period": "Mar 2025",
+            "consumption": {
+              "value": 14421.427,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 2729,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Feb 2025",
+            "consumption": {
+              "value": 18242.965,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4300,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2025",
+            "consumption": {
+              "value": 17932.1,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 5035,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2024",
+            "consumption": {
+              "value": 18035.0036,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4793,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2024",
+            "consumption": {
+              "value": 5962.02,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 1723,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Apr 2024",
+            "consumption": {
+              "value": 13896.5189,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 2784,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Mar 2024",
+            "consumption": {
+              "value": 18095.139,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4806,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Feb 2024",
+            "consumption": {
+              "value": 16926.8,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4898,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2024",
+            "consumption": {
+              "value": 18290.14,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 5158,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2023",
+            "consumption": {
+              "value": 17817.2705,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4852,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2023",
+            "consumption": {
+              "value": 13588.0765,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 3696,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Mar 2023",
+            "consumption": {
+              "value": 15522.34,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 3808,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Feb 2023",
+            "consumption": {
+              "value": 15879.95,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4292,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2023",
+            "consumption": {
+              "value": 17847.26,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 5023,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2022",
+            "consumption": {
+              "value": 17720.97,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4891,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2022",
+            "consumption": {
+              "value": 17133.02,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4742,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Oct 2022",
+            "consumption": {
+              "value": 1159.2,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 508,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jun 2022",
+            "consumption": {
+              "value": 6185.43,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 1136,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "May 2022",
+            "consumption": {
+              "value": 15198.77,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 3839,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Apr 2022",
+            "consumption": {
+              "value": 16866.95,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4359,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Mar 2022",
+            "consumption": {
+              "value": 18193.47,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4669,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Feb 2022",
+            "consumption": {
+              "value": 16830.5,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4721,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2022",
+            "consumption": {
+              "value": 18471.52,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4877,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2021",
+            "consumption": {
+              "value": 17940.9,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4799,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2021",
+            "consumption": {
+              "value": 16495.44,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4385,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Oct 2021",
+            "consumption": {
+              "value": 959.35,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 395,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "May 2021",
+            "consumption": {
+              "value": 5609.29,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 1405,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Apr 2021",
+            "consumption": {
+              "value": 14209.45,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 3865,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Mar 2021",
+            "consumption": {
+              "value": 17067.94,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4909,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Feb 2021",
+            "consumption": {
+              "value": 17032.74,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4568,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2021",
+            "consumption": {
+              "value": 17342.59,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4848,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2020",
+            "consumption": {
+              "value": 17631.1,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 5012,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2020",
+            "consumption": {
+              "value": 16682.97,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4590,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Oct 2020",
+            "consumption": {
+              "value": 2302.88,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 901,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Mar 2020",
+            "consumption": {
+              "value": 5721.82,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 1445,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Feb 2020",
+            "consumption": {
+              "value": 13329.85,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 3695,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2020",
+            "consumption": {
+              "value": 16599,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4282,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2019",
+            "consumption": {
+              "value": 17490.83,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4517,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2019",
+            "consumption": {
+              "value": 2545.78,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 771,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Apr 2019",
+            "consumption": {
+              "value": 9648.72,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 1332,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Mar 2019",
+            "consumption": {
+              "value": 17831.4,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4815,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Feb 2019",
+            "consumption": {
+              "value": 17198.35,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4610,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2019",
+            "consumption": {
+              "value": 17976.25,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4948,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2018",
+            "consumption": {
+              "value": 18910.06,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4832,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2018",
+            "consumption": {
+              "value": 16724.04,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4423,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Oct 2018",
+            "consumption": {
+              "value": 2319.94,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 708,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Apr 2018",
+            "consumption": {
+              "value": 12404.65,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 3702,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Mar 2018",
+            "consumption": {
+              "value": 15766.84,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4317,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Feb 2018",
+            "consumption": {
+              "value": 13941.47,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 3986,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2018",
+            "consumption": {
+              "value": 14044.03,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4298,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2017",
+            "consumption": {
+              "value": 12210.4,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 4240,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2017",
+            "consumption": {
+              "value": 10467.53,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 2470,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Jan 2017",
+            "consumption": {
+              "value": 10934.56,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 1317,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Dec 2016",
+            "consumption": {
+              "value": 8587.3,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 1973,
+              "unit": "MWh"
+            }
+          },
+          {
+            "date_period": "Nov 2016",
+            "consumption": {
+              "value": 6307.41,
+              "unit": "MWh"
+            },
+            "net_generation": {
+              "value": 1274,
+              "unit": "MWh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Production Summary / Machine Consumption Summary",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": "2016-2025"
+        },
+        "entries": [
+          {
+            "date_period": "2016-17",
+            "total_production": {
+              "value": 4564
+            }
+          },
+          {
+            "date_period": "2017-18",
+            "total_production": {
+              "value": 19311
+            }
+          },
+          {
+            "date_period": "2018-19",
+            "total_production": {
+              "value": 3702
+            }
+          },
+          {
+            "date_period": "2019-20",
+            "total_production": {
+              "value": 25668
+            }
+          },
+          {
+            "date_period": "2020-21",
+            "total_production": {
+              "value": 4200
+            }
+          },
+          {
+            "date_period": "2021-22",
+            "total_production": {
+              "value": 36832
+            }
+          },
+          {
+            "date_period": "2022-23",
+            "total_production": {
+              "value": 9674
+            }
+          },
+          {
+            "date_period": "2023-24",
+            "total_production": {
+              "value": 27282
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "31.03.25"
+    },
+    "supplier_name": "M/S RATHI TRADERS",
+    "entries": [
+      {
+        "item_description": "Plastic waste",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "3915",
+        "quantity": {
+          "value": 9180.0,
+          "unit": "kg"
+        },
+        "units": {
+          "value": "kg",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": 11016.0,
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

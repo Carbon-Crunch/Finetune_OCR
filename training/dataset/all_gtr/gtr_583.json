@@ -1,0 +1,104 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or time-period reading.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "June 2025"
+    },
+    "entries": [
+      {
+        "date_period": "27-5-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "154905.8",
+          "unit": "MWH"
+        },
+        "meter_reading_right": {
+          "value": "60938.9",
+          "unit": "MVARH"
+        },
+        "consumption_difference": {
+          "value": "52600",
+          "unit": "Cars"
+        }
+      },
+      {
+        "date_period": "28-5-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "154958.4",
+          "unit": "MWH"
+        },
+        "meter_reading_right": {
+          "value": "60963.4",
+          "unit": "MVARH"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "29-5-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "154999.4",
+          "unit": "MWH"
+        },
+        "meter_reading_right": {
+          "value": "60986.6",
+          "unit": "MVARH"
+        },
+        "consumption_difference": {
+          "value": "50100",
+          "unit": "Cars"
+        }
+      },
+      {
+        "date_period": "30-5-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "155009.5",
+          "unit": "MWH"
+        },
+        "meter_reading_right": {
+          "value": "60986.6",
+          "unit": "MVARH"
+        },
+        "consumption_difference": {
+          "value": "89900",
+          "unit": "Cars"
+        }
+      },
+      {
+        "date_period": "31-5-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "155099.4",
+          "unit": "MWH"
+        },
+        "meter_reading_right": {
+          "value": "61027.9",
+          "unit": "MVARH"
+        },
+        "consumption_difference": {
+          "value": "38600",
+          "unit": "Cars"
+        }
+      },
+      {
+        "date_period": "1-6-25",
+        "shift": "6AM",
+        "meter_reading_left": {
+          "value": "155138.0",
+          "unit": "MWH"
+        },
+        "meter_reading_right": {
+          "value": "61041.4",
+          "unit": "MVARH"
+        },
+        "consumption_difference": null
+      }
+    ]
+  }
+}

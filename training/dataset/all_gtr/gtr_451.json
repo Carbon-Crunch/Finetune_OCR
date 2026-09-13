@@ -1,0 +1,52 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Coal Consignment Report",
+  "extraction_rules": "Extract month/date range, total truck count, and per-consignment fields (truck no, supplier, gross weight, net weight, GCV, moisture, ash). Include summary totals where present.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "February 2025"
+    },
+    "truck_count": {
+      "value": "55",
+      "unit": "count"
+    },
+    "entries": [
+      {
+        "truck_no": null,
+        "supplier": "Shree Ganesh coal Enterprises",
+        "gross_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "net_weight": {
+          "value": "1759.24",
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": "3499.6",
+          "unit": "kcal/kg"
+        },
+        "moisture": {
+          "value": "11.8",
+          "unit": "%"
+        },
+        "ash": {
+          "value": "40.4",
+          "unit": "%"
+        }
+      }
+    ],
+    "totals": {
+      "total_gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "total_net_weight": {
+        "value": "1759.24",
+        "unit": "MT"
+      }
+    }
+  }
+}

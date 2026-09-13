@@ -1,0 +1,73 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "Grant of consent to Establish to M/s SAINSONS PAPER INDUSTRIES PVT LTD",
+  "document_type": "Consent to Establish",
+  "report_period": {
+    "value": "30/04/2022 - 29/04/2027"
+  },
+  "document_date": {
+    "value": "01/05/2022"
+  },
+  "company_name": "SAINSONS PAPER INDUSTRIES PVT LTD",
+  "location": "PLOT NO. 05 VILLAGE BAKHLI, TEHSIL PEHOWA, DISTT KURUKSHETRA",
+  "reference_number": "HSPCB/Consent/ : 313095822KURCTE21909972",
+  "entries": [
+    {
+      "item_description": "Quantity of effluent Trade",
+      "quantity": {
+        "value": "3910.0",
+        "unit": "KL/Day"
+      }
+    },
+    {
+      "item_description": "Quantity of effluent Domestic",
+      "quantity": {
+        "value": "45.0",
+        "unit": "KL/Day"
+      }
+    },
+    {
+      "item_description": "Boiler Capacity - Agro fuel Based 35 Ton/hr",
+      "capacity": {
+        "value": "35",
+        "unit": "Ton/hr"
+      }
+    },
+    {
+      "item_description": "Boiler Capacity - Agro fuel Based 15 Ton/hr",
+      "capacity": {
+        "value": "15",
+        "unit": "Ton/hr"
+      }
+    },
+    {
+      "item_description": "Boiler Capacity - Agro fuel Based 50 Ton/hr",
+      "capacity": {
+        "value": "50",
+        "unit": "Ton/hr"
+      }
+    },
+    {
+      "item_description": "Fuel - Agrowaste",
+      "consumption": {
+        "value": "450",
+        "unit": "Ton/day"
+      }
+    },
+    {
+      "item_description": "Fuel - Diesel",
+      "consumption": {
+        "value": "0.01",
+        "unit": "KL/day"
+      }
+    }
+  ],
+  "additional_fields": {
+    "industry_type": "Pulp & Paper (waste paper based without bleaching process to manufacture Kraft paper)",
+    "category": "RED",
+    "total_land_area_sq_meter": "162000.0",
+    "total_builtup_area_sq_meter": "19788.0",
+    "investment_in_lakh": "31021.99"
+  }
+}

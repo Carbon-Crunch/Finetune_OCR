@@ -1,0 +1,418 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Production Summary / Machine Consumption Summary",
+  "extraction_rules": "This is a tabular production or machine consumption summary. Extract EVERY row from the table into the entries array. Each object in entries represents one product, machine, or period record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "Apr-25 to Jun-25"
+    },
+    "entries": [
+      {
+        "product_name": "Total TG Power Generation (kwh) -5MW",
+        "date_period": "Apr-25",
+        "total_production": "10,97,900"
+      },
+      {
+        "product_name": "Total TG Power Generation (kwh) -5MW",
+        "date_period": "May-25",
+        "total_production": "20,14,300"
+      },
+      {
+        "product_name": "Total TG Power Generation (kwh) -5MW",
+        "date_period": "Jun-25"
+      },
+      {
+        "product_name": "Total TG Power Generation (kwh) -9.5MW",
+        "date_period": "Apr-25",
+        "total_production": "53,37,800"
+      },
+      {
+        "product_name": "Total TG Power Generation (kwh) -9.5MW",
+        "date_period": "May-25",
+        "total_production": "49,87,500"
+      },
+      {
+        "product_name": "Total TG Power Generation (kwh) -9.5MW",
+        "date_period": "Jun-25",
+        "total_production": "51,21,300"
+      },
+      {
+        "product_name": "Total Generation (kwh)",
+        "date_period": "Apr-25",
+        "total_production": "64,50,251"
+      },
+      {
+        "product_name": "Total Generation (kwh)",
+        "date_period": "May-25",
+        "total_production": "70,44,160"
+      },
+      {
+        "product_name": "Total Generation (kwh)",
+        "date_period": "Jun-25",
+        "total_production": "55,20,832"
+      },
+      {
+        "product_name": "DG Power Generation (kwh)",
+        "date_period": "Apr-25",
+        "total_production": "6,745"
+      },
+      {
+        "product_name": "DG Power Generation (kwh)",
+        "date_period": "May-25",
+        "total_production": "19,360"
+      },
+      {
+        "product_name": "DG Power Generation (kwh)",
+        "date_period": "Jun-25",
+        "total_production": "1,00,222"
+      },
+      {
+        "product_name": "Hydel Power Consumptions (kwh)",
+        "date_period": "Apr-25",
+        "total_production": "7,806"
+      },
+      {
+        "product_name": "Hydel Power Consumptions (kwh)",
+        "date_period": "May-25",
+        "total_production": "23,000"
+      },
+      {
+        "product_name": "Hydel Power Consumptions (kwh)",
+        "date_period": "Jun-25",
+        "total_production": "2,99,310"
+      },
+      {
+        "product_name": "Utility Consumption (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "10,92,614"
+      },
+      {
+        "product_name": "Utility Consumption (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "11,75,112"
+      },
+      {
+        "product_name": "Utility Consumption (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "7,68,017"
+      },
+      {
+        "product_name": "% Utility Consumption",
+        "date_period": "Apr-25",
+        "machine_consumption": "16.9"
+      },
+      {
+        "product_name": "% Utility Consumption",
+        "date_period": "May-25",
+        "machine_consumption": "16.7"
+      },
+      {
+        "product_name": "% Utility Consumption",
+        "date_period": "Jun-25",
+        "machine_consumption": "13.9"
+      },
+      {
+        "product_name": "PM6 Power Consumptions (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "7,55,157"
+      },
+      {
+        "product_name": "PM6 Power Consumptions (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "10,27,094"
+      },
+      {
+        "product_name": "PM6 Power Consumptions (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "8,78,987"
+      },
+      {
+        "product_name": "Total PM6 Finish Production (MT)",
+        "date_period": "Apr-25",
+        "finish_production": "3,340"
+      },
+      {
+        "product_name": "Total PM6 Finish Production (MT)",
+        "date_period": "May-25",
+        "finish_production": "4,624"
+      },
+      {
+        "product_name": "Total PM6 Finish Production (MT)",
+        "date_period": "Jun-25",
+        "finish_production": "3,797"
+      },
+      {
+        "product_name": "Paper Machine 6 Consuptions (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "3,63,699"
+      },
+      {
+        "product_name": "Paper Machine 6 Consuptions (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "5,16,690"
+      },
+      {
+        "product_name": "Paper Machine 6 Consuptions (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "4,13,315"
+      },
+      {
+        "product_name": "Pulp Mill 6 Unit/Ton (Finish Prod.)",
+        "date_period": "Apr-25",
+        "power_unit_per_tonne": "109"
+      },
+      {
+        "product_name": "Pulp Mill 6 Unit/Ton (Finish Prod.)",
+        "date_period": "May-25",
+        "power_unit_per_tonne": "112"
+      },
+      {
+        "product_name": "Pulp Mill 6 Unit/Ton (Finish Prod.)",
+        "date_period": "Jun-25",
+        "power_unit_per_tonne": "109"
+      },
+      {
+        "product_name": "Total PM6 Unit on Finish (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "335"
+      },
+      {
+        "product_name": "Total PM6 Unit on Finish (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "334"
+      },
+      {
+        "product_name": "Total PM6 Unit on Finish (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "340"
+      },
+      {
+        "product_name": "Total PM5 Finish Production (MT)",
+        "date_period": "Apr-25",
+        "finish_production": "4,000"
+      },
+      {
+        "product_name": "Total PM5 Finish Production (MT)",
+        "date_period": "May-25",
+        "finish_production": "4,919"
+      },
+      {
+        "product_name": "Total PM5 Finish Production (MT)",
+        "date_period": "Jun-25",
+        "finish_production": "4,554"
+      },
+      {
+        "product_name": "Paper Machine 5 Consuptions (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "13,31,187"
+      },
+      {
+        "product_name": "Paper Machine 5 Consuptions (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "15,81,315"
+      },
+      {
+        "product_name": "Paper Machine 5 Consuptions (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "12,85,953"
+      },
+      {
+        "product_name": "Paper Machine 5 Unit/Ton (Finish Prod.)",
+        "date_period": "Apr-25",
+        "power_unit_per_tonne": "333"
+      },
+      {
+        "product_name": "Paper Machine 5 Unit/Ton (Finish Prod.)",
+        "date_period": "May-25",
+        "power_unit_per_tonne": "321"
+      },
+      {
+        "product_name": "Paper Machine 5 Unit/Ton (Finish Prod.)",
+        "date_period": "Jun-25",
+        "power_unit_per_tonne": "282"
+      },
+      {
+        "product_name": "Pulp Mill 5 Consumptions (kwh)",
+        "date_period": "Apr-25",
+        "pulp_mill_consumption": "8,37,907"
+      },
+      {
+        "product_name": "Pulp Mill 5 Consumptions (kwh)",
+        "date_period": "May-25",
+        "pulp_mill_consumption": "9,47,342"
+      },
+      {
+        "product_name": "Pulp Mill 5 Consumptions (kwh)",
+        "date_period": "Jun-25",
+        "pulp_mill_consumption": "6,08,858"
+      },
+      {
+        "product_name": "Pulp Mill 5 Unit/Ton (Finish Prod.)",
+        "date_period": "Apr-25",
+        "power_unit_per_tonne": "209"
+      },
+      {
+        "product_name": "Pulp Mill 5 Unit/Ton (Finish Prod.)",
+        "date_period": "May-25",
+        "power_unit_per_tonne": "193"
+      },
+      {
+        "product_name": "Pulp Mill 5 Unit/Ton (Finish Prod.)",
+        "date_period": "Jun-25",
+        "power_unit_per_tonne": "134"
+      },
+      {
+        "product_name": "Total PM5 Unit on Finish (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "542"
+      },
+      {
+        "product_name": "Total PM5 Unit on Finish (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "514"
+      },
+      {
+        "product_name": "Total PM5 Unit on Finish (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "416"
+      },
+      {
+        "product_name": "Total PM4 Finish Production (MT)",
+        "date_period": "Apr-25",
+        "finish_production": "5,159"
+      },
+      {
+        "product_name": "Total PM4 Finish Production (MT)",
+        "date_period": "May-25",
+        "finish_production": "4,321"
+      },
+      {
+        "product_name": "Total PM4 Finish Production (MT)",
+        "date_period": "Jun-25",
+        "finish_production": "3,765"
+      },
+      {
+        "product_name": "Paper Machine 4 Consuptions (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "12,57,405"
+      },
+      {
+        "product_name": "Paper Machine 4 Consuptions (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "11,59,566"
+      },
+      {
+        "product_name": "Paper Machine 4 Consuptions (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "10,20,858"
+      },
+      {
+        "product_name": "Paper Machine 4 Unit/Ton (Finish Prod.)",
+        "date_period": "Apr-25",
+        "power_unit_per_tonne": "244"
+      },
+      {
+        "product_name": "Paper Machine 4 Unit/Ton (Finish Prod.)",
+        "date_period": "May-25",
+        "power_unit_per_tonne": "268"
+      },
+      {
+        "product_name": "Paper Machine 4 Unit/Ton (Finish Prod.)",
+        "date_period": "Jun-25",
+        "power_unit_per_tonne": "271"
+      },
+      {
+        "product_name": "Pulp Mill 4 Consumptions (kwh)",
+        "date_period": "Apr-25",
+        "pulp_mill_consumption": "6,21,565"
+      },
+      {
+        "product_name": "Pulp Mill 4 Consumptions (kwh)",
+        "date_period": "May-25",
+        "pulp_mill_consumption": "4,26,661"
+      },
+      {
+        "product_name": "Pulp Mill 4 Consumptions (kwh)",
+        "date_period": "Jun-25",
+        "pulp_mill_consumption": "3,55,316"
+      },
+      {
+        "product_name": "Pulp Mill 4 Unit/Ton (Finish Prod.)",
+        "date_period": "Apr-25",
+        "power_unit_per_tonne": "120"
+      },
+      {
+        "product_name": "Pulp Mill 4 Unit/Ton (Finish Prod.)",
+        "date_period": "May-25",
+        "power_unit_per_tonne": "99"
+      },
+      {
+        "product_name": "Pulp Mill 4 Unit/Ton (Finish Prod.)",
+        "date_period": "Jun-25",
+        "power_unit_per_tonne": "94"
+      },
+      {
+        "product_name": "Total PM4 Unit on Finish (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "364"
+      },
+      {
+        "product_name": "Total PM4 Unit on Finish (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "367"
+      },
+      {
+        "product_name": "Total PM4 Unit on Finish (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "366"
+      },
+      {
+        "product_name": "ETP Consumption (kwh)",
+        "date_period": "Apr-25",
+        "machine_consumption": "1,90,717"
+      },
+      {
+        "product_name": "ETP Consumption (kwh)",
+        "date_period": "May-25",
+        "machine_consumption": "2,10,380"
+      },
+      {
+        "product_name": "ETP Consumption (kwh)",
+        "date_period": "Jun-25",
+        "machine_consumption": "1,89,528"
+      },
+      {
+        "product_name": "ETP Unit/Ton (Finish Prod.)",
+        "date_period": "Apr-25",
+        "power_unit_per_tonne": "15.3"
+      },
+      {
+        "product_name": "ETP Unit/Ton (Finish Prod.)",
+        "date_period": "May-25",
+        "power_unit_per_tonne": "15.2"
+      },
+      {
+        "product_name": "ETP Unit/Ton (Finish Prod.)",
+        "date_period": "Jun-25",
+        "power_unit_per_tonne": "15.6"
+      },
+      {
+        "product_name": "Diesel-ltr",
+        "date_period": "Apr-25",
+        "machine_consumption": "2075"
+      },
+      {
+        "product_name": "Diesel-ltr",
+        "date_period": "May-25",
+        "machine_consumption": "6220"
+      },
+      {
+        "product_name": "Diesel-ltr",
+        "date_period": "Jun-25",
+        "machine_consumption": "32930"
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "report_period": {
+    "value": "FEBRUARY-2025"
+  },
+  "entries": [
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "1",
+      "opening_balance": {
+        "value": "102.765"
+      },
+      "received_quantity": {
+        "value": "19.060"
+      },
+      "outwards": {
+        "value": "60"
+      },
+      "closing_balance": {
+        "value": "61.825"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "2",
+      "opening_balance": {
+        "value": "61.825"
+      },
+      "received_quantity": {
+        "value": "92.545"
+      },
+      "outwards": {
+        "value": "60"
+      },
+      "closing_balance": {
+        "value": "94.370"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "3",
+      "opening_balance": {
+        "value": "94.370"
+      },
+      "received_quantity": {
+        "value": "40.275"
+      },
+      "outwards": {
+        "value": "40"
+      },
+      "closing_balance": {
+        "value": "94.645"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "4",
+      "opening_balance": {
+        "value": "94.645"
+      },
+      "received_quantity": {
+        "value": "58.555"
+      },
+      "outwards": {
+        "value": "60"
+      },
+      "closing_balance": {
+        "value": "93.200"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "5",
+      "opening_balance": {
+        "value": "93.200"
+      },
+      "received_quantity": {
+        "value": "38.410"
+      },
+      "outwards": {
+        "value": "65"
+      },
+      "closing_balance": {
+        "value": "66.610"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "6",
+      "opening_balance": {
+        "value": "66.610"
+      },
+      "received_quantity": {
+        "value": "76.560"
+      },
+      "outwards": {
+        "value": "60"
+      },
+      "closing_balance": {
+        "value": "83.170"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "7",
+      "opening_balance": {
+        "value": "83.170"
+      },
+      "received_quantity": {
+        "value": "37.720"
+      },
+      "outwards": {
+        "value": "60"
+      },
+      "closing_balance": {
+        "value": "60.890"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "8",
+      "opening_balance": {
+        "value": "60.890"
+      },
+      "received_quantity": {
+        "value": "113.020"
+      },
+      "outwards": {
+        "value": "60"
+      },
+      "closing_balance": {
+        "value": "113.910"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "9",
+      "opening_balance": {
+        "value": "113.910"
+      },
+      "received_quantity": {
+        "value": "19.500"
+      },
+      "outwards": {
+        "value": "70"
+      },
+      "closing_balance": {
+        "value": "63.410"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "10",
+      "opening_balance": {
+        "value": "63.410"
+      },
+      "received_quantity": {
+        "value": "117.360"
+      },
+      "outwards": {
+        "value": "60"
+      },
+      "closing_balance": {
+        "value": "120.770"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "11",
+      "opening_balance": {
+        "value": "120.770"
+      },
+      "received_quantity": {
+        "value": "55.340"
+      },
+      "outwards": {
+        "value": "65"
+      },
+      "closing_balance": {
+        "value": "111.110"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "12",
+      "opening_balance": {
+        "value": "111.110"
+      },
+      "received_quantity": {
+        "value": "106.770"
+      },
+      "outwards": {
+        "value": "70"
+      },
+      "closing_balance": {
+        "value": "147.880"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "13",
+      "opening_balance": {
+        "value": "147.880"
+      },
+      "received_quantity": {
+        "value": "75.010"
+      },
+      "outwards": {
+        "value": "65"
+      },
+      "closing_balance": {
+        "value": "157.890"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "14",
+      "opening_balance": {
+        "value": "157.890"
+      },
+      "received_quantity": {
+        "value": "58.730"
+      },
+      "outwards": {
+        "value": "70"
+      },
+      "closing_balance": {
+        "value": "146.620"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "15",
+      "opening_balance": {
+        "value": "146.620"
+      },
+      "received_quantity": {
+        "value": "18.310"
+      },
+      "outwards": {
+        "value": "65"
+      },
+      "closing_balance": {
+        "value": "99.930"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "16",
+      "opening_balance": {
+        "value": "99.930"
+      },
+      "received_quantity": {
+        "value": "0.000"
+      },
+      "outwards": {
+        "value": "60"
+      },
+      "closing_balance": {
+        "value": "39.930"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "17",
+      "opening_balance": {
+        "value": "39.930"
+      },
+      "received_quantity": {
+        "value": "59.650"
+      },
+      "outwards": {
+        "value": "65"
+      },
+      "closing_balance": {
+        "value": "74.580"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "18",
+      "opening_balance": {
+        "value": "74.580"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "34.580"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "19",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "20",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "21",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "22",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "23",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "24",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "25",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "26",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "27",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "28",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "outwards": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "939",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": {
+          "value": "FY 2024-2025"
+        },
+        "entries": [
+          {
+            "sample_name": "Bagasse",
+            "date_period": "April 2024",
+            "gcv": {
+              "value": 2200,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "May 2024",
+            "gcv": {
+              "value": 2200,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "June 2024",
+            "gcv": {
+              "value": 2150,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "July 2024",
+            "gcv": {
+              "value": 2200,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "August 2024",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "September 2024",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "October 2024",
+            "gcv": {
+              "value": 2100.0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "November 2024",
+            "gcv": {
+              "value": 2100.0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "December 2024",
+            "gcv": {
+              "value": 2200,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "January 2025",
+            "gcv": {
+              "value": 2200,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "February 2025",
+            "gcv": {
+              "value": 2200,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Bagasse",
+            "date_period": "March 2025",
+            "gcv": {
+              "value": 2200,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "April 2024",
+            "gcv": {
+              "value": 3350,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "May 2024",
+            "gcv": {
+              "value": 3350,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "June 2024",
+            "gcv": {
+              "value": 3300,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "July 2024",
+            "gcv": {
+              "value": 3350,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "August 2024",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "September 2024",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "October 2024",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "November 2024",
+            "gcv": {
+              "value": 3350,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "December 2024",
+            "gcv": {
+              "value": 3350,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "January 2025",
+            "gcv": {
+              "value": 3360,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "February 2025",
+            "gcv": {
+              "value": 3275,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Rice Husk",
+            "date_period": "March 2025",
+            "gcv": {
+              "value": 3350,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "April 2024",
+            "gcv": {
+              "value": 1750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "May 2024",
+            "gcv": {
+              "value": 1800,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "June 2024",
+            "gcv": {
+              "value": 1800,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "July 2024",
+            "gcv": {
+              "value": 1750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "August 2024",
+            "gcv": {
+              "value": 1800,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "September 2024",
+            "gcv": {
+              "value": 1750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "October 2024",
+            "gcv": {
+              "value": 1750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "November 2024",
+            "gcv": {
+              "value": 1780,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "December 2024",
+            "gcv": {
+              "value": 1800,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "January 2025",
+            "gcv": {
+              "value": 1800,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "February 2025",
+            "gcv": {
+              "value": 1750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "RDF",
+            "date_period": "March 2025",
+            "gcv": {
+              "value": 1755,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "April 2024",
+            "gcv": {
+              "value": 3800,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "May 2024",
+            "gcv": {
+              "value": 3750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "June 2024",
+            "gcv": {
+              "value": 3750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "July 2024",
+            "gcv": {
+              "value": 3800,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "August 2024",
+            "gcv": {
+              "value": 3800,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "September 2024",
+            "gcv": {
+              "value": 3700,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "October 2024",
+            "gcv": {
+              "value": 3750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "November 2024",
+            "gcv": {
+              "value": 3750,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "December 2024",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "January 2025",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "February 2025",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          },
+          {
+            "sample_name": "Coal",
+            "date_period": "March 2025",
+            "gcv": {
+              "value": 0,
+              "unit": "kcal/kg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

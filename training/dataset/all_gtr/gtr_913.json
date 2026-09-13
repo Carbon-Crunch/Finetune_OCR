@@ -1,0 +1,51 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": null
+  },
+  "vendor": {
+    "value": "Anand Triplex Board Pvt. Ltd."
+  },
+  "vendor_gstin": {
+    "value": "09AAECA9305M1ZD"
+  },
+  "buyer": {
+    "value": "M/S ANAND DUPLEX LTD - CUSTOMERS"
+  },
+  "buyer_gstin": {
+    "value": "09AABCA4927A1Z3"
+  },
+  "invoice_no": {
+    "value": "1208/2024-25"
+  },
+  "invoice_date": {
+    "value": "5-Oct-24"
+  },
+  "document_type": {
+    "value": "Tax Invoice"
+  },
+  "company_pan": {
+    "value": "AAECA9305M"
+  },
+  "entries": [
+    {
+      "item": {
+        "value": "ELECTRICITY"
+      },
+      "hsn_sac": {
+        "value": "27160000"
+      },
+      "quantity": {
+        "value": "19,30,036",
+        "unit": "UN"
+      },
+      "rate": {
+        "value": "10.00"
+      },
+      "amount": {
+        "value": "1,93,00,360.00"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "920",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Daily Fuel Consumption",
+      "boilerplate_used": "fuel/daily_fuel_consumption.json",
+      "data": {
+        "report_period": {
+          "value": "Sep-24 to Feb-25"
+        },
+        "entries": [
+          {
+            "date_period": "10-Sep-24",
+            "diesel_consumption": {
+              "value": "6308.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "20-Sep-24",
+            "diesel_consumption": {
+              "value": "4695.670",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "30-Sep-24",
+            "diesel_consumption": {
+              "value": "4411.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "10-Oct-24",
+            "diesel_consumption": {
+              "value": "8039.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "21-Oct-24",
+            "diesel_consumption": {
+              "value": "3393.010",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "30-Oct-24",
+            "diesel_consumption": {
+              "value": "5086.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "11-Nov-24",
+            "diesel_consumption": {
+              "value": "5026.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "20-Nov-24",
+            "diesel_consumption": {
+              "value": "3843.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "29-Nov-24",
+            "diesel_consumption": {
+              "value": "4037.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "10-Dec-24",
+            "diesel_consumption": {
+              "value": "4938.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "21-Dec-24",
+            "diesel_consumption": {
+              "value": "5273.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "31-Dec-24",
+            "diesel_consumption": {
+              "value": "3524.010",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "11-Jan-25",
+            "diesel_consumption": {
+              "value": "5283.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "20-Jan-25",
+            "diesel_consumption": {
+              "value": "4050.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "31-Jan-25",
+            "diesel_consumption": {
+              "value": "4983.000",
+              "unit": "ltr"
+            }
+          },
+          {
+            "date_period": "11-Feb-25",
+            "diesel_consumption": {
+              "value": "5675.010",
+              "unit": "ltr"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 15,
+      "image_index": 15,
+      "rotation_needed": true,
+      "degree": 27270
+    },
+    {
+      "page_number": 16,
+      "image_index": 16,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 17,
+      "image_index": 17,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 18,
+      "image_index": 18,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 19,
+      "image_index": 19,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 20,
+      "image_index": 20,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 21,
+      "image_index": 21,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 22,
+      "image_index": 22,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 23,
+      "image_index": 23,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 24,
+      "image_index": 24,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 25,
+      "image_index": 25,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 26,
+      "image_index": 26,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 27,
+      "image_index": 27,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 28,
+      "image_index": 28,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 29,
+      "image_index": 29,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 30,
+      "image_index": 30,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 31,
+      "image_index": 31,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 32,
+      "image_index": 32,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 33,
+      "image_index": 33,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 34,
+      "image_index": 34,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 35,
+      "image_index": 35,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 36,
+      "image_index": 36,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 37,
+      "image_index": 37,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 38,
+      "image_index": 38,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 39,
+      "image_index": 39,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 40,
+      "image_index": 40,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 41,
+      "image_index": 41,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 42,
+      "image_index": 42,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 43,
+      "image_index": 43,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 44,
+      "image_index": 44,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 45,
+      "image_index": 45,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 46,
+      "image_index": 46,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 47,
+      "image_index": 47,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 48,
+      "image_index": 48,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 49,
+      "image_index": 49,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 50,
+      "image_index": 50,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 51,
+      "image_index": 51,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 52,
+      "image_index": 52,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 53,
+      "image_index": 53,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 54,
+      "image_index": 54,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 55,
+      "image_index": 55,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 56,
+      "image_index": 56,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 57,
+      "image_index": 57,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 58,
+      "image_index": 58,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 59,
+      "image_index": 59,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 60,
+      "image_index": 60,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 61,
+      "image_index": 61,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 62,
+      "image_index": 62,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 63,
+      "image_index": 63,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 64,
+      "image_index": 64,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 65,
+      "image_index": 65,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 66,
+      "image_index": 66,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 67,
+      "image_index": 67,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 68,
+      "image_index": 68,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 69,
+      "image_index": 69,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 70,
+      "image_index": 70,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 71,
+      "image_index": 71,
+      "rotation_needed": true,
+      "degree": 270
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-2025"
+    },
+    "entries": [
+      {
+        "date_of_receipt": "27-4-24",
+        "supplier_name": "Manguing coal",
+        "truck_vehicle_no": "RJ52GA 5128",
+        "gcv": {
+          "value": "5656",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "19.6",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "34.320",
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "25-4-24",
+        "supplier_name": "Ecotech Agro",
+        "truck_vehicle_no": "RJ34GA 2463",
+        "gcv": {
+          "value": "2650",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "10.00",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "31.7",
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "25-4-24",
+        "supplier_name": "Manguing coal",
+        "truck_vehicle_no": "RJ144H 6555",
+        "gcv": {
+          "value": "5732",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "19.0",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "35.390",
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "25-4-24",
+        "supplier_name": "Manguing coal",
+        "truck_vehicle_no": "RJ52GA 2521",
+        "gcv": {
+          "value": "5680",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "19.5",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "35.580",
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "26-4-24",
+        "supplier_name": "Manguing coal",
+        "truck_vehicle_no": "RJ52GA 2885",
+        "gcv": {
+          "value": "5647",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "18.90",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "42.890",
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "27-4-24",
+        "supplier_name": "Manguing coal",
+        "truck_vehicle_no": "RJ52HA 4064",
+        "gcv": {
+          "value": "5696",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "19.5",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "43.420",
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "28-4-24",
+        "supplier_name": "Manguing coal",
+        "truck_vehicle_no": "RJ214B 5128",
+        "gcv": {
+          "value": "5656",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "19.68",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "34.320",
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "28-4-24",
+        "supplier_name": "Ecotech Agro",
+        "truck_vehicle_no": "RJ32GA 5623",
+        "gcv": {
+          "value": "2800",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "8.0",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "20.130",
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

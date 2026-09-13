@@ -1,0 +1,162 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "856",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": "SEP-2024",
+        "vendor": "MAHARASHTRA STATE ELECTRICITY DISTRIBUTION CO. LTD.",
+        "vendor_gstin": "27AAECM2933K1ZB",
+        "buyer": "SAHAKARMAHARSHI BAHUSAHEB THORAT SAHAKARI SAKHAR K",
+        "buyer_gstin": null,
+        "invoice_no": "202409157010091",
+        "invoice_date": "03/10/2024",
+        "document_type": "BILL OF SUPPLY",
+        "company_pan": "AAAAS3893G",
+        "entries": [
+          {
+            "item": "Demand Charges",
+            "hsn_sac": null,
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": "549.00"
+            },
+            "amount": {
+              "value": "823500.00"
+            }
+          },
+          {
+            "item": "Energy Charges",
+            "hsn_sac": null,
+            "quantity": {
+              "value": "128622.00",
+              "unit": null
+            },
+            "rate": {
+              "value": "8.36"
+            },
+            "amount": {
+              "value": "1075279.92"
+            }
+          },
+          {
+            "item": "Electricity Duty",
+            "hsn_sac": null,
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": "7.50"
+            },
+            "amount": {
+              "value": "145329.59"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": "SEP-2024",
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "76.147",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": "1800.000",
+              "unit": null
+            },
+            "kwh": {
+              "value": "126435.000",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "128622.000",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": "11713.000",
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": "541.000",
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

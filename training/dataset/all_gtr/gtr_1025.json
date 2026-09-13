@@ -1,0 +1,95 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "report_period": {
+    "value": "2024-25"
+  },
+  "entries": [
+    {
+      "date_period": "Apr-24",
+      "consumption": {
+        "value": "22,17,481",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "May-24",
+      "consumption": {
+        "value": "21,44,819",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Jun-24",
+      "consumption": {
+        "value": "22,95,032",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Jul-24",
+      "consumption": {
+        "value": "19,97,706",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Aug-24",
+      "consumption": {
+        "value": "20,68,132",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Sep-24",
+      "consumption": {
+        "value": "22,68,308",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Oct-24",
+      "consumption": {
+        "value": "23,73,609",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Nov-24",
+      "consumption": {
+        "value": "20,26,628",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Dec-24",
+      "consumption": {
+        "value": "18,04,139",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Jan-25",
+      "consumption": {
+        "value": "12,73,926",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Feb-25",
+      "consumption": {
+        "value": "21,60,177",
+        "unit": "kwh"
+      }
+    },
+    {
+      "date_period": "Mar-25",
+      "consumption": {
+        "value": "23,14,487",
+        "unit": "kwh"
+      }
+    }
+  ]
+}

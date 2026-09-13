@@ -1,0 +1,54 @@
+{
+  "data_type": "Energy",
+  "data_category": "Electricity Bill",
+  "extraction_rules": "This is a tabular billing document. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period or charge entry. Also extract all relevant document-level metadata.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "vendor": {
+      "value": null
+    },
+    "vendor_gstin": {
+      "value": null
+    },
+    "buyer": {
+      "value": null
+    },
+    "buyer_gstin": {
+      "value": null
+    },
+    "invoice_no": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_type": {
+      "value": null
+    },
+    "company_pan": {
+      "value": null
+    },
+    "entries": [
+      {
+        "item": {
+          "value": null
+        },
+        "hsn_sac": {
+          "value": null
+        },
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null
+        },
+        "amount": {
+          "value": null
+        }
+      }
+    ]
+  }
+}

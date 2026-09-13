@@ -1,0 +1,22 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "invoice_date": {
+    "value": "28-JUN-24"
+  },
+  "supplier_name": "GUJARAT MINERAL DEVELOPMENT CORPORATION LIMITED",
+  "entries": [
+    {
+      "item_description": "MATA NO MADH 'A' GRADE- Lignite MA",
+      "hsn_sac": "270220",
+      "quantity": {
+        "value": "19.26",
+        "unit": "M.T"
+      },
+      "gross_amount": {
+        "value": "64295.80",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

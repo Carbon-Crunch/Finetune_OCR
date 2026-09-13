@@ -1,0 +1,103 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "CONSENT ORDER",
+    "document_type": "Consent Order",
+    "report_period": {
+      "value": "01/01/2020 to 31/12/2024"
+    },
+    "invoice_date": null,
+    "document_date": "28/01/2020",
+    "supplier_name": null,
+    "customer_name": "M/s GENUS PAPER AND BOARDS LTD",
+    "company_name": "U.P. Pollution Control Board",
+    "plant_name": "M/s GENUS PAPER AND BOARDS LTD",
+    "location": "VILLAGE-AGHWANPUR, KANTH ROAD, MORADABAD, UP, 244001",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "57995/UPPCB/Moradabad(UPPCBRO)/CTO/water/MORADABAD/2019",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "item_description": "Domestic effluent",
+        "quantity": {
+          "value": "30",
+          "unit": "KLD"
+        },
+        "remarks": "Septic Tank"
+      },
+      {
+        "item_description": "Industrial effluent",
+        "quantity": {
+          "value": "450",
+          "unit": "KLD"
+        },
+        "remarks": "ETP, ZLD, Reuse in process or irrigation"
+      },
+      {
+        "item_description": "Production Capacity",
+        "product_name": "Kraft paper",
+        "capacity": {
+          "value": "450",
+          "unit": "TPD"
+        }
+      },
+      {
+        "item_description": "Domestic Effluent Standard: BOD",
+        "remarks": "30 mg/l"
+      },
+      {
+        "item_description": "Industrial Effluent Standard: BOD",
+        "remarks": "30 mg/l"
+      },
+      {
+        "item_description": "Industrial Effluent Standard: Total Suspended Solids",
+        "remarks": "100 mg/l"
+      },
+      {
+        "item_description": "Industrial Effluent Standard: COD",
+        "remarks": "250 mg/l"
+      },
+      {
+        "item_description": "Industrial Effluent Standard: Oil & Grease",
+        "remarks": "10 mg/l"
+      }
+    ],
+    "additional_fields": {
+      "application_reference_no": "5234696",
+      "authorized_person": "Shri SURYA PRAKASH SINHA"
+    }
+  }
+}

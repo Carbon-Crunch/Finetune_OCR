@@ -1,0 +1,44 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy, Production & Operational",
+  "data_category": "Power Plant Report",
+  "boilerplate": "energy/power_plant_report.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "APRIL-2025"
+    },
+    "entries": [
+      {
+        "total_power_generation": {
+          "value": "4938169",
+          "unit": null
+        },
+        "internal_dg_generation": {
+          "value": "18469",
+          "unit": null
+        },
+        "steam_generation": {
+          "value": "32816",
+          "unit": null
+        },
+        "turbine_input": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": "9551",
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": "22521",
+          "unit": null
+        },
+        "boiler_fuel_use": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "40100297487",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "02/2025"
+        },
+        "vendor": {
+          "value": "UTTARAKHAND POWER CORPORATION LIMITED"
+        },
+        "vendor_gstin": {
+          "value": "05AAACU6007G1ZP"
+        },
+        "buyer": {
+          "value": "KASHI VISHWANATH TEXTILE MILL"
+        },
+        "buyer_gstin": {
+          "value": null
+        },
+        "invoice_no": {
+          "value": "29450250305000003"
+        },
+        "invoice_date": {
+          "value": "05/03/2025"
+        },
+        "document_type": {
+          "value": "ELECTRICITY BILL AND DISCONNECTION NOTICE"
+        },
+        "company_pan": {
+          "value": null
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "NH"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "359590",
+              "unit": null
+            },
+            "rate": {
+              "value": "6.4"
+            },
+            "amount": {
+              "value": "2301376.00"
+            }
+          },
+          {
+            "item": {
+              "value": "EP"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "205063",
+              "unit": null
+            },
+            "rate": {
+              "value": "8.32"
+            },
+            "amount": {
+              "value": "1706124.16"
+            }
+          },
+          {
+            "item": {
+              "value": "OP"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "807000",
+              "unit": null
+            },
+            "rate": {
+              "value": "4.8"
+            },
+            "amount": {
+              "value": "3873600.00"
+            }
+          },
+          {
+            "item": {
+              "value": "MP"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "271800",
+              "unit": null
+            },
+            "rate": {
+              "value": "8.32"
+            },
+            "amount": {
+              "value": "2261376.00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "02/2025"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "624750.0",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": "150",
+              "unit": null
+            },
+            "kwh": {
+              "value": "359590",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": null,
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": null,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": "5142.00",
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

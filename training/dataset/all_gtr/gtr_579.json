@@ -1,0 +1,265 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "document_title": "Genus Paper & Boards Ltd. (MBD) 9MW TURBINE",
+  "document_type": "Log book, Electricity Generation",
+  "company_name": "Genus Paper & Boards Ltd.",
+  "plant_name": "MBD",
+  "report_period": {
+    "value": "14.04.2024"
+  },
+  "entries": [
+    {
+      "equipment_name": "Load",
+      "remarks": "MW"
+    },
+    {
+      "equipment_name": "Turbine Speed",
+      "remarks": "RPM"
+    },
+    {
+      "equipment_name": "HP Actuator Opening",
+      "remarks": "% age"
+    },
+    {
+      "equipment_name": "Wheel Case Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Inlet Steam Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Inlet Steam Temperature",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Inlet Steam Flow (Instant)",
+      "remarks": "Tph"
+    },
+    {
+      "equipment_name": "Inlet Steam Flow (Totalizer)",
+      "remarks": "Tons"
+    },
+    {
+      "equipment_name": "Extraction Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Extraction Temperature",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Extraction Flow (Instant)",
+      "remarks": "Tph"
+    },
+    {
+      "equipment_name": "Extraction Flow (Totalizer)",
+      "remarks": "Tons"
+    },
+    {
+      "equipment_name": "Exhaust Steam Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Exhaust Steam Temperature",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Hot Well Temperature",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Hot Well Level",
+      "remarks": "% age"
+    },
+    {
+      "equipment_name": "CEP Discharge Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Condensate Flow (Instant)",
+      "remarks": "Tph"
+    },
+    {
+      "equipment_name": "Condensate Flow (Totalizer)",
+      "remarks": "Tons"
+    },
+    {
+      "equipment_name": "Gland Sealing Steam Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Gland Sealing Steam Temp",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Vacuum (Exhaust)",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Cooling Water Inlet Pressure (Conden)",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Cooling Water Inlet Temp (Cooler)",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Cooling Water Outlet Pressure (Conden)",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Condenser Cooling Water Outlet Temp",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Alternator Cooling Water Outlet Temp",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "MOP Discharge Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "ACOP 1/2 Discharge Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Lube Oil Header Pressure (After Cooler)",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Lube Oil Header Temp (After Cooler)",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Lube Oil Header Oil Inlet Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Diff. Pressure Across Lube Oil Filter",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Oil Coolers Pressure (Before LP Trip)",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Alternator Lube Oil Inlet Pressure",
+      "remarks": "Kg/cm sq"
+    },
+    {
+      "equipment_name": "Turbine Thrust Bearing Temp. (Non Active)",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Turbine Thrust Bearing Temp. (Active)",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Turbine DE Bearing Temp.",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Turbine NDE Bearing Temp.",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "GB Pinion DE Bearing Temp.",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "GB Pinion NDE Bearing Temp.",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "GB Gear DE Bearing Temp.",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "GB Gear NDE Bearing Temp.",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Alternator Winding Temp R1",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Alternator Winding Temp R2",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Alternator Winding Temp Y1",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Alternator Winding Temp Y2",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Alternator Winding Temp B1",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Alternator Winding Temp B2",
+      "remarks": "Deg C"
+    },
+    {
+      "equipment_name": "Turbine Axial Displacement (Top)",
+      "remarks": "mm"
+    },
+    {
+      "equipment_name": "Turbine Axial Displacement (Bottom)",
+      "remarks": "mm"
+    },
+    {
+      "equipment_name": "Turbine Front Bearing Vibration (X)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Turbine Front Bearing Vibration (Y)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Turbine Rear Bearing Vibration (X)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Turbine Rear Bearing Vibration (Y)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Pinion Rear Bearing Vibration (X)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Pinion Rear Bearing Vibration (Y)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Generator DE Bearing Vibration (X)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Generator DE Bearing Vibration (Y)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Generator NDE Bearing Vibration (X)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Generator NDE Bearing Vibration (Y)",
+      "remarks": "micromills"
+    },
+    {
+      "equipment_name": "Dearerator Flow",
+      "remarks": "Tph"
+    },
+    {
+      "equipment_name": "Dearerator Flow Totaliser",
+      "remarks": "Tph"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "97",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Generation Report",
+      "boilerplate_used": "energy/generation_report.json",
+      "data": {
+        "report_period": {
+          "value": "01-Dec-24 to 31-DEC-2024"
+        },
+        "entries": [
+          {
+            "date_period": "01-Dec-24 to 31-DEC-2024",
+            "net_generation": {
+              "value": 7397.982,
+              "unit": "Mwh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Consumption History / Generation Report",
+      "boilerplate_used": "energy/electric_consumption_history.json",
+      "data": {
+        "report_period": {
+          "value": "Dec'24"
+        },
+        "entries": [
+          {
+            "date_period": "SENVION WIND TECHONOLOGY PRIVATE LIMITED(DHUN-29)",
+            "net_generation": {
+              "value": 615.367,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "VINOD COTFAB PRIVATE LIMITED(SP-335)",
+            "net_generation": {
+              "value": 689.027,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "UNITED POLYFAB GUJARAT LIMITED(SP-281)",
+            "net_generation": {
+              "value": 612.058,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "MARUTI SPINTEX PRIVATE LIMITED(SP-476)",
+            "net_generation": {
+              "value": 674.993,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "OZONE PB SPINTEX LIMITED(KK-263)",
+            "net_generation": {
+              "value": 861.16,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "OMAX COTSPIN PRIVATE LIMITED(SP-414)",
+            "net_generation": {
+              "value": 620.571,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "SHAH PAPER MILLS LIMITED (BNG-500)",
+            "net_generation": {
+              "value": 936.289,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "JANI SALES PRIVATE LIMITED (KK-228)",
+            "net_generation": {
+              "value": 904.539,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "VINOD SPINNERS PRIVATE LIMITED (BNG-102)",
+            "net_generation": {
+              "value": 779.766,
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "MEHALI PAPERS PRIVATE LIMITED (SP-66)",
+            "net_generation": {
+              "value": 704.212,
+              "unit": "Mwh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Production & Operational",
+  "data_category": "Power Plant Report",
+  "extraction_rules": "This is a tabular plant report. Extract EVERY row from the table into the entries array. Each object in entries represents one plant or unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "FY 24-25"
+    },
+    "entries": [
+      {
+        "total_power_generation": {
+          "value": "26928044",
+          "unit": null
+        },
+        "internal_dg_generation": {
+          "value": null,
+          "unit": null
+        },
+        "steam_generation": {
+          "value": null,
+          "unit": null
+        },
+        "turbine_input": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "boiler_fuel_use": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "30722644",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "29368952",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "30376376",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "30864208",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "29500280",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "30296988",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "27999944",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "30442216",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "30488296",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "27557392",
+          "unit": null
+        }
+      },
+      {
+        "total_power_generation": {
+          "value": "29970120",
+          "unit": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "971",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Energy Purchase Invoice",
+      "boilerplate_used": "energy/energy_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "DYPSSKL/MSEDCL/2024-25/01"
+        },
+        "invoice_date": {
+          "value": "01/05/2024"
+        },
+        "supplier_name": "Pad. Dr. D.Y.Patil SSK Ltd., Tal- Gaganbawda, Kolhapur",
+        "supplier_gstin": null,
+        "buyer_name": "Maharashtra State Electricity Distribution Company Ltd.",
+        "buyer_gstin": null,
+        "total_amount": {
+          "value": "29290234",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "KWH Exported",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": null,
+            "quantity": {
+              "value": "4034468",
+              "unit": null
+            },
+            "gross_amount": {
+              "value": "29290234",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "APRIL - 2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "2689.645",
+              "unit": "KWH"
+            },
+            "multiplying_factor": {
+              "value": "1500",
+              "unit": null
+            },
+            "kwh": {
+              "value": "4034468",
+              "unit": "KWH"
+            },
+            "kvah": null,
+            "kvarh": {
+              "value": "973.77",
+              "unit": "KVARH"
+            },
+            "peak_hour": null,
+            "night_hour": null,
+            "amd": null
+          }
+        ]
+      }
+    }
+  ]
+}

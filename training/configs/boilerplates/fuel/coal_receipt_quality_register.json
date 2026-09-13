@@ -1,0 +1,40 @@
+{
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "date_of_receipt": null,
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": null,
+        "truck_vehicle_no": null,
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

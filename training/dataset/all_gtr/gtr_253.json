@@ -1,0 +1,33 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "3-Oct-24"
+    },
+    "supplier_name": "RI SALES LLP",
+    "entries": [
+      {
+        "item_description": "Coal (Indian) GCV (4000-4500)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "27011990",
+        "quantity": {
+          "value": "33.700",
+          "unit": "mts"
+        },
+        "units": {
+          "value": "mts",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1,88,720.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

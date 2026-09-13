@@ -1,0 +1,88 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "MANUFACTURING PROCESS CHART (PM-1)",
+    "document_type": "Process Chart",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "item_description": "Raw Material Selection As per Requirement"
+      },
+      {
+        "item_description": "Conveyor"
+      },
+      {
+        "item_description": "High Consistency Pulping"
+      },
+      {
+        "item_description": "High Density Cleaning"
+      },
+      {
+        "item_description": "Course & Fine Screening"
+      },
+      {
+        "item_description": "Centri Cleaners"
+      },
+      {
+        "item_description": "Poly Disc Filter"
+      },
+      {
+        "item_description": "Dispersing Process"
+      },
+      {
+        "item_description": "Refining"
+      },
+      {
+        "item_description": "Final Centri Cleaning & Fine Screening (Approach Flow)"
+      },
+      {
+        "item_description": "Paper Machine Head Box"
+      },
+      {
+        "item_description": "Wire Part Section"
+      },
+      {
+        "item_description": "Press Section"
+      },
+      {
+        "item_description": "Dryer Section"
+      },
+      {
+        "item_description": "Size Press"
+      },
+      {
+        "item_description": "Dryer Section"
+      },
+      {
+        "item_description": "Pope Reel"
+      },
+      {
+        "item_description": "Rewinder"
+      },
+      {
+        "item_description": "Weighing & Packing"
+      },
+      {
+        "item_description": "Storage & Dispatch"
+      }
+    ],
+    "additional_fields": {}
+  }
+}

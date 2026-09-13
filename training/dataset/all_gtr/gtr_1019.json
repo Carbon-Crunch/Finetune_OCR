@@ -1,0 +1,376 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Process Log Book",
+  "report_period": {
+    "value": "2024-10-31"
+  },
+  "entries": [
+    {
+      "timestamp": "7:00 AM",
+      "pressure": {
+        "value": "12.8",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "8:00 AM",
+      "pressure": {
+        "value": "13.1",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "9:00 AM",
+      "pressure": {
+        "value": "13.2",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "10:00 AM",
+      "pressure": {
+        "value": "12.8",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "11:00 AM",
+      "pressure": {
+        "value": "12.7",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "12:00 PM",
+      "pressure": {
+        "value": "12.7",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "1:00 PM",
+      "pressure": {
+        "value": "12.7",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "2:00 PM",
+      "pressure": {
+        "value": "12.7",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "3:00 PM",
+      "pressure": {
+        "value": "12.7",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "4:00 PM",
+      "pressure": {
+        "value": "12.8",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "5:00 PM",
+      "pressure": {
+        "value": "12.8",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "6:00 PM",
+      "pressure": {
+        "value": "12.6",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "7:00 PM",
+      "pressure": {
+        "value": "12.8",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "8:00 PM",
+      "pressure": {
+        "value": "12.8",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "9:00 PM",
+      "pressure": {
+        "value": "13.2",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "10:00 PM",
+      "pressure": {
+        "value": "13.3",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "11:00 PM",
+      "pressure": {
+        "value": "13.0",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "12:00 AM",
+      "pressure": {
+        "value": "12.9",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "1:00 AM",
+      "pressure": {
+        "value": "12.9",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "2:00 AM",
+      "pressure": {
+        "value": "13.1",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "3:00 AM",
+      "pressure": {
+        "value": "12.9",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "4:00 AM",
+      "pressure": {
+        "value": "12.9",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "5:00 AM",
+      "pressure": {
+        "value": "13.3",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    },
+    {
+      "timestamp": "6:00 AM",
+      "pressure": {
+        "value": "13.2",
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": "45",
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": "1.8",
+        "unit": "TPH"
+      }
+    }
+  ],
+  "summary": {
+    "steam_statistics": {
+      "oil_purifier_running_hours": "2.0"
+    }
+  }
+}

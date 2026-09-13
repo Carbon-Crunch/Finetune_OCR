@@ -1,0 +1,39 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Coal laboratory test report",
+  "boilerplate_used": "fuel/coal_laboratory_test_report.json",
+  "data": {
+    "report_period": {
+      "value": "10/08/2024 to 12/08/2024"
+    },
+    "entries": [
+      {
+        "sample_name": "Coal",
+        "date_period": "10/08/2024",
+        "sample_quantity": {
+          "value": "1 Kg",
+          "unit": null
+        },
+        "moisture_content": {
+          "value": 17.6,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 5960,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 13.7,
+          "unit": "%"
+        },
+        "supplier_name": "M/S ANAND TRIPLEX BOARD PVT. LTD.",
+        "operator_name": "Sonu Gupta",
+        "remarks": "BDL(DL-1.0)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "9-Apr-24"
+    },
+    "supplier_name": "Jgn Sugar and Biofuels Private Limited",
+    "entries": [
+      {
+        "item_description": "Loose Bagasse",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "23032000",
+        "quantity": {
+          "value": 359.5,
+          "unit": "QTL"
+        },
+        "units": {
+          "value": "QTL",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": 71900.0,
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

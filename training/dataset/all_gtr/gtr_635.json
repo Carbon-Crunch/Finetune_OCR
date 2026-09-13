@@ -1,0 +1,28 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "28-Jan-25"
+  },
+  "supplier_name": "Baba Balaji Trading Company",
+  "entries": [
+    {
+      "item_description": "RDF",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": "38251000",
+      "quantity": {
+        "value": "54.3500",
+        "unit": "TON"
+      },
+      "units": {
+        "value": "TON",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "42393.00",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

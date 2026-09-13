@@ -1,0 +1,341 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "report_period": {
+    "value": "April - 2024"
+  },
+  "entries": [
+    {
+      "date_period": "01-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78486.6,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "02-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78486.6,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "03-04-2024",
+      "consumption": {
+        "value": 56800,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78543.4,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "04-04-2024",
+      "consumption": {
+        "value": 54800,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78598.2,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "05-04-2024",
+      "consumption": {
+        "value": 56000,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78654.2,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "06-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78654.2,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "07-04-2024",
+      "consumption": {
+        "value": 56900,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78711.1,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "08-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78711.1,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "09-04-2024",
+      "consumption": {
+        "value": 55300,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78766.4,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "10-04-2024",
+      "consumption": {
+        "value": 55100,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78821.5,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "11-04-2024",
+      "consumption": {
+        "value": 57100,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78878.6,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "12-04-2024",
+      "consumption": {
+        "value": 57100,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78935.7,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "13-04-2024",
+      "consumption": {
+        "value": 54500,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78990.2,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "14-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78990.2,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "15-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78990.2,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "16-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 78990.2,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "17-04-2024",
+      "consumption": {
+        "value": 40700,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79030.9,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "18-04-2024",
+      "consumption": {
+        "value": 55100,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79086.0,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "19-04-2024",
+      "consumption": {
+        "value": 52800,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79138.8,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "20-04-2024",
+      "consumption": {
+        "value": 52100,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79190.9,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "21-04-2024",
+      "consumption": {
+        "value": 54500,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79245.4,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "22-04-2024",
+      "consumption": {
+        "value": 53100,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79298.5,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "23-04-2024",
+      "consumption": {
+        "value": 45100,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79343.6,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "24-04-2024",
+      "consumption": {
+        "value": 50700,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79394.3,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "25-04-2024",
+      "consumption": {
+        "value": 53800,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79448.1,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "26-04-2024",
+      "consumption": {
+        "value": 51400,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79499.5,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "27-04-2024",
+      "consumption": {
+        "value": 54800,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79554.3,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "28-04-2024",
+      "consumption": {
+        "value": 54800,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79589.1,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "29-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79589.1,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "30-04-2024",
+      "consumption": {
+        "value": 0,
+        "unit": null
+      },
+      "net_generation": {
+        "value": 79589.1,
+        "unit": null
+      }
+    }
+  ]
+}

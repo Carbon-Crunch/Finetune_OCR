@@ -1,0 +1,194 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Generation Report",
+  "report_period": {
+    "value": "Jan-25 to Mar-25"
+  },
+  "entries": [
+    {
+      "month": "Jan-25",
+      "efi_percent": 69.11,
+      "total_generation": 6745200,
+      "pm_mc_kwh": 3855100,
+      "rpg_kwh": 2067110,
+      "captive_kwh": 819000,
+      "loss_kwh": 3990,
+      "total_steam": 44489,
+      "fuel_data": [
+        {
+          "fuel_type": "IMPOTED COAL",
+          "op_bal": 0.0,
+          "received": 0.0,
+          "con": 0.0,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "IND. COAL",
+          "op_bal": 2995.685,
+          "received": 11873.135,
+          "con": 8259.0,
+          "bal": 6609.82
+        },
+        {
+          "fuel_type": "FIRE WOOD",
+          "op_bal": 0.0,
+          "received": 0.0,
+          "con": 0.0,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "R/HUSK",
+          "op_bal": 100.045,
+          "received": 919.57,
+          "con": 810.0,
+          "bal": 209.615
+        },
+        {
+          "fuel_type": "Baggase",
+          "op_bal": 0.0,
+          "received": 1400.9,
+          "con": 1400.9,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "RDF",
+          "op_bal": 422.075,
+          "received": 115.27,
+          "con": 422.075,
+          "bal": 115.27
+        },
+        {
+          "fuel_type": "Mustard Shell",
+          "op_bal": 0.0,
+          "received": 2147.765,
+          "con": 2045.0,
+          "bal": 102.765
+        }
+      ]
+    },
+    {
+      "month": "Feb-25",
+      "efi_percent": 69.17,
+      "total_generation": 6800600,
+      "pm_mc_kwh": 4070610,
+      "rpg_kwh": 1893450,
+      "captive_kwh": 832620,
+      "loss_kwh": 3920,
+      "total_steam": 43686,
+      "fuel_data": [
+        {
+          "fuel_type": "IMPOTED COAL",
+          "op_bal": 0.0,
+          "received": 0.0,
+          "con": 0.0,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "IND. COAL",
+          "op_bal": 6609.82,
+          "received": 10900.245,
+          "con": 8995.0,
+          "bal": 8515.065
+        },
+        {
+          "fuel_type": "FIRE WOOD",
+          "op_bal": 0.0,
+          "received": 0.0,
+          "con": 0.0,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "R/HUSK",
+          "op_bal": 209.615,
+          "received": 0.0,
+          "con": 209.615,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "Baggase",
+          "op_bal": 0.0,
+          "received": 590.31,
+          "con": 590.31,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "RDF",
+          "op_bal": 115.27,
+          "received": 911.065,
+          "con": 825.0,
+          "bal": 201.335
+        },
+        {
+          "fuel_type": "Mustard Shell",
+          "op_bal": 102.765,
+          "received": 986.815,
+          "con": 1089.58,
+          "bal": 0.0
+        }
+      ]
+    },
+    {
+      "month": "Mar-25",
+      "efi_percent": 69.21,
+      "total_generation": 7222100,
+      "pm_mc_kwh": 4592850,
+      "rpg_kwh": 1728290,
+      "captive_kwh": 896700,
+      "loss_kwh": 4260,
+      "total_steam": 46554,
+      "fuel_data": [
+        {
+          "fuel_type": "IMPOTED COAL",
+          "op_bal": 0.0,
+          "received": 0.0,
+          "con": 0.0,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "IND. COAL",
+          "op_bal": 8515.065,
+          "received": 5409.52,
+          "con": 10990.0,
+          "bal": 2934.585
+        },
+        {
+          "fuel_type": "FIRE WOOD",
+          "op_bal": 0.0,
+          "received": 0.0,
+          "con": 0.0,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "R/HUSK",
+          "op_bal": 0.0,
+          "received": 0.0,
+          "con": 0.0,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "Baggase",
+          "op_bal": 0.0,
+          "received": 0.0,
+          "con": 0.0,
+          "bal": 0.0
+        },
+        {
+          "fuel_type": "RDF",
+          "op_bal": 201.335,
+          "received": 1821.92,
+          "con": 1700.0,
+          "bal": 323.255
+        },
+        {
+          "fuel_type": "Mustard Shell",
+          "op_bal": 0.0,
+          "received": 260.475,
+          "con": 260.475,
+          "bal": 0.0
+        }
+      ]
+    }
+  ]
+}

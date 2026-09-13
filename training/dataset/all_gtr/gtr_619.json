@@ -1,0 +1,222 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy, Production & Operational",
+  "data_category": "Log book, Electricity Generation/Consumption",
+  "boilerplate": "energy/hand_written_power_log.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "05.DEC.2024"
+    },
+    "entries": [
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "6 M.W. TURBINE",
+        "meter_reading_left": {
+          "value": "0",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "9 M.W. TURBINE",
+        "meter_reading_left": {
+          "value": "01,06,400",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "05,77,700",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "1 M.W. D.G",
+        "meter_reading_left": {
+          "value": "0",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "9,838",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "UTILITY",
+        "meter_reading_left": {
+          "value": "25,218",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "87,637",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "PAPER MIC NO1",
+        "meter_reading_left": {
+          "value": "30,762",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "01,07,574",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "PAPER MIC NO2",
+        "meter_reading_left": {
+          "value": "58,381",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "01,82,150",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "PULP MILL NO1",
+        "meter_reading_left": {
+          "value": "16,345",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "55,116",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "PULP MILL NO2",
+        "meter_reading_left": {
+          "value": "52,233",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "01,42,339",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "E.T.P",
+        "meter_reading_left": {
+          "value": "2333",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "7444",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "SUNDRY PLANT",
+        "meter_reading_left": {
+          "value": "6",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "60",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "BOARD PLANT",
+        "meter_reading_left": {
+          "value": "68",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "365",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "P.LIGHTING",
+        "meter_reading_left": {
+          "value": "978",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "4486",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.DEC.2024",
+        "shift": "GUEST HOUSE",
+        "meter_reading_left": {
+          "value": "76",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "367",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "boilerplate": "production/boiler_log_book.json",
+  "extracted_fields": {
+    "boiler_name": "Sainsons Paper Ind. Pvt. Ltd., Pehowa",
+    "registration_number": "HA/8869",
+    "entries": [
+      {
+        "date_period": "05.11.24",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      }
+    ]
+  }
+}

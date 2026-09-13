@@ -1,0 +1,290 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "F.Y. 2024-25"
+    },
+    "entries": [
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "April",
+        "opening_balance": {
+          "value": 111024,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2741257,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2711202,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 141079,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "May",
+        "opening_balance": {
+          "value": 141079,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 3004557,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2971230,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 174406,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "June",
+        "opening_balance": {
+          "value": 174406,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2874401,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2736141,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 312666,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "July",
+        "opening_balance": {
+          "value": 312666,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2110224,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2241285,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 181605,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "August",
+        "opening_balance": {
+          "value": 181605,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1916324,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2011202,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 86727,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "September",
+        "opening_balance": {
+          "value": 86727,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2013324,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2014022,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 86029,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "October",
+        "opening_balance": {
+          "value": 86029,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2814012,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2614021,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 286020,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "November",
+        "opening_balance": {
+          "value": 286020,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2970412,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2814022,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 442410,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "December",
+        "opening_balance": {
+          "value": 442410,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 3014022,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2974122,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 482310,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "January",
+        "opening_balance": {
+          "value": 482310,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2874012,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2814022,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 542300,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "February",
+        "opening_balance": {
+          "value": 542300,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2614022,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 2814022,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 342300,
+          "unit": "Kg"
+        }
+      },
+      {
+        "fuel_name": "Rice Husk",
+        "fuel_type": "Biomass",
+        "date_period": "March",
+        "opening_balance": {
+          "value": 342300,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1834200,
+          "unit": "Kg"
+        },
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": 1994200,
+          "unit": "Kg"
+        },
+        "closing_balance": {
+          "value": 182300,
+          "unit": "Kg"
+        }
+      }
+    ]
+  }
+}

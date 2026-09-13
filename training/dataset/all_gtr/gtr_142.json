@@ -1,0 +1,278 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-25"
+    },
+    "entries": [
+      {
+        "date_period": "POWER GENERATION MW TG-SET",
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "POWER GENERATION MW TG-SET",
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "POWER IMPORTED FROM GRID (KVAH)",
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "GRID POWER FACTOR",
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "PAPER MACHINE-1",
+        "consumption": {
+          "value": "836999",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "PAPER MACHINE-2",
+        "consumption": {
+          "value": "170507",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "PULP MILL-1",
+        "consumption": {
+          "value": "417076",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "BOILER (50 TPH)",
+        "consumption": {
+          "value": "308712",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "BOILER (35 TPH)",
+        "consumption": {
+          "value": "245432",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "ESP (35 TPH)",
+        "consumption": {
+          "value": "10523",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "COOLING TOWER",
+        "consumption": {
+          "value": "161088",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "TURBINE AUX.",
+        "consumption": {
+          "value": "26888",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "R.O. PLANT",
+        "consumption": {
+          "value": "40086",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "R.T.O.",
+        "consumption": {
+          "value": "142468",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "CUTTER",
+        "consumption": {
+          "value": "106108",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "RECOVERY PLANT (CRP)",
+        "consumption": {
+          "value": "113517",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "WET WASHING",
+        "consumption": {
+          "value": "18402",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "CONTINUE DIGESTER",
+        "consumption": {
+          "value": "113940",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "LOSSES",
+        "consumption": {
+          "value": "86524",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "TOTAL CONSUMPTION",
+        "consumption": {
+          "value": "4658601",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "TOTAL PRODUCTION",
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "PMC-1",
+        "consumption": {
+          "value": "3991299",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "PMC-2",
+        "consumption": {
+          "value": "6727096",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "TOTAL",
+        "consumption": {
+          "value": "10718725",
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

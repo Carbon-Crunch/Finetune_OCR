@@ -1,0 +1,194 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy, Production & Operational",
+  "data_category": "Steam Distribution Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one date or shift record of steam distribution.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-2025"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 23053, 35 TPH: 18375, 15 TPH: 413",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 25210, 35 TPH: 17618, 15 TPH: 701",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 6116, 35 TPH: 17759, 15 TPH: 3763",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 27067, 35 TPH: 16091, 15 TPH: 90",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 23324, 35 TPH: 16216, 15 TPH: 172",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 23072, 35 TPH: 17146, 15 TPH: 218",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 22828, 35 TPH: 19964, 15 TPH: 216",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 21769, 35 TPH: 17834, 15 TPH: 391",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 27371, 35 TPH: 17980, 15 TPH: 798",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 28188, 35 TPH: 17680, 15 TPH: 626",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 21450, 35 TPH: 17471, 15 TPH: 650",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "turbine_inlet_steam": {
+          "value": "50 TPH: 24073, 35 TPH: 16286, 15 TPH: 1363",
+          "unit": "TPH"
+        },
+        "extraction_steam": {
+          "value": "31.5 ton, 23.95 ton, 8.1 ton",
+          "unit": "ton"
+        },
+        "distribution_to_process": {
+          "value": "23.4 ton, 16.8 ton, 6.2 ton",
+          "unit": "ton"
+        }
+      }
+    ]
+  }
+}

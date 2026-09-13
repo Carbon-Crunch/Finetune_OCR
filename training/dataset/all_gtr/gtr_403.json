@@ -1,0 +1,281 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "GPS Map Camera Photo",
+    "document_type": "Site Verification Photo",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "2025-07-07"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "BHEL",
+    "plant_name": "BHEL Mawana",
+    "location": "Mawana Road, Mawana, Meerut, Uttar Pradesh 250401, India",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": "07/07/2025",
+        "date_of_receipt": null,
+        "timestamp": "12:45 GMT+05:30",
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": "BHEL Generator",
+        "equipment_name": "BHEL Steam Turbine Generator",
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Captured by GPS Map Camera",
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ],
+    "additional_fields": {
+      "latitude": 29.093988,
+      "longitude": 77.884821,
+      "brand_name": "BHEL"
+    }
+  }
+}

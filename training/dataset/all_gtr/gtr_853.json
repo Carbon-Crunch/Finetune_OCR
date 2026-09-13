@@ -1,0 +1,319 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "853",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": "04/02/25"
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": "90450",
+              "unit": "kWh"
+            },
+            "internal_dg_generation": null,
+            "steam_generation": null,
+            "turbine_input": null,
+            "condensate": null,
+            "bleed_steam": null,
+            "boiler_fuel_use": null
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "04/02/25"
+        },
+        "entries": [
+          {
+            "timestamp": "8:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "489",
+              "unit": "C"
+            },
+            "flow_rate": null,
+            "runtime": null,
+            "power": null,
+            "pulp_levels": null
+          },
+          {
+            "timestamp": "9:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "488",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "10:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "487",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "11:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "487",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "12:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "486",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "13:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "485",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "14:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "487",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "15:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "487",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "16:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "480",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "17:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "477",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "18:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "477",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "19:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "478",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "20:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "476",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "21:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "477",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "22:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "483",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "23:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "482",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "24:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "483",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "1:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "483",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "2:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "482",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "3:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "480",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "4:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "481",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "5:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "480",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "6:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "481",
+              "unit": "C"
+            }
+          },
+          {
+            "timestamp": "7:00",
+            "pressure": {
+              "value": "45",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "480",
+              "unit": "C"
+            }
+          }
+        ],
+        "summary": {
+          "power_generation": "90450",
+          "aux_power_consumption": "11850",
+          "steam_statistics": {
+            "total_steam_consumption_by_tg_tons": "757"
+          }
+        }
+      }
+    }
+  ]
+}

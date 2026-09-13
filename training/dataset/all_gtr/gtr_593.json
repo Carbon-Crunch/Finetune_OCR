@@ -1,0 +1,45 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": "July-2024",
+  "truck_count": {
+    "value": "1",
+    "unit": "count"
+  },
+  "entries": [
+    {
+      "truck_no": "Rack",
+      "supplier": "Northan coal Singrauli (M.P)",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": "4068.38",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3590",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "15.5",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "37.0",
+        "unit": "%"
+      }
+    }
+  ],
+  "totals": {
+    "total_gross_weight": {
+      "value": null,
+      "unit": "MT"
+    },
+    "total_net_weight": {
+      "value": "4068.38",
+      "unit": "MT"
+    }
+  }
+}

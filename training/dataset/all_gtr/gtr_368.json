@@ -1,0 +1,968 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "MONTHLY PURCHASE/ CONSUMPTION OF FUELS",
+    "document_type": "Fuel Purchase and Consumption Report",
+    "report_period": {
+      "value": "2024-2025 & 2025-2026"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "GENUS PAPER & BOARDS LIMITED",
+    "plant_name": "Genus Paper & Boards Limited",
+    "location": "Moradabad, U.P.",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": "April 2024",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Coal & DORH",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": "MT",
+          "unit": "MT"
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 7000.72,
+          "unit": "MT"
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": 9118.58,
+          "unit": "MT"
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "May 2024",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Coal & DORH",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": "MT",
+          "unit": "MT"
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 11527.4,
+          "unit": "MT"
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": 11802.81,
+          "unit": "MT"
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "June 2024",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Coal & DORH",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": "MT",
+          "unit": "MT"
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 10774.44,
+          "unit": "MT"
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": 4221.17,
+          "unit": "MT"
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ],
+    "additional_fields": {
+      "monthly_purchase_consumption_2024_2025": [
+        {
+          "month": "April 2024",
+          "purchase": {
+            "dorh_mt": 47.26,
+            "coal_mt": 9071.32
+          },
+          "issue_consumption": {
+            "dorh_mt": 100.21,
+            "coal_mt": 6900.51,
+            "coal_sale_mt": null
+          }
+        },
+        {
+          "month": "May 2024",
+          "purchase": {
+            "dorh_mt": 115.73,
+            "coal_mt": 11687.08
+          },
+          "issue_consumption": {
+            "dorh_mt": 491.88,
+            "coal_mt": 6293.05,
+            "coal_sale_mt": 4742.47
+          }
+        },
+        {
+          "month": "June 2024",
+          "purchase": {
+            "dorh_mt": 185.07,
+            "coal_mt": 4036.1
+          },
+          "issue_consumption": {
+            "dorh_mt": 791.91,
+            "coal_mt": 6032.91,
+            "coal_sale_mt": 3949.62
+          }
+        },
+        {
+          "month": "July 2024",
+          "purchase": {
+            "dorh_mt": null,
+            "coal_mt": 4068.38
+          },
+          "issue_consumption": {
+            "dorh_mt": null,
+            "coal_mt": 7231.45,
+            "coal_sale_mt": null
+          }
+        },
+        {
+          "month": "August 2024",
+          "purchase": {
+            "dorh_mt": null,
+            "coal_mt": 6399.1
+          },
+          "issue_consumption": {
+            "dorh_mt": null,
+            "coal_mt": 6401.02,
+            "coal_sale_mt": null
+          }
+        },
+        {
+          "month": "September 2024",
+          "purchase": {
+            "dorh_mt": null,
+            "coal_mt": 10704.21
+          },
+          "issue_consumption": {
+            "dorh_mt": null,
+            "coal_mt": 6622.95,
+            "coal_sale_mt": null
+          }
+        },
+        {
+          "month": "October 2024",
+          "purchase": {
+            "dorh_mt": null,
+            "coal_mt": 4999.69
+          },
+          "issue_consumption": {
+            "dorh_mt": 202.0,
+            "coal_mt": 6404.6,
+            "coal_sale_mt": null
+          }
+        },
+        {
+          "month": "November 2024",
+          "purchase": {
+            "dorh_mt": 505.19,
+            "coal_mt": 4690.55
+          },
+          "issue_consumption": {
+            "dorh_mt": 219.77,
+            "coal_mt": 4476.24,
+            "coal_sale_mt": 4844.93
+          }
+        },
+        {
+          "month": "December 2024",
+          "purchase": {
+            "dorh_mt": 5719.19,
+            "coal_mt": 6830.36
+          },
+          "issue_consumption": {
+            "dorh_mt": 4546.34,
+            "coal_mt": 3794.16,
+            "coal_sale_mt": 2915.66
+          }
+        },
+        {
+          "month": "January 2025",
+          "purchase": {
+            "dorh_mt": 5307.6,
+            "coal_mt": 713.7
+          },
+          "issue_consumption": {
+            "dorh_mt": 6280.15,
+            "coal_mt": 1923.11,
+            "coal_sale_mt": null
+          }
+        },
+        {
+          "month": "February 2025",
+          "purchase": {
+            "dorh_mt": 5526.69,
+            "coal_mt": 1759.24
+          },
+          "issue_consumption": {
+            "dorh_mt": 5043.8,
+            "coal_mt": 2383.23,
+            "coal_sale_mt": null
+          }
+        },
+        {
+          "month": "March 2025",
+          "purchase": {
+            "dorh_mt": 5044.03,
+            "coal_mt": 3571.41
+          },
+          "issue_consumption": {
+            "dorh_mt": 5286.42,
+            "coal_mt": 2601.92,
+            "coal_sale_mt": null
+          }
+        },
+        {
+          "month": "Total 2024-2025",
+          "purchase": {
+            "dorh_mt": 22450.76,
+            "coal_mt": 68531.14
+          },
+          "issue_consumption": {
+            "dorh_mt": 22962.48,
+            "coal_mt": 61065.15,
+            "coal_sale_mt": 16452.67
+          }
+        }
+      ],
+      "monthly_purchase_consumption_2025_2026": [
+        {
+          "month": "April 2025",
+          "purchase": {
+            "dorh_mt": 3795.29,
+            "coal_mt": 7175.7,
+            "rdf_mt": 601.62
+          },
+          "issue_consumption": {
+            "dorh_mt": 3962.82,
+            "coal_mt": 3430.8,
+            "coal_sale_mt": 873.88,
+            "rdf_mt": 601.62
+          }
+        },
+        {
+          "month": "May 2025",
+          "purchase": {
+            "dorh_mt": 1755.54,
+            "coal_mt": 4488.4,
+            "rdf_mt": 58.59
+          },
+          "issue_consumption": {
+            "dorh_mt": 2190.05,
+            "coal_mt": 6861.14,
+            "coal_sale_mt": null,
+            "rdf_mt": 16.37
+          }
+        },
+        {
+          "month": "June 2025",
+          "purchase": {
+            "dorh_mt": null,
+            "coal_mt": 9551.51,
+            "rdf_mt": 152.2
+          },
+          "issue_consumption": {
+            "dorh_mt": 124.18,
+            "coal_mt": 6076.59,
+            "coal_sale_mt": null,
+            "rdf_mt": 193.59
+          }
+        },
+        {
+          "month": "Total 2025-2026",
+          "purchase": {
+            "dorh_mt": 5550.83,
+            "coal_mt": 21215.61,
+            "rdf_mt": 812.41
+          },
+          "issue_consumption": {
+            "dorh_mt": 6277.05,
+            "coal_mt": 16368.53,
+            "coal_sale_mt": 873.88,
+            "rdf_mt": 811.58
+          }
+        }
+      ]
+    }
+  }
+}

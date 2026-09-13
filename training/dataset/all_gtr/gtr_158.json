@@ -1,0 +1,61 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 270
+    }
+  ],
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "boiler_name": "30 TPH Boiler",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "08/03/2025",
+      "shift": "A, B, C",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    }
+  ],
+  "summary": {
+    "total_steam_generation": {
+      "shift_a": {
+        "final_reading": null,
+        "tons": null
+      },
+      "shift_b": {
+        "final_reading": null,
+        "tons": null
+      },
+      "shift_c": {
+        "final_reading": null,
+        "tons": null
+      },
+      "day_total": null
+    },
+    "feed_water_consumption": {
+      "shift_a": {
+        "final_reading": null,
+        "tons": null
+      },
+      "shift_b": {
+        "final_reading": null,
+        "tons": null
+      },
+      "shift_c": {
+        "final_reading": null,
+        "tons": null
+      },
+      "day_total": null
+    },
+    "dearator_steam_consumption": null,
+    "bed_material_consumption": "Bed material drain and charge at 8:05 AM and 10:00 PM work done.",
+    "bd_of_bed_material": "Bed material drain and charge at 06:00 AM work done."
+  }
+}

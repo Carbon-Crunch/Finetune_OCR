@@ -1,0 +1,191 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "20/12/2025",
+  "entries": [
+    {
+      "waste_type": "Dry Leaves/Vegetable Matter",
+      "weight": {
+        "value": 0.62,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 4.15,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Wooden Pieces",
+      "weight": {
+        "value": 0.78,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 5.21,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Paper/Cardboard",
+      "weight": {
+        "value": 0.73,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 4.87,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Textile/Cotton/Jute",
+      "weight": {
+        "value": 0.44,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 2.94,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Rubber/Leather/Tyre",
+      "weight": {
+        "value": 1.27,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 8.47,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "PVC Plastic Waste - Category-1",
+      "weight": {
+        "value": 0.0,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 0.0,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "PVC Plastic Waste - Category-2",
+      "weight": {
+        "value": 0.0,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 57.84,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "PVC Plastic Waste - Category-3",
+      "weight": {
+        "value": 8.68,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 5.11,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "PVC Plastic Waste - Category-4",
+      "weight": {
+        "value": 0.77,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 0.0,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Metals",
+      "weight": {
+        "value": 0.05,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 0.32,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Glass/Ceramic",
+      "weight": {
+        "value": 0.39,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 2.61,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Solid Material/Inert",
+      "weight": {
+        "value": 0.95,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 6.31,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Stones/Brick/Concrete",
+      "weight": {
+        "value": 0.33,
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": 2.17,
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    }
+  ]
+}

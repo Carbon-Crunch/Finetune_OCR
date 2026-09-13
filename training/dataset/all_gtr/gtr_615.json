@@ -1,0 +1,262 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register",
+  "boilerplate": "fuel/fuel_stock_register.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "AUGUST 2024"
+    },
+    "entries": [
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "1",
+        "opening_balance": "12775.730",
+        "received_quantity": "0.000",
+        "consumption": "0.000",
+        "closing_balance": "12775.730"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "2",
+        "opening_balance": "12775.730",
+        "received_quantity": "0.000",
+        "consumption": "0.000",
+        "closing_balance": "12775.730"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "3",
+        "opening_balance": "12775.730",
+        "received_quantity": "0.000",
+        "consumption": "319",
+        "closing_balance": "12456.730"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "4",
+        "opening_balance": "12456.730",
+        "received_quantity": "0.000",
+        "consumption": "393",
+        "closing_balance": "12063.730"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "5",
+        "opening_balance": "12063.730",
+        "received_quantity": "0.000",
+        "consumption": "385",
+        "closing_balance": "11678.730"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "6",
+        "opening_balance": "11678.730",
+        "received_quantity": "42.270",
+        "consumption": "384",
+        "closing_balance": "11337.000"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "7",
+        "opening_balance": "11337.000",
+        "received_quantity": "0.000",
+        "consumption": "377",
+        "closing_balance": "10960.000"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "8",
+        "opening_balance": "10960.000",
+        "received_quantity": "0.000",
+        "consumption": "379",
+        "closing_balance": "10581.000"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "9",
+        "opening_balance": "10581.000",
+        "received_quantity": "0.000",
+        "consumption": "370",
+        "closing_balance": "10211.000"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "10",
+        "opening_balance": "10211.000",
+        "received_quantity": "0.000",
+        "consumption": "361",
+        "closing_balance": "9850.000"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "11",
+        "opening_balance": "9850.000",
+        "received_quantity": "0.000",
+        "consumption": "367",
+        "closing_balance": "9483.000"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "12",
+        "opening_balance": "9483.000",
+        "received_quantity": "0.000",
+        "consumption": "372",
+        "closing_balance": "9111.000"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "13",
+        "opening_balance": "9111.000",
+        "received_quantity": "129.670",
+        "consumption": "384",
+        "closing_balance": "8856.670"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "14",
+        "opening_balance": "8856.670",
+        "received_quantity": "204.340",
+        "consumption": "392",
+        "closing_balance": "8669.010"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "15",
+        "opening_balance": "8669.010",
+        "received_quantity": "381.510",
+        "consumption": "401",
+        "closing_balance": "8649.520"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "16",
+        "opening_balance": "8649.520",
+        "received_quantity": "212.540",
+        "consumption": "398",
+        "closing_balance": "8464.060"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "17",
+        "opening_balance": "8464.060",
+        "received_quantity": "89.920",
+        "consumption": "397",
+        "closing_balance": "8156.980"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "18",
+        "opening_balance": "8156.980",
+        "received_quantity": "0.000",
+        "consumption": "382",
+        "closing_balance": "7774.980"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "19",
+        "opening_balance": "7774.980",
+        "received_quantity": "105.850",
+        "consumption": "389",
+        "closing_balance": "7491.830"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "20",
+        "opening_balance": "7491.830",
+        "received_quantity": "369.860",
+        "consumption": "395",
+        "closing_balance": "7466.690"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "21",
+        "opening_balance": "7466.690",
+        "received_quantity": "409.800",
+        "consumption": "400",
+        "closing_balance": "7476.490"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "22",
+        "opening_balance": "7476.490",
+        "received_quantity": "215.510",
+        "consumption": "401",
+        "closing_balance": "7291.000"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "23",
+        "opening_balance": "7291.000",
+        "received_quantity": "563.970",
+        "consumption": "385",
+        "closing_balance": "7469.970"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "24",
+        "opening_balance": "7469.970",
+        "received_quantity": "548.180",
+        "consumption": "401",
+        "closing_balance": "7617.150"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "25",
+        "opening_balance": "7617.150",
+        "received_quantity": "0.000",
+        "consumption": "395",
+        "closing_balance": "7222.150"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "26",
+        "opening_balance": "7222.150",
+        "received_quantity": "363.940",
+        "consumption": "384",
+        "closing_balance": "7202.090"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "27",
+        "opening_balance": "7202.090",
+        "received_quantity": "319.490",
+        "consumption": "403",
+        "closing_balance": "7118.580"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "28",
+        "opening_balance": "7118.580",
+        "received_quantity": "247.310",
+        "consumption": "285",
+        "closing_balance": "7080.890"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "29",
+        "opening_balance": "7080.890",
+        "received_quantity": "289.320",
+        "consumption": "300",
+        "closing_balance": "7070.210"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "30",
+        "opening_balance": "7070.210",
+        "received_quantity": "128.420",
+        "consumption": "375",
+        "closing_balance": "6823.630"
+      },
+      {
+        "fuel_name": "INDIAN COAL",
+        "date_period": "31",
+        "opening_balance": "6823.630",
+        "received_quantity": "130.730",
+        "consumption": "329",
+        "closing_balance": "6625.360"
+      }
+    ]
+  }
+}

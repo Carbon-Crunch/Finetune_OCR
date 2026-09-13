@@ -1,0 +1,108 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "1-Apr-25 to 30-Jun-25"
+    },
+    "entries": [
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "Opening Balance",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": {
+          "value": 205660.38,
+          "unit": "QTL"
+        }
+      },
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "April",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": {
+          "value": 27828.05,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 48900.0,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 184588.43,
+          "unit": "QTL"
+        }
+      },
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "May",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": {
+          "value": 29433.5,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 49010.0,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 165011.93,
+          "unit": "QTL"
+        }
+      },
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "June",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": {
+          "value": 9459.59,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 48650.0,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 125821.52,
+          "unit": "QTL"
+        }
+      },
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "Grand Total",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": {
+          "value": 66721.14,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 146560.0,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 125821.52,
+          "unit": "QTL"
+        }
+      }
+    ]
+  }
+}

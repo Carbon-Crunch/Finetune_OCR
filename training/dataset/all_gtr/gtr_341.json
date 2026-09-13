@@ -1,0 +1,164 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 90
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "INVOICE - ANNEXURE - B",
+    "document_type": "Power Generation Export Invoice",
+    "report_period": {
+      "value": "November 2024 - April 2025"
+    },
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": "M/s. Sahakarmaharshi Bhausaheb Thorat Sahakari Sakhar Karkhana Ltd.",
+    "customer_name": "MSEDCL",
+    "company_name": "Sahakarmaharshi Bhausaheb Thorat Sahakari Sakhar Karkhana Ltd.",
+    "plant_name": "SBT SSKL",
+    "location": "Amrutnagar, Post. Sangamner, Tal. Sangamner, Dist. Ahmednagar",
+    "registration_number": "R.ND. A.N.R./P.R.G.(A)30date 6Sept. 1966",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "date_period": "November - 2024",
+        "entry_id": "03",
+        "amount": {
+          "value": 30892055,
+          "unit": "Rs."
+        },
+        "net_amount": {
+          "value": 30892054.8,
+          "unit": "Rs."
+        },
+        "generation": {
+          "value": 4231498.5,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "December - 2024",
+        "entry_id": "04",
+        "amount": {
+          "value": 96163856,
+          "unit": "Rs."
+        },
+        "net_amount": {
+          "value": 96163855.6775,
+          "unit": "Rs."
+        },
+        "generation": {
+          "value": 13148095.5,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "January - 2025",
+        "entry_id": "05",
+        "amount": {
+          "value": 93738278,
+          "unit": "Rs."
+        },
+        "net_amount": {
+          "value": 93738277.5997,
+          "unit": "Rs."
+        },
+        "generation": {
+          "value": 12817507.5,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "February - 2025",
+        "entry_id": "06",
+        "amount": {
+          "value": 89958978,
+          "unit": "Rs."
+        },
+        "net_amount": {
+          "value": 89958977.7975,
+          "unit": "Rs."
+        },
+        "generation": {
+          "value": 12303765,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "March - 2025",
+        "entry_id": "07",
+        "amount": {
+          "value": 74654075,
+          "unit": "Rs."
+        },
+        "net_amount": {
+          "value": 74654074.6853,
+          "unit": "Rs."
+        },
+        "generation": {
+          "value": 10217767.5,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "April - 2025",
+        "entry_id": "01",
+        "amount": {
+          "value": 1144060,
+          "unit": "Rs."
+        },
+        "net_amount": {
+          "value": 1145553.9318,
+          "unit": "Rs."
+        },
+        "generation": {
+          "value": 177174,
+          "unit": "KWH"
+        }
+      }
+    ],
+    "additional_fields": {}
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation (CCA)",
+    "document_type": "Pollution Control Board Consent Order",
+    "report_period": {
+      "value": "23/08/2022 to 31/12/2022"
+    },
+    "invoice_date": null,
+    "document_date": "23/08/2022",
+    "supplier_name": null,
+    "customer_name": "JANKI NEWSPRINT LIMITED",
+    "company_name": "JANKI NEWSPRINT LIMITED",
+    "plant_name": "JANKI NEWSPRINT LIMITED",
+    "location": "VILLAGE - PANCHLI, BAGHPAT ROAD, MEERUT, MEERUT, 250002",
+    "registration_number": "161362/UPPCB/Meerut(UPPCBRO)/CTO/both/MEERUT/2022",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "Application Id 17262872",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "product_name": "7 MW TURBINE",
+        "quantity": {
+          "value": 7,
+          "unit": "Megawatt"
+        }
+      },
+      {
+        "product_name": "55 TPH BOILER",
+        "quantity": {
+          "value": 55,
+          "unit": "Metric Tonnes/Hour"
+        }
+      },
+      {
+        "material_description": "Industrial Effluent",
+        "quantity": {
+          "value": 132,
+          "unit": "KLD"
+        },
+        "remarks": "TREATED AND REUSE IN PROCESS"
+      },
+      {
+        "equipment_name": "1 X 55 TPH BOILER",
+        "material_description": "200 MTD BIOMASS",
+        "capacity": {
+          "value": 48,
+          "unit": "METER STACK HEIGHT"
+        }
+      }
+    ],
+    "additional_fields": {
+      "effluent_discharge_point": "WATER RECYCLED AND REUSE IN PROCESS",
+      "noise_standards_industrial_day": 75,
+      "noise_standards_industrial_night": 70,
+      "noise_standards_commercial_day": 65,
+      "noise_standards_commercial_night": 55,
+      "noise_standards_residential_day": 55,
+      "noise_standards_residential_night": 45,
+      "noise_standards_silence_day": 50,
+      "noise_standards_silence_night": 40
+    }
+  }
+}

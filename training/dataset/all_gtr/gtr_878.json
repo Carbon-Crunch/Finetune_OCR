@@ -1,0 +1,71 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "VLL/VLS/24/23678/001",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": {
+          "value": "2025-03-18"
+        },
+        "entries": [
+          {
+            "sample_name": "ETP Biological Sludge",
+            "date_period": "2025-03-18",
+            "sample_quantity": {
+              "value": "1",
+              "unit": "Packet"
+            },
+            "moisture_content": {
+              "value": "83.15",
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": "11.88",
+              "unit": "%"
+            },
+            "fixed_carbon": {
+              "value": "0.25",
+              "unit": "%"
+            },
+            "gcv": {
+              "value": "<200",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "4.72",
+              "unit": "%"
+            },
+            "supplier_name": "MEHALI PAPERS PRIVATE LIMITED",
+            "operator_name": "Jyothi Ch",
+            "remarks": "Sample tested as received."
+          }
+        ]
+      }
+    }
+  ]
+}

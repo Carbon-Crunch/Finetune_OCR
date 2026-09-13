@@ -1,0 +1,54 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Production & Operational",
+  "data_category": "Process Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one timestamp record of process parameters.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "date_period": null,
+        "timestamp": null,
+        "pressure": null,
+        "temperature": {
+          "value": "68-72",
+          "unit": "C"
+        },
+        "flow_rate": null,
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": null,
+        "timestamp": null,
+        "pressure": null,
+        "temperature": {
+          "value": "102-103",
+          "unit": "C"
+        },
+        "flow_rate": null,
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      }
+    ]
+  }
+}

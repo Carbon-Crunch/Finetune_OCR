@@ -1,0 +1,209 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "1-Apr-24 to 31-Mar-25",
+  "entries": [
+    {
+      "date_period": "Opening Balance",
+      "opening_balance": {
+        "value": 7070366.66,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "April",
+      "inwards": {
+        "value": 2573523.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3443056.9,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 6200832.76,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "May",
+      "inwards": {
+        "value": 3033945.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3713183.5,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 5521594.26,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "June",
+      "inwards": {
+        "value": 10486972.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 5915091.6,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 10093474.66,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "July",
+      "inwards": {
+        "value": 8094159.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 5195247.7,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 12992385.96,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "August",
+      "inwards": {
+        "value": 3239771.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3552931.3,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 12679225.66,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "September",
+      "inwards": {
+        "value": 2428180.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3169454.0,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 11937951.66,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "October",
+      "inwards": {
+        "value": 3309244.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3673773.2,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 11573422.46,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "November",
+      "inwards": {
+        "value": 3328014.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3699404.2,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 11202032.26,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "December",
+      "inwards": {
+        "value": 3423468.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3737040.4,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 10888459.86,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "January",
+      "inwards": {
+        "value": 3045550.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3843665.0,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 10090344.86,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "February",
+      "inwards": {
+        "value": 2969611.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3514883.3,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 9545072.56,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "March",
+      "inwards": {
+        "value": 3459324.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 4405949.2,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 8598447.36,
+        "unit": "KG"
+      }
+    },
+    {
+      "date_period": "Grand Total",
+      "inwards": {
+        "value": 49391761.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 47863680.3,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 8598447.36,
+        "unit": "KG"
+      }
+    }
+  ]
+}

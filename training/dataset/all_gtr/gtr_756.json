@@ -1,0 +1,98 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "document_title": "Dakshin Gujarat Vij Company Ltd. HT Bill",
+  "document_type": "Electricity Bill, Adjustment Details, Solar Power Calculation Sheet",
+  "report_period": {
+    "value": "NOV-2024"
+  },
+  "invoice_date": {
+    "value": "05-12-2024"
+  },
+  "customer_name": "Revival Paper Mill P I.",
+  "company_name": "Dakshin Gujarat Vij Company Ltd.",
+  "location": "Vapi GIDC",
+  "bill_number": "38721",
+  "total_amount": {
+    "value": "4519001.76",
+    "unit": "Rs."
+  },
+  "entries": [
+    {
+      "contract_demand": {
+        "value": "1450",
+        "unit": "KVA"
+      },
+      "billed_demand": {
+        "value": "1233",
+        "unit": "KVA"
+      },
+      "kwh": {
+        "value": "609458",
+        "unit": "KWH"
+      },
+      "kvah": {
+        "value": "619260",
+        "unit": "KVAH"
+      },
+      "kvarh": {
+        "value": "90075",
+        "unit": "KVARH"
+      },
+      "peak_hour": {
+        "value": "206753",
+        "unit": null
+      },
+      "night_hour": {
+        "value": "201135",
+        "unit": null
+      },
+      "amd": {
+        "value": "1181",
+        "unit": null
+      },
+      "supply_voltage": {
+        "value": "11",
+        "unit": "kV"
+      },
+      "average_pf": {
+        "value": "0.984",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "Credit Solar CPP adjustment",
+      "amount": {
+        "value": "1130986.54",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "Debit Solar CPP adjustment",
+      "amount": {
+        "value": "170452.68",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

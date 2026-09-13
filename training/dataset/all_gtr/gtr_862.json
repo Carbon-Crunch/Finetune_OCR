@@ -1,0 +1,140 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "multi_template_extraction": true,
+  "document_id": "862",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": "537713",
+              "unit": "TPH"
+            },
+            "internal_dg_generation": null,
+            "steam_generation": {
+              "value": "537713",
+              "unit": "TPH"
+            },
+            "turbine_input": {
+              "value": "343334",
+              "unit": "TPH"
+            },
+            "condensate": {
+              "value": "45104",
+              "unit": "TPH"
+            },
+            "bleed_steam": {
+              "value": "13892",
+              "unit": "TPH"
+            },
+            "boiler_fuel_use": null
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "date_period": "Apr-24",
+            "flow_rate": {
+              "value": "84569",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "May-24",
+            "flow_rate": {
+              "value": "1892",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Jun-24",
+            "flow_rate": {
+              "value": "0",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Jul-24",
+            "flow_rate": {
+              "value": "0",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Aug-24",
+            "flow_rate": {
+              "value": "0",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Sep-24",
+            "flow_rate": {
+              "value": "0",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Oct-24",
+            "flow_rate": {
+              "value": "0",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Nov-24",
+            "flow_rate": {
+              "value": "41714",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Dec-24",
+            "flow_rate": {
+              "value": "113589",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Jan-25",
+            "flow_rate": {
+              "value": "114771",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Feb-25",
+            "flow_rate": {
+              "value": "103225",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "Mar-25",
+            "flow_rate": {
+              "value": "77953",
+              "unit": "TPH"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

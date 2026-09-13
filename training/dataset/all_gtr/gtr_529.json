@@ -1,0 +1,123 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "14/Jun/2025"
+    },
+    "supplier_name": "INDIAN OIL CORPORATION LTD.,NAJIBABAD",
+    "entries": [
+      {
+        "item_description": "HSD (DIESEL) (LTR)",
+        "material_description": null,
+        "item_code": "04040033",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "12000.000",
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1062325.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "HSD (DIESEL) (LTR)",
+        "material_description": null,
+        "item_code": "21040004",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "12000.000",
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1062324.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "HSD (DIESEL) (LTR)",
+        "material_description": null,
+        "item_code": "10050002",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "12000.000",
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1062324.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "HSD (DIESEL) (LTR)",
+        "material_description": null,
+        "item_code": "28050001",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "12000.000",
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1062366.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "HSD (DIESEL) (LTR)",
+        "material_description": null,
+        "item_code": "07060001",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "12000.000",
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1062360.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "HSD (DIESEL) (LTR)",
+        "material_description": null,
+        "item_code": "14060005",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "12000.000",
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1062360.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

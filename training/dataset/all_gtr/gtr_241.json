@@ -1,0 +1,30 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "invoice_date": {
+    "value": "7-Jun-24"
+  },
+  "supplier_name": "DWARKESH COAL LLP",
+  "entries": [
+    {
+      "item_description": "Lignite Coal",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": "27022000",
+      "quantity": {
+        "value": "23.900",
+        "unit": "MTS"
+      },
+      "units": {
+        "value": "MTS",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "1,05,160.00",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

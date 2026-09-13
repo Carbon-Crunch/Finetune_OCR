@@ -1,0 +1,797 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": true,
+      "degree": 270
+    }
+  ],
+  "report_period": {
+    "value": "April 2024 - March 2025"
+  },
+  "entries": [
+    {
+      "date_of_receipt": "06-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "rao",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5215.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 34.38,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 11.52,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 33.15,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "07-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5205.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 34.26,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 11.14,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "08-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5937.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 25.55,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 6.35,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "08-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "chandra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5112.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 35.26,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 11.14,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 33.23,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "09-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5491.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 29.35,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 6.37,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "09-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "rao",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5235.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 34.35,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 11.14,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 32.22,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "09-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "rao",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5253.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 34.28,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 11.29,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 34.66,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "09-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "rao",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5151.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 35.06,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 11.44,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 35.3,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "09-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "rao",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5145.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 34.54,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 11.36,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 32.9,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "10-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "Kharuni",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5876.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 32.54,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 7.5,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "11-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5759.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 29.14,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 3.51,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "12-04-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "Kharuni",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5213.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 32.22,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 7.32,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "26-05-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "chandra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5187.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 35.05,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 7.32,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 36.23,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "26-05-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "chandra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5460.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 33.56,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 7.12,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 36.13,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "27-05-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5832.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 29.02,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 8.51,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "28-05-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "chandra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5838.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 28.36,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 8.24,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 35.81,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "10-06-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "Agra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5366.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 24.61,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 6.12,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 36.58,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "10-06-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "Agra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5851.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 28.18,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 6.21,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 36.74,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "11-06-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "Yara",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5355.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 22.52,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 6.31,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 36.9,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "12-06-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5942.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 29.48,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 6.12,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "13-06-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5939.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 23.46,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 6.25,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "11-07-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "chandra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5743.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 31.24,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 8.24,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 34.62,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "11-07-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "SLH",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5958.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 31.48,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 8.42,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 33.26,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "12-07-2024",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5723.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 31.28,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 8.51,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "13-01-2025",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "cham",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5510.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 34.18,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 10.63,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 33.24,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18-01-2025",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5826.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 34.04,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 8.32,
+        "unit": "%"
+      },
+      "net_weight": null
+    },
+    {
+      "date_of_receipt": "02-02-2025",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "m",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5403.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 44.38,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 10.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 31.39,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "08-02-2025",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "chandra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5674.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 33.72,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 10.41,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 34.24,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "09-03-2025",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": "chandra",
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5845.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 31.22,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 9.49,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 37.21,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "10-03-2025",
+      "date_period": null,
+      "shift": null,
+      "conveyor_id": null,
+      "supplier_name": null,
+      "truck_vehicle_no": null,
+      "total_trucks": null,
+      "gcv": {
+        "value": 5823.0,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 33.34,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 8.21,
+        "unit": "%"
+      },
+      "net_weight": null
+    }
+  ]
+}

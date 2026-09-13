@@ -1,0 +1,787 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array.",
+  "extracted_fields": {
+    "document_title": "Daily Production/Generation/Consumption Report",
+    "document_type": "Generation/Operational Log",
+    "entries": [
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 2199",
+        "quantity": {
+          "value": 41920,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58C 1413",
+        "quantity": {
+          "value": 51955,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58C 8375",
+        "quantity": {
+          "value": 53315,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 6894",
+        "quantity": {
+          "value": 49295,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15ET 2599",
+        "quantity": {
+          "value": 41595,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 6923",
+        "quantity": {
+          "value": 49980,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58C 1956",
+        "quantity": {
+          "value": 55510,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 8720",
+        "quantity": {
+          "value": 49430,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58D 2797",
+        "quantity": {
+          "value": 51105,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR38X 9133",
+        "quantity": {
+          "value": 40390,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 3036",
+        "quantity": {
+          "value": 39055,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 6922",
+        "quantity": {
+          "value": 39055,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 8430",
+        "quantity": {
+          "value": 47975,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 9585",
+        "quantity": {
+          "value": 41485,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 9190",
+        "quantity": {
+          "value": 53790,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP20AT 1270",
+        "quantity": {
+          "value": 41715,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 9661",
+        "quantity": {
+          "value": 43240,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 2929",
+        "quantity": {
+          "value": 39860,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 7189",
+        "quantity": {
+          "value": 49955,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 7860",
+        "quantity": {
+          "value": 38505,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 9786",
+        "quantity": {
+          "value": 51275,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 8383",
+        "quantity": {
+          "value": 39365,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 4197",
+        "quantity": {
+          "value": 41990,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15BT 9871",
+        "quantity": {
+          "value": 38970,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 5883",
+        "quantity": {
+          "value": 39865,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15FT 9912",
+        "quantity": {
+          "value": 53705,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 5878",
+        "quantity": {
+          "value": 41295,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15ET 3508",
+        "quantity": {
+          "value": 42715,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58E 6332",
+        "quantity": {
+          "value": 56185,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 5880",
+        "quantity": {
+          "value": 42395,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37DT 7786",
+        "quantity": {
+          "value": 51465,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 5790",
+        "quantity": {
+          "value": 42660,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 6573",
+        "quantity": {
+          "value": 51145,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 5466",
+        "quantity": {
+          "value": 50325,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15CT 0588",
+        "quantity": {
+          "value": 40125,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15ET 3510",
+        "quantity": {
+          "value": 42370,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15FT 6931",
+        "quantity": {
+          "value": 54055,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15ET 3639",
+        "quantity": {
+          "value": 43560,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 2824",
+        "quantity": {
+          "value": 55050,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58D 1970",
+        "quantity": {
+          "value": 52115,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 8725",
+        "quantity": {
+          "value": 52855,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15ET3509",
+        "quantity": {
+          "value": 42675,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 6895",
+        "quantity": {
+          "value": 50780,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 6894",
+        "quantity": {
+          "value": 50115,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58C 1956",
+        "quantity": {
+          "value": 56075,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 2199",
+        "quantity": {
+          "value": 41145,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58C 8375",
+        "quantity": {
+          "value": 53265,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58C 1413",
+        "quantity": {
+          "value": 51625,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15ET 2599",
+        "quantity": {
+          "value": 41185,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 6923",
+        "quantity": {
+          "value": 49855,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 3036",
+        "quantity": {
+          "value": 40225,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 2828",
+        "quantity": {
+          "value": 40475,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58D 2799",
+        "quantity": {
+          "value": 51640,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 6922",
+        "quantity": {
+          "value": 50315,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 8720",
+        "quantity": {
+          "value": 51220,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP20AT 1270",
+        "quantity": {
+          "value": 42220,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 9585",
+        "quantity": {
+          "value": 43015,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR38X 9133",
+        "quantity": {
+          "value": 40575,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 9190",
+        "quantity": {
+          "value": 53700,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 9661",
+        "quantity": {
+          "value": 44430,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T8430",
+        "quantity": {
+          "value": 50005,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15BT 9871",
+        "quantity": {
+          "value": 38890,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 4197",
+        "quantity": {
+          "value": 42715,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 9786",
+        "quantity": {
+          "value": 50965,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 5883",
+        "quantity": {
+          "value": 38780,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 5878",
+        "quantity": {
+          "value": 31745,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15ET 3508",
+        "quantity": {
+          "value": 31190,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "HR58E 6332",
+        "quantity": {
+          "value": 55765,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 7860",
+        "quantity": {
+          "value": 40645,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 5790",
+        "quantity": {
+          "value": 41930,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 7189",
+        "quantity": {
+          "value": 51290,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 6895",
+        "quantity": {
+          "value": 48010,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37AT 8725",
+        "quantity": {
+          "value": 51670,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 7786",
+        "quantity": {
+          "value": 52140,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP15DT 5466",
+        "quantity": {
+          "value": 48750,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 2929",
+        "quantity": {
+          "value": 40970,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 8383",
+        "quantity": {
+          "value": 39575,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Sangita Sales Pvt Ltd",
+        "item_description": "UP37T 5880",
+        "quantity": {
+          "value": 27830,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Shree Ganesh",
+        "item_description": "BRO2GD 9653",
+        "quantity": {
+          "value": 29305,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "Shree Ganesh",
+        "item_description": "BRO2GD 2114",
+        "quantity": {
+          "value": 29660,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "SHREE SAI URJA LTD.",
+        "item_description": "JHO2AW 0251",
+        "quantity": {
+          "value": 29985,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "SHREE SAI URJA LTD.",
+        "item_description": "JHO2AT 9115",
+        "quantity": {
+          "value": 30235,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "SHREE SAI URJA LTD.",
+        "item_description": "BRO2GA 7719",
+        "quantity": {
+          "value": 30055,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "SHREE SAI URJA LTD.",
+        "item_description": "BRO2GC 5774",
+        "quantity": {
+          "value": 30160,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "SHREE SAI URJA LTD.",
+        "item_description": "BR2GGB 5130",
+        "quantity": {
+          "value": 30440,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19/01/2025",
+        "customer_name": "SHREE SAI URJA LTD.",
+        "item_description": "HR38AE 0357",
+        "quantity": {
+          "value": 29955,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

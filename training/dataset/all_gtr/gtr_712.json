@@ -1,0 +1,89 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "document_title": "Consent to Operate",
+  "document_type": "Environmental Consent Order",
+  "report_period": {
+    "value": "03/05/2025 to 30/04/2035"
+  },
+  "document_date": {
+    "value": "Jun 13 2025"
+  },
+  "company_name": "M/S KAJARIA CERAMICS LTD.",
+  "location": "VILLAGE-MALUTANA,THANAGAZI, MALUTANA, Tehsil:Thanagazi, District:Alwar, Rajasthan",
+  "registration_number": "67132",
+  "reference_number": "F(Tech)/Alwar(Thanagazi)/766(1)/2025-2026/245-246",
+  "entries": [
+    {
+      "item_description": "REFRACTORY CERAMIC PRODUCTS",
+      "quantity": {
+        "value": "75.00",
+        "unit": "LACS SQ MTS./ANNUM"
+      }
+    },
+    {
+      "item_description": "POLISH GLAZED / CERAMIC AND VITRIFIED TILES",
+      "quantity": {
+        "value": "75.00",
+        "unit": "LACS SQ MTS./ANNUM"
+      }
+    }
+  ],
+  "additional_fields": {
+    "order_number": "2025-2026/Alwar/13643",
+    "total_investment_lakh": "15940.58",
+    "water_requirement_kld": "482",
+    "domestic_water_kld": "40",
+    "industrial_water_kld": "442"
+  }
+}

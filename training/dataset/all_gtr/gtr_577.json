@@ -1,0 +1,194 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "data_type": "Energy",
+  "data_category": "Power Plant Report",
+  "extraction_rules": "This is a tabular plant report. Extract EVERY row from the table into the entries array. Each object in entries represents one plant or unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "December 2024"
+    },
+    "entries": [
+      {
+        "total_power_generation": {
+          "value": "205700",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "164400",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "196600",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "174100",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "210900",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "176200",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "207200",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "185100",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "211300",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "208300",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "211600",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "219665",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "229200",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "208700",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      },
+      {
+        "total_power_generation": {
+          "value": "198900",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01/Apr/2024 to 31/Mar/2025"
+    },
+    "entries": [
+      {
+        "fuel_name": "DEOILED PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "20/Apr/24",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": "50.060",
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "DEOILED PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "21/Apr/24",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": "50.150",
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "DEOILED PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "07/May/24",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": "30.150",
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "DEOILED PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "08/May/24",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": "30.430",
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "DEOILED PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "09/May/24",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": "30.240",
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "DEOILED PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "10/May/24",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": "40.210",
+        "closing_balance": null
+      }
+    ]
+  }
+}

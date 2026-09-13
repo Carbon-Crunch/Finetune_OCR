@@ -1,0 +1,95 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": {
+    "value": "APRIL-2025"
+  },
+  "truck_count": {
+    "value": "4",
+    "unit": "count"
+  },
+  "entries": [
+    {
+      "truck_no": "HR58C 0413",
+      "supplier": "Govind Kumar & Sons",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "26.630",
+        "unit": "MT"
+      },
+      "gcv": null,
+      "moisture": {
+        "value": "8.8",
+        "unit": "%"
+      },
+      "ash": null
+    },
+    {
+      "truck_no": "HR58C 0915",
+      "supplier": "Govind Kumar & Sons",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "26.540",
+        "unit": "MT"
+      },
+      "gcv": null,
+      "moisture": {
+        "value": "8.0",
+        "unit": "%"
+      },
+      "ash": null
+    },
+    {
+      "truck_no": "HR58C 9099",
+      "supplier": "Govind Kumar & Sons",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "25.640",
+        "unit": "MT"
+      },
+      "gcv": null,
+      "moisture": {
+        "value": "7.7",
+        "unit": "%"
+      },
+      "ash": null
+    },
+    {
+      "truck_no": "UP22AT 5821",
+      "supplier": "Govind Kumar & Sons",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "27.240",
+        "unit": "MT"
+      },
+      "gcv": null,
+      "moisture": {
+        "value": "8.1",
+        "unit": "%"
+      },
+      "ash": null
+    },
+    {
+      "truck_no": "UP12AT 6464",
+      "supplier": "MK TRADERS",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "8.910",
+        "unit": "MT"
+      },
+      "gcv": null,
+      "moisture": {
+        "value": "7.0",
+        "unit": "%"
+      },
+      "ash": null
+    }
+  ],
+  "totals": {
+    "total_gross_weight": null,
+    "total_net_weight": {
+      "value": "114.96",
+      "unit": "MT"
+    }
+  }
+}

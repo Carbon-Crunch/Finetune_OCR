@@ -1,0 +1,95 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consent to Establish",
+    "document_type": "Environmental Consent",
+    "report_period": {
+      "value": "03/05/2025 to 30/04/2030"
+    },
+    "invoice_date": null,
+    "document_date": "Jun 13 2025",
+    "supplier_name": null,
+    "customer_name": "M/S KAJARIA CERAMICS LTD.",
+    "company_name": "M/S KAJARIA CERAMICS LTD.",
+    "plant_name": "CERAMIC TILES plant",
+    "location": "VILLAGE-MALUTANA,THANAGAZI, MALUTANA Tehsil:Thanagazi District:Alwar, Rajasthan",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "F(Tech)/Alwar(Thanagazi)/766(1)/2025-2026/243-244",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": 10.0,
+      "unit": "LACS SQ MTS./ANNUM"
+    },
+    "entries": [
+      {
+        "product_name": "REFRACTORY CERAMIC PRODUCTS POLISH GLAZED / CERAMIC AND VITRIFIED TILES",
+        "quantity": {
+          "value": 10.0,
+          "unit": "LACS SQ MTS./ANNUM"
+        }
+      },
+      {
+        "item_description": "Domestic Sewage",
+        "quantity": {
+          "value": 22.35,
+          "unit": "KLD"
+        },
+        "remarks": "To be treated in STP and to be utilized in plantation and horticulture within the factory premises"
+      },
+      {
+        "item_description": "Trade Effluent",
+        "quantity": {
+          "value": 16.75,
+          "unit": "KLD"
+        },
+        "remarks": "Sludge & Evaporation Loss"
+      }
+    ],
+    "additional_fields": {
+      "order_number": "2025-2026/Alwar/13642",
+      "unit_id": "67132",
+      "capital_investment_increase": "Rs-767.16 lakh"
+    }
+  }
+}

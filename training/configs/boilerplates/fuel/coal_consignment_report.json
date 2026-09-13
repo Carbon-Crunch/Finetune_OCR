@@ -1,0 +1,50 @@
+{
+  "data_type": "Fuel",
+  "data_category": "Coal Consignment Report",
+  "extraction_rules": "Extract month/date range, total truck count, and per-consignment fields (truck no, supplier, gross weight, net weight, GCV, moisture, ash). Include summary totals where present.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "truck_count": {
+      "value": null,
+      "unit": "count"
+    },
+    "entries": [
+      {
+        "truck_no": null,
+        "supplier": null,
+        "gross_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash": {
+          "value": null,
+          "unit": "%"
+        }
+      }
+    ],
+    "totals": {
+      "total_gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "total_net_weight": {
+        "value": null,
+        "unit": "MT"
+      }
+    }
+  }
+}

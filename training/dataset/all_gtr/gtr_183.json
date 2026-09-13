@@ -1,0 +1,158 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 15,
+      "image_index": 15,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 16,
+      "image_index": 16,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 17,
+      "image_index": 17,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 18,
+      "image_index": 18,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 19,
+      "image_index": 19,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 20,
+      "image_index": 20,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 21,
+      "image_index": 21,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or time-period reading.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-2025"
+    },
+    "entries": [
+      {
+        "date_period": "01-Mar-25",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 161291,
+          "unit": "KWH"
+        },
+        "meter_reading_right": {
+          "value": 161291,
+          "unit": "KWH"
+        },
+        "consumption_difference": {
+          "value": 0,
+          "unit": "KWH"
+        }
+      }
+    ]
+  }
+}

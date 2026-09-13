@@ -1,0 +1,53 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice",
+  "invoice_date": "31/03/2025",
+  "supplier_name": "YAJUR COMTRADE PVT LTD",
+  "entries": [
+    {
+      "item_description": "STEAM COAL",
+      "material_description": "STEAM COAL",
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "38000",
+        "unit": "Kgs"
+      },
+      "units": {
+        "value": "Kgs",
+        "unit": null
+      },
+      "gross_amount": null
+    }
+  ],
+  "additional_fields": {
+    "company_name": "GAYATRISHAKTI PAPER & BOARDS LTD.",
+    "location": "NEAR MANDA COLONY, GIDC SARIGAM, BHILAD, GUJARAT- 396155",
+    "serial_number": "61530",
+    "vehicle_number": "GJ 16AW 8896",
+    "gross_weight": {
+      "value": "53970",
+      "unit": "Kgs"
+    },
+    "tare_weight": {
+      "value": "15970",
+      "unit": "Kgs"
+    },
+    "net_weight": {
+      "value": "38000",
+      "unit": "Kgs"
+    },
+    "supplier_weight": {
+      "value": "38000",
+      "unit": null
+    },
+    "weight_diff": {
+      "value": "0",
+      "unit": null
+    },
+    "time_in": "09:21:01",
+    "time_out": "11:04:57"
+  }
+}

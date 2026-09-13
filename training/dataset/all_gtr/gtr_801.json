@@ -1,0 +1,69 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "06/03/2025"
+  },
+  "entries": [
+    {
+      "product_name": "K-6705",
+      "machine_name": "Press 1",
+      "total_production": {
+        "value": "4299.89",
+        "unit": "M2"
+      },
+      "machine_consumption": {
+        "value": "90.0",
+        "unit": null
+      }
+    },
+    {
+      "product_name": "K-6706",
+      "machine_name": "Press 2",
+      "total_production": {
+        "value": "4674.96",
+        "unit": "M2"
+      },
+      "machine_consumption": {
+        "value": "97.3",
+        "unit": null
+      }
+    },
+    {
+      "product_name": "K-6706",
+      "machine_name": "Press 3",
+      "total_production": {
+        "value": "4250.18",
+        "unit": "M2"
+      },
+      "machine_consumption": {
+        "value": "98.5",
+        "unit": null
+      }
+    },
+    {
+      "product_name": "K-6706",
+      "machine_name": "Press 4",
+      "total_production": {
+        "value": "4256.32",
+        "unit": "M2"
+      },
+      "machine_consumption": {
+        "value": "99.0",
+        "unit": null
+      }
+    },
+    {
+      "product_name": "DRAGON K-12612",
+      "machine_name": "Press 5",
+      "total_production": {
+        "value": "3915.59",
+        "unit": "M2"
+      },
+      "machine_consumption": {
+        "value": "75.9",
+        "unit": null
+      }
+    }
+  ]
+}

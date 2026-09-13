@@ -1,0 +1,95 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "01/Oct/2024 to 31/Oct/2024",
+  "entries": [
+    {
+      "fuel_name": "Fuel",
+      "fuel_type": null,
+      "date_period": "01/Oct/2024 to 31/Oct/2024",
+      "opening_balance": "15010121.570",
+      "received_quantity": "91686961.515",
+      "inwards": null,
+      "outwards": null,
+      "consumption": "16487921.520",
+      "closing_balance": "90209161.565"
+    },
+    {
+      "fuel_name": "CHILKA (RICE HUSK)",
+      "fuel_type": null,
+      "date_period": null,
+      "opening_balance": "0",
+      "received_quantity": "26970.000",
+      "inwards": null,
+      "outwards": null,
+      "consumption": "0",
+      "closing_balance": "26970.000"
+    },
+    {
+      "fuel_name": "COTTON DUST",
+      "fuel_type": null,
+      "date_period": null,
+      "opening_balance": "49586.670",
+      "received_quantity": "374705.500",
+      "inwards": null,
+      "outwards": null,
+      "consumption": "0",
+      "closing_balance": "424292.170"
+    },
+    {
+      "fuel_name": "DUNG CAKES",
+      "fuel_type": null,
+      "date_period": null,
+      "opening_balance": "0",
+      "received_quantity": "6259.500",
+      "inwards": null,
+      "outwards": null,
+      "consumption": "6259.500",
+      "closing_balance": "0"
+    },
+    {
+      "fuel_name": "FADDA (PUNJAB)",
+      "fuel_type": null,
+      "date_period": null,
+      "opening_balance": "0",
+      "received_quantity": "24643.600",
+      "inwards": null,
+      "outwards": null,
+      "consumption": "24643.600",
+      "closing_balance": "0"
+    },
+    {
+      "fuel_name": "FADDA 1121",
+      "fuel_type": null,
+      "date_period": null,
+      "opening_balance": "50160.760",
+      "received_quantity": "1626857.660",
+      "inwards": null,
+      "outwards": null,
+      "consumption": "1677018.420",
+      "closing_balance": "0"
+    },
+    {
+      "fuel_name": "STRAW (RICE)",
+      "fuel_type": null,
+      "date_period": null,
+      "opening_balance": "0",
+      "received_quantity": "0",
+      "inwards": null,
+      "outwards": null,
+      "consumption": "0",
+      "closing_balance": "0"
+    },
+    {
+      "fuel_name": "STRAW RICE (BALE)",
+      "fuel_type": null,
+      "date_period": null,
+      "opening_balance": "14910374.140",
+      "received_quantity": "89627525.255",
+      "inwards": null,
+      "outwards": null,
+      "consumption": "14780000.000",
+      "closing_balance": "89757899.395"
+    }
+  ]
+}

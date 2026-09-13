@@ -1,0 +1,122 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Consignment Report",
+  "boilerplate": "fuel/coal_consignment_report.json",
+  "report_period": {
+    "value": null
+  },
+  "truck_count": {
+    "value": 410,
+    "unit": "count"
+  },
+  "entries": [
+    {
+      "truck_no": null,
+      "supplier": "Sangita Sales PVT LTD",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": 3777.885,
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": 4997,
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash": {
+        "value": 22.2,
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": null,
+      "supplier": "Shree Ganesh",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": 4804.668,
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": 3607,
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": 12.7,
+        "unit": "%"
+      },
+      "ash": {
+        "value": 36.5,
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": null,
+      "supplier": "Shree Sai Urja LTD.",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": 7425.598,
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": 3875,
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": 12.0,
+        "unit": "%"
+      },
+      "ash": {
+        "value": 35.8,
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": null,
+      "supplier": "SRV Traders",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": 176.52,
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": 3481,
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": 12.8,
+        "unit": "%"
+      },
+      "ash": {
+        "value": 42.2,
+        "unit": "%"
+      }
+    }
+  ],
+  "totals": {
+    "total_gross_weight": {
+      "value": null,
+      "unit": "MT"
+    },
+    "total_net_weight": {
+      "value": 16184.671,
+      "unit": "MT"
+    }
+  }
+}

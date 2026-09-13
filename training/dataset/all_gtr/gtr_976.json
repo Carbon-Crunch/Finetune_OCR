@@ -1,0 +1,121 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "976",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "11/06/2024"
+        },
+        "entries": [
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "7:00 AM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "8:00 AM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "9:00 AM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "10:00 AM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "11:00 AM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "12:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "1:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "2:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "3:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "4:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "5:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "6:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "7:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "8:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "9:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "10:00 PM"
+          },
+          {
+            "date_period": "11/06/2024",
+            "timestamp": "11:00 PM"
+          },
+          {
+            "date_period": "12/06/2024",
+            "timestamp": "12:00 AM"
+          },
+          {
+            "date_period": "12/06/2024",
+            "timestamp": "1:00 AM"
+          },
+          {
+            "date_period": "12/06/2024",
+            "timestamp": "2:00 AM"
+          },
+          {
+            "date_period": "12/06/2024",
+            "timestamp": "3:00 AM"
+          },
+          {
+            "date_period": "12/06/2024",
+            "timestamp": "4:00 AM"
+          },
+          {
+            "date_period": "12/06/2024",
+            "timestamp": "5:00 AM"
+          },
+          {
+            "date_period": "12/06/2024",
+            "timestamp": "6:00 AM"
+          }
+        ],
+        "summary": {
+          "steam_statistics": {
+            "oil_purifier_running_hours": "Oil centrifuge pump start at 9:00 Am - Oil Centrifugal pump stop at 06:00 PM"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "894",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Energy Purchase Invoice",
+      "boilerplate_used": "energy/energy_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "2338/2024-25"
+        },
+        "invoice_date": {
+          "value": "2025-03-12"
+        },
+        "supplier_name": "Anand Triplex Board Pvt. Ltd.",
+        "supplier_gstin": "09AAECA9305M1ZD",
+        "buyer_name": "M/S ANAND DUPLEX LTD - CUSTOMERS",
+        "buyer_gstin": "09AABCA4927A1Z3",
+        "total_amount": {
+          "value": "75,98,640.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "STEAM",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "28539090",
+            "quantity": {
+              "value": "4523.000",
+              "unit": "MT"
+            },
+            "gross_amount": {
+              "value": "67,84,500.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

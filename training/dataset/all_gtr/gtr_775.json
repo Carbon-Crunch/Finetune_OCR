@@ -1,0 +1,145 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "01/Mar/2025 to 31/Mar/2025",
+  "entries": [
+    {
+      "fuel_name": "COTTON DUST",
+      "fuel_type": "KGS",
+      "date_period": "01/Mar/2025 to 31/Mar/2025",
+      "opening_balance": {
+        "value": 100000.0,
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": 407123.8,
+        "unit": "KGS"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 507123.8,
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "KGS"
+      }
+    },
+    {
+      "fuel_name": "FADDA",
+      "fuel_type": "KGS",
+      "date_period": "01/Mar/2025 to 31/Mar/2025",
+      "opening_balance": {
+        "value": 0.0,
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": 51857.8,
+        "unit": "KGS"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 51857.8,
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "KGS"
+      }
+    },
+    {
+      "fuel_name": "FADDA (PUNJAB)",
+      "fuel_type": "Kgs",
+      "date_period": "01/Mar/2025 to 31/Mar/2025",
+      "opening_balance": {
+        "value": 0.0,
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": 5498.4,
+        "unit": "Kgs"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 5498.4,
+        "unit": "Kgs"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "Kgs"
+      }
+    },
+    {
+      "fuel_name": "FADDA 1121",
+      "fuel_type": "Kgs",
+      "date_period": "01/Mar/2025 to 31/Mar/2025",
+      "opening_balance": {
+        "value": 258244.4,
+        "unit": "Kgs"
+      },
+      "received_quantity": {
+        "value": 1013049.5,
+        "unit": "Kgs"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 1021293.9,
+        "unit": "Kgs"
+      },
+      "closing_balance": {
+        "value": 250000.0,
+        "unit": "Kgs"
+      }
+    },
+    {
+      "fuel_name": "SARSON KA TURA",
+      "fuel_type": "Kgs",
+      "date_period": "01/Mar/2025 to 31/Mar/2025",
+      "opening_balance": {
+        "value": 0.0,
+        "unit": "Kgs"
+      },
+      "received_quantity": {
+        "value": 8575.8,
+        "unit": "Kgs"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 8575.8,
+        "unit": "Kgs"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "Kgs"
+      }
+    },
+    {
+      "fuel_name": "STRAW RICE (BALE)",
+      "fuel_type": "KGS",
+      "date_period": "01/Mar/2025 to 31/Mar/2025",
+      "opening_balance": {
+        "value": 74756116.755,
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": 2059953.9,
+        "unit": "KGS"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 9780000.0,
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": 67036070.655,
+        "unit": "KGS"
+      }
+    }
+  ]
+}

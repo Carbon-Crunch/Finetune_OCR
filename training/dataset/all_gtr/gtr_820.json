@@ -1,0 +1,336 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 15,
+      "image_index": 15,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 16,
+      "image_index": 16,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 17,
+      "image_index": 17,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 18,
+      "image_index": 18,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 19,
+      "image_index": 19,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 20,
+      "image_index": 20,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 21,
+      "image_index": 21,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 22,
+      "image_index": 22,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 23,
+      "image_index": 23,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 24,
+      "image_index": 24,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "document_title": "Press Production Report",
+  "document_type": "Production & Operational",
+  "report_period": {
+    "value": "2024-2025"
+  },
+  "company_name": "Kajaria Ceramics Ltd.",
+  "entries": [
+    {
+      "date_period": "2024-05-15",
+      "product_name": "600x1200",
+      "production": {
+        "value": "24773",
+        "unit": "m2"
+      },
+      "remarks": "P6=Plunged Stocks Prob, P2+8=mould, Gride cleaning work done."
+    },
+    {
+      "date_period": "2024-06-03",
+      "product_name": "600x1200",
+      "production": {
+        "value": "25411",
+        "unit": "m2"
+      },
+      "remarks": "No Any break down, P8: Upper Punch centering work."
+    },
+    {
+      "date_period": "2024-06-29",
+      "product_name": "800x1600/600x1200",
+      "production": {
+        "value": "22308",
+        "unit": "m2"
+      },
+      "remarks": "P4 to P3: mould & grid cleaned, P8: Punch not fixed (A12)."
+    },
+    {
+      "date_period": "2024-07-14",
+      "product_name": "60x120",
+      "production": {
+        "value": "25876",
+        "unit": "m2"
+      },
+      "remarks": "Press No-01 Column cleaning and Greassing, Press No-01 Accumulator N2 Gas filling and RTL-1 table + belt 1500x100 replaced."
+    },
+    {
+      "date_period": "2024-07-24",
+      "product_name": "600x1200/800x1600",
+      "production": {
+        "value": "22025",
+        "unit": "m2"
+      }
+    },
+    {
+      "date_period": "2024-08-04",
+      "product_name": "600x1200",
+      "production": {
+        "value": "25103",
+        "unit": "m2"
+      },
+      "remarks": "P1 to P2 - Press column, Die filters & grid mould cleaned, P2- Upper Punches Changed, Normal to cutting."
+    },
+    {
+      "date_period": "2024-08-17",
+      "product_name": "600x1200",
+      "production": {
+        "value": "26023",
+        "unit": "m2"
+      },
+      "remarks": "P2: Lower Punch changed, P1: Upper Punch changed."
+    },
+    {
+      "date_period": "2024-09-03",
+      "product_name": "600x1200/800x1600",
+      "production": {
+        "value": "23266",
+        "unit": "m2"
+      },
+      "remarks": "P1,2,3 - Grid & mould cleaned, P2 - Lower Punch changed."
+    },
+    {
+      "date_period": "2024-09-17",
+      "product_name": "600x1200",
+      "production": {
+        "value": "27421",
+        "unit": "m2"
+      },
+      "remarks": "P1,2,3 = mould & Grid cleaning work done."
+    },
+    {
+      "date_period": "2024-10-04",
+      "product_name": "600x1200",
+      "production": {
+        "value": "27184",
+        "unit": "m2"
+      },
+      "remarks": "P1,2,3 - Mould and grid cleaned, P1 - ACP motor, hopper powder feeding pipe drive timing pulley changed, HD-1 - Br.No- Blow Blower changed."
+    },
+    {
+      "date_period": "2024-10-16",
+      "product_name": "60x120",
+      "production": {
+        "value": "26622",
+        "unit": "m2"
+      },
+      "remarks": "Press No: 1 Lower and Upper punch changed."
+    },
+    {
+      "date_period": "2024-11-20",
+      "product_name": "600x1200",
+      "production": {
+        "value": "26403",
+        "unit": "m2"
+      },
+      "remarks": "P1,2,3 - one time Power fluctuation, P1,2,3 - mould & grid cleaning."
+    },
+    {
+      "date_period": "2024-12-06",
+      "product_name": "600x1200",
+      "production": {
+        "value": "27122",
+        "unit": "m2"
+      },
+      "remarks": "P2- Hopper open, P3-HD-1 fast roller layer-1 inverter changed, P1,2,3 - mould & grid cleaned."
+    },
+    {
+      "date_period": "2024-11-15",
+      "product_name": "60x120",
+      "production": {
+        "value": "26864",
+        "unit": "m2"
+      },
+      "remarks": "P1= Lower punch, heater changed, P3= Roller Auto, Size changed 60x120 to 80x160."
+    },
+    {
+      "date_period": "2025-01-01",
+      "product_name": "600x1200",
+      "production": {
+        "value": "27321",
+        "unit": "m2"
+      },
+      "remarks": "P1-2,3- lack of Powder due to units from Siloes, P1+P2: mould & grid cleaned, P3: Pusher changed, lifting belt T bolt changed."
+    },
+    {
+      "date_period": "2025-01-16",
+      "product_name": "60x120",
+      "production": {
+        "value": "27204",
+        "unit": "m2"
+      },
+      "remarks": "Press No-01 UPS changed (Electrical)."
+    },
+    {
+      "date_period": "2025-02-02",
+      "product_name": "600x1200",
+      "production": {
+        "value": "27219",
+        "unit": "m2"
+      }
+    },
+    {
+      "date_period": "2025-03-01",
+      "product_name": "600x1200",
+      "production": {
+        "value": "27854",
+        "unit": "m2"
+      },
+      "remarks": "P1,2,3= Mould & grid cleaning, P3 = upper Punch change Normal to cutting."
+    },
+    {
+      "date_period": "2025-03-21",
+      "product_name": "600x1200",
+      "production": {
+        "value": "27226",
+        "unit": "m2"
+      },
+      "remarks": "P1-> Upper Punch heating earthing lug changed, P2-> upper punch centering done, P3-> Upper Punches changed Normal to cutting."
+    },
+    {
+      "date_period": "2025-03-31",
+      "product_name": "60x120",
+      "production": {
+        "value": "27050",
+        "unit": "m2"
+      },
+      "remarks": "Press No:01 A12 alarm, lug changed by Elect. Dept, Press No:03 Filler bearings changed."
+    }
+  ]
+}

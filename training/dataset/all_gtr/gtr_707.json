@@ -1,0 +1,594 @@
+[
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice",
+    "invoice_date": {
+      "value": "30-Apr-24"
+    },
+    "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT LTD",
+    "entries": [
+      {
+        "item_description": "IMPORTED STEAM COAL",
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "34.210",
+          "unit": "MT"
+        },
+        "gross_amount": {
+          "value": "237417.40",
+          "unit": "Rs."
+        }
+      }
+    ]
+  },
+  {
+    "rotation_needed": true,
+    "degree": 270,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": true,
+        "degree": 270
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice",
+    "invoice_date": {
+      "value": "20-06-2024"
+    },
+    "supplier_name": "MAHESHWARI LOGISTICS LIMITED-TRADE DIVISION",
+    "entries": [
+      {
+        "item_description": "IMP COAL",
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "37.310",
+          "unit": "MTS"
+        },
+        "gross_amount": {
+          "value": "324223.90",
+          "unit": "Rs."
+        }
+      }
+    ]
+  },
+  {
+    "rotation_needed": true,
+    "degree": 270,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": true,
+        "degree": 270
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice",
+    "invoice_date": {
+      "value": "11-Aug-24"
+    },
+    "supplier_name": "Ganpati Energy Pvt Ltd.",
+    "entries": [
+      {
+        "item_description": "Steam Coal (Non Cocking) of Indonesian Origin",
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "36.850",
+          "unit": "mt"
+        },
+        "gross_amount": {
+          "value": "232155.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  },
+  {
+    "rotation_needed": true,
+    "degree": 270,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": true,
+        "degree": 270
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice",
+    "invoice_date": {
+      "value": "30-Sep-24"
+    },
+    "supplier_name": "Chandra Coal Company",
+    "entries": [
+      {
+        "item_description": "STEAM COAL",
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "31.880",
+          "unit": "MTS"
+        },
+        "gross_amount": {
+          "value": "216784.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  },
+  {
+    "rotation_needed": true,
+    "degree": 270,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": true,
+        "degree": 270
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice",
+    "invoice_date": {
+      "value": "30-Oct-24"
+    },
+    "supplier_name": "Yajur Comtrade Private Limited",
+    "entries": [
+      {
+        "item_description": "Indonesian Steam Coal - Medium GAR",
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "32.590",
+          "unit": "MTS"
+        },
+        "gross_amount": {
+          "value": "209879.60",
+          "unit": "Rs."
+        }
+      }
+    ]
+  },
+  {
+    "rotation_needed": true,
+    "degree": 270,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": true,
+        "degree": 270
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice",
+    "invoice_date": {
+      "value": "30-Dec-24"
+    },
+    "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT LTD",
+    "entries": [
+      {
+        "item_description": "IMPORTED STEAM COAL",
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "37.260",
+          "unit": "MT"
+        },
+        "gross_amount": {
+          "value": "229149.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  },
+  {
+    "rotation_needed": true,
+    "degree": 270,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": true,
+        "degree": 270
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice",
+    "invoice_date": {
+      "value": "24-Feb-25"
+    },
+    "supplier_name": "RAWALWASIA TEXTILE INDUSTRIES PVT LTD",
+    "entries": [
+      {
+        "item_description": "IMPORTED STEAM COAL",
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "37.180",
+          "unit": "MT"
+        },
+        "gross_amount": {
+          "value": "260260.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  },
+  {
+    "rotation_needed": true,
+    "degree": 270,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": true,
+        "degree": 270
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice",
+    "invoice_date": {
+      "value": "31-Mar-25"
+    },
+    "supplier_name": "Yajur Comtrade Private Limited",
+    "entries": [
+      {
+        "item_description": "Indonesian Steam Coal - Medium GAR",
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "38.310",
+          "unit": "MTS"
+        },
+        "gross_amount": {
+          "value": "236181.15",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+]

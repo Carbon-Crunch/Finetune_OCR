@@ -1,0 +1,64 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Energy, Financial & Transactional Records",
+  "data_category": "Electricity Bill, Solar Power Adjustment/Settlement Report",
+  "boilerplate": "energy/electricity_bill.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "JUL-2024"
+    },
+    "entries": [
+      {
+        "supply_voltage": {
+          "value": "11",
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": "MW/kVA"
+        },
+        "contract_demand": {
+          "value": "1100",
+          "unit": "KVA"
+        },
+        "billed_demand": {
+          "value": "1275",
+          "unit": "KVA"
+        },
+        "kwh_consumption": {
+          "value": "616785",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "625995",
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": "0.985",
+          "unit": null
+        }
+      }
+    ]
+  }
+}

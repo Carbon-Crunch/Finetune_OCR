@@ -1,0 +1,44 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "report_period": {
+    "value": "01/Jul/2024 - 30/Sep/2024"
+  },
+  "entries": [
+    {
+      "fuel_name": "CL STEAM COAL",
+      "fuel_type": null,
+      "date_period": "26/Sep/24",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": "152.350",
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "CL STEAM COAL",
+      "fuel_type": null,
+      "date_period": "27/Sep/24",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": "150.120",
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "CL STEAM COAL",
+      "fuel_type": null,
+      "date_period": "28/Sep/24",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": "62.310",
+      "consumption": null,
+      "closing_balance": null
+    }
+  ]
+}

@@ -1,0 +1,1304 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "April 2025"
+    },
+    "entries": [
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02W 4270",
+        "net_weight": {
+          "value": 3615,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 36.5,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 25300,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24PA 1785",
+        "net_weight": {
+          "value": 3555,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 38.5,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30415,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GA 7486",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30360,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR52G 4444",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30090,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ31GA 9184",
+        "net_weight": {
+          "value": 3585,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 38.0,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40855,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP63AT 1278",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30470,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR67D 9370",
+        "net_weight": {
+          "value": 3458,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 39.2,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 42600,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GB 4031",
+        "net_weight": {
+          "value": 3547,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 38.2,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41390,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "PB06V 8327",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 24550,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "20.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "NL01AD 4291",
+        "net_weight": {
+          "value": 3565,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 37.9,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30245,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GB 7917",
+        "net_weight": {
+          "value": 3520,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 38.8,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30265,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02BK 4550",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 29615,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GA 8112",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 41895,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GB 1699",
+        "net_weight": {
+          "value": 3611,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 37.2,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41935,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP63AT 5191",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 29555,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ07GD 4751",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 34815,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "NL02GQ 3590",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 41725,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12AT 2211",
+        "net_weight": {
+          "value": 3552,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 37.3,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 11.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 24725,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GB 1799",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 42130,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GB 1496",
+        "net_weight": {
+          "value": 3510,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 38.3,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41320,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ14GF 8362",
+        "net_weight": {
+          "value": 3664,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 36.8,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34825,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GB 0689",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 42370,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GB 1496",
+        "net_weight": {
+          "value": 3694,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 36.3,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40965,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GA 9448",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30450,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "21.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "NL01GQ 3572",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 41665,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "22.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GA 1294",
+        "net_weight": {
+          "value": 3512,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 38.2,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34840,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "22.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ52GB 0688",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 42670,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "22.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02AX 7115",
+        "net_weight": {
+          "value": 3580,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 37.2,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30370,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "22.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH09AH 3600",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30295,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "22.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GA 5907",
+        "net_weight": {
+          "value": 3490,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 38.0,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30865,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "22.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02CU 9387",
+        "net_weight": {
+          "value": 3349,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 34.8,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 17.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29520,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "22.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD 9387",
+        "net_weight": {
+          "value": 3590,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 37.6,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29470,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "22.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GA 8600",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30885,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "23.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GA 6855",
+        "net_weight": {
+          "value": 3480,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 38.0,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30570,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "23.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD 1354",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 29620,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "23.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24GB 9548",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30250,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "23.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD 7007",
+        "net_weight": {
+          "value": 3658,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 36.6,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30215,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "23.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD 1703",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30115,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "23.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP67CP 6324",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30115,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "23.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP67AT 1908",
+        "net_weight": {
+          "value": 3612,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 37.8,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30460,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "23.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02AQ 1275",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30225,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "24.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD 1497",
+        "net_weight": {
+          "value": 3545,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 37.8,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29895,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "24.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD 2817",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 29910,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "24.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "NL02GQ 5333",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 41735,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "24.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD 9786",
+        "net_weight": {
+          "value": 3518,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 39.1,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29440,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "24.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH10CQ 1851",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 29660,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "24.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24GB 0417",
+        "net_weight": {
+          "value": 3665,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 36.9,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30040,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "24.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GB 2169",
+        "net_weight": {
+          "value": 3510,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 37.2,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 24705,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "24.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02AM 2573",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 29455,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02BA 0411",
+        "net_weight": {
+          "value": 3476,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 39.0,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29825,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24GB 0854",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 30370,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "HR58 C 1956",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 54155,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 ET 3639",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 41960,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 5883",
+        "net_weight": {
+          "value": 3945,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 31.7,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40085,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 5880",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 42580,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 8720",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 48545,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 FT 6931",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 55740,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "HR58 C 1413",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 54260,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 7189",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 50215,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 DT 7786",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 52085,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 BT 9871",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 39200,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 3990",
+        "net_weight": {
+          "value": 4045,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 33.0,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36570,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "HR58 C 2672",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 48565,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 8430",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 53230,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "HR58 C 8375",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 55110,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 DT 4917",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 48790,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 2929",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 39590,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 3036",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 40690,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 AT 6894",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 49565,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 FT 9775",
+        "net_weight": {
+          "value": 3886,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 33.4,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 55140,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 DT 5466",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 51105,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 DT 9786",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 49240,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "HR58 E 6332",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 54370,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "HR38 X 9133",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 42370,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 DT 2199",
+        "net_weight": {
+          "value": 3855,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 34.2,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 42225,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 AT 8725",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 53610,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 DT 4197",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 41600,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 CT 0588",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 39480,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 AT 6895",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 53825,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 7860",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 39180,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 ET 3510",
+        "net_weight": {
+          "value": 3784,
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": 35.0,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 44120,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP37 T 5878",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 41390,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 ET 3508",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 42960,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "UP15 ET 2599",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 42575,
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "25.04.2025",
+        "supplier_name": "NORTHERN COAL",
+        "truck_vehicle_no": "HR58 C 1956",
+        "net_weight": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": {
+          "value": 56240,
+          "unit": "%"
+        }
+      }
+    ]
+  }
+}

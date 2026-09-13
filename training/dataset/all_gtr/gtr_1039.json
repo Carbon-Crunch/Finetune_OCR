@@ -1,0 +1,121 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Coal laboratory test report",
+  "report_period": {
+    "value": "07/05/2024 - 11/05/2024"
+  },
+  "entries": [
+    {
+      "sample_name": "COAL",
+      "date_period": "06/02/2024",
+      "sample_quantity": {
+        "value": "567",
+        "unit": "gm"
+      },
+      "moisture_content": {
+        "value": "2.21",
+        "unit": "%"
+      },
+      "volatile_matter": {
+        "value": "28.68",
+        "unit": "%"
+      },
+      "fixed_carbon": {
+        "value": "40.92",
+        "unit": "%"
+      },
+      "gcv": {
+        "value": "5512",
+        "unit": "kcal/kg"
+      },
+      "ash_content": {
+        "value": "28.19",
+        "unit": "%"
+      },
+      "supplier_name": "TRIDENT LIMITED",
+      "operator_name": "Dinesh Roy",
+      "remarks": "Carbon,Hydrogen,Nitrogen (Dry Basis) subcontracted to SGS Bhubaneswar Lab"
+    },
+    {
+      "sample_name": "Carbon (adb %)",
+      "date_period": null,
+      "sample_quantity": null,
+      "moisture_content": null,
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": null,
+      "ash_content": null,
+      "supplier_name": null,
+      "operator_name": null,
+      "remarks": "54.18"
+    },
+    {
+      "sample_name": "Hydrogen (adb %)",
+      "date_period": null,
+      "sample_quantity": null,
+      "moisture_content": null,
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": null,
+      "ash_content": null,
+      "supplier_name": null,
+      "operator_name": null,
+      "remarks": "3.87"
+    },
+    {
+      "sample_name": "Nitrogen (adb %)",
+      "date_period": null,
+      "sample_quantity": null,
+      "moisture_content": null,
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": null,
+      "ash_content": null,
+      "supplier_name": null,
+      "operator_name": null,
+      "remarks": "1.30"
+    },
+    {
+      "sample_name": "Sulphur as S (adb %)",
+      "date_period": null,
+      "sample_quantity": null,
+      "moisture_content": null,
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": null,
+      "ash_content": null,
+      "supplier_name": null,
+      "operator_name": null,
+      "remarks": "0.574"
+    },
+    {
+      "sample_name": "Oxygen as O (adb %)",
+      "date_period": null,
+      "sample_quantity": null,
+      "moisture_content": null,
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": null,
+      "ash_content": null,
+      "supplier_name": null,
+      "operator_name": null,
+      "remarks": "11.90"
+    }
+  ]
+}

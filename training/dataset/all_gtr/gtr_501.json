@@ -1,0 +1,644 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Meter Reading",
+  "extraction_rules": "This is a tabular meter reading document. Extract EVERY row from the table into the entries array. Each object in entries represents one meter reading record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "16.04.2025 to 30.04.2025"
+    },
+    "entries": [
+      {
+        "meter_reading_difference": {
+          "value": "15.6",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28.8",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4270",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.3",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.5",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4138",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.8",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.3",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4030",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.6",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "26.8",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4108",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.2",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4280",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.1",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.1",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4325",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.5",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "26.8",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4260",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.8",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "25.1",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4510",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.3",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.4",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4370",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "26.3",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4228",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.1",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.2",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4237",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.1",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.4",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4172",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.3",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.6",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4078",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "26.5",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4348",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.2",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28.8",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4184",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.6",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.7",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4335",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.6",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.9",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4270",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.6",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.0",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4248",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.7",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4386",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.2",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4310",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.8",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "26.7",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4205",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "12.4",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.3",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4184",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "15.2",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.5",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4452",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.6",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28.3",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4320",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.8",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.1",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4360",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.8",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28.2",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4205",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "14.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28.8",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4121",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.2",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27.3",
+          "unit": null
+        },
+        "kwh": {
+          "value": "4432",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "37.7",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3562",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "12.8",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "41.2",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3407",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "13.6",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "40.2",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3446",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "11.8",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "40.1",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3387",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "12.4",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "39.3",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3417",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "11.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "36.0",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3642",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "11.5",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "38.4",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3367",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "12.0",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "39.0",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3480",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "12.3",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "41.0",
+          "unit": null
+        },
+        "kwh": {
+          "value": "3390",
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        }
+      }
+    ]
+  }
+}

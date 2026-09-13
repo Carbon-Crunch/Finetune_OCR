@@ -1,0 +1,30 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "10-May-2025"
+    },
+    "entries": [
+      {
+        "sample_name": "COAL SAMPLE - 1",
+        "date_period": "07-May-2025",
+        "sample_quantity": {
+          "value": "1",
+          "unit": "PKT"
+        },
+        "moisture_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": null,
+        "ash_content": null,
+        "supplier_name": "GENUS PAPER AND BOARDS LIMITED",
+        "operator_name": "Purvi Rastogi",
+        "remarks": "Sample condition: Good"
+      }
+    ]
+  }
+}

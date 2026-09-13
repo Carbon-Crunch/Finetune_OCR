@@ -1,0 +1,158 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": true,
+      "degree": 270
+    }
+  ],
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "entries": [
+    {
+      "date_period": "16/11/2024",
+      "shift": "Koulhal-R.P/mul-R.P",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "30/11/2024",
+      "shift": "om SAT RAM II / Bhong-y.m",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "01/12/2024",
+      "shift": "om SAI RAM II / Koulhal-R.P",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "31/12/2024",
+      "shift": "Koulhal-R.P / Nhavkar-A.D",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "01/01/2025",
+      "shift": "Nhavkar-A.D / Koulhal-R.P",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "01/01/2025",
+      "shift": "om SAI RAM II / Bhong-y.m",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "01/02/2025",
+      "shift": "Bhong-y.m / Oravathe-A.S",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "28/02/2025",
+      "shift": "Bhong-y.m",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "01/03/2025",
+      "shift": "Koulhal-R.P / Bhong-y.m",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "31/03/2025",
+      "shift": "Shinde.R.D/Bhong-y.m / Koulhal-R.P / Nhavkar-A.D",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "01/04/2025",
+      "shift": "A.D.S/Bhong-y.m",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    }
+  ]
+}

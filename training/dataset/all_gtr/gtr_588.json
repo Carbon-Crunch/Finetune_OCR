@@ -1,0 +1,41 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Power Plant Report",
+  "report_period": {
+    "value": "JULY 2024"
+  },
+  "entries": [
+    {
+      "total_power_generation": {
+        "value": "4985600",
+        "unit": null
+      },
+      "internal_dg_generation": {
+        "value": "0",
+        "unit": null
+      },
+      "steam_generation": {
+        "value": "30920",
+        "unit": "TPH"
+      },
+      "turbine_input": {
+        "value": "30371",
+        "unit": null
+      },
+      "condensate": {
+        "value": "12768",
+        "unit": null
+      },
+      "bleed_steam": {
+        "value": "1364",
+        "unit": null
+      },
+      "boiler_fuel_use": {
+        "value": null,
+        "unit": null
+      }
+    }
+  ]
+}

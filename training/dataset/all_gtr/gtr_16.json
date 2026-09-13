@@ -1,0 +1,156 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "report_period": "16.09.2024 To 30.09.2024",
+  "entries": [
+    {
+      "consumption_scm": {
+        "value": "16546.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "16193.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "16290.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "16425.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "16365.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "16409.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "18326.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "18253.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "17865.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "18074.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "18491.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "18762.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "18707.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "18789.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    },
+    {
+      "consumption_scm": {
+        "value": "19032.000",
+        "unit": "SCM"
+      },
+      "actual_consumption": null,
+      "excess_gas_quantity": "0.000",
+      "gas_price": "44.76"
+    }
+  ]
+}

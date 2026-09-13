@@ -1,0 +1,110 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "24-Apr to 25-Mar"
+    },
+    "entries": [
+      {
+        "date_period": "24-Apr",
+        "consumption": {
+          "value": 3891995,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "24-May",
+        "consumption": {
+          "value": 3510380,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "24-Jun",
+        "consumption": {
+          "value": 3206480,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "24-Jul",
+        "consumption": {
+          "value": 3933055,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "24-Aug",
+        "consumption": {
+          "value": 4491945,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "24-Sep",
+        "consumption": {
+          "value": 2894920,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "24-Oct",
+        "consumption": {
+          "value": 4655550,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "24-Nov",
+        "consumption": {
+          "value": 4020900,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "24-Dec",
+        "consumption": {
+          "value": 4601000,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "25-Jan",
+        "consumption": {
+          "value": 4567550,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "25-Feb",
+        "consumption": {
+          "value": 4303500,
+          "unit": null
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "25-Mar",
+        "consumption": {
+          "value": 4700900,
+          "unit": null
+        },
+        "net_generation": null
+      }
+    ]
+  }
+}

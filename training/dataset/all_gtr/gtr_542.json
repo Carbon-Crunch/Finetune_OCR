@@ -1,0 +1,670 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01.07.2025 - 16.07.2025"
+    },
+    "entries": [
+      {
+        "date_period": "01.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3478,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39.5,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "01.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3628,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.3,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "01.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3387,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.2,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "02.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3720,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.8,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "02.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3690,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "02.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3386,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.3,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "03.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3398,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "03.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3358,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.9,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 42.1,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "03.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3332,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "04.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3522,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.6,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "04.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3482,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39.8,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "04.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3312,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40.1,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "05.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3343,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.6,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "05.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3405,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40.9,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "05.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3342,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.1,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "06.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3369,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40.8,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "06.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3320,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.6,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "07.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3302,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 42.2,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "07.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3470,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39.2,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "07.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3390,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "08.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3530,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.8,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "08.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3758,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.7,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "09.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3788,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.7,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "09.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3805,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "10.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3820,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.2,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "10.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3840,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "11.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3688,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.1,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "11.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3716,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "12.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3643,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39.1,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "12.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3619,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "12.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3480,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 41.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "13.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3506,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40.1,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "13.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3768,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.5,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "13.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3312,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 42.1,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "14.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3492,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39.6,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "14.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3721,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.8,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "14.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3690,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.0,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "15.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3730,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.3,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "15.07.2025",
+        "shift": "B",
+        "gcv": {
+          "value": 3780,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.8,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "15.07.2025",
+        "shift": "C",
+        "gcv": {
+          "value": 3460,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40.4,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "16.07.2025",
+        "shift": "A",
+        "gcv": {
+          "value": 3696,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.0,
+          "unit": "%"
+        }
+      }
+    ]
+  }
+}

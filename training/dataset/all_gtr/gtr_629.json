@@ -1,0 +1,36 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": {
+    "value": "2025-2026"
+  },
+  "entries": [
+    {
+      "date_period": "April",
+      "rice_husk_consumption": null,
+      "steam_coal_consumption": "7,175.70",
+      "rdf_consumption": "601.62",
+      "bagasse_consumption": null,
+      "biomass_consumption": null,
+      "diesel_consumption": null
+    },
+    {
+      "date_period": "May",
+      "rice_husk_consumption": null,
+      "steam_coal_consumption": "4,488.40",
+      "rdf_consumption": "58.59",
+      "bagasse_consumption": null,
+      "biomass_consumption": null,
+      "diesel_consumption": null
+    },
+    {
+      "date_period": "June",
+      "rice_husk_consumption": null,
+      "steam_coal_consumption": "9,551.51",
+      "rdf_consumption": "152.20",
+      "bagasse_consumption": null,
+      "biomass_consumption": null,
+      "diesel_consumption": null
+    }
+  ]
+}

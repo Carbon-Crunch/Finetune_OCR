@@ -1,0 +1,157 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "FY - 2024-2025"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "consumption": {
+          "value": 4360285.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 15475074.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "consumption": {
+          "value": 302712.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 473125.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "consumption": {
+          "value": 194265.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 0.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "consumption": {
+          "value": 190110.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 35052.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "consumption": {
+          "value": 171836.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 34113.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "consumption": {
+          "value": 154481.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 32354.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "consumption": {
+          "value": 168684.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 38108.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "consumption": {
+          "value": 2554539.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 6725728.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "consumption": {
+          "value": 6605719.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 19877659.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "consumption": {
+          "value": 6814174.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 19749906.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "consumption": {
+          "value": 5854062.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 18276279.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "consumption": {
+          "value": 4158338.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 14462595.0,
+          "unit": "Units"
+        }
+      },
+      {
+        "date_period": "Total",
+        "consumption": {
+          "value": 31536685.0,
+          "unit": "Units"
+        },
+        "net_generation": {
+          "value": 95182693.0,
+          "unit": "Units"
+        }
+      }
+    ]
+  }
+}

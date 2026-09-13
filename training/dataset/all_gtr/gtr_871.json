@@ -1,0 +1,135 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Uttar Pradesh Pollution Control Board Consolidated Consent to Operate and Authorisation (CCA)",
+    "document_type": "Environmental Consent/Authorization",
+    "report_period": {
+      "value": "2024-11-26 to 2029-12-31"
+    },
+    "invoice_date": null,
+    "document_date": "30/12/2024",
+    "supplier_name": null,
+    "customer_name": "M/s GENUS PAPER AND BOARDS LTD",
+    "company_name": "GENUS PAPER AND BOARDS LTD",
+    "plant_name": "GENUS PAPER AND BOARDS LTD",
+    "location": "VILLAGE-AGHWANPUR, KANTH ROAD, MORADABAD, UP, 244001",
+    "registration_number": "29149216",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "226953/UPPCB/Moradabad(UPPCBRO)/CTO/both/MORADABAD/2024",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "product_name": "craft paper",
+        "production": {
+          "value": 380,
+          "unit": "TPD"
+        }
+      },
+      {
+        "product_name": "Food grade craft paper / white paper/cup stock",
+        "production": {
+          "value": 70,
+          "unit": "TPD"
+        }
+      },
+      {
+        "equipment_name": "cogeneration power plant",
+        "capacity": {
+          "value": 9,
+          "unit": "MW"
+        }
+      },
+      {
+        "equipment_name": "Boilers of 55 TPH",
+        "fuel_use": "RDF 460 TPD and low sulpher coal or bio mass 175 TPD or low sulpher coal or biomass 340 TPD"
+      }
+    ],
+    "additional_fields": {
+      "application_id": "29149216",
+      "category": "RED",
+      "consent_validity": "2029-12-31",
+      "stp_capacity": "50 KLD",
+      "sewage_discharge_permitted": "42 KLD"
+    }
+  }
+}

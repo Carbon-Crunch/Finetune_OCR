@@ -1,0 +1,44 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Rice Husk Detail",
+    "document_type": "Fuel Purchase and Consumption Detail",
+    "report_period": {
+      "value": "F.Y. 2023-24"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "M/s Sangal Papers Limited",
+    "plant_name": "M/s Sangal Papers Limited",
+    "location": "Vill-Bhalnsa, Mawana Road, Meerut (U.P)",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {
+      "gps_location": "Mawana Road, Mawana, Meerut, Uttar Pradesh 250401, India",
+      "gps_latitude": 29.094681,
+      "gps_longitude": 77.884189,
+      "photo_timestamp": "07/07/2025 12:59 GMT+05:30"
+    }
+  }
+}

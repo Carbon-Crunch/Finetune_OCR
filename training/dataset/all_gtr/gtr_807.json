@@ -1,0 +1,28 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "2025-01-11"
+  },
+  "supplier_name": "HINDUSTAN PETROLEUM CORPORATION LIMITED",
+  "entries": [
+    {
+      "item_description": "BULK PROPANE",
+      "material_description": null,
+      "item_code": "40120614/ZCQ1",
+      "hsn_sac": "27111200",
+      "quantity": {
+        "value": "20.510",
+        "unit": "KG"
+      },
+      "units": {
+        "value": "KG",
+        "unit": "KG"
+      },
+      "gross_amount": {
+        "value": "1221842.23",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

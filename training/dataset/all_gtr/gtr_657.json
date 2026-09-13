@@ -1,0 +1,301 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "750 KVA D.G. NO. 2 Log Sheet",
+  "document_type": "Hand Written Power Log",
+  "report_period": {
+    "value": "25/07/24"
+  },
+  "company_name": "GENUS PAPER & BOARDS LTD.",
+  "location": "8th Km., Jansath Road, Muzaffarnagar-251 001 (U.P.)",
+  "entries": [
+    {
+      "timestamp": "7:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "50"
+      }
+    },
+    {
+      "timestamp": "8:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "50"
+      }
+    },
+    {
+      "timestamp": "9:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "55"
+      }
+    },
+    {
+      "timestamp": "10:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "60"
+      }
+    },
+    {
+      "timestamp": "11:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "12:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "13:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "14:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "15:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "16:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "17:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "18:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "19:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "20:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "60"
+      }
+    },
+    {
+      "timestamp": "21:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "60"
+      }
+    },
+    {
+      "timestamp": "22:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "60"
+      }
+    },
+    {
+      "timestamp": "23:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "60"
+      }
+    },
+    {
+      "timestamp": "0:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "60"
+      }
+    },
+    {
+      "timestamp": "1:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "2:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "3:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "4:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "5:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    },
+    {
+      "timestamp": "6:00",
+      "meter_reading_left": {
+        "value": "24"
+      },
+      "meter_reading_right": {
+        "value": "1500"
+      },
+      "consumption_difference": {
+        "value": "65"
+      }
+    }
+  ]
+}

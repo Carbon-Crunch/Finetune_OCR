@@ -1,0 +1,126 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "84",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "10/2024"
+        },
+        "vendor": {
+          "value": "UTTARAKHAND POWER CORPORATION LIMITED"
+        },
+        "vendor_gstin": {
+          "value": "05AAACU6007G1ZP"
+        },
+        "buyer": {
+          "value": "KASHI VISHWANATH TEXTILE MILL"
+        },
+        "buyer_gstin": {
+          "value": null
+        },
+        "invoice_no": {
+          "value": "38450241111000026"
+        },
+        "invoice_date": {
+          "value": "11/11/2024"
+        },
+        "document_type": {
+          "value": "ELECTRICITY BILL"
+        },
+        "company_pan": {
+          "value": null
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "ACTUAL ENERGY CHARGES"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "2717550.0",
+              "unit": "KVAH"
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "14091939.20"
+            }
+          },
+          {
+            "item": {
+              "value": "FIXED / DEMAND CHARGES"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "5250.0",
+              "unit": "KVA"
+            },
+            "rate": {
+              "value": "480.0"
+            },
+            "amount": {
+              "value": "2520000.00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "10/2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "5243.0",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": "150",
+              "unit": null
+            },
+            "kwh": {
+              "value": "786450.0",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "2717550.0",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": null,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": "6589.6",
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

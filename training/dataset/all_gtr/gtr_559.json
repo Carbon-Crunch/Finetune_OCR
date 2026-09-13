@@ -1,0 +1,140 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "FLOW DIAGRAM OF PAPER MACHINE 1st",
+    "document_type": "Process Flow Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "27/Aug/15"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "GENUS PAPER & BOARDS LTD.",
+    "plant_name": null,
+    "location": "Aghwanpur, Kanth Road",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "equipment_name": "Top Wire Machine Chest",
+        "power": "40 HP, RPM 450",
+        "remarks": "Ø of Agitator 730, Motor 18.5 KW"
+      },
+      {
+        "equipment_name": "Bottom Wire Machine Chest",
+        "power": "40 HP, RPM 450",
+        "remarks": "Ø of Agitator 730, Motor 18.5 KW"
+      },
+      {
+        "equipment_name": "FAN PUMP (Top)",
+        "flow_rate": "520 M³/Hr, H-35 M",
+        "power": "Motor 100/75 HP, 1440"
+      },
+      {
+        "equipment_name": "FAN PUMP (Bottom)",
+        "flow_rate": "700 M³/Hr, H-35 M",
+        "power": "Motor 150/150 HP, 1440"
+      },
+      {
+        "equipment_name": "CENTRICLEANER (Primary)",
+        "remarks": "No. of Legs 10 Nos."
+      },
+      {
+        "equipment_name": "CENTRICLEANER (2nd Stage)",
+        "flow_rate": "180 M³/Hr, H-35 M",
+        "power": "Motor 25 HP, 1440",
+        "remarks": "No. of Legs 06 Nos."
+      },
+      {
+        "equipment_name": "CENTRICLEANER (3rd Stage)",
+        "flow_rate": "80 M³/Hr, H-30 M",
+        "power": "Motor 25 HP, 1440",
+        "remarks": "No. of Legs 1 No."
+      },
+      {
+        "equipment_name": "CENTRICLEANER (4th Stage)",
+        "power": "Motor 7.5 HP, 1440",
+        "remarks": "No. of Legs 1 No."
+      },
+      {
+        "equipment_name": "PRESSURE SCREEN (Top)",
+        "flow_rate": "600 M³/Hr",
+        "power": "Motor 50 HP, 1000"
+      },
+      {
+        "equipment_name": "PRESSURE SCREEN (Bottom)",
+        "flow_rate": "800 M³/Hr",
+        "power": "Motor 60 HP, 1440"
+      },
+      {
+        "equipment_name": "PRESSURE SCREEN (Pressure)",
+        "flow_rate": "80 M³/Hr",
+        "power": "Motor 60 HP, 1000"
+      },
+      {
+        "equipment_name": "HEAD BOX (Top)",
+        "remarks": "Pressurized"
+      },
+      {
+        "equipment_name": "HEAD BOX (Bottom)",
+        "remarks": "Pressurized"
+      },
+      {
+        "equipment_name": "WIRE PART (Top)",
+        "remarks": "Breast Roll Ø530, Couch Roll Ø750, Size 29.27 x 2.54"
+      },
+      {
+        "equipment_name": "WIRE PART (Bottom)",
+        "remarks": "Breast Roll Ø530, Couch Roll Ø700, Size 30.75 x 2.54"
+      },
+      {
+        "equipment_name": "1st PRESS ROLL",
+        "remarks": "Ø800 x F.L 2500, Felt-Top & Bottom 15.5 x 2.4 M"
+      },
+      {
+        "equipment_name": "2nd PRESS ROLL",
+        "remarks": "Ø1500 x F.L 2500, Felt-Top & Bottom 16.2 x 2.4 M"
+      },
+      {
+        "equipment_name": "5th GP DRYER",
+        "remarks": "Ø1500, No of Dryers 08 Nos., Top 23.5 x 2.40, Bottom 34.0 x 2.40 M"
+      },
+      {
+        "equipment_name": "6th GP DRYER",
+        "remarks": "Ø1500, No of Dryers 06 Nos., Top 21.5 x 2.40, Bottom 28 x 2.40 M"
+      },
+      {
+        "equipment_name": "SIZE PRESS",
+        "remarks": "Top & Bottom Roll Ø950"
+      },
+      {
+        "equipment_name": "CALENDER",
+        "remarks": "Roll Ø650, Bottom Roll 1542 R.P.M"
+      },
+      {
+        "equipment_name": "POPE REEL",
+        "power": "Motor 30 HP, R.P.M 1440",
+        "remarks": "Ø1000, F.L 2500"
+      }
+    ]
+  }
+}

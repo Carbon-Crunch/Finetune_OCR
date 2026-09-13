@@ -1,0 +1,43 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Paper Roll Warehouse",
+    "document_type": "Image / Photo",
+    "report_period": {
+      "value": "2025-07-30"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "2025-07-30"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": "Panchli Khurd, Meerut",
+    "location": "Baghpat Road, Panchli Khurd, Meerut, Uttar Pradesh 250005, India",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {
+      "gps_coordinates": "28.967230, 77.631598",
+      "timestamp": "12:56 GMT+05:30",
+      "content": "Multiple paper rolls stored in a warehouse"
+    }
+  }
+}

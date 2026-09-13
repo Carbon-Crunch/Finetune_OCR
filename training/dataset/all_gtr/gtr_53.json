@@ -1,0 +1,32 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "1-Apr-24 to 31-Mar-25"
+  },
+  "entries": [
+    {
+      "fuel_name": "Plastic Waste-Fuel (Taxable)",
+      "fuel_type": null,
+      "date_period": "2024-2025",
+      "opening_balance": {
+        "value": 7070366.66,
+        "unit": "KG."
+      },
+      "received_quantity": null,
+      "inwards": {
+        "value": 49391761.0,
+        "unit": "KG."
+      },
+      "outwards": {
+        "value": 47863680.3,
+        "unit": "KG."
+      },
+      "consumption": null,
+      "closing_balance": {
+        "value": 8598447.36,
+        "unit": "KG."
+      }
+    }
+  ]
+}

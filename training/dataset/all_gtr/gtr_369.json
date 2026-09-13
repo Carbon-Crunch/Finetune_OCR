@@ -1,0 +1,945 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Month wise Fuel Purchase, Consumption and GCV Report",
+    "document_type": "Fuel Stock & Quality Report",
+    "report_period": {
+      "value": "F.Y. 2024-25"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "SANGAL PAPERS LIMITED",
+    "plant_name": "Vill.-Bhainsa, Mawana, Meerut (U.P.)",
+    "location": "Mawana Road, Meerut - 250401",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": "April, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 4000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "April, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1319478.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1250000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 69478.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "April, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 152250.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2913133.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 2850000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 215383.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3200.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "May, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3700.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "May, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 69478.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 752488.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 672488.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 149478.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "May, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 215383.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1816393.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1858893.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 172883.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3050.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "June, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 196090.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 196090.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 4100.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "June, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 149478.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 149478.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "June, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 172883.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 3850763.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 3843100.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 180546.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3100.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "July, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 196090.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 895780.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 479190.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 612680.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3800.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "July, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "July, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 180546.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 3952185.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 3558270.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 574461.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "August, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 612680.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 408680.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 204000.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 4000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "August, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "August, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 574461.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 3412824.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 3325788.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 661497.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "September, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 204000.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 980880.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1000000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 184880.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3800.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "September, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 57036.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 43062.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "September, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 661497.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 3083514.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 3410500.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 334511.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3100.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "October, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 184880.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 445270.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 381150.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 249000.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 4000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "October, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 43062.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1616362.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1500000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 159424.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "October, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 334511.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2810844.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 2690500.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 454855.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "November, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 249000.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 35000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 214000.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3900.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "November, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 159424.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1934527.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1800400.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 293551.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "November, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 454855.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2670413.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 2368400.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 756868.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "December, 24",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 214000.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 64000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 150000.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 4000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "December, 24",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 293551.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1681562.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1825400.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 149713.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "December, 24",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 756868.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2822376.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 3011000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 569244.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "January, 25",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 150000.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 150000.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3800.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "January, 25",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 149713.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1456352.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1510400.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 95665.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "January, 25",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 569244.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2711226.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 3000700.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 279770.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3100.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "February, 25",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 150000.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 150000.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 4000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "February, 25",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 95665.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1609217.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1700400.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 4482.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "February, 25",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 279770.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2670066.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 2815400.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 134436.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3200.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "March, 25",
+        "product_name": "Coal",
+        "opening_stock": {
+          "value": 150000.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 10000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 140000.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 4100.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "March, 25",
+        "product_name": "Bagasse",
+        "opening_stock": {
+          "value": 4482.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 1678379.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 1670500.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 12361.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 2000.0,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "March, 25",
+        "product_name": "Rice Husk",
+        "opening_stock": {
+          "value": 134436.0,
+          "unit": "Kg"
+        },
+        "received_quantity": {
+          "value": 2623931.0,
+          "unit": "Kg"
+        },
+        "consumption": {
+          "value": 2700000.0,
+          "unit": "Kg"
+        },
+        "closing_stock": {
+          "value": 58367.0,
+          "unit": "Kg"
+        },
+        "gcv": {
+          "value": 3150.0,
+          "unit": "kcal/kg"
+        }
+      }
+    ],
+    "additional_fields": {
+      "monthly_average_gcv": {
+        "Apr-24": 3066.666667,
+        "May-24": 2916.666667,
+        "Jun-24": 3066.666667,
+        "Jul-24": 2933.333333,
+        "Aug-24": 3000.0,
+        "Sep-24": 2966.666667,
+        "Oct-24": 3000.0,
+        "Nov-24": 2966.666667,
+        "Dec-24": 3000.0,
+        "Jan-25": 2966.666667,
+        "Feb-25": 3066.666667,
+        "Mar-25": 3083.333333
+      }
+    }
+  }
+}

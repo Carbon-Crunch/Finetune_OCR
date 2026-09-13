@@ -1,0 +1,43 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": {
+    "value": "February-2025"
+  },
+  "entries": [
+    {
+      "date_of_receipt": "05/03/2025",
+      "supplier_name": "MK TADERS",
+      "truck_vehicle_no": "UP11BH 7481",
+      "gcv": {
+        "value": 2258,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 58.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 18.93,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "05/03/2025",
+      "supplier_name": "MK TADERS",
+      "truck_vehicle_no": "UP11AR 3945",
+      "gcv": {
+        "value": 2382,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 53.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 19.5,
+        "unit": "MT"
+      }
+    }
+  ]
+}

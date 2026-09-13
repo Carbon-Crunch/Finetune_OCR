@@ -1,0 +1,164 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "979",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Coal laboratory test report",
+      "boilerplate_used": "fuel/coal_laboratory_test_report.json",
+      "data": {
+        "report_period": {
+          "value": "07/02/2025 - 11/02/2025"
+        },
+        "entries": [
+          {
+            "sample_name": "COAL",
+            "date_period": "07/02/2025",
+            "sample_quantity": {
+              "value": "594.0",
+              "unit": "g"
+            },
+            "moisture_content": {
+              "value": "1.89",
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": "14.56",
+              "unit": "%"
+            },
+            "fixed_carbon": {
+              "value": null,
+              "unit": "%"
+            },
+            "gcv": {
+              "value": "3002",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "56.88",
+              "unit": "%"
+            },
+            "supplier_name": "TRIDENT LIMITED",
+            "operator_name": "V.Tharaka Ram",
+            "remarks": "adb"
+          },
+          {
+            "sample_name": "COAL",
+            "date_period": "07/02/2025",
+            "sample_quantity": {
+              "value": "594.0",
+              "unit": "g"
+            },
+            "moisture_content": {
+              "value": null,
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": "14.84",
+              "unit": "%"
+            },
+            "fixed_carbon": {
+              "value": null,
+              "unit": "%"
+            },
+            "gcv": {
+              "value": "3059",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "57.98",
+              "unit": "%"
+            },
+            "supplier_name": "TRIDENT LIMITED",
+            "operator_name": "V.Tharaka Ram",
+            "remarks": "db"
+          },
+          {
+            "sample_name": "COAL",
+            "date_period": "07/02/2025",
+            "sample_quantity": {
+              "value": "594.0",
+              "unit": "g"
+            },
+            "moisture_content": {
+              "value": null,
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": null,
+              "unit": "%"
+            },
+            "fixed_carbon": {
+              "value": "26.66",
+              "unit": "%"
+            },
+            "gcv": {
+              "value": null,
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": null,
+              "unit": "%"
+            },
+            "supplier_name": "TRIDENT LIMITED",
+            "operator_name": "V.Tharaka Ram",
+            "remarks": "adb"
+          },
+          {
+            "sample_name": "COAL",
+            "date_period": "07/02/2025",
+            "sample_quantity": {
+              "value": "594.0",
+              "unit": "g"
+            },
+            "moisture_content": {
+              "value": null,
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": null,
+              "unit": "%"
+            },
+            "fixed_carbon": {
+              "value": "27.18",
+              "unit": "%"
+            },
+            "gcv": {
+              "value": null,
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": null,
+              "unit": "%"
+            },
+            "supplier_name": "TRIDENT LIMITED",
+            "operator_name": "V.Tharaka Ram",
+            "remarks": "db"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": "September-2024",
+  "entries": [
+    {
+      "truck_no": "15 TRUCKS",
+      "supplier": "Shree Ganesh coal Enterprises Varanasi",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": 412.7,
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": 3644,
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": 15.3,
+        "unit": "%"
+      },
+      "ash": {
+        "value": 36.6,
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": "17 TRUCKS",
+      "supplier": "Shree Ganesh coal Enterprises (Magadh Jharkhand)",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": 499.715,
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": 3468,
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": 13.7,
+        "unit": "%"
+      },
+      "ash": {
+        "value": 39,
+        "unit": "%"
+      }
+    }
+  ],
+  "totals": {
+    "total_gross_weight": {
+      "value": null,
+      "unit": "MT"
+    },
+    "total_net_weight": {
+      "value": null,
+      "unit": "MT"
+    }
+  }
+}

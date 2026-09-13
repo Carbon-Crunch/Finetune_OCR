@@ -1,0 +1,35 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "Consent to Establish (Expansion)",
+  "document_type": "Environmental Approval / Regulatory Document",
+  "document_date": "03.02.2021",
+  "company_name": "M/s Bahl Papers Mills Ltd.",
+  "location": "5th KM Stone, Aliganj Road, Kashipur, Distt- Udham Singh Nagar",
+  "reference_number": "441/2021/1469",
+  "entries": [
+    {
+      "item_description": "Industrial Wastewater",
+      "quantity": {
+        "value": "3450",
+        "unit": "KLD"
+      }
+    },
+    {
+      "item_description": "Waste to Energy Boiler Capacity",
+      "quantity": {
+        "value": "100.0",
+        "unit": "TPD"
+      }
+    },
+    {
+      "item_description": "DG Set",
+      "remarks": "Additional DG Set/Boiler installation"
+    }
+  ],
+  "additional_fields": {
+    "caf_id": "23084",
+    "fuel_type": "Non-recyclable solid waste, sludge & husk",
+    "notes": "Consent to establish granted for expansion under the Water Act and Air Act"
+  }
+}

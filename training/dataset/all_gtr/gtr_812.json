@@ -1,0 +1,161 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "1-Apr-24 to 31-Mar-25",
+  "entries": [
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "Opening Balance",
+      "opening_balance": 172002.71,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "April",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 36985.22,
+      "outwards": 46680.0,
+      "consumption": null,
+      "closing_balance": 162307.93
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "May",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 28472.81,
+      "outwards": 49820.0,
+      "consumption": null,
+      "closing_balance": 140960.74
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "June",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 13048.62,
+      "outwards": 33040.0,
+      "consumption": null,
+      "closing_balance": 120969.36
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "July",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 4017.81,
+      "outwards": 44130.0,
+      "consumption": null,
+      "closing_balance": 80857.17
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "August",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 2446.55,
+      "outwards": 48760.0,
+      "consumption": null,
+      "closing_balance": 34543.72
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "September",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 405007.0,
+      "outwards": 31970.0,
+      "consumption": null,
+      "closing_balance": 2573.72
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "October",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 13424.22,
+      "outwards": 1750.0,
+      "consumption": null,
+      "closing_balance": 14247.94
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "November",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 79440.72,
+      "outwards": 28680.0,
+      "consumption": null,
+      "closing_balance": 65008.66
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "December",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 158913.22,
+      "outwards": 52450.0,
+      "consumption": null,
+      "closing_balance": 171471.88
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "January",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 89002.46,
+      "outwards": 53120.0,
+      "consumption": null,
+      "closing_balance": 207354.34
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "February",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 44733.68,
+      "outwards": 46390.0,
+      "consumption": null,
+      "closing_balance": 205698.02
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "March",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 49802.36,
+      "outwards": 49840.0,
+      "consumption": null,
+      "closing_balance": 205660.38
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": null,
+      "date_period": "Grand Total",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": 520287.67,
+      "outwards": 486630.0,
+      "consumption": null,
+      "closing_balance": 205660.38
+    }
+  ]
+}

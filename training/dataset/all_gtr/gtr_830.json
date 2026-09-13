@@ -1,0 +1,137 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "830",
+  "extractions": [
+    {
+      "data_type": "Generic",
+      "data_category": "Generic Fallback Document",
+      "boilerplate_used": "generic_fallback",
+      "data": {
+        "document_title": "Renewable Consumption Obligation (RCO)",
+        "document_type": "Data Points List",
+        "entries": [
+          {
+            "item_description": "Consent to Operate (CTO)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Consent to Establish (CTE)",
+            "remarks": "Unchecked"
+          },
+          {
+            "item_description": "GCV Certificate of all raw materials (External)",
+            "remarks": "Unchecked"
+          },
+          {
+            "item_description": "Internal Bomb Calorimeter Reading (Log books) or GCV certificate by internal Laboratory",
+            "remarks": "Unchecked"
+          },
+          {
+            "item_description": "Electricity Bills (Grid)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Electricity Consumption Report",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Electricity Generation Data and logbook",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Electricity Sale Report (if any)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Auxiliary Power Consumption",
+            "remarks": "Unchecked"
+          },
+          {
+            "item_description": "Stock Report (All Fuel Source - Coal, Bagasse, Diesel, or any other) - Purchase, Sale, Consumption and Proof of Weight",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Proof of Purchase of Fuel (GST purchase bills) or Proof of Weight of Stock (external party - Digital Bill)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Should also contain opening and closing balance as well",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Backup Generator/DG/GG Consumption (if any)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Process Flow Diagram for the plant - 1. Boiler, 2. Turbine, 3. ETP",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Any other facility available inside the unit",
+            "remarks": "Unchecked"
+          },
+          {
+            "item_description": "Purchase Agreement for Power (OA/CPP/DRE)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "RE Energy Data - Wind (if any)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "RE Energy Data - Solar (if any)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "RE Energy Data - Hydro (if any)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Other RE Energy Data (if any)",
+            "remarks": "Unchecked"
+          },
+          {
+            "item_description": "Electricity Generation from WHR (if any) - Fossil Based OR Non-Fossil Based",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Steam Report",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Boiler Log Book - Photocopy",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Renewable Energy Credits (RECs) History",
+            "remarks": "Unchecked"
+          },
+          {
+            "item_description": "Surplus Energy to Grid (if any)",
+            "remarks": "Checked"
+          },
+          {
+            "item_description": "Tariff/Subsidy Framework (if any)",
+            "remarks": "Checked"
+          }
+        ]
+      }
+    }
+  ]
+}

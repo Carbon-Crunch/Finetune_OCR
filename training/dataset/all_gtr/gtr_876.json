@@ -1,0 +1,85 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "CONSENT ORDER",
+    "document_type": "Consent Order",
+    "report_period": {
+      "value": "01/01/2020 to 31/12/2024"
+    },
+    "document_date": "28/01/2020",
+    "supplier_name": null,
+    "customer_name": "M/s GENUS PAPER AND BOARDS LTD",
+    "company_name": "GENUS PAPER AND BOARDS LTD",
+    "plant_name": "GENUS PAPER AND BOARDS LTD",
+    "location": "VILLAGE-AGHWANPUR, KANTH ROAD, MORADABAD, UP",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "58004/UPPCB/Moradabad(UPPCBRO)/CTO/air/MORADABAD/2019",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "equipment_name": "DG Set 1250 KVA",
+        "item_description": "Disel oil",
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "remarks": "canopy at the DG set and stack height of 10 meter from roof of nearest building"
+      },
+      {
+        "equipment_name": "boiler 55 TPH",
+        "item_description": "rice husk 340MTD or coal 300 MTD",
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "remarks": "Electrostatic Precipitator as APCS alongwith stack height of 40 meter from ground level"
+      }
+    ],
+    "additional_fields": {
+      "production_capacity": "Media Kraft Paper 450 TPD",
+      "raw_material": "Waste Paper",
+      "authorized_person": "Shri SURYA PRAKASH SINHA",
+      "issuing_authority": "U.P. Pollution Control Board",
+      "reference_application_no": "5235375"
+    }
+  }
+}

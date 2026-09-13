@@ -1,0 +1,571 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "D.G. NO 2 LOG SHEET",
+    "document_type": "DG Operational & Fuel Log",
+    "report_period": {
+      "value": "13-11-25 to 30-12-25"
+    },
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "KASHI VISHWANATH TEXTILE MILL LTD.",
+    "plant_name": "KASHI VISHWANATH TEXTILE MILL LTD.",
+    "location": "5th Km. Ramnagar Road, Kashipur - 244713 (U.S. Nagar)",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "date_period": "13-11-25",
+        "timestamp": "10:32 Am",
+        "remarks": "Start",
+        "meter_reading": {
+          "value": 2886.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 384.42,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 875.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "13-11-25",
+        "timestamp": "11:00 Am",
+        "runtime": {
+          "value": 26.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 640.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2886.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 384.66,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 240.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 800.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 75.0,
+          "unit": "Ltr."
+        },
+        "remarks": "Feed in tank = 900-265 = 635 + 75 = 710 ltr"
+      },
+      {
+        "date_period": "13-11-25",
+        "timestamp": "12:00 Am",
+        "runtime": {
+          "value": 25.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 654.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2887.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 385.3,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 640.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 620.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 180.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "13-11-25",
+        "timestamp": "01:00 Pm",
+        "runtime": {
+          "value": 25.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 605.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2888.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 385.94,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 640.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 445.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 175.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "13-11-25",
+        "timestamp": "02:00 Pm",
+        "runtime": {
+          "value": 25.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 645.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2889.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 386.59,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 650.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 265.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 180.0,
+          "unit": "Ltr."
+        },
+        "remarks": "Feed in tank = 900-335 = 565 ltr"
+      },
+      {
+        "date_period": "13-11-25",
+        "timestamp": "03:00 Pm",
+        "runtime": {
+          "value": 25.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 650.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2890.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 387.22,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 630.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 800.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 175.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "13-11-25",
+        "timestamp": "04:00 Pm",
+        "runtime": {
+          "value": 25.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 627.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2891.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 387.87,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 650.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 625.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 185.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "13-11-25",
+        "timestamp": "05:00 Pm",
+        "runtime": {
+          "value": 25.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 661.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2892.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 388.52,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 650.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 435.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 180.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "13-11-25",
+        "timestamp": "05:36 Pm",
+        "remarks": "Stop",
+        "meter_reading": {
+          "value": 2893.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 388.85,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 330.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 335.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 100.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "15-11-25",
+        "remarks": "Power Fail"
+      },
+      {
+        "date_period": "15-11-25",
+        "timestamp": "04:46 Pm",
+        "remarks": "Start",
+        "meter_reading": {
+          "value": 2893.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 388.92,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 70.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 875.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 25.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "15-11-25",
+        "timestamp": "04:58 Pm",
+        "remarks": "Stop",
+        "meter_reading": {
+          "value": 2893.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 388.92,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 875.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "19-11-25",
+        "timestamp": "10:40 Am",
+        "remarks": "Start",
+        "meter_reading": {
+          "value": 2893.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 388.92,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 840.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 35.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "19-11-25",
+        "timestamp": "11:00 Am",
+        "runtime": {
+          "value": 26.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 744.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2894.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 389.02,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 100.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 681.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 159.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "19-11-25",
+        "timestamp": "11:46 Am",
+        "remarks": "Stop",
+        "meter_reading": {
+          "value": 2894.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 389.61,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 590.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 681.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "19-11-25",
+        "timestamp": "05:00 Pm",
+        "remarks": "Start",
+        "meter_reading": {
+          "value": 2894.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 389.61,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 622.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 59.0,
+          "unit": "Ltr."
+        },
+        "remarks_additional": "278 Ltr H.S.D. Added"
+      },
+      {
+        "date_period": "19-11-25",
+        "timestamp": "05:23 Pm",
+        "remarks": "Stop",
+        "meter_reading": {
+          "value": 2895.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 389.82,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 210.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 900.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 253.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "27-11-25",
+        "remarks": "Power Fail"
+      },
+      {
+        "date_period": "27-11-25",
+        "timestamp": "01:32 Am",
+        "remarks": "Start",
+        "meter_reading": {
+          "value": 2895.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 390.09,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 815.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 25.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "27-11-25",
+        "timestamp": "02:00 Am",
+        "runtime": {
+          "value": 26.0,
+          "unit": "Hrs"
+        },
+        "supply_voltage": {
+          "value": 415.0,
+          "unit": "V"
+        },
+        "power": {
+          "value": 757.0,
+          "unit": "KW"
+        },
+        "meter_reading": {
+          "value": 2895.0,
+          "unit": "HRS"
+        },
+        "generation": {
+          "value": 390.27,
+          "unit": "KWH"
+        },
+        "kwh": {
+          "value": 180.0,
+          "unit": "KWH"
+        },
+        "balance": {
+          "value": 765.0,
+          "unit": "Ltr."
+        },
+        "consumption": {
+          "value": 50.0,
+          "unit": "Ltr."
+        }
+      },
+      {
+        "date_period": "27-11-25",
+        "timestamp": "02:15 Am",
+        "remarks": "Stop",
+        "remarks_additional": "135 Ltrs H.S.D. Added"
+      },
+      {
+        "date_period": "04-12-25",
+        "remarks": "D.G. NO 2 का फुल सर्विस किया"
+      }
+    ],
+    "additional_fields": {
+      "dg_unit_specification": "D.G. NO. 2",
+      "piston_and_maintenance_notes": "5-12-25 को D.G. NO. 2 का TRYAL लिया OK"
+    }
+  }
+}

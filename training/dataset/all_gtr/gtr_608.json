@@ -1,0 +1,98 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01/Jul/2024 - 30/Sep/2024"
+    },
+    "entries": [
+      {
+        "fuel_name": "CL STEAM COAL",
+        "fuel_type": "STEAM COAL",
+        "date_period": "01/Jul/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": "41.530",
+          "unit": "MT"
+        },
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "CL STEAM COAL",
+        "fuel_type": "STEAM COAL",
+        "date_period": "02/Jul/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": "218.550",
+          "unit": "MT"
+        },
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "CL STEAM COAL",
+        "fuel_type": "STEAM COAL",
+        "date_period": "03/Jul/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": "236.710",
+          "unit": "MT"
+        },
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "CL STEAM COAL",
+        "fuel_type": "STEAM COAL",
+        "date_period": "04/Jul/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": "256.310",
+          "unit": "MT"
+        },
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "CL STEAM COAL",
+        "fuel_type": "STEAM COAL",
+        "date_period": "05/Jul/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": "227.560",
+          "unit": "MT"
+        },
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "CL STEAM COAL",
+        "fuel_type": "STEAM COAL",
+        "date_period": "06/Jul/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": {
+          "value": "222.150",
+          "unit": "MT"
+        },
+        "closing_balance": null
+      }
+    ]
+  }
+}

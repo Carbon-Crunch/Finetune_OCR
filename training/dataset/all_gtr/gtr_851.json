@@ -1,0 +1,45 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal laboratory test report",
+  "boilerplate_used": "fuel/coal_laboratory_test_report.json",
+  "data": {
+    "report_period": {
+      "value": "30.01.2024 TO 01.02.2024"
+    },
+    "entries": [
+      {
+        "sample_name": "Coal",
+        "date_period": "30.01.2024 TO 01.02.2024",
+        "sample_quantity": {
+          "value": "1.5",
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": "15.32",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "38.34",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "37.92",
+          "unit": "%"
+        },
+        "gcv": {
+          "value": "5298",
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": "8.42",
+          "unit": "%"
+        },
+        "supplier_name": "M/s.Gayatrishakti Paper & Boards Ltd. (Unit-II)",
+        "operator_name": null,
+        "remarks": null
+      }
+    ]
+  }
+}

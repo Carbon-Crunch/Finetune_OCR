@@ -1,0 +1,138 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consent to Establish (CTE) for New Unit/Expansion/Diversification",
+    "document_type": "Consent Order",
+    "report_period": {
+      "value": "06/10/2023 To 05/10/2028"
+    },
+    "invoice_date": null,
+    "document_date": "01/11/2023",
+    "supplier_name": null,
+    "customer_name": "Shri SURYA PRAKASH SINHA, M/s GENUS PAPER AND BOARDS LTD",
+    "company_name": "GENUS PAPER AND BOARDS LTD",
+    "plant_name": "GENUS PAPER AND BOARDS LTD",
+    "location": "VILLAGE-AGHWANPUR, KANTH ROAD, MORADABAD, UP, 244001",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "191773/UPPCB/Moradabad(UPPCBRO)/CTE/MORADABAD/2023",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "material_description": "WASTE PAPER / VIRGIN PULP (75 MT/DAY)",
+        "quantity": {
+          "value": 2250,
+          "unit": "Metric Tonnes/Month"
+        }
+      },
+      {
+        "material_description": "WASTE PAPER (400 MT/DAY)",
+        "quantity": {
+          "value": 12000,
+          "unit": "Metric Tonnes/Month"
+        }
+      },
+      {
+        "material_description": "WASTE PAPER / VIRGIN PULP (75 MT/DAY)",
+        "quantity": {
+          "value": 2250,
+          "unit": "Metric Tonnes/Month"
+        }
+      },
+      {
+        "product_name": "FOOD GRADE KRAFT PAPER/WHITE PAPER/CUP STOCK(70MTD",
+        "production": {
+          "value": 2100,
+          "unit": null
+        }
+      },
+      {
+        "product_name": "KRAFT PAPER (380 MT/DAY)",
+        "production": {
+          "value": 11400,
+          "unit": null
+        }
+      },
+      {
+        "consumption": {
+          "value": 1550.0,
+          "unit": "KLD"
+        },
+        "remarks": "Ground Water (within premises) BORE-WELL"
+      },
+      {
+        "material_description": "Domestic Effluent",
+        "consumption": {
+          "value": 50.0,
+          "unit": "KLD"
+        }
+      },
+      {
+        "material_description": "Industrial Effluent",
+        "consumption": {
+          "value": 1500.0,
+          "unit": "KLD"
+        }
+      },
+      {
+        "material_description": "Fuel Others",
+        "consumption": {
+          "value": 350,
+          "unit": "tpd"
+        }
+      }
+    ],
+    "additional_fields": {
+      "water_source": "Ground Water (within premises), BORE-WELL",
+      "boiler_capacity": "55 TPH",
+      "turbine_capacity": "9 MW",
+      "compliance_date": "01/12/2023",
+      "bank_guarantee_1": "1,00,000",
+      "bank_guarantee_2": "5,00,000"
+    }
+  }
+}

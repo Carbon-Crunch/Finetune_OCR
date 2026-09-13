@@ -1,0 +1,63 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "PUNJAB POLLUTION CONTROL BOARD Consent to Operate (Renewal)",
+    "document_type": "Consent to Operate / Renewal Certificate",
+    "report_period": {
+      "value": "From:14/10/2022 To:31/03/2026"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "28/07/2023"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Trident Ltd (htd)",
+    "plant_name": "Trident Complex",
+    "location": "Mansa-road, Vill-dhaula, Barnala, Barnala-148107",
+    "registration_number": "R12BAR22182",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "CTOA/Renewal/BAR/2023/22049439",
+    "total_amount": {
+      "value": 74583.37,
+      "unit": "lakhs"
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {
+      "application_no": "22049439",
+      "previous_cto_no_and_validity": "CTOA/Renewal/BAR/2022/20105228 From:14/10/2022 To:30/06/2023",
+      "applicant_name_and_designation": "Mr Mohit Soni , (Managing Director )",
+      "category_of_industry": "Red",
+      "type_of_industry": "Other",
+      "scale_of_the_industry": "Large",
+      "office_district": "Barnala",
+      "signatory_name": "Amit Kumar",
+      "signatory_designation": "Environmental Engineer"
+    }
+  }
+}

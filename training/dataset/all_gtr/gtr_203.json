@@ -1,0 +1,1113 @@
+[
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "April 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 573375,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 785530,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 600445,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "May 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 305599,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 639153,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 460991,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "June 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 546999,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 1000821,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 595221,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "July 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 597156,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 790480,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 641390,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "August 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 564600,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 965324,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 644772,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "September 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 594683,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 892913,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 591904,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "October 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 533560,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 985431,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 527556,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "November 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 574742,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 945457,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 465675,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "December 2024",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 610216,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 972103,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 547979,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "January 2025",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 509555,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 886319,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 417897,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 11,
+        "image_index": 11,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Energy",
+    "data_category": "Electric Consumption History / Generation Report",
+    "report_period": "February 2025",
+    "entries": [
+      {
+        "date_period": "PM/C NO-1",
+        "consumption": {
+          "value": 571301,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-2",
+        "consumption": {
+          "value": 862402,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "PM/C NO-3",
+        "consumption": {
+          "value": 534779,
+          "unit": "KWH"
+        },
+        "net_generation": null
+      }
+    ]
+  }
+]

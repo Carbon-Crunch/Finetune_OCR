@@ -1,0 +1,73 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Consignment Report",
+  "report_period": {
+    "value": null
+  },
+  "truck_count": {
+    "value": "150",
+    "unit": "count"
+  },
+  "entries": [
+    {
+      "truck_no": null,
+      "supplier": "Shree Ganesh",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": "3768.098",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3524",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "13.3",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "37.6",
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": null,
+      "supplier": "Shree Sai Urja LTD.",
+      "gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "net_weight": {
+        "value": "1267.305",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3598",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "12.7",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "37.9",
+        "unit": "%"
+      }
+    }
+  ],
+  "totals": {
+    "total_gross_weight": {
+      "value": null,
+      "unit": "MT"
+    },
+    "total_net_weight": {
+      "value": "5035.403",
+      "unit": "MT"
+    }
+  }
+}

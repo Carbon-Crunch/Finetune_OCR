@@ -1,0 +1,132 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": true,
+      "degree": 270
+    }
+  ],
+  "data_type": "Production & Operational",
+  "data_category": "Log book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one timestamp record of process parameters.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "November 2024 to March 2025"
+    },
+    "entries": [
+      {
+        "date_period": "01.11.2024",
+        "timestamp": "2-3",
+        "pressure": {
+          "value": 4.2,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 141,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": {
+          "value": 2500,
+          "unit": null
+        },
+        "pulp_levels": null
+      },
+      {
+        "date_period": "31.03.2025",
+        "timestamp": "1-2",
+        "pressure": {
+          "value": 4.1,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": 147,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": {
+          "value": 2500,
+          "unit": null
+        },
+        "pulp_levels": null
+      }
+    ]
+  }
+}

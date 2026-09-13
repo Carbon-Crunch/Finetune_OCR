@@ -1,0 +1,134 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Energy Saving Action Plan for PAT Cycle-VIII (2023-2026)",
+    "document_type": "Energy Saving Action Plan",
+    "report_period": {
+      "value": "2023-2026"
+    },
+    "company_name": "Genus Paper & Boards Ltd.",
+    "plant_name": "Genus Paper & Boards Ltd.",
+    "location": "Vill- Agawanpur, Kanth Road, Moradabad",
+    "entries": [
+      {
+        "item_description": "Installed new 9MW efficient TG set of Triveni make, inplace of two older turbines 6MW & 3MW running in Syncronization. Significant reduction in SSC.",
+        "remarks": "Completed in Jan-2024",
+        "consumption": {
+          "value": "6.2",
+          "unit": "tons/MW"
+        }
+      },
+      {
+        "item_description": "Old metal halide lights (Sodium vapors) replaced with L.E.D lights.",
+        "remarks": "Completed in May-2024",
+        "consumption": {
+          "value": "73000",
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Installed level controller in back water of M/C section.",
+        "remarks": "Completed in Dec-2023",
+        "consumption": {
+          "value": "50400",
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Drives installed in M/C chest PP of PM-1.",
+        "remarks": "Completed in Feb-2024",
+        "consumption": {
+          "value": "100800",
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Disperser operation stopped in 22,25 & 28 B.F container board by changing raw material composition & re engineering process.",
+        "remarks": "Completed in Nov-2023",
+        "consumption": {
+          "value": "1008000",
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Since Disperser operation stopped in 22,25 & 28 B.F container board, resulting steam saving of 2.8 Tons/ Hr.",
+        "remarks": "Completed in Nov-2023",
+        "consumption": {
+          "value": "9408",
+          "unit": "Tons/Year"
+        }
+      },
+      {
+        "item_description": "In Pulp Mill all Poacher Pumps interlocked with its agitator, resulting 200KWH energy saved /day.",
+        "remarks": "Completed in Dec-2023",
+        "consumption": {
+          "value": "67200",
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Installed Condensate vaccum Pump in both machine to save steam. Expected Savings of 0.2MT of steam on Per MT of Paper.",
+        "remarks": "Expected completion in June-2024",
+        "consumption": {
+          "value": "24000",
+          "unit": "MT of Steam"
+        }
+      },
+      {
+        "item_description": "Cooling Tower Pump RPM reduced from 1450 to 1300.",
+        "remarks": "Completed in May-2024",
+        "consumption": {
+          "value": "80640",
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Proposal made and capex approved for changing of old Energy inefficient motors with IE3 Energy efficient motors from 75KW to 160KW.",
+        "remarks": "Expected completion in Jan-2026",
+        "consumption": {
+          "value": "436800",
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Old Slip ring motors install in refiners needs to be changed with IE3 Energy efficient motors.",
+        "remarks": "Expected Completion in Jan-2025",
+        "consumption": {
+          "value": "403200",
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Drives need to be install in LC Pulper-1 & LC Pulper-2.",
+        "remarks": "Expected Completion in June2025",
+        "consumption": {
+          "value": "252000",
+          "unit": "KWH"
+        }
+      }
+    ],
+    "additional_fields": {
+      "energy_manager": "PV Kiran Ananth",
+      "contact_person": "Prateek Raghuvanshi",
+      "plant_head": "R.P. Singh"
+    }
+  }
+}

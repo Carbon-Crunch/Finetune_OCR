@@ -1,0 +1,133 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": "April 2025",
+  "entries": [
+    {
+      "date_of_receipt": "16.04.2024",
+      "supplier_name": "GENUS PAPER BOARD ( MZN )",
+      "truck_vehicle_no": "RACK",
+      "gcv": {
+        "value": 4567,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.9,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 24.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 1007.45,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "20.04.2025",
+      "supplier_name": "GENUS PAPER BOARD ( MZN )",
+      "truck_vehicle_no": "RACK",
+      "gcv": {
+        "value": 4813,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 12.0,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 879.88,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "26.04.2025",
+      "supplier_name": "NORTHERN COAL SINGROLI",
+      "truck_vehicle_no": "RACK",
+      "gcv": {
+        "value": 3776,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 41.8,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 2971.073,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "30.04.2025",
+      "supplier_name": "SHRI SAI URJA LIMITED RAMPUR",
+      "truck_vehicle_no": "RACK",
+      "gcv": {
+        "value": 4255,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 12.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 31.5,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 3920.03,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "11.04.2025 to 12.04.2025",
+      "supplier_name": "CHADDHA PAPER LIMITED, RAMPUR",
+      "truck_vehicle_no": "15",
+      "gcv": {
+        "value": 4592.79,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 24.6,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 592.53,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "08.04.2025 to 22.04.2025",
+      "supplier_name": "SHREE GANESH COAL",
+      "truck_vehicle_no": "21",
+      "gcv": {
+        "value": 3571.23,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 11.62,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 39.67,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 594.79,
+        "unit": "MT"
+      }
+    }
+  ]
+}

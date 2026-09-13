@@ -1,0 +1,320 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "942",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Coal Receipt Register & Quality Register",
+      "boilerplate_used": "fuel/coal_receipt_quality_register.json",
+      "data": {
+        "report_period": {
+          "value": "21/02/2025"
+        },
+        "entries": [
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-24 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3025",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "29.4",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "34.6",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "32150",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-32 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3088",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "29.1",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "34.3",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "34170",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-21 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3088",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "29.1",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "33.8",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "33800",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-21 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "2964",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "28.5",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "33.6",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "33000",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-21 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "2964",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "28.5",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "33.3",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "33360",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-21 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "2964",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "28.5",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "32.7",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "32840",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-05 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3004",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "30.0",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "31.6",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "31600",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-05 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3004",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "30.0",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "31.8",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "31840",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-16 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3197",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "29.8",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "33.6",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "33600",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-16 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3197",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "29.8",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "33.2",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "33250",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-16 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3197",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "29.8",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "33.9",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "33910",
+              "unit": "MT"
+            }
+          },
+          {
+            "date_of_receipt": "21/02/2025",
+            "date_period": "21/02/2025",
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": null,
+            "truck_vehicle_no": "GJ-16 SRH2R",
+            "total_trucks": null,
+            "gcv": {
+              "value": "3137",
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": "29.8",
+              "unit": "%"
+            },
+            "ash_content": {
+              "value": "33.6",
+              "unit": "%"
+            },
+            "net_weight": {
+              "value": "33620",
+              "unit": "MT"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

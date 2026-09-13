@@ -1,0 +1,45 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "General Terms & Conditions",
+    "document_type": "Legal / Terms & Conditions",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "01-11-2022"
+    },
+    "supplier_name": "Spectro Analytical Labs Private Limited",
+    "customer_name": null,
+    "company_name": "Eurofins",
+    "plant_name": null,
+    "location": "S-1, GNEPIP, Surajpur Industrial Area, Phase-V, Kasna, Greater Noida-201308 (India)",
+    "registration_number": "U74220DL1998PTC092698",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "D250507012/D250507012-11",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {
+      "format_no": "ES/F/02",
+      "issue_no": "03",
+      "revision_no": "00",
+      "page_number": "3 of 3",
+      "company_legal_name": "Spectro Analytical Labs Private Limited (formerly Spectro Analytical Labs Limited), (part of Eurofins Scientific SE)"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "data_type": "Production & Operational",
+  "data_category": "Production Summary / Machine Consumption Summary",
+  "extraction_rules": "This is a tabular production or machine consumption summary. Extract EVERY row from the table into the entries array. Each object in entries represents one product, machine, or period record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "product_name": null,
+        "machine_name": null,
+        "date_period": null,
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "total_production": {
+          "value": null,
+          "unit": null
+        },
+        "finish_production": {
+          "value": null,
+          "unit": null
+        },
+        "total_dispatch": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "machine_consumption": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_mill_consumption": {
+          "value": null,
+          "unit": null
+        },
+        "power_unit_per_tonne": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

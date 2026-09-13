@@ -1,0 +1,42 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal laboratory test report",
+  "boilerplate_used": "fuel/coal_laboratory_test_report.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "19.03.2025-24.03.2025"
+    },
+    "entries": [
+      {
+        "sample_name": "IMP Coal TARN-42 U5",
+        "date_period": "19.03.2025-24.03.2025",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 31.17,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": 40.49,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": 39.96,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3969,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 10.8,
+          "unit": "%"
+        },
+        "supplier_name": "N.R. Agrawal Industries Ltd.",
+        "operator_name": "Rikesh Tiwari",
+        "remarks": "Results relate only to the items tested. No additions to, deviations, or exclusion form the test method. All test performs at our laboratory. Report shall not be reproduced except in full without approval of the laboratory. Sample shall be retained for 30 days after reporting of results."
+      }
+    ]
+  }
+}

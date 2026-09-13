@@ -1,0 +1,61 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": null,
+    "document_type": "Agreement Signature Page",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "1st February 2023"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": "Meerut",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Witness 1: CA Samir Singhal",
+        "remarks": "24-B, Honey Gulf Greens, Garth Road, Meerut (U.P.)"
+      },
+      {
+        "item_description": "Witness 2: Aruna Rastogi",
+        "remarks": "102R/1, Munnalal, Hastenabumbad (Meerut)"
+      },
+      {
+        "customer_name": "Shri Rajeev Gupta, Director, M/s Dev Priya Products Pvt. Ltd."
+      },
+      {
+        "customer_name": "Shri Sanjeev Gupta, Director, M/s RPG Industrial Product Pvt. Ltd."
+      }
+    ],
+    "additional_fields": {
+      "witnesses": [
+        "CA Samir Singhal",
+        "Aruna Rastogi"
+      ],
+      "signatory_parties": [
+        "Shri Rajeev Gupta (M/s Dev Priya Products Pvt. Ltd.)",
+        "Shri Sanjeev Gupta (M/s RPG Industrial Product Pvt. Ltd.)"
+      ]
+    }
+  }
+}

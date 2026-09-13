@@ -1,0 +1,164 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "839",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "SEP-2024"
+        },
+        "vendor": {
+          "value": "Dakshin Gujarat Vij Company Ltd."
+        },
+        "vendor_gstin": {
+          "value": null
+        },
+        "buyer": {
+          "value": "Revival Paper Mill P 1."
+        },
+        "buyer_gstin": {
+          "value": null
+        },
+        "invoice_no": {
+          "value": null
+        },
+        "invoice_date": {
+          "value": "03-10-2024"
+        },
+        "document_type": {
+          "value": "HT BILL"
+        },
+        "company_pan": {
+          "value": "AACBD8912C"
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "Demand Charges"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "294077.5"
+            }
+          },
+          {
+            "item": {
+              "value": "Energy Charges"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "576788",
+              "unit": "KWH"
+            },
+            "rate": {
+              "value": "4.2"
+            },
+            "amount": {
+              "value": "2422509.6"
+            }
+          },
+          {
+            "item": {
+              "value": "Fuel Charge"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "576788",
+              "unit": "KWH"
+            },
+            "rate": {
+              "value": "2.85"
+            },
+            "amount": {
+              "value": "1643845.8"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "SEP-2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "38451.5",
+              "unit": "KWH"
+            },
+            "multiplying_factor": {
+              "value": "15",
+              "unit": null
+            },
+            "kwh": {
+              "value": "576772.5",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "584880",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": "84390",
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": "12601",
+              "unit": null
+            },
+            "night_hour": {
+              "value": "13381",
+              "unit": null
+            },
+            "amd": {
+              "value": "1136",
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

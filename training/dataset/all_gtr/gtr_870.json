@@ -1,0 +1,85 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consent to Establish for New Unit/Expansion/Diversification",
+    "document_type": "Pollution Control Board Document",
+    "report_period": {
+      "value": "26/12/2020 To 25/12/2025"
+    },
+    "invoice_date": null,
+    "document_date": "15/01/2021",
+    "supplier_name": null,
+    "customer_name": "Shri SUMIT GARG",
+    "company_name": "M/s JANKI NEWSPRINT LIMITED",
+    "plant_name": "JANKI NEWSPRINT LIMITED, VILLAGE- PANCHLI, BAGHPAT ROAD, MEERUT",
+    "location": "MEERUT, MEERUT, 250002",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "113314/UPPCB/Meerut(UPPCBRO)/CTE/MEERUT/2020",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "item_description": "WATER",
+        "quantity": {
+          "value": 132,
+          "unit": "Kilo Liters/Day"
+        }
+      },
+      {
+        "item_description": "55 TPH Boiler and 7 MW Turbine",
+        "quantity": {
+          "value": 0,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "Boiler (Effluent)",
+        "quantity": {
+          "value": 132.0,
+          "unit": "KL/D"
+        }
+      },
+      {
+        "item_description": "Others (Fuel)",
+        "quantity": {
+          "value": 400,
+          "unit": "tpd/kld"
+        }
+      }
+    ],
+    "additional_fields": {
+      "application_no": "10442638",
+      "application_date": "11/12/2020",
+      "water_source": "BOREWELL",
+      "bank_guarantee_amount": "Rs. 10,00,000/-",
+      "green_belt_requirement": "minimum 33 percent",
+      "fuel_requirement": "20 percent Bio-briquette"
+    }
+  }
+}

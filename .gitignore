@@ -1,0 +1,125 @@
+# ==============================================================================
+# Python & Bytecode
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ==============================================================================
+# Virtual Environments (uv, venv, conda)
+# ==============================================================================
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# ==============================================================================
+# Packaging & Builds
+# ==============================================================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==============================================================================
+# Machine Learning Weights, Checkpoints & Caches
+# ==============================================================================
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.engine
+
+# Adapter saves & training outputs
+saves/
+saves_*/
+saves_v1/
+savesv1/
+saves_v1.zip
+savesv1.zip
+checkpoints/
+runs/
+wandb/
+lightning_logs/
+
+# Caching directories (Hugging Face, Torch, etc.)
+.cache/
+hf_cache/
+
+# ==============================================================================
+# Datasets & Archive Files
+# ==============================================================================
+Batch3/
+batch3/
+Batch3.zip
+batch3.zip
+Batch*/
+batch*/
+
+# Zip archives & folders
+*.zip
+zip/
+zips/
+zip*/
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+data/
+datasets/
+
+# Dataset contents: ignore raw document files (all_file), track ground truth (all_gtr) & documentation
+**/dataset/*
+!**/dataset/all_gtr/
+!**/dataset/*.md
+all_file/
+uploads/
+temp/
+tmp/
+
+# ==============================================================================
+# Logs & Process Outputs
+# ==============================================================================
+*.log
+logs/
+nohup.out
+
+# ==============================================================================
+# Environment Variables & Secrets
+# ==============================================================================
+.env
+.env.*
+!.env.example
+
+# ==============================================================================
+# Editor & OS Artifacts
+# ==============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ==============================================================================
+# Jupyter Notebooks
+# ==============================================================================
+.ipynb_checkpoints

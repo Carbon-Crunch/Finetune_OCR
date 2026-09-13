@@ -1,0 +1,94 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consent to Establish (CTE)",
+    "document_type": "Pollution Control Board Consent",
+    "report_period": {
+      "value": "07/10/2024 To 06/10/2029"
+    },
+    "invoice_date": null,
+    "document_date": "18/11/2024",
+    "supplier_name": null,
+    "customer_name": "Shri SURYA PRAKASH SINHA, M/s GENUS PAPER AND BOARDS LTD",
+    "company_name": "UTTAR PRADESH POLLUTION CONTROL BOARD",
+    "plant_name": "GENUS PAPER AND BOARDS LTD",
+    "location": "VILLAGE-AGHWANPUR, KANTH ROAD, MORADABAD, UP",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "221756/UPPCB/Moradabad(UPPCBRO)/CTE/MORADABAD/2024",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "item_description": "RDF",
+        "quantity": {
+          "value": 460,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "item_description": "Low Sulphur Coal / Biomass",
+        "quantity": {
+          "value": 175,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "item_description": "Low Sulphur Coal/Biomass",
+        "quantity": {
+          "value": 340,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "item_description": "Existing Boiler",
+        "capacity": {
+          "value": 55,
+          "unit": "T/Hr"
+        }
+      },
+      {
+        "item_description": "Captive power plant",
+        "capacity": {
+          "value": 9,
+          "unit": "MW"
+        }
+      }
+    ],
+    "additional_fields": {
+      "application_id": "28227863",
+      "category": "RED"
+    }
+  }
+}

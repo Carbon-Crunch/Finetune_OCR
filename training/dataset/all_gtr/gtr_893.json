@@ -1,0 +1,58 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This document is a technical Flow Chart for a pulp and paper mill production process, not a financial invoice or transactional log. As it contains no tabular transactional data, it has been captured using the generic fallback template.",
+  "extracted_fields": {
+    "document_title": "FLOW CHART",
+    "document_type": "Process Flow Chart",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Yard to Pulping",
+        "remarks": "YARD -> CONVEYOR -> PULPER -> POIRE (Cy=15%)"
+      },
+      {
+        "item_description": "Cleaning and Screening",
+        "remarks": "POIRE -> DUMP TOWER (Cy=4%) -> H.D.C -> S-700 SCREEN (Cy=3%) -> PRE MACCELL E1 PUMP (Cy=1%) -> PRE MAC-CELL E2,E3,E4,E5 PUMPS"
+      },
+      {
+        "item_description": "Refining and Bleaching",
+        "remarks": "PRE DEARIATION CHEST -> P.C.C -> CFS-1200 SCREEN -> REPULPER CONVEYOR -> M.C. PUMP -> SCREW PRESS -> PLUG SCREW -> HEATING TUBE -> INFEEDER -> DISPERSOR -> POLCON TOWER -> POST MAC-CELL E1 PUMP -> POST MAC-CELL E2&E3 PUMPS -> POST C.L. BOX -> POST DEARIATION CHEST -> POST P.D.F -> POST REPULPER CONVEYOR -> POST M.C. PUMP -> POST BLEACHING TUBE -> FINAL TOWER (Cy=10%)"
+      },
+      {
+        "item_description": "Paper Machine Section",
+        "remarks": "M/C CHEST (Cy=4%) -> M/C CHEST -> HEAD BOX (Cy=0.7%) -> WIRE PART -> PRESS SECTION -> DRYER SECTION -> CALENDER -> POPE REEL -> REWINDER"
+      }
+    ],
+    "additional_fields": {
+      "process_details": "Includes multiple circulating water loops, rejects handling (TCC, SCC, 4thCC), and fresh water integration points."
+    }
+  }
+}

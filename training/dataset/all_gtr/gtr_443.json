@@ -1,0 +1,179 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "10.DEC.2024"
+    },
+    "entries": [
+      {
+        "date_period": "6 M.W TURBINE",
+        "consumption": {
+          "value": 0,
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "9 M.W TURBINE",
+        "consumption": {
+          "value": 190500,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 1483100,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "1 M.W DG",
+        "consumption": {
+          "value": 0,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 9838,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "TOTAL",
+        "consumption": {
+          "value": 190500,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 1492938,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "1. UTILITY",
+        "consumption": {
+          "value": 25729,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 212072,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "2. PAPER M/C NO1",
+        "consumption": {
+          "value": 35670,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 283936,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "3. PAPER M/C NO2",
+        "consumption": {
+          "value": 57740,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 468332,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "4. PULP MILL NO1",
+        "consumption": {
+          "value": 17710,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 136842,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "5. PULP MILL NO2",
+        "consumption": {
+          "value": 49867,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 358810,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "6. E.T.P",
+        "consumption": {
+          "value": 2474,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 20368,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "7. SUNDRY PLANT",
+        "consumption": {
+          "value": 901,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 564,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "8. BOARD PLANT",
+        "consumption": {
+          "value": 95,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 724,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "9. P. LIGHTING",
+        "consumption": {
+          "value": 1032,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 9678,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "10. GUEST HOUSE",
+        "consumption": {
+          "value": 85,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 812,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "TOTAL",
+        "consumption": {
+          "value": 190500,
+          "unit": null
+        },
+        "net_generation": {
+          "value": 1492938,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

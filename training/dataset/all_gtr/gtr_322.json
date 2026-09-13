@@ -1,0 +1,176 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 15,
+      "image_index": 15,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 16,
+      "image_index": 16,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "Apr-25 to Nov-25"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-25",
+        "consumption": {
+          "value": 495810.0,
+          "unit": "kVAH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "May-25",
+        "consumption": {
+          "value": 506985.0,
+          "unit": "kVAH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "Jun-25",
+        "consumption": {
+          "value": 499245.0,
+          "unit": "kVAH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "Jul-25",
+        "consumption": {
+          "value": 546652.35,
+          "unit": "kVAH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "Aug-25",
+        "consumption": {
+          "value": 497688.95,
+          "unit": "kVAH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "Sep-25",
+        "consumption": {
+          "value": 513758.55,
+          "unit": "kVAH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "Oct-25",
+        "consumption": {
+          "value": 514427.85,
+          "unit": "kVAH"
+        },
+        "net_generation": null
+      },
+      {
+        "date_period": "Nov-25",
+        "consumption": {
+          "value": 550275.0,
+          "unit": "kVAH"
+        },
+        "net_generation": null
+      }
+    ]
+  }
+}

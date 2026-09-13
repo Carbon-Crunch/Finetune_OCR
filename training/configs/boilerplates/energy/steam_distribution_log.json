@@ -1,0 +1,27 @@
+{
+  "data_type": "Energy",
+  "data_category": "Steam Distribution Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one date or shift record of steam distribution.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "date_period": null,
+        "turbine_inlet_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "distribution_to_process": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

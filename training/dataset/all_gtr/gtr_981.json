@@ -1,0 +1,62 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "981",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Boiler Log Book",
+      "boilerplate_used": "production/boiler_log_book.json",
+      "data": {
+        "boiler_name": "30 TPH BOILER",
+        "registration_number": "GT 10559",
+        "entries": [
+          {
+            "date_period": "14/07/2024",
+            "shift": "A Shift",
+            "total_steam_generated": null,
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          }
+        ],
+        "summary": {
+          "total_steam_generation": {
+            "shift_a": {
+              "final_reading": null,
+              "tons": null
+            },
+            "shift_b": {
+              "final_reading": null,
+              "tons": null
+            },
+            "shift_c": {
+              "final_reading": null,
+              "tons": null
+            },
+            "day_total": null
+          },
+          "feed_water_consumption": {
+            "shift_a": {
+              "final_reading": null,
+              "tons": null
+            },
+            "shift_b": {
+              "final_reading": null,
+              "tons": null
+            },
+            "shift_c": {
+              "final_reading": null,
+              "tons": null
+            },
+            "day_total": null
+          },
+          "dearator_steam_consumption": null,
+          "bed_material_consumption": "Bld material drain and charlet time: 10:12 AM, Bld material drain and charlet time: 6:12 PM, Bed material drain and change 09:30 PM, 08:00 AM and 06:00 AM",
+          "bd_of_bed_material": null
+        }
+      }
+    }
+  ]
+}

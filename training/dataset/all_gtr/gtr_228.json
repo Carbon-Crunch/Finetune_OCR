@@ -1,0 +1,70 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Oxygen Bomb Pressure Test Report / CALIBRATION CERTIFICATE",
+    "document_type": "Calibration Report",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": null,
+    "document_date": "17.06.2025 / 01-01-2025",
+    "supplier_name": "Advance Research Instruments Company / Accumen Calibration Laboratory Pvt Ltd",
+    "customer_name": "Advance Research Instruments Co.",
+    "company_name": "Advance Research Instruments Company",
+    "plant_name": null,
+    "location": "New Delhi / Kanpur",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "CERT:2025-26/B:276 / ACL/000001",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "equipment_name": "Calorimeter Bomb Pressure Test",
+        "pressure": {
+          "value": "210",
+          "unit": "kg/cm2"
+        },
+        "remarks": "No leakage observed"
+      },
+      {
+        "item_description": "PRESSURE GAUGE",
+        "pressure": {
+          "value": "700",
+          "unit": "kg/cm2"
+        }
+      }
+    ],
+    "additional_fields": {
+      "calibration_date_1": "17.06.2025",
+      "calibration_date_2": "01-01-2025",
+      "due_date": "16.06.2026",
+      "equipment_serial_no": "B-223011"
+    }
+  }
+}

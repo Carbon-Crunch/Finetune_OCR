@@ -1,0 +1,94 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "EFFLUENT TREATMENT PLANT FLOW DIAGRAM, SAINSONS CBG PROCESS FLOW DIAGRAM, STP PROCESS FLOW DIAGRAM, FLOW CHART FOR PULP MILL NO. 2",
+    "document_type": "Flow Diagrams and Process Controls",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": "27-02-2020",
+    "supplier_name": null,
+    "customer_name": "Sainsons Paper Ind. Pvt. Ltd.",
+    "company_name": "Sainsons Paper Industries Pvt. Ltd.",
+    "plant_name": "Pulp Mill No. 2",
+    "location": "BAKHLI / PEHOWA (Kurukshetra)",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "SIPL/PM/02/0012",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "equipment_name": "DAF",
+        "capacity": "120 m3/Hr"
+      },
+      {
+        "equipment_name": "Conditioning Tank",
+        "capacity": "375 KL"
+      },
+      {
+        "equipment_name": "Equalization Tank",
+        "capacity": "375 KL"
+      },
+      {
+        "equipment_name": "Flash Mixer",
+        "capacity": "56 KL"
+      },
+      {
+        "equipment_name": "Bio Clarifier",
+        "capacity": "539 KL"
+      },
+      {
+        "equipment_name": "ICX Reactor",
+        "capacity": "1050 KL"
+      },
+      {
+        "equipment_name": "Aeration Tank",
+        "capacity": "4950 KL"
+      },
+      {
+        "equipment_name": "Secondary Clarifier",
+        "capacity": "1765 KL"
+      },
+      {
+        "equipment_name": "Tertiary Clarifier",
+        "capacity": "616 KL"
+      },
+      {
+        "equipment_name": "ICX Reactor (CBG)",
+        "capacity": "1032 m3"
+      },
+      {
+        "equipment_name": "Membrane Gas Holder",
+        "capacity": "1000 m3"
+      }
+    ],
+    "additional_fields": {
+      "effluent_plant_parameters": {
+        "paper_machine_back_water": {
+          "flow": "60-65 m3/hr",
+          "scod": "5500-6000 PPM",
+          "bod": "3000-3500 PPM",
+          "tss": "150-200 PPM",
+          "ph": "6.2-6.5"
+        },
+        "agro_wet_wash_effluent": {
+          "flow": "100-120 m3/Hr",
+          "scod": "4000-6000 PPM",
+          "bod": "4000-4500 PPM",
+          "tss": "3000-3500 PPM",
+          "ph": "6.5-6.8"
+        }
+      },
+      "cbg_parameters": {
+        "production_capacity": "3000 Kg/Day",
+        "raw_biogas_methane": "65-70%",
+        "bio_cng_methane": "+96%"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Energy",
+  "data_category": "Electricity Bill",
+  "report_period": {
+    "value": "NOV-2024"
+  },
+  "entries": [
+    {
+      "supply_voltage": {
+        "value": "66",
+        "unit": "kV"
+      },
+      "sanctioned_load": {
+        "value": null,
+        "unit": null
+      },
+      "contract_demand": {
+        "value": "7000",
+        "unit": "KVA"
+      },
+      "billed_demand": {
+        "value": "5950",
+        "unit": "KVA"
+      },
+      "kwh_consumption": {
+        "value": "2871270",
+        "unit": "KWH"
+      },
+      "kvah": {
+        "value": "2899710",
+        "unit": "KVAH"
+      },
+      "average_pf": {
+        "value": "0.990",
+        "unit": null
+      }
+    }
+  ]
+}

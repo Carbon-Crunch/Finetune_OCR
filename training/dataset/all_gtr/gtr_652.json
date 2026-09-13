@@ -1,0 +1,59 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy, Production & Operational",
+  "data_category": "Log book, Electricity Generation/Consumption",
+  "report_period": {
+    "value": "08.DEC.2024"
+  },
+  "entries": [
+    {
+      "date_period": "08.DEC.2024",
+      "shift": null,
+      "meter_reading_left": {
+        "value": "0",
+        "unit": null
+      },
+      "meter_reading_right": {
+        "value": "01,84,600",
+        "unit": null
+      },
+      "consumption_difference": {
+        "value": null,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "08.DEC.2024",
+      "shift": null,
+      "meter_reading_left": {
+        "value": "01,84,600",
+        "unit": null
+      },
+      "meter_reading_right": {
+        "value": "11,00,800",
+        "unit": null
+      },
+      "consumption_difference": {
+        "value": null,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "08.DEC.2024",
+      "shift": null,
+      "meter_reading_left": {
+        "value": "0",
+        "unit": null
+      },
+      "meter_reading_right": {
+        "value": "9838",
+        "unit": null
+      },
+      "consumption_difference": {
+        "value": null,
+        "unit": null
+      }
+    }
+  ]
+}

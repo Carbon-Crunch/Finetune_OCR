@@ -1,0 +1,170 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Hydel Bill Summary",
+  "extraction_rules": "This is a tabular bill summary. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period or charge entry.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "Financial Year 2024-25"
+    },
+    "entries": [
+      {
+        "hydel_bill_month": {
+          "value": "Apr-24"
+        },
+        "hydel_bill_amount": {
+          "value": 62688.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "May-24"
+        },
+        "hydel_bill_amount": {
+          "value": 655654.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Jun-24"
+        },
+        "hydel_bill_amount": {
+          "value": 651350.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Jul-24"
+        },
+        "hydel_bill_amount": {
+          "value": 429899.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Aug-24"
+        },
+        "hydel_bill_amount": {
+          "value": 595347.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Sep-24"
+        },
+        "hydel_bill_amount": {
+          "value": 499403.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Oct-24"
+        },
+        "hydel_bill_amount": {
+          "value": 410246.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Nov-24"
+        },
+        "hydel_bill_amount": {
+          "value": 458063.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Dec-24"
+        },
+        "hydel_bill_amount": {
+          "value": 117579.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Jan-25"
+        },
+        "hydel_bill_amount": {
+          "value": 47418.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Feb-25"
+        },
+        "hydel_bill_amount": {
+          "value": 67232.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      },
+      {
+        "hydel_bill_month": {
+          "value": "Mar-25"
+        },
+        "hydel_bill_amount": {
+          "value": 33621.0,
+          "unit": "Rs."
+        },
+        "hydel_consumption": {
+          "value": null,
+          "unit": "kWh"
+        }
+      }
+    ]
+  }
+}

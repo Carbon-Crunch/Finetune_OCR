@@ -1,0 +1,507 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or time-period reading.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "August 2024"
+    },
+    "entries": [
+      {
+        "date_period": "01.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82973.80",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19320.30",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "02.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83028.90",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19330.30",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "55100",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "03.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83083.30",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19340.20",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "54400",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "04.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83139.10",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19350.30",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "55800",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "05.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83197.70",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19361.30",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "58600",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "06.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83250.30",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19371.00",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "52600",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "07.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83297.20",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19378.10",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "46900",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "08.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83348.10",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19387.10",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "50900",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "09.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83402.80",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19397.10",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "54700",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "10.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83402.80",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19397.10",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "11.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83402.80",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19403.60",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "12.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83449.10",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19413.00",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "46300",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "13.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83501.40",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19421.00",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "52300",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "14.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83549.20",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19431.00",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "47800",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "15.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83606.40",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19433.00",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "57200",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "16.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83617.00",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19433.00",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "10600",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "17.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83617.00",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19442.60",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "18.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83670.70",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19452.60",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "53700",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "19.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83725.80",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19452.60",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "55100",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "20.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83725.80",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19463.80",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "21.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83785.10",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19473.60",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "59300",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "22.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83840.50",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19482.60",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "55400",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "23.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83891.10",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19482.60",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "50600",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "24.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83891.10",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19492.90",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "25.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "83948.70",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19504.20",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "57600",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "26.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "84007.60",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19514.40",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "58900",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "27.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "84062.50",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19524.90",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "54900",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "28.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "84120.10",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19535.00",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "57600",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "29.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "84175.90",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19544.90",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "55800",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "30.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "84230.90",
+          "unit": "Generation"
+        },
+        "meter_reading_right": {
+          "value": "19556.00",
+          "unit": "Auxiliary"
+        },
+        "consumption_difference": {
+          "value": "55000",
+          "unit": "Consumed"
+        }
+      },
+      {
+        "date_period": "31.08.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "84289.20",
+          "unit": "Generation"
+        },
+        "meter_reading_right": null,
+        "consumption_difference": {
+          "value": "58300",
+          "unit": "Consumed"
+        }
+      }
+    ]
+  }
+}

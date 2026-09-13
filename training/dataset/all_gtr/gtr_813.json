@@ -1,0 +1,137 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "1-Apr-24 to 31-Mar-25",
+  "entries": [
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "Opening Balance",
+      "opening_balance": 172002.71,
+      "inwards": 0,
+      "outwards": 0,
+      "consumption": 0,
+      "closing_balance": 172002.71
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "April",
+      "opening_balance": 172002.71,
+      "inwards": 36985.22,
+      "outwards": 46680,
+      "consumption": 46680,
+      "closing_balance": 162307.93
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "May",
+      "opening_balance": 162307.93,
+      "inwards": 28472.81,
+      "outwards": 49820,
+      "consumption": 49820,
+      "closing_balance": 140960.74
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "June",
+      "opening_balance": 140960.74,
+      "inwards": 13048.62,
+      "outwards": 33040,
+      "consumption": 33040,
+      "closing_balance": 120969.36
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "July",
+      "opening_balance": 120969.36,
+      "inwards": 4017.81,
+      "outwards": 44130,
+      "consumption": 44130,
+      "closing_balance": 80857.17
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "August",
+      "opening_balance": 80857.17,
+      "inwards": 2446.55,
+      "outwards": 48760,
+      "consumption": 48760,
+      "closing_balance": 34543.72
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "September",
+      "opening_balance": 34543.72,
+      "inwards": 405007,
+      "outwards": 31970,
+      "consumption": 31970,
+      "closing_balance": 2573.72
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "October",
+      "opening_balance": 2573.72,
+      "inwards": 13424.22,
+      "outwards": 1750,
+      "consumption": 1750,
+      "closing_balance": 14247.94
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "November",
+      "opening_balance": 14247.94,
+      "inwards": 79440.72,
+      "outwards": 28680,
+      "consumption": 28680,
+      "closing_balance": 65008.66
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "December",
+      "opening_balance": 65008.66,
+      "inwards": 158913.22,
+      "outwards": 52450,
+      "consumption": 52450,
+      "closing_balance": 171471.88
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "January",
+      "opening_balance": 171471.88,
+      "inwards": 89002.46,
+      "outwards": 53120,
+      "consumption": 53120,
+      "closing_balance": 207354.34
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "February",
+      "opening_balance": 207354.34,
+      "inwards": 44733.68,
+      "outwards": 46390,
+      "consumption": 46390,
+      "closing_balance": 205698.02
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "fuel_type": "Paddy Husk",
+      "date_period": "March",
+      "opening_balance": 205698.02,
+      "inwards": 49802.36,
+      "outwards": 49840,
+      "consumption": 49840,
+      "closing_balance": 205660.38
+    }
+  ]
+}

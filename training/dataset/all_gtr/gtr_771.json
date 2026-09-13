@@ -1,0 +1,108 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy, Production & Operational",
+  "data_category": "Electricity Generation, Electricity Generation-Consumption",
+  "boilerplate": "energy/generation_report.json",
+  "extracted_fields": {
+    "report_period": "Financial Year 2024-25",
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "tg_3_mw": 1572686,
+        "grid": 209632,
+        "tg_5_mw": 2873101,
+        "total": 4655419,
+        "own_generation": 4445787
+      },
+      {
+        "date_period": "May-24",
+        "tg_3_mw": 1651262,
+        "grid": 316057,
+        "tg_5_mw": 2963864,
+        "total": 4931183,
+        "own_generation": 4615126
+      },
+      {
+        "date_period": "Jun-24",
+        "tg_3_mw": 369328,
+        "grid": 1186875,
+        "tg_5_mw": 2185662,
+        "total": 3741865,
+        "own_generation": 2554990
+      },
+      {
+        "date_period": "Jul-24",
+        "tg_3_mw": 1821031,
+        "grid": 269595,
+        "tg_5_mw": 2980300,
+        "total": 5070926,
+        "own_generation": 4801331
+      },
+      {
+        "date_period": "Aug-24",
+        "tg_3_mw": 1860503,
+        "grid": 309150,
+        "tg_5_mw": 2669100,
+        "total": 4838753,
+        "own_generation": 4529603
+      },
+      {
+        "date_period": "Sep-24",
+        "tg_3_mw": 1663789,
+        "grid": 218610,
+        "tg_5_mw": 3018300,
+        "total": 4900699,
+        "own_generation": 4682089
+      },
+      {
+        "date_period": "Oct-24",
+        "tg_3_mw": 1833564,
+        "grid": 116257,
+        "tg_5_mw": 3127500,
+        "total": 5077321,
+        "own_generation": 4961064
+      },
+      {
+        "date_period": "Nov-24",
+        "tg_3_mw": 1610485,
+        "grid": 205823,
+        "tg_5_mw": 2986422,
+        "total": 4802730,
+        "own_generation": 4596907
+      },
+      {
+        "date_period": "Dec-24",
+        "tg_3_mw": 1757139,
+        "grid": 203873,
+        "tg_5_mw": 2952300,
+        "total": 4913312,
+        "own_generation": 4709439
+      },
+      {
+        "date_period": "Jan-25",
+        "tg_3_mw": 1692300,
+        "grid": 223042,
+        "tg_5_mw": 2992000,
+        "total": 4907342,
+        "own_generation": 4684300
+      },
+      {
+        "date_period": "Feb-25",
+        "tg_3_mw": 1599855,
+        "grid": 183195,
+        "tg_5_mw": 2567100,
+        "total": 4350150,
+        "own_generation": 4166955
+      },
+      {
+        "date_period": "Mar-25",
+        "tg_3_mw": 1571714,
+        "grid": 404370,
+        "tg_5_mw": 2858000,
+        "total": 4834084,
+        "own_generation": 4429714
+      }
+    ]
+  }
+}

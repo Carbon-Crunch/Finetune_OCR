@@ -1,0 +1,99 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "964",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "28/08/2024"
+        },
+        "entries": [
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "7:00 AM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "8:00 AM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "9:00 AM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "10:00 AM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "11:00 AM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "12:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "1:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "2:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "3:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "4:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "5:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "6:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "7:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "8:00 PM"
+          },
+          {
+            "date_period": "28/08/2024",
+            "timestamp": "9:00 PM"
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Turbine Capacity Log",
+      "boilerplate_used": "production/turbine_capacity_log.json",
+      "data": {
+        "report_period": {
+          "value": "28/08/2024"
+        },
+        "entries": [
+          {
+            "turbine_name": "4-5 MW TURBINE",
+            "nominal_capacity": {
+              "value": "4.5",
+              "unit": "MW"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

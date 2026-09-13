@@ -1,0 +1,724 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Monthly Generation, Consumption, and Production Report",
+    "document_type": "Report",
+    "report_period": {
+      "value": "Apr-25 to Jul-25"
+    },
+    "company_name": "Genus Paper & Boards Ltd.",
+    "entries": [
+      {
+        "date_period": "Jul-25",
+        "item_description": "TOTAL Generation",
+        "generation": {
+          "value": 0.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "TOTAL Consumption",
+        "consumption": {
+          "value": 0.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "% UTILITY CONSUMPTION",
+        "remarks": "#DIV/0!"
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "NET POWER FOR PAPER MACHINE",
+        "power": {
+          "value": 0.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "% OF POWER REQUIRED FOR PAPER MAKING",
+        "remarks": "#DIV/0!"
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "TOTAL Production",
+        "production": {
+          "value": 0.0,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "UNIT/TON OF PAPER PMC",
+        "remarks": "#DIV/0!"
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "ELECTRICAL DOWN TIME PM-1",
+        "runtime": {
+          "value": 0.0,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "ELECTRICAL DOWN TIME PM-2",
+        "runtime": {
+          "value": 0.0,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "ELECTRICAL DOWN TIME TOTAL(HR)",
+        "runtime": {
+          "value": 0.0,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "UNIT /TON ON FINISH PROD.(PMC#1+PULP MILL#1)",
+        "remarks": "#DIV/0!"
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "UNIT /TON ON FINISH PROD.(PMC#2+PULP MILL#2)",
+        "remarks": "#DIV/0!"
+      },
+      {
+        "date_period": "Jul-25",
+        "item_description": "UNIT /TON ON TOTAL GEN. ON FINISH.PROD..",
+        "remarks": "#DIV/0!"
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "6MW TG Generation",
+        "generation": {
+          "value": 4468600.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "9MW TG Generation",
+        "generation": {
+          "value": 35583.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "TOTAL Generation",
+        "generation": {
+          "value": 4504183.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "Power Plant Consumption",
+        "consumption": {
+          "value": 700806.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "Steel Plant Consumption",
+        "consumption": {
+          "value": 0.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "PMC-1 Consumption",
+        "consumption": {
+          "value": 832988.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "PMC-2 Consumption",
+        "consumption": {
+          "value": 1389445.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "PULP MILL-1 Consumption",
+        "consumption": {
+          "value": 310007.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "PULP MILL-2 Consumption",
+        "consumption": {
+          "value": 1146099.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "ETP Consumption",
+        "consumption": {
+          "value": 71709.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "SUNDRY PLANT Consumption",
+        "consumption": {
+          "value": 3326.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "PRP Consumption",
+        "consumption": {
+          "value": 2669.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "GUEST HOUSE Consumption",
+        "consumption": {
+          "value": 3185.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "PLANT LIGHTING Consumption",
+        "consumption": {
+          "value": 43949.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "TOTAL Consumption",
+        "consumption": {
+          "value": 4504183.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "% UTILITY CONSUMPTION",
+        "remarks": "15.56"
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "NET POWER FOR PAPER MACHINE",
+        "power": {
+          "value": 3803377.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "% OF POWER REQUIRED FOR PAPER MAKING",
+        "remarks": "84.44"
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "PM-1 Production",
+        "production": {
+          "value": 3075.293,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "PM-2 Production",
+        "production": {
+          "value": 7039.814,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "TOTAL Production",
+        "production": {
+          "value": 10115.107,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "UNIT/TON OF PAPER PMC",
+        "remarks": "376.01"
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "ELECTRICAL DOWN TIME PM-1",
+        "runtime": {
+          "value": 3.0,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "ELECTRICAL DOWN TIME PM-2",
+        "runtime": {
+          "value": 3.0,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "ELECTRICAL DOWN TIME TOTAL(HR)",
+        "runtime": {
+          "value": 3.0,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "UNIT /TON ON FINISH PROD.(PMC#1+PULP MILL#1)",
+        "remarks": "371.67"
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "UNIT /TON ON FINISH PROD.(PMC#2+PULP MILL#2)",
+        "remarks": "360.17"
+      },
+      {
+        "date_period": "Jun-25",
+        "item_description": "UNIT /TON ON TOTAL GEN. ON FINISH.PROD..",
+        "remarks": "445.29"
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "6MW TG Generation",
+        "generation": {
+          "value": 5449400.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "9MW TG Generation",
+        "generation": {
+          "value": 3301.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "TOTAL Generation",
+        "generation": {
+          "value": 5452701.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "Power Plant Consumption",
+        "consumption": {
+          "value": 817645.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "Steel Plant Consumption",
+        "consumption": {
+          "value": 0.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "PMC-1 Consumption",
+        "consumption": {
+          "value": 996618.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "PMC-2 Consumption",
+        "consumption": {
+          "value": 1692269.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "PULP MILL-1 Consumption",
+        "consumption": {
+          "value": 377099.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "PULP MILL-2 Consumption",
+        "consumption": {
+          "value": 1426523.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "ETP Consumption",
+        "consumption": {
+          "value": 86375.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "SUNDRY PLANT Consumption",
+        "consumption": {
+          "value": 4450.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "PRP Consumption",
+        "consumption": {
+          "value": 2591.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "GUEST HOUSE Consumption",
+        "consumption": {
+          "value": 3841.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "PLANT LIGHTING Consumption",
+        "consumption": {
+          "value": 45290.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "TOTAL Consumption",
+        "consumption": {
+          "value": 5452701.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "% UTILITY CONSUMPTION",
+        "remarks": "15.00"
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "NET POWER FOR PAPER MACHINE",
+        "power": {
+          "value": 4635056.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "% OF POWER REQUIRED FOR PAPER MAKING",
+        "remarks": "85"
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "PM-1 Production",
+        "production": {
+          "value": 3827.293,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "PM-2 Production",
+        "production": {
+          "value": 8777.828,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "TOTAL Production",
+        "production": {
+          "value": 12605.121,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "UNIT/TON OF PAPER PMC",
+        "remarks": "367.71"
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "ELECTRICAL DOWN TIME PM-1",
+        "runtime": {
+          "value": 0.33,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "ELECTRICAL DOWN TIME PM-2",
+        "runtime": {
+          "value": 0.92,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "ELECTRICAL DOWN TIME TOTAL(HR)",
+        "runtime": {
+          "value": 1.25,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "UNIT /TON ON FINISH PROD.(PMC#1+PULP MILL#1)",
+        "remarks": "358.93"
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "UNIT /TON ON FINISH PROD.(PMC#2+PULP MILL#2)",
+        "remarks": "355.3"
+      },
+      {
+        "date_period": "May-25",
+        "item_description": "UNIT /TON ON TOTAL GEN. ON FINISH.PROD..",
+        "remarks": "432.58"
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "6MW TG Generation",
+        "generation": {
+          "value": 4919700.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "9MW TG Generation",
+        "generation": {
+          "value": 18469.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "TOTAL Generation",
+        "generation": {
+          "value": 4938169.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "Power Plant Consumption",
+        "consumption": {
+          "value": 744748.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "Steel Plant Consumption",
+        "consumption": {
+          "value": 0.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "PMC-1 Consumption",
+        "consumption": {
+          "value": 917715.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "PMC-2 Consumption",
+        "consumption": {
+          "value": 1533963.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "PULP MILL-1 Consumption",
+        "consumption": {
+          "value": 342650.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "PULP MILL-2 Consumption",
+        "consumption": {
+          "value": 1271496.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "ETP Consumption",
+        "consumption": {
+          "value": 82495.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "SUNDRY PLANT Consumption",
+        "consumption": {
+          "value": 3382.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "PRP Consumption",
+        "consumption": {
+          "value": 2642.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "GUEST HOUSE Consumption",
+        "consumption": {
+          "value": 2702.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "PLANT LIGHTING Consumption",
+        "consumption": {
+          "value": 36376.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "TOTAL Consumption",
+        "consumption": {
+          "value": 4938169.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "% UTILITY CONSUMPTION",
+        "remarks": "15.08"
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "NET POWER FOR PAPER MACHINE",
+        "power": {
+          "value": 4193421.0,
+          "unit": "KWH"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "% OF POWER REQUIRED FOR PAPER MAKING",
+        "remarks": "84.92"
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "PM-1 Production",
+        "production": {
+          "value": 3597.083,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "PM-2 Production",
+        "production": {
+          "value": 8060.948,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "TOTAL Production",
+        "production": {
+          "value": 11658.031,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "UNIT/TON OF PAPER PMC",
+        "remarks": "359.70"
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "ELECTRICAL DOWN TIME PM-1",
+        "runtime": {
+          "value": 0.83,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "ELECTRICAL DOWN TIME PM-2",
+        "runtime": {
+          "value": 1.92,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "ELECTRICAL DOWN TIME TOTAL(HR)",
+        "runtime": {
+          "value": 2.75,
+          "unit": "HRS"
+        }
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "UNIT /TON ON FINISH PROD.(PMC#1+PULP MILL#1)",
+        "remarks": "350.39"
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "UNIT /TON ON FINISH PROD.(PMC#2+PULP MILL#2)",
+        "remarks": "348.03"
+      },
+      {
+        "date_period": "Apr-25",
+        "item_description": "UNIT /TON ON TOTAL GEN. ON FINISH.PROD..",
+        "remarks": "423.59"
+      }
+    ],
+    "additional_fields": {
+      "certified_by": "Genus Paper & Boards Ltd. (Distt. Moradabad, U.P.)"
+    }
+  }
+}

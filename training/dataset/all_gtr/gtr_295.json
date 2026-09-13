@@ -1,0 +1,155 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "25-6-24"
+    },
+    "supplier_name": "M/S Uttaranchal Diesel & Services",
+    "entries": [
+      {
+        "item_description": "Spinon lub oil filter-06 436 01 . 0.00",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "units": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "gross_amount": {
+          "value": "534.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Fuel Filter Kir 1.1 Ltr-4899920000",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "1",
+          "unit": "Set"
+        },
+        "units": {
+          "value": "1",
+          "unit": "Set"
+        },
+        "gross_amount": {
+          "value": "285.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Primary air cleaner element-F6 72907000",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "units": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "gross_amount": {
+          "value": "4926.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Air cleaner safety element-F6-72908000",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "units": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "gross_amount": {
+          "value": "1357.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Inhibitor corrosion 5 ltr-3167217",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "units": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "gross_amount": {
+          "value": "2764.78",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Radiator-F6-150010SP 320 KVA with copper tube",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "units": {
+          "value": "1",
+          "unit": "Each"
+        },
+        "gross_amount": {
+          "value": "243640.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

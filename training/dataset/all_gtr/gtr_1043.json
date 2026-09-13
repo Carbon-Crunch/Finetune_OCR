@@ -1,0 +1,59 @@
+{
+  "rotation_needed": true,
+  "degree": 180,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 270
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "09.05.2024"
+    },
+    "supplier_name": "INDIAN OIL CORPORATION LTD",
+    "entries": [
+      {
+        "item_description": "HSD",
+        "material_description": "HSD",
+        "item_code": "12000003",
+        "hsn_sac": "50700",
+        "quantity": {
+          "value": 20.0,
+          "unit": "KL"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": 1521061.0,
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Coal Consignment Report",
+  "extraction_rules": "Extract month/date range, total truck count, and per-consignment fields (truck no, supplier, gross weight, net weight, GCV, moisture, ash). Include summary totals where present.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "October-2024"
+    },
+    "truck_count": {
+      "value": "112",
+      "unit": "count"
+    },
+    "entries": [
+      {
+        "truck_no": "56 TRUCKS",
+        "supplier": "Shree Ganesh Coal Enterprises Magadh Project, Magadh OCP,C.C.L(Balumath Chatra (Jharkhand))",
+        "gross_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "net_weight": {
+          "value": "1603.46",
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": "3527",
+          "unit": "kcal/kg"
+        },
+        "moisture": {
+          "value": "12.8",
+          "unit": "%"
+        },
+        "ash": {
+          "value": "38.3",
+          "unit": "%"
+        }
+      },
+      {
+        "truck_no": "29 TRUCKS",
+        "supplier": "Shree Ganesh Coal Rish Complaxe (Chandauli)",
+        "gross_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "net_weight": {
+          "value": "947.21",
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": "3432",
+          "unit": "kcal/kg"
+        },
+        "moisture": {
+          "value": "14.2",
+          "unit": "%"
+        },
+        "ash": {
+          "value": "40.1",
+          "unit": "%"
+        }
+      },
+      {
+        "truck_no": "01 TRUCKS",
+        "supplier": "Shree Sai Urja LTD Rampur",
+        "gross_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "net_weight": {
+          "value": "40.5",
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": "3355",
+          "unit": "kcal/kg"
+        },
+        "moisture": {
+          "value": "10.5",
+          "unit": "%"
+        },
+        "ash": {
+          "value": "42.8",
+          "unit": "%"
+        }
+      },
+      {
+        "truck_no": "04 TRUCKS",
+        "supplier": "Sidhgiri Holding P.V.T (L.T.D) chandauli",
+        "gross_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "net_weight": {
+          "value": "129.714",
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": "3236.61",
+          "unit": "kcal/kg"
+        },
+        "moisture": {
+          "value": "11.2",
+          "unit": "%"
+        },
+        "ash": {
+          "value": "43.5",
+          "unit": "%"
+        }
+      }
+    ],
+    "totals": {
+      "total_gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "total_net_weight": {
+        "value": null,
+        "unit": "MT"
+      }
+    }
+  }
+}

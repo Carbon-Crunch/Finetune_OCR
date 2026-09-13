@@ -1,0 +1,149 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register",
+  "report_period": "01/Feb/2025 to 28/Feb/2025",
+  "entries": [
+    {
+      "fuel_name": "BARSIN BALE",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BARSIN KA TURA",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BULBULA",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "CHANNA KA TUDA (FUEL)",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "CHILKA (RICE HUSK)",
+      "opening_balance": "13000.000",
+      "received_quantity": null,
+      "outwards": "13000.000",
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "COTTON DUST",
+      "opening_balance": null,
+      "received_quantity": "538105.850",
+      "outwards": "438105.850",
+      "closing_balance": "100000.000"
+    },
+    {
+      "fuel_name": "COTTON STICK",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "DUNG CAKES",
+      "opening_balance": null,
+      "received_quantity": "656.600",
+      "outwards": "656.600",
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "FADDA",
+      "opening_balance": null,
+      "received_quantity": "14910.800",
+      "outwards": "14910.800",
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "FADDA (PUNJAB)",
+      "opening_balance": null,
+      "received_quantity": "3487.200",
+      "outwards": "3487.200",
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "FADDA 1121",
+      "opening_balance": "50427.800",
+      "received_quantity": "1013256.800",
+      "outwards": "805440.200",
+      "closing_balance": "258244.400"
+    },
+    {
+      "fuel_name": "MAKKI KA GULLA",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "MALLY (BAGGASE WASTE SLUDGE)",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "MOONG KA TURA",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "PADDY WASTE",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "ROUND BALE STRAW",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "SAFEDE KI PATTIYAN (EUCALYPTUS)",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "SARSO KI BAIL",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "SARSON KA TURA",
+      "opening_balance": null,
+      "received_quantity": null,
+      "outwards": null,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "STRAW RICE (BALE)",
+      "opening_balance": "8006033.325",
+      "received_quantity": "4025786.430",
+      "outwards": "9330000.000",
+      "closing_balance": null
+    }
+  ]
+}

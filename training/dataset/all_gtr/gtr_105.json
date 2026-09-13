@@ -1,0 +1,154 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "HT BILL FOR THE MONTH OF :JUL-2024",
+    "document_type": "Electricity Bill and Adjustment Details",
+    "report_period": {
+      "value": "JUL-2024"
+    },
+    "invoice_date": {
+      "value": "17-07-2024"
+    },
+    "document_date": {
+      "value": "17-07-2024"
+    },
+    "supplier_name": "Paschim Gujarat Vij Company Ltd.",
+    "customer_name": "M/S GRIS CERAMIC LLP",
+    "company_name": "Paschim Gujarat Vij Company Ltd.",
+    "plant_name": null,
+    "location": "NR.SHERWIN TILES, JETAPAR ROAD, AT-RANGPAR, TA-MORBI",
+    "registration_number": "CIN: U40102GJ2003SGC042908",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": "5815413.59",
+      "unit": "Rs."
+    },
+    "total_quantity": {
+      "value": "1051410",
+      "unit": "KWH"
+    },
+    "entries": [
+      {
+        "item_description": "1st 500 KVA",
+        "rate": {
+          "value": "150",
+          "unit": null
+        },
+        "amount": {
+          "value": "75000",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "2nd 500 KVA",
+        "rate": {
+          "value": "260",
+          "unit": null
+        },
+        "amount": {
+          "value": "130000",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Next 1265",
+        "rate": {
+          "value": "475",
+          "unit": null
+        },
+        "amount": {
+          "value": "600875",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Energy Charges",
+        "consumption": {
+          "value": "1051410",
+          "unit": "KWH"
+        },
+        "rate": {
+          "value": "4.2",
+          "unit": null
+        },
+        "amount": {
+          "value": "4415922.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Fuel charge",
+        "consumption": {
+          "value": "1051410",
+          "unit": "KWH"
+        },
+        "rate": {
+          "value": "2.85",
+          "unit": null
+        },
+        "amount": {
+          "value": "2996518.50",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "PF Rebate",
+        "amount": {
+          "value": "-97150.28",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "TOU",
+        "consumption": {
+          "value": "334650",
+          "unit": null
+        },
+        "rate": {
+          "value": "0.85",
+          "unit": null
+        },
+        "amount": {
+          "value": "284452.50",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Debit Board Charges",
+        "amount": {
+          "value": "21766.96",
+          "unit": "Rs."
+        },
+        "remarks": "PRORATA TARIFF REVISION ADJ 7-2024"
+      },
+      {
+        "item_description": "Debit Electricity Duty",
+        "amount": {
+          "value": "3265.15",
+          "unit": "Rs."
+        },
+        "remarks": "PRORATA TARIFF REVISION ADJ 7-2024"
+      }
+    ]
+  }
+}

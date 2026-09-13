@@ -1,0 +1,89 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "invoice_date": {
+    "value": "25/Dec/2024"
+  },
+  "supplier_name": "GENUS PAPER AND BOARDS GENUS DIRECT",
+  "entries": [
+    {
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "39.200",
+        "unit": "MT"
+      },
+      "gross_amount": {
+        "value": "246960.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "40.455",
+        "unit": "MT"
+      },
+      "gross_amount": {
+        "value": "254866.50",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "39.300",
+        "unit": "MT"
+      },
+      "gross_amount": {
+        "value": "247590.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "40.225",
+        "unit": "MT"
+      },
+      "gross_amount": {
+        "value": "253417.50",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "39.940",
+        "unit": "MT"
+      },
+      "gross_amount": {
+        "value": "251622.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "40.405",
+        "unit": "MT"
+      },
+      "gross_amount": {
+        "value": "254551.50",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "5.400",
+        "unit": "MT"
+      },
+      "gross_amount": {
+        "value": "24840.00",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

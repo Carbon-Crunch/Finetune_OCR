@@ -1,0 +1,111 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation",
+    "document_type": "Environmental Consent/Authorization",
+    "report_period": {
+      "value": "2024-12-12 to 2026-12-31"
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "12/12/2024"
+    },
+    "supplier_name": null,
+    "customer_name": "M/s DEV PRIYA INDUSTRIES PVT LTD",
+    "company_name": "Uttar Pradesh Pollution Control Board",
+    "plant_name": "M/s DEV PRIYA INDUSTRIES PVT LTD",
+    "location": "8TH KM, VILLAGE SAINI, MAWANA ROAD, MEERUT, 250001",
+    "registration_number": "225785/UPPCB/Meerut(UPPCBRO)/CTO/both/MEERUT/2024",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "28948678",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "product_name": "Kraft Paper",
+        "quantity": {
+          "value": 600,
+          "unit": "MT/Day"
+        },
+        "remarks": "using Waste Paper"
+      }
+    ],
+    "additional_fields": {
+      "consent_validity_water": "2026-12-31",
+      "consent_validity_air": "2026-12-31",
+      "category": "RED",
+      "domestic_effluent_limit": "10.0 KLD",
+      "noise_standards_industrial_day": "75 db.(A) Leq",
+      "noise_standards_industrial_night": "70 db.(A) Leq",
+      "noise_standards_commercial_day": "65 db.(A) Leq",
+      "noise_standards_commercial_night": "55 db.(A) Leq"
+    }
+  }
+}

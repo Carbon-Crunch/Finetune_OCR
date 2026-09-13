@@ -1,0 +1,269 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Dr. Vinod Arora, Meerut",
+    "document_type": "Log Sheet / Medical Record Log",
+    "report_period": {
+      "value": "10-23 to 3-11-23"
+    },
+    "entries": [
+      {
+        "date_period": "10-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "2599"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "10-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "8607"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "28-10-2023",
+        "item_description": "1",
+        "quantity": {
+          "value": "6584"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "28-10-2023",
+        "item_description": "2",
+        "quantity": {
+          "value": "7478"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "28-10-2023",
+        "item_description": "3",
+        "quantity": {
+          "value": "2509"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "28-10-2023",
+        "item_description": "4",
+        "quantity": {
+          "value": "9609"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "28-10-2023",
+        "item_description": "5",
+        "quantity": {
+          "value": "2599"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "31-10-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "1971"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "5-10-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "1700"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "5-10-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "2599"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "16-10-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "2509"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "16-10-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "2252"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "20-10-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "9369"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "20-10-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "1792"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "19-10-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "0219"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "30-10-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "6504"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "30-10-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "2509"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "1-11-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "0978"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "1-11-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "9252"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "2-11-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "0219"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "2-11-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "9929"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "3-11-23",
+        "item_description": "1",
+        "quantity": {
+          "value": "0295"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      },
+      {
+        "date_period": "3-11-23",
+        "item_description": "2",
+        "quantity": {
+          "value": "0705"
+        },
+        "units": {
+          "value": "3600"
+        },
+        "remarks": "20%"
+      }
+    ]
+  }
+}

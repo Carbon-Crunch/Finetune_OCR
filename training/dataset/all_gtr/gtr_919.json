@@ -1,0 +1,59 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Daily Fuel Consumption",
+  "extraction_rules": "This is a tabular daily log. Extract EVERY row from the table into the entries array. Each object in entries represents one day's fuel consumption record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "Feb-25 to Mar-25"
+    },
+    "entries": [
+      {
+        "date_period": "20/Feb/25",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": "4473.000"
+      },
+      {
+        "date_period": "28/Feb/25",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": "3896.000"
+      },
+      {
+        "date_period": "10/Mar/25",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": "3334.000"
+      },
+      {
+        "date_period": "20/Mar/25",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": "5168.000"
+      },
+      {
+        "date_period": "30/Mar/25",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": "4849.000"
+      }
+    ]
+  }
+}

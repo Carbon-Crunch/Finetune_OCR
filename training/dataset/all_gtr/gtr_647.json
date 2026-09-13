@@ -1,0 +1,125 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "GENERATION",
+    "document_type": "Electricity Generation/Consumption Log",
+    "report_period": {
+      "value": "07.DEC.2024"
+    },
+    "entries": [
+      {
+        "equipment_name": "6 M.W TURBINE",
+        "generation": {
+          "value": 0,
+          "unit": null
+        }
+      },
+      {
+        "equipment_name": "9 M.W TURBINE",
+        "generation": {
+          "value": 160600,
+          "unit": null
+        }
+      },
+      {
+        "equipment_name": "1 M.W D G",
+        "generation": {
+          "value": 0,
+          "unit": null
+        }
+      },
+      {
+        "equipment_name": "TOTAL",
+        "generation": {
+          "value": 160600,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "UTILITY",
+        "consumption": {
+          "value": 24367,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "PAPER M/C NO 1",
+        "consumption": {
+          "value": 34158,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "PAPER M/C NO 2",
+        "consumption": {
+          "value": 48345,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "PULP MILL NO 1",
+        "consumption": {
+          "value": 14588,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "PULP MILL NO 2",
+        "consumption": {
+          "value": 35126,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "E.T.P",
+        "consumption": {
+          "value": 2648,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "SUNDRY PLANT",
+        "consumption": {
+          "value": 162,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "BOARD PLANT",
+        "consumption": {
+          "value": 61,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "P.LIGHTING",
+        "consumption": {
+          "value": 1050,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "GUEST HOUSE",
+        "consumption": {
+          "value": 95,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "TOTAL CONSUMPTION",
+        "consumption": {
+          "value": 160600,
+          "unit": null
+        }
+      }
+    ],
+    "additional_fields": {
+      "net_power": 136233,
+      "off_utility_load_percentage": "15.17%"
+    }
+  }
+}

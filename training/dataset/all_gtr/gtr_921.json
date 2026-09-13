@@ -1,0 +1,205 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice",
+  "boilerplate": "fuel/fuel_purchase_invoice.json",
+  "invoice_no": {
+    "value": "N/A"
+  },
+  "invoice_date": {
+    "value": "01/Apr/2024 to 31/Mar/2025"
+  },
+  "supplier_name": "Sainsons Paper Industries Pvt. Ltd.",
+  "supplier_gstin": null,
+  "buyer_name": "Divyam Filling Station Thanesar",
+  "buyer_gstin": null,
+  "total_amount": {
+    "value": null,
+    "unit": "Rs."
+  },
+  "entries": [
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "6406.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "563023.34",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "6506.530",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "571858.92",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D.DIESEL",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "1500.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "131835.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "5321.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "467662.69",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "5126.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "450524.14",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D.DIESEL",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "2000.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "174780.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "5720.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "499870.80",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "6370.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "559859.30",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "5405.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "475045.45",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D.DIESEL",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "1500.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "131835.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "5946.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "522593.94",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "6204.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "545269.56",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "H.S.D (OTHER)",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "5852.000",
+        "unit": "ltr"
+      },
+      "gross_amount": {
+        "value": "514332.28",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

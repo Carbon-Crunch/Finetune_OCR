@@ -1,0 +1,59 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Industrial Electric Panel Meter Readings",
+    "document_type": "Digital Meter Screen Readings",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": {
+      "value": "2025-07-07"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": "Mawana Road, Meerut, Uttar Pradesh, India",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "equipment_name": "Multi Line Meter (MVA, MW, MVAr)",
+        "remarks": "Row 1 (MVA): 11.70, Row 2 (MW): 10.65, Row 3 (MVAr): 4.8"
+      },
+      {
+        "equipment_name": "Multi Line Meter (Ir, Iy, Ib)",
+        "remarks": "Ir: 614.1, Iy: 618.6, Ib: 617.8"
+      },
+      {
+        "equipment_name": "Multi Line Meter (Vry, Vyb, Vbr)",
+        "remarks": "Vry: 10.94, Vyb: 617.6, Vbr: 0.910"
+      },
+      {
+        "equipment_name": "Premier 300 Trivector Meter",
+        "entry_id": "S. No. X1294888",
+        "meter_reading": {
+          "value": "000000.00",
+          "unit": "kWh"
+        }
+      },
+      {
+        "equipment_name": "Multi Line Meter (Hz, Vavg, Iavg)",
+        "remarks": "Vavg: 6320, Iavg: 618.0, Hz: 50.00"
+      }
+    ],
+    "additional_fields": {
+      "latitude": "29.035664",
+      "longitude": "77.781050",
+      "timestamp": "17:01 GMT+05:30",
+      "relay_panel_model": "Siemens SIPROTEC 7UM62"
+    }
+  }
+}

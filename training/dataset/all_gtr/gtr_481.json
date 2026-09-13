@@ -1,0 +1,33 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Quality Summary",
+  "extraction_rules": "This is a tabular quality summary. Extract EVERY row from the table into the entries array. Each object in entries represents one supplier or quality record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "supplier_name": null,
+        "weighted_gcv": {
+          "value": 3569,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "weighted_ash": {
+          "value": 39.1,
+          "unit": "%"
+        },
+        "total_coal": {
+          "value": 17267.815,
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "report_period": {
+    "value": "MARCH-2025"
+  },
+  "entries": [
+    {
+      "date_period": "1",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "2",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "3",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "4",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "5",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "6",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "7",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "8",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "9",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "10",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "11",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "12",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "13",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "14",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "15",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "16",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "17",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "18",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "19",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "0.00"
+      }
+    },
+    {
+      "date_period": "20",
+      "opening_balance": {
+        "value": "0.00"
+      },
+      "received_quantity": {
+        "value": "17.840"
+      },
+      "consumption": {
+        "value": "10"
+      },
+      "closing_balance": {
+        "value": "7.840"
+      }
+    },
+    {
+      "date_period": "21",
+      "opening_balance": {
+        "value": "7.840"
+      },
+      "received_quantity": {
+        "value": "39.840"
+      },
+      "consumption": {
+        "value": "20"
+      },
+      "closing_balance": {
+        "value": "27.680"
+      }
+    },
+    {
+      "date_period": "22",
+      "opening_balance": {
+        "value": "27.680"
+      },
+      "received_quantity": {
+        "value": "63.910"
+      },
+      "consumption": {
+        "value": "30"
+      },
+      "closing_balance": {
+        "value": "61.590"
+      }
+    },
+    {
+      "date_period": "23",
+      "opening_balance": {
+        "value": "61.590"
+      },
+      "received_quantity": {
+        "value": "33.230"
+      },
+      "consumption": {
+        "value": "25"
+      },
+      "closing_balance": {
+        "value": "69.820"
+      }
+    },
+    {
+      "date_period": "24",
+      "opening_balance": {
+        "value": "69.820"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "20"
+      },
+      "closing_balance": {
+        "value": "49.820"
+      }
+    },
+    {
+      "date_period": "25",
+      "opening_balance": {
+        "value": "49.820"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "25"
+      },
+      "closing_balance": {
+        "value": "24.820"
+      }
+    },
+    {
+      "date_period": "26",
+      "opening_balance": {
+        "value": "24.820"
+      },
+      "received_quantity": {
+        "value": "0.00"
+      },
+      "consumption": {
+        "value": "20"
+      },
+      "closing_balance": {
+        "value": "4.820"
+      }
+    },
+    {
+      "date_period": "27",
+      "opening_balance": {
+        "value": "4.820"
+      },
+      "received_quantity": {
+        "value": "17.500"
+      },
+      "consumption": {
+        "value": "22"
+      },
+      "closing_balance": {
+        "value": "0.320"
+      }
+    },
+    {
+      "date_period": "28",
+      "opening_balance": {
+        "value": "0.320"
+      },
+      "received_quantity": {
+        "value": "33.455"
+      },
+      "consumption": {
+        "value": "25"
+      },
+      "closing_balance": {
+        "value": "8.775"
+      }
+    },
+    {
+      "date_period": "29",
+      "opening_balance": {
+        "value": "8.775"
+      },
+      "received_quantity": {
+        "value": "36.480"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "45.255"
+      }
+    },
+    {
+      "date_period": "30",
+      "opening_balance": {
+        "value": "45.255"
+      },
+      "received_quantity": {
+        "value": "8.780"
+      },
+      "consumption": {
+        "value": "0.00"
+      },
+      "closing_balance": {
+        "value": "54.035"
+      }
+    },
+    {
+      "date_period": "31",
+      "opening_balance": {
+        "value": "54.035"
+      },
+      "received_quantity": {
+        "value": "9.440"
+      },
+      "consumption": {
+        "value": "63.475"
+      },
+      "closing_balance": {
+        "value": "0.000"
+      }
+    }
+  ]
+}

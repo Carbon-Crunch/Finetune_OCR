@@ -1,0 +1,99 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "03.DEC.2024"
+    },
+    "entries": [
+      {
+        "date_period": "6 M.W. TURBINE",
+        "consumption": null,
+        "net_generation": "0"
+      },
+      {
+        "date_period": "9 M.W. TURBINE",
+        "consumption": null,
+        "net_generation": "01,92,700 02,22,500"
+      },
+      {
+        "date_period": "1 M.W DG",
+        "consumption": null,
+        "net_generation": "9,830"
+      },
+      {
+        "date_period": "TOTAL",
+        "consumption": null,
+        "net_generation": "01,92,700 02,32,330"
+      },
+      {
+        "date_period": "1.UTILITY",
+        "consumption": "25.859 / 37.337",
+        "net_generation": null
+      },
+      {
+        "date_period": "2.PAPER MIC NO1",
+        "consumption": "34,292 / 40,832",
+        "net_generation": null
+      },
+      {
+        "date_period": "3.PAPER MIC NO2",
+        "consumption": "57,996 / 64,926",
+        "net_generation": null
+      },
+      {
+        "date_period": "4.PULP MILL NO1",
+        "consumption": "10,260 / 22,604",
+        "net_generation": null
+      },
+      {
+        "date_period": "5.PULP MILL NO2",
+        "consumption": "53,029 / 60,774",
+        "net_generation": null
+      },
+      {
+        "date_period": "6. E.T.P",
+        "consumption": "2242 / 2795",
+        "net_generation": null
+      },
+      {
+        "date_period": "7. SUNDRY PLANT",
+        "consumption": "18 / 42",
+        "net_generation": null
+      },
+      {
+        "date_period": "8. BOARD PLANT",
+        "consumption": "56 / 244",
+        "net_generation": null
+      },
+      {
+        "date_period": "9. P.LIGHTING",
+        "consumption": "872 / 2572",
+        "net_generation": null
+      },
+      {
+        "date_period": "10. GUEST HOUSE",
+        "consumption": "76 / 212",
+        "net_generation": null
+      },
+      {
+        "date_period": "TOTAL",
+        "consumption": "01,92,700 / 02,32,330",
+        "net_generation": null
+      },
+      {
+        "date_period": "NET POWER",
+        "consumption": "01,66,841 / 01,95,002",
+        "net_generation": null
+      },
+      {
+        "date_period": "OFF UTILITY LOAD",
+        "consumption": "13.42% / 16.07%",
+        "net_generation": null
+      }
+    ]
+  }
+}

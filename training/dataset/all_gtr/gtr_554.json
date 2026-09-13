@@ -1,0 +1,617 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "March 2025"
+    },
+    "entries": [
+      {
+        "date_of_receipt": "08/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6894",
+        "net_weight": {
+          "value": 51285,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 8720",
+        "net_weight": {
+          "value": 54850,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6922",
+        "net_weight": {
+          "value": 47180,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 8725",
+        "net_weight": {
+          "value": 55015,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 8430",
+        "net_weight": {
+          "value": 53080,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6923",
+        "net_weight": {
+          "value": 54925,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR38 X 9133",
+        "net_weight": {
+          "value": 30070,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 ET 3510",
+        "net_weight": {
+          "value": 45870,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "HR38Z 1685",
+        "net_weight": {
+          "value": 24725,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "RJ14GQ 8517",
+        "net_weight": {
+          "value": 40135,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "RJ14GT 4917",
+        "net_weight": {
+          "value": 40335,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "RJ52GA 6029",
+        "net_weight": {
+          "value": 38640,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "RJ14GT 8517",
+        "net_weight": {
+          "value": 40780,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "RJ52GA 3130",
+        "net_weight": {
+          "value": 41660,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "PB13BB 0346",
+        "net_weight": {
+          "value": 35260,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "UP21BN 6368",
+        "net_weight": {
+          "value": 39030,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "UP21CN 0566",
+        "net_weight": {
+          "value": 40210,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "UP12BT 9924",
+        "net_weight": {
+          "value": 30650,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "UP21CN 8889",
+        "net_weight": {
+          "value": 42060,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "UP21DT 0549",
+        "net_weight": {
+          "value": 37275,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "RJ52GA 9186",
+        "net_weight": {
+          "value": 39640,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "HR58D 5068",
+        "net_weight": {
+          "value": 42360,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "PB11DC 1922",
+        "net_weight": {
+          "value": 43500,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "HR58D 9918",
+        "net_weight": {
+          "value": 41365,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "UP12AT 9998",
+        "net_weight": {
+          "value": 33620,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "RJ52GA 7217",
+        "net_weight": {
+          "value": 41810,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "RJ14 4T 5817",
+        "net_weight": {
+          "value": 40820,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/03/2025",
+        "supplier_name": "SRV TRADERS",
+        "truck_vehicle_no": "RJ52GA 3463",
+        "net_weight": {
+          "value": 42345,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "UP17AT 6769",
+        "net_weight": {
+          "value": 30390,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6922",
+        "net_weight": {
+          "value": 50685,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6895",
+        "net_weight": {
+          "value": 52470,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 7860",
+        "net_weight": {
+          "value": 41710,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 ET 3509",
+        "net_weight": {
+          "value": 43860,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 ET 3510",
+        "net_weight": {
+          "value": 43480,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 2824",
+        "net_weight": {
+          "value": 57010,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 BT 9871",
+        "net_weight": {
+          "value": 40510,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP20 AT 1270",
+        "net_weight": {
+          "value": 42700,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 9585",
+        "net_weight": {
+          "value": 45555,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 9661",
+        "net_weight": {
+          "value": 44060,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 2828",
+        "net_weight": {
+          "value": 40875,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 8720",
+        "net_weight": {
+          "value": 50670,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR58 C 1413",
+        "net_weight": {
+          "value": 52485,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 ET 3508",
+        "net_weight": {
+          "value": 43954,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 7189",
+        "net_weight": {
+          "value": 50330,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR58 C 8375",
+        "net_weight": {
+          "value": 54700,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 9786",
+        "net_weight": {
+          "value": 50850,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 7786",
+        "net_weight": {
+          "value": 53350,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 5883",
+        "net_weight": {
+          "value": 41260,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 5880",
+        "net_weight": {
+          "value": 43135,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR58 E 6332",
+        "net_weight": {
+          "value": 57470,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 4197",
+        "net_weight": {
+          "value": 43415,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 FT 9786",
+        "net_weight": {
+          "value": 53690,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 FT 9775",
+        "net_weight": {
+          "value": 58605,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 6573",
+        "net_weight": {
+          "value": 51505,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 5878",
+        "net_weight": {
+          "value": 42565,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 ET 3639",
+        "net_weight": {
+          "value": 45445,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 FT 6931",
+        "net_weight": {
+          "value": 54260,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 FT 6215",
+        "net_weight": {
+          "value": 54850,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 CT 0588",
+        "net_weight": {
+          "value": 39920,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 5466",
+        "net_weight": {
+          "value": 52075,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 5790",
+        "net_weight": {
+          "value": 41075,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 8430",
+        "net_weight": {
+          "value": 50640,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 3036",
+        "net_weight": {
+          "value": 38495,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6894",
+        "net_weight": {
+          "value": 50790,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 2929",
+        "net_weight": {
+          "value": 40540,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 3990",
+        "net_weight": {
+          "value": 40040,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR58 D 1970",
+        "net_weight": {
+          "value": 55180,
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

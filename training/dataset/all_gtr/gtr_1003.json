@@ -1,0 +1,210 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "boiler_name": "30 TPH BOILER",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "10/05/2024",
+      "shift": "6:00 AM",
+      "total_steam_generated": "55",
+      "total_feedwater": "65",
+      "shift_total": "76",
+      "day_total": "30"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "7:00 AM",
+      "total_steam_generated": "53",
+      "total_feedwater": "65",
+      "shift_total": "81",
+      "day_total": "30"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "8:00 AM",
+      "total_steam_generated": "53",
+      "total_feedwater": "66",
+      "shift_total": "84",
+      "day_total": "35"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "9:00 AM",
+      "total_steam_generated": "55",
+      "total_feedwater": "73",
+      "shift_total": "86",
+      "day_total": "30"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "10:00 AM",
+      "total_steam_generated": "55",
+      "total_feedwater": "76",
+      "shift_total": "86",
+      "day_total": "30"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "11:00 AM",
+      "total_steam_generated": "53",
+      "total_feedwater": "67",
+      "shift_total": "85",
+      "day_total": "30"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "12:00 PM",
+      "total_steam_generated": "53",
+      "total_feedwater": "65",
+      "shift_total": "87",
+      "day_total": "30"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "1:00 PM",
+      "total_steam_generated": "52",
+      "total_feedwater": "65",
+      "shift_total": "84",
+      "day_total": "27"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "2:00 PM",
+      "total_steam_generated": "53",
+      "total_feedwater": "65",
+      "shift_total": "83",
+      "day_total": "29"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "3:00 PM",
+      "total_steam_generated": "55",
+      "total_feedwater": "65",
+      "shift_total": "84",
+      "day_total": "28"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "4:00 PM",
+      "total_steam_generated": "55",
+      "total_feedwater": "65",
+      "shift_total": "80",
+      "day_total": "22"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "5:00 PM",
+      "total_steam_generated": "55",
+      "total_feedwater": "65",
+      "shift_total": "79",
+      "day_total": "24"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "6:00 PM",
+      "total_steam_generated": "54",
+      "total_feedwater": "67",
+      "shift_total": "82",
+      "day_total": "27"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "7:00 PM",
+      "total_steam_generated": "54",
+      "total_feedwater": "66",
+      "shift_total": "81",
+      "day_total": "27"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "8:00 PM",
+      "total_steam_generated": "54",
+      "total_feedwater": "67",
+      "shift_total": "82",
+      "day_total": "27"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "9:00 PM",
+      "total_steam_generated": "55",
+      "total_feedwater": "66",
+      "shift_total": "82",
+      "day_total": "26"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "10:00 PM",
+      "total_steam_generated": "56",
+      "total_feedwater": "67",
+      "shift_total": "85",
+      "day_total": "25"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "11:00 PM",
+      "total_steam_generated": "56",
+      "total_feedwater": "68",
+      "shift_total": "87",
+      "day_total": "24"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "12:00 AM",
+      "total_steam_generated": "55",
+      "total_feedwater": "66",
+      "shift_total": "82",
+      "day_total": "24"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "1:00 AM",
+      "total_steam_generated": "54",
+      "total_feedwater": "65",
+      "shift_total": "81",
+      "day_total": "23"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "2:00 AM",
+      "total_steam_generated": "54",
+      "total_feedwater": "65",
+      "shift_total": "86",
+      "day_total": "23"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "3:00 AM",
+      "total_steam_generated": "54",
+      "total_feedwater": "65",
+      "shift_total": "86",
+      "day_total": "21"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "4:00 AM",
+      "total_steam_generated": "54",
+      "total_feedwater": "68",
+      "shift_total": "87",
+      "day_total": "21"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "5:00 AM",
+      "total_steam_generated": "54",
+      "total_feedwater": "65",
+      "shift_total": "84",
+      "day_total": "20"
+    },
+    {
+      "date_period": "10/05/2024",
+      "shift": "6:00 AM",
+      "total_steam_generated": "55",
+      "total_feedwater": "65",
+      "shift_total": "76",
+      "day_total": "30"
+    }
+  ]
+}

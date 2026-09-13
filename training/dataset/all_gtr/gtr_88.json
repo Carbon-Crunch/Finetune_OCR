@@ -1,0 +1,180 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "40100297487",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "01/2025"
+        },
+        "vendor": {
+          "value": "UTTARAKHAND POWER CORPORATION LIMITED"
+        },
+        "vendor_gstin": {
+          "value": "05AAACU6007G1ZP"
+        },
+        "buyer": {
+          "value": "KASHI VISHWANATH TEXTILE MILL"
+        },
+        "buyer_gstin": {
+          "value": null
+        },
+        "invoice_no": {
+          "value": "29450250210000018"
+        },
+        "invoice_date": {
+          "value": "10/02/2025"
+        },
+        "document_type": {
+          "value": "ELECTRICITY BILL AND DISCONNECTION NOTICE"
+        },
+        "company_pan": {
+          "value": null
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "ACTUAL ENERGY CHARGES"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "2522492.0",
+              "unit": "kWh"
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "15763158.08"
+            }
+          },
+          {
+            "item": {
+              "value": "FIXED DEMAND CHARGES"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "5202.00",
+              "unit": "KVA"
+            },
+            "rate": {
+              "value": "480.0"
+            },
+            "amount": {
+              "value": "2496960.00"
+            }
+          },
+          {
+            "item": {
+              "value": "ELECTRICITY DUTY"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "1484475.00"
+            }
+          },
+          {
+            "item": {
+              "value": "GREEN ENERGY CESS"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "296895.00"
+            }
+          },
+          {
+            "item": {
+              "value": "CONTINUOUS SUPPLY SURCHG"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "2364473.71"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "01/2025"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "6510",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": "150",
+              "unit": null
+            },
+            "kwh": {
+              "value": "776422",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "976500.0",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": null,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": "6692.96",
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "document_title": "Renewable Consumption Obligation (RCO)",
+  "document_type": "Data Collection Checklist",
+  "contract_demand": {
+    "value": "6250",
+    "unit": "KVA"
+  },
+  "entries": [
+    {
+      "equipment_name": "DG Sets",
+      "capacity": {
+        "value": "3 x 1010",
+        "unit": "KVA"
+      },
+      "remarks": "Frequency: 50Hz"
+    },
+    {
+      "equipment_name": "Key Energy Consumption Areas",
+      "remarks": "BALL MILLS, PRESS, POLISHING"
+    },
+    {
+      "equipment_name": "Boiler",
+      "remarks": "NO BOILER"
+    },
+    {
+      "equipment_name": "Production",
+      "production": {
+        "value": "280800",
+        "unit": "TPA"
+      },
+      "remarks": "Number of machines/lines: TWO"
+    },
+    {
+      "equipment_name": "Major energy-consuming equipment",
+      "remarks": "KILN"
+    }
+  ],
+  "additional_fields": {
+    "required_data_points_checked": [
+      "Consent to Operate (CTO)",
+      "Consent to Establish (CTE)",
+      "Electricity Bills (Grid)",
+      "Electricity Consumption Report",
+      "Backup Generator/DG/GG Consumption",
+      "Purchase Agreement for Power (OA/CPP/DRE)",
+      "RE Energy Data - Solar",
+      "Stock Report - Purchase, Sale, Consumption and Proof of Weight",
+      "Proof of Purchase of Fuel",
+      "Natural Gas/LPG/PNG Consumption",
+      "Natural Gas/LPG/PNG Purchase",
+      "Natural Gas/LPG/PNG Proof of Purchase",
+      "Spray Dryer Log Book",
+      "Kiln Log Book",
+      "Polishing & Finishing Section Log Book",
+      "Compressed air system Log Book",
+      "Spray Dryer Process Flow Diagram",
+      "Kiln Section",
+      "Dryer Section",
+      "Press Line (Hydraulic Press)",
+      "Polishing & Finishing Section",
+      "Boiler/Hot air generator",
+      "Compressed Air System",
+      "Effluent / Water Treatment Plant (ETP/STP)",
+      "Waste heat recovery"
+    ]
+  }
+}

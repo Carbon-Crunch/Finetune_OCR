@@ -1,0 +1,91 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": "November-2024",
+  "entries": [
+    {
+      "date_of_receipt": "12/11/20204",
+      "truck_vehicle_no": "Rack",
+      "supplier_name": "Northan coal Singrauli (M.P)",
+      "gcv": {
+        "value": 3570,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 12.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 37.5,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 4029.02,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "05/11/2024",
+      "truck_vehicle_no": "01 TRUCK",
+      "supplier_name": "Iqbal Ahmod charcoal Rampur",
+      "gcv": {
+        "value": 4750,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 19.0,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 5.5,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 228.01,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "26/11/2024 TO 30/11/2024",
+      "truck_vehicle_no": "8 TRUCK",
+      "supplier_name": "OCP,C.C.L(Balumath Chatra, po Saradhu Magadh Colliery)Jharkhand",
+      "gcv": {
+        "value": 3699.51,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 11.86,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 39.2,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 445.23,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "26/11/2024 TO 30/11/2024",
+      "truck_vehicle_no": "14 TRUCK",
+      "supplier_name": "Shree Ganesh Coal Room NO-18, Rish Complaxe Chandhasi Mughalsarai Chandauli",
+      "gcv": {
+        "value": 3570.82,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 11.84,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 40.34,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": null,
+        "unit": "MT"
+      }
+    }
+  ]
+}

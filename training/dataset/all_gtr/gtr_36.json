@@ -1,0 +1,73 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or day record of boiler operation.",
+  "extracted_fields": {
+    "boiler_name": null,
+    "registration_number": null,
+    "entries": [
+      {
+        "date_period": "09/05/24",
+        "shift": "A Shift",
+        "total_steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "total_feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "shift_total": {
+          "value": null,
+          "unit": null
+        },
+        "day_total": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "09/05/24",
+        "shift": "B Shift",
+        "total_steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "total_feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "shift_total": {
+          "value": null,
+          "unit": null
+        },
+        "day_total": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "09/05/24",
+        "shift": "C Shift",
+        "total_steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "total_feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "shift_total": {
+          "value": null,
+          "unit": null
+        },
+        "day_total": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

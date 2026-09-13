@@ -1,0 +1,89 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Process flow chart - For SUGAR & CO-GENERATION PLANT",
+    "document_type": "Flow chart",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Sahakarmaharshi Bhausaheb Thorat Sahakari Sakhar Karkhana Ltd., Amrutnagar",
+    "plant_name": "SUGAR & CO-GENERATION PLANT",
+    "location": "Amrutnagar",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {
+      "process_steps": [
+        "SUGAR CANE",
+        "CANE UNLOADER",
+        "CANE CUTTING DEVICE (CUTTER)",
+        "FIBRIZOR",
+        "JUICE EXTRACTION (MILLING)",
+        "RAW JUICE",
+        "WEITHMENT",
+        "JUICE HEATING 65 TO 75",
+        "SULPHITATION PROCESS",
+        "JUICE HEATING 100-S",
+        "SETTLER (DORR)",
+        "MUD",
+        "VACUUME FILTER",
+        "FILTRATE JUICE",
+        "PRESSMUD FOR AGRICULTURAL USE",
+        "FOR REPROCESS",
+        "CLEAR JUICE",
+        "JUICE HEATING 92 TO 100",
+        "EVAPORATORS (Evaporation)",
+        "SYRUP SULPHITATION",
+        "SYRUP STORAGE TANK",
+        "PAN BOILING",
+        "A MESSECUITE",
+        "B MESSECUITE",
+        "C MESSECUITE",
+        "C SEED",
+        "B SEED + B HEAVY MOLASSES",
+        "CRYSTALIZATION",
+        "CENTRIFUGAL",
+        "SUGAR",
+        "HOPPER COOLING",
+        "GRADER",
+        "S-30",
+        "M-30",
+        "L-30",
+        "GODOWN"
+      ],
+      "power_plant_components": [
+        "BAGASSE",
+        "BOILER",
+        "STEAM",
+        "10 MW BP TURBINE",
+        "20 MW DEC TURBINE",
+        "EXHAUST STEAM",
+        "ELECTRICITY",
+        "COOLING TOWER",
+        "CONDENSER"
+      ]
+    }
+  }
+}

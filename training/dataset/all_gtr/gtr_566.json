@@ -1,0 +1,335 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Steam Distribution Log",
+  "report_period": {
+    "value": "June'25"
+  },
+  "entries": [
+    {
+      "date_period": "01-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1066
+      },
+      "extraction_steam": {
+        "value": 698
+      },
+      "distribution_to_process": {
+        "value": 368
+      }
+    },
+    {
+      "date_period": "02-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 957
+      },
+      "extraction_steam": {
+        "value": 604
+      },
+      "distribution_to_process": {
+        "value": 353
+      }
+    },
+    {
+      "date_period": "03-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 959
+      },
+      "extraction_steam": {
+        "value": 647
+      },
+      "distribution_to_process": {
+        "value": 312
+      }
+    },
+    {
+      "date_period": "04-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 707
+      },
+      "extraction_steam": {
+        "value": 467
+      },
+      "distribution_to_process": {
+        "value": 240
+      }
+    },
+    {
+      "date_period": "08-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 658
+      },
+      "extraction_steam": {
+        "value": 459
+      },
+      "distribution_to_process": {
+        "value": 199
+      }
+    },
+    {
+      "date_period": "09-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1046
+      },
+      "extraction_steam": {
+        "value": 729
+      },
+      "distribution_to_process": {
+        "value": 317
+      }
+    },
+    {
+      "date_period": "10-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1107
+      },
+      "extraction_steam": {
+        "value": 769
+      },
+      "distribution_to_process": {
+        "value": 338
+      }
+    },
+    {
+      "date_period": "11-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1079
+      },
+      "extraction_steam": {
+        "value": 739
+      },
+      "distribution_to_process": {
+        "value": 340
+      }
+    },
+    {
+      "date_period": "12-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1215
+      },
+      "extraction_steam": {
+        "value": 827
+      },
+      "distribution_to_process": {
+        "value": 388
+      }
+    },
+    {
+      "date_period": "13-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1184
+      },
+      "extraction_steam": {
+        "value": 797
+      },
+      "distribution_to_process": {
+        "value": 387
+      }
+    },
+    {
+      "date_period": "14-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1102
+      },
+      "extraction_steam": {
+        "value": 758
+      },
+      "distribution_to_process": {
+        "value": 344
+      }
+    },
+    {
+      "date_period": "15-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1000
+      },
+      "extraction_steam": {
+        "value": 676
+      },
+      "distribution_to_process": {
+        "value": 324
+      }
+    },
+    {
+      "date_period": "16-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 969
+      },
+      "extraction_steam": {
+        "value": 681
+      },
+      "distribution_to_process": {
+        "value": 288
+      }
+    },
+    {
+      "date_period": "17-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1123
+      },
+      "extraction_steam": {
+        "value": 795
+      },
+      "distribution_to_process": {
+        "value": 328
+      }
+    },
+    {
+      "date_period": "18-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1231
+      },
+      "extraction_steam": {
+        "value": 838
+      },
+      "distribution_to_process": {
+        "value": 393
+      }
+    },
+    {
+      "date_period": "19-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1119
+      },
+      "extraction_steam": {
+        "value": 768
+      },
+      "distribution_to_process": {
+        "value": 351
+      }
+    },
+    {
+      "date_period": "20-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1193
+      },
+      "extraction_steam": {
+        "value": 819
+      },
+      "distribution_to_process": {
+        "value": 374
+      }
+    },
+    {
+      "date_period": "21-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1104
+      },
+      "extraction_steam": {
+        "value": 763
+      },
+      "distribution_to_process": {
+        "value": 341
+      }
+    },
+    {
+      "date_period": "22-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1176
+      },
+      "extraction_steam": {
+        "value": 791
+      },
+      "distribution_to_process": {
+        "value": 385
+      }
+    },
+    {
+      "date_period": "23-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1126
+      },
+      "extraction_steam": {
+        "value": 777
+      },
+      "distribution_to_process": {
+        "value": 349
+      }
+    },
+    {
+      "date_period": "24-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1131
+      },
+      "extraction_steam": {
+        "value": 718
+      },
+      "distribution_to_process": {
+        "value": 413
+      }
+    },
+    {
+      "date_period": "25-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1025
+      },
+      "extraction_steam": {
+        "value": 677
+      },
+      "distribution_to_process": {
+        "value": 348
+      }
+    },
+    {
+      "date_period": "26-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1135
+      },
+      "extraction_steam": {
+        "value": 761
+      },
+      "distribution_to_process": {
+        "value": 374
+      }
+    },
+    {
+      "date_period": "27-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1064
+      },
+      "extraction_steam": {
+        "value": 743
+      },
+      "distribution_to_process": {
+        "value": 321
+      }
+    },
+    {
+      "date_period": "28-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1173
+      },
+      "extraction_steam": {
+        "value": 799
+      },
+      "distribution_to_process": {
+        "value": 374
+      }
+    },
+    {
+      "date_period": "29-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1176
+      },
+      "extraction_steam": {
+        "value": 818
+      },
+      "distribution_to_process": {
+        "value": 358
+      }
+    },
+    {
+      "date_period": "30-Jun-25",
+      "turbine_inlet_steam": {
+        "value": 1065
+      },
+      "extraction_steam": {
+        "value": 730
+      },
+      "distribution_to_process": {
+        "value": 335
+      }
+    }
+  ]
+}

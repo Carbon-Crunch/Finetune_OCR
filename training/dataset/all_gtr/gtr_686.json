@@ -1,0 +1,101 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "document_title": "Initial inspection for the electrical installation",
+  "document_type": "Electrical Inspection Certificate",
+  "document_date": "27/9/2023",
+  "company_name": "jani sales private limited",
+  "location": "survey no.3902,sarigam Plastic Zone.opp Gayatri Shakti paper mill,village-moje fansa(karajgam),Ta-Umbergaon-396155 (Gujarat)",
+  "reference_number": "No/EI/Val/Certi/99730/2023",
+  "entries": [
+    {
+      "entry_id": "1",
+      "item_description": "Make",
+      "equipment_name": "CUMMINS INDIA LIMITED (Engine), STAMFORD (Alternator), HPL Electric and Power Ltd (Energy Meter)"
+    },
+    {
+      "entry_id": "2",
+      "item_description": "Capacity",
+      "capacity": {
+        "value": "250.0",
+        "unit": "KW/KVA"
+      }
+    },
+    {
+      "entry_id": "3",
+      "item_description": "Sr. No.",
+      "remarks": "84515790 (Engine), N19E219401 (Alternator), 1K 167184 (Energy Meter)"
+    },
+    {
+      "entry_id": "4",
+      "item_description": "Volt",
+      "supply_voltage": {
+        "value": "415",
+        "unit": "V"
+      }
+    },
+    {
+      "entry_id": "6",
+      "item_description": "RPM",
+      "remarks": "1500.00"
+    },
+    {
+      "entry_id": "7",
+      "item_description": "C.T. Ratio",
+      "remarks": "600/5A"
+    },
+    {
+      "entry_id": "8",
+      "item_description": "P.T. Ratio",
+      "remarks": "1"
+    },
+    {
+      "entry_id": "9",
+      "item_description": "Dial M.F.",
+      "multiplying_factor": {
+        "value": "1.0",
+        "unit": null
+      }
+    },
+    {
+      "entry_id": "10",
+      "item_description": "Final M.F.",
+      "multiplying_factor": {
+        "value": "120.00",
+        "unit": null
+      }
+    },
+    {
+      "entry_id": "11",
+      "item_description": "Reading",
+      "meter_reading": {
+        "value": "3",
+        "unit": null
+      }
+    },
+    {
+      "entry_id": "12",
+      "item_description": "Seal No. of Terminal Cover",
+      "remarks": "3652672"
+    },
+    {
+      "entry_id": "13",
+      "item_description": "Seal No. of MMB",
+      "remarks": "3652673"
+    }
+  ]
+}

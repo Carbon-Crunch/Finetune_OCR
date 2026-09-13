@@ -1,0 +1,30 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "invoice_date": {
+    "value": "21-Jul-24"
+  },
+  "supplier_name": "ROSHAN LAL ASHOK KUMAR",
+  "entries": [
+    {
+      "item_description": "Dhan Bussi Chilka",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": "121300",
+      "quantity": {
+        "value": 74.8,
+        "unit": "quintal"
+      },
+      "units": {
+        "value": "quintal",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": 44880.0,
+        "unit": "Rs."
+      }
+    }
+  ]
+}

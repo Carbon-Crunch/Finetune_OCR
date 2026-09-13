@@ -1,0 +1,149 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "DEC : 2024"
+  },
+  "entries": [
+    {
+      "fuel_name": "IMP COAL 6000 HGCV (AGRAWAL)",
+      "date_period": "DEC : 2024",
+      "opening_balance": {
+        "value": 779.485,
+        "unit": "MT"
+      },
+      "received_quantity": {
+        "value": 0.0,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 779.485,
+        "unit": "MT"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      }
+    },
+    {
+      "fuel_name": "IMP COAL 5800 GCV (GANPATI)",
+      "date_period": "DEC : 2024",
+      "opening_balance": {
+        "value": 35.15,
+        "unit": "MT"
+      },
+      "received_quantity": {
+        "value": 0.0,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 35.15,
+        "unit": "MT"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      }
+    },
+    {
+      "fuel_name": "IMP COAL 5800 GCV (CHANDRA)",
+      "date_period": "DEC : 2024",
+      "opening_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      },
+      "received_quantity": {
+        "value": 985.35,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 985.35,
+        "unit": "MT"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      }
+    },
+    {
+      "fuel_name": "IMP COAL 5800 GCV (RAWALWASIA)",
+      "date_period": "DEC : 2024",
+      "opening_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      },
+      "received_quantity": {
+        "value": 1062.12,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 1062.12,
+        "unit": "MT"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      }
+    },
+    {
+      "fuel_name": "IMP COAL 6000 GCV (RAWALWASIA)",
+      "date_period": "DEC : 2024",
+      "opening_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      },
+      "received_quantity": {
+        "value": 1546.52,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 1546.52,
+        "unit": "MT"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      }
+    },
+    {
+      "fuel_name": "IMP COAL 5800 GCV (GREEN GOLD)",
+      "date_period": "DEC : 2024",
+      "opening_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      },
+      "received_quantity": {
+        "value": 1005.97,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 1005.97,
+        "unit": "MT"
+      },
+      "closing_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      }
+    },
+    {
+      "fuel_name": "IMP COAL 6000 GCV (RAWALWASIA)",
+      "date_period": "DEC : 2024",
+      "opening_balance": {
+        "value": 0.0,
+        "unit": "MT"
+      },
+      "received_quantity": {
+        "value": 2007.94,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 219.405,
+        "unit": "MT"
+      },
+      "closing_balance": {
+        "value": 1788.535,
+        "unit": "MT"
+      }
+    }
+  ]
+}

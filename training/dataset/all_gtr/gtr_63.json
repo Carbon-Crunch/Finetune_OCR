@@ -1,0 +1,68 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "SINGLE LINE DIAGRAM OF ELECTRICAL SYSTEM",
+    "document_type": "Electrical Single Line Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "13.09.2019"
+    },
+    "supplier_name": null,
+    "customer_name": "SAINSONS PAPER INDUSTRIES LTD.",
+    "company_name": "SAINSONS PAPER INDUSTRIES LTD.",
+    "plant_name": "PEHOWA, HARYANA",
+    "location": "PEHOWA, HARYANA",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "entry_id": "52-B",
+        "equipment_name": "Circuit Breaker",
+        "remarks": "Incoming PT-7, Running PT-1"
+      },
+      {
+        "entry_id": "52-E",
+        "equipment_name": "Circuit Breaker",
+        "remarks": "Incoming PT-6, Running PT-7"
+      },
+      {
+        "entry_id": "52-F",
+        "equipment_name": "Circuit Breaker",
+        "remarks": "Incoming PT-2, Running PT-6"
+      },
+      {
+        "entry_id": "52-L",
+        "equipment_name": "Circuit Breaker",
+        "remarks": "Incoming PT-4, Running PT-6"
+      },
+      {
+        "entry_id": "52-P",
+        "equipment_name": "Circuit Breaker",
+        "remarks": "Incoming PT-3, Running PT-4"
+      }
+    ],
+    "additional_fields": {
+      "consultant": "RAJ ENGINEERING / RAJEEV ELECTRIC WORKS, DERABASSI, PUNJAB",
+      "mobile": "092165 99339"
+    }
+  }
+}

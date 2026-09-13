@@ -1,0 +1,56 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electricity Bill",
+  "extraction_rules": "This is a tabular billing document. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period or charge entry. Also extract all relevant document-level metadata.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-25"
+    },
+    "vendor": {
+      "value": "Anand Triplex Board Pvt. Ltd."
+    },
+    "vendor_gstin": {
+      "value": "09AAECA9305M1ZD"
+    },
+    "buyer": {
+      "value": "M/S ANAND DUPLEX LTD - CUSTOMERS"
+    },
+    "buyer_gstin": {
+      "value": "09AABCA4927A1Z3"
+    },
+    "invoice_no": {
+      "value": "2221/2024-25"
+    },
+    "invoice_date": {
+      "value": "2025-02-24"
+    },
+    "document_type": {
+      "value": "TAX INVOICE"
+    },
+    "company_pan": {
+      "value": "AAECA9305M"
+    },
+    "entries": [
+      {
+        "item": {
+          "value": "ELECTICITY"
+        },
+        "hsn_sac": {
+          "value": "27160000"
+        },
+        "quantity": {
+          "value": 1122320,
+          "unit": "UN"
+        },
+        "rate": {
+          "value": 10.0
+        },
+        "amount": {
+          "value": 11223200.0
+        }
+      }
+    ]
+  }
+}

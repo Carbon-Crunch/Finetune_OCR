@@ -1,0 +1,98 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Employment Record",
+    "document_type": "Employee Service History",
+    "report_period": {
+      "value": "25.03.1996 to Present"
+    },
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Sahakari Chini Mill",
+    "plant_name": "Sahakari Chini Mill, Sultanpur / Nanpara / Belrayan / Sampurnanagar / Bisalpur / Mahmudabad / Puranpur / Anupshahar / Tilhar",
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "294 / UPF / Retha / 5/95; 999 / UPF / Retha / 22 / 96",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "date_period": "25.03.1996 to July 2000",
+        "remarks": "Sultanpur"
+      },
+      {
+        "date_period": "July 2000 to 27.05.2003",
+        "remarks": "Sampurnanagar"
+      },
+      {
+        "date_period": "28.05.2003 to 27.11.2006",
+        "remarks": "Belrayan"
+      },
+      {
+        "date_period": "November 2006 to July 2007",
+        "remarks": "Sampurnanagar"
+      },
+      {
+        "date_period": "11.07.2007 to 07.07.2008",
+        "remarks": "Bisalpur"
+      },
+      {
+        "date_period": "08.07.2008 to July 2014",
+        "remarks": "Sampurnanagar"
+      },
+      {
+        "date_period": "July 2014 to 14.01.2015",
+        "remarks": "Mahmudabad"
+      },
+      {
+        "date_period": "15.01.2015 to 05.06.2015",
+        "remarks": "Puranpur"
+      },
+      {
+        "date_period": "05.06.2015 to 18.09.2015",
+        "remarks": "Sampurnanagar"
+      },
+      {
+        "date_period": "19.09.2015 to 08.09.2017",
+        "remarks": "Nanpara"
+      },
+      {
+        "date_period": "09.09.2017 to 02.06.2018",
+        "remarks": "Sampurnanagar"
+      },
+      {
+        "date_period": "09.06.2018 to 18.09.2019",
+        "remarks": "Anupshahar"
+      },
+      {
+        "date_period": "20.09.2019 to 07.01.2022",
+        "remarks": "Belrayan"
+      },
+      {
+        "date_period": "08.01.2022 to 13.12.2022",
+        "remarks": "Bisalpur"
+      },
+      {
+        "date_period": "14.12.2022 to 05.09.2023",
+        "remarks": "Tilhar"
+      },
+      {
+        "date_period": "06.09.2023 to present",
+        "remarks": "Nanpara"
+      }
+    ],
+    "additional_fields": {
+      "employee_name": "Virendra Kumar",
+      "retirement_date": "31.12.2025",
+      "initial_designation": "Sahayak Abhiyanta (Mechanical)",
+      "initial_pay_scale": "2000 basic + DA"
+    }
+  }
+}

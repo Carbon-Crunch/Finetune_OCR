@@ -1,0 +1,42 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal laboratory test report",
+  "boilerplate_used": "fuel/coal_laboratory_test_report.json",
+  "data": {
+    "report_period": {
+      "value": "21/03/2025 - 24/03/2025"
+    },
+    "entries": [
+      {
+        "sample_name": "Imported Coal",
+        "date_period": "21/03/2025 - 24/03/2025",
+        "sample_quantity": {
+          "value": 5,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 34.54,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": 40.12,
+          "unit": "%"
+        },
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 5280,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 6.3,
+          "unit": "%"
+        },
+        "supplier_name": "N R AGARWAL INDUSTRIES LIMITED",
+        "operator_name": "Rijesh Thanki",
+        "remarks": "The test report is revised/amended for the change in sample description as per customer request."
+      }
+    ]
+  }
+}

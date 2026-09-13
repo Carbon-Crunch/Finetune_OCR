@@ -1,0 +1,26 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "2-Jul-24"
+  },
+  "supplier_name": "DWARKESH COAL LLP",
+  "entries": [
+    {
+      "item_description": "IMPORTED COAL",
+      "hsn_sac": "27011920",
+      "quantity": {
+        "value": "37.210",
+        "unit": "MTS"
+      },
+      "units": {
+        "value": "MTS",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "2,16,172.24",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

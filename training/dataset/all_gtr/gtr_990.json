@@ -1,0 +1,285 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "990",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "APR-2024"
+        },
+        "vendor": {
+          "value": "Maharashtra State Electricity Distribution Co. Ltd."
+        },
+        "vendor_gstin": {
+          "value": "27AAECM2933K1ZB"
+        },
+        "buyer": {
+          "value": "Padmashri Dr D Y Patil SSK Ltd"
+        },
+        "buyer_gstin": {
+          "value": "27AAACO9310N1Z6"
+        },
+        "invoice_no": {
+          "value": "202404650095231"
+        },
+        "invoice_date": {
+          "value": "08/05/2024"
+        },
+        "document_type": {
+          "value": "BILL OF SUPPLY"
+        },
+        "company_pan": {
+          "value": "AAACO9310N"
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "Demand Charges"
+            },
+            "amount": {
+              "value": "823500.00"
+            }
+          },
+          {
+            "item": {
+              "value": "Wheeling Charge"
+            },
+            "amount": {
+              "value": "0.00"
+            }
+          },
+          {
+            "item": {
+              "value": "Energy Charges"
+            },
+            "amount": {
+              "value": "1417387.84"
+            }
+          },
+          {
+            "item": {
+              "value": "TOD Tariff EC"
+            },
+            "amount": {
+              "value": "-26188.10"
+            }
+          },
+          {
+            "item": {
+              "value": "FAC"
+            },
+            "amount": {
+              "value": "93249.20"
+            }
+          },
+          {
+            "item": {
+              "value": "Electricity Duty"
+            },
+            "amount": {
+              "value": "173096.17"
+            }
+          },
+          {
+            "item": {
+              "value": "Bulk Consumption Rebate"
+            },
+            "amount": {
+              "value": "-12392.74"
+            }
+          },
+          {
+            "item": {
+              "value": "Tax on Sale"
+            },
+            "amount": {
+              "value": "29907.54"
+            }
+          },
+          {
+            "item": {
+              "value": "Incremental Consumption Rebate"
+            },
+            "amount": {
+              "value": "-91769.25"
+            }
+          },
+          {
+            "item": {
+              "value": "Debit Bill Adjustment"
+            },
+            "amount": {
+              "value": "144710.25"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Consumption History",
+      "boilerplate_used": "energy/electric_consumption_history.json",
+      "data": {
+        "report_period": {
+          "value": "APR-2023 TO MAR-2024"
+        },
+        "entries": [
+          {
+            "date_period": "MAR-24",
+            "consumption": {
+              "value": "4217",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "FEB-24",
+            "consumption": {
+              "value": "15220",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "JAN-24",
+            "consumption": {
+              "value": "19980",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "DEC-23",
+            "consumption": {
+              "value": "0",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "NOV-23",
+            "consumption": {
+              "value": "0",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "OCT-23",
+            "consumption": {
+              "value": "134312",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "SEP-23",
+            "consumption": {
+              "value": "81953",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "AUG-23",
+            "consumption": {
+              "value": "100519",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "JUL-23",
+            "consumption": {
+              "value": "107261",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "JUN-23",
+            "consumption": {
+              "value": "79060",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "MAY-23",
+            "consumption": {
+              "value": "167531",
+              "unit": "Units"
+            }
+          },
+          {
+            "date_period": "APR-23",
+            "consumption": {
+              "value": "200180",
+              "unit": "Units"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "APR-2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "109.973",
+              "unit": "KWH"
+            },
+            "multiplying_factor": {
+              "value": "1500.000"
+            },
+            "kwh": {
+              "value": "164959.500",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "169290.000",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": "28560.000",
+              "unit": "KVARH"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

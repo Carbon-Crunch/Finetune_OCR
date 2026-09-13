@@ -1,0 +1,54 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "TEST REPORT",
+    "document_type": "Laboratory Test Report",
+    "report_period": {
+      "value": "25-Jan-2024 to 30-Jan-2024"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "30-Jan-2024"
+    },
+    "supplier_name": "Eurofins Spectro",
+    "customer_name": "GENUS PAPER AND BOARDS LIMITED",
+    "company_name": "GENUS PAPER AND BOARDS LIMITED",
+    "plant_name": null,
+    "location": "MORADABAD, UTTAR PRADESH - 244001, INDIA",
+    "registration_number": "U74220DL1998PTC092898",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "PO NO-137",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": "1",
+      "unit": "Nos"
+    },
+    "entries": [
+      {
+        "date_period": "25-Jan-2024 to 30-Jan-2024",
+        "sample_name": "SAMPLE NO-01",
+        "customer_name": "GENUS PAPER AND BOARDS LIMITED",
+        "remarks": "SAMPLE NOT DRAWN BY OUR LABORATORY. THE RESULTS RELATE ONLY TO THE ITEMS TESTED"
+      }
+    ],
+    "additional_fields": {
+      "test_report_no": "D240124013/D240124013-11",
+      "sample_booking_date": "24-Jan-2024",
+      "kind_attention": "MR.SANJEEV KUMAR TOMAR",
+      "email": "delhipurchase@genuspaper.com",
+      "contact_no": "9958881734",
+      "sample_condition": "Good",
+      "ulr_number": "ULR-TC631424000001166F"
+    }
+  }
+}

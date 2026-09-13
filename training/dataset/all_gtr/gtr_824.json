@@ -1,0 +1,104 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "Trident Home Textile Process / Material Flow Chart",
+  "document_type": "Process / Material Flow Chart",
+  "entries": [
+    {
+      "product_name": "Grey Single Yarn",
+      "machine_name": "Grey Yarn Issue / Manual"
+    },
+    {
+      "product_name": "Doubled yarn",
+      "machine_name": "Cheese Winding / Cheese winding m/c"
+    },
+    {
+      "product_name": "Twisted yarn cone",
+      "machine_name": "Yarn Twisting / TFO"
+    },
+    {
+      "product_name": "Package on spring/meriplast",
+      "machine_name": "Soft Winding / Soft winding m/c"
+    },
+    {
+      "product_name": "Dyed package",
+      "machine_name": "Package / Package Dyeing m/c"
+    },
+    {
+      "product_name": "Dried package",
+      "machine_name": "Hydro Extraction / Hydro Extractor"
+    },
+    {
+      "product_name": "Dried package",
+      "machine_name": "Drying / R.F. Drier"
+    },
+    {
+      "product_name": "Cone",
+      "machine_name": "Winding / PTC m/c"
+    },
+    {
+      "product_name": "Warper/Weaver Beam",
+      "machine_name": "Warping / Direct/Sectional W m/c"
+    },
+    {
+      "product_name": "Weaver",
+      "machine_name": "Sizing / Sizing m/c"
+    },
+    {
+      "product_name": "Towel",
+      "machine_name": "Weaving / Dobby/Jaquard"
+    },
+    {
+      "product_name": "Dyed/Washed Towel ropes",
+      "machine_name": "Fabric Dyeing/Washing / Dyeing m/c"
+    },
+    {
+      "product_name": "Wet Towel ropes",
+      "machine_name": "Hydro Extraction / Hydro extractor"
+    },
+    {
+      "product_name": "Wet Towel spreaded in full",
+      "machine_name": "Rope Opening / Rope Opener"
+    },
+    {
+      "product_name": "Dried Towel ropes",
+      "machine_name": "Drying-1 / ALEA/Tumbler"
+    },
+    {
+      "product_name": "Towel",
+      "machine_name": "Drying-2 / Stenter"
+    },
+    {
+      "product_name": "Towel ropes",
+      "machine_name": "Length cutting / Length cutting m/c"
+    },
+    {
+      "product_name": "Towel ropes",
+      "machine_name": "Length Hemming / Length Hemming m/c"
+    },
+    {
+      "product_name": "Towel Pieces",
+      "machine_name": "Cross cutting / Cross cutting m/c"
+    },
+    {
+      "product_name": "Labeled Towel Pieces",
+      "machine_name": "Cross Hemming / Cross Hemming m/c"
+    },
+    {
+      "product_name": "Sheared/Polished ropes",
+      "machine_name": "Shearing/Polishing / Shearing m/c"
+    },
+    {
+      "product_name": "Towel pieces",
+      "machine_name": "Folding / Manual"
+    },
+    {
+      "product_name": "Packed Towel pieces",
+      "machine_name": "Packing / Manual"
+    },
+    {
+      "product_name": "Towel cartons",
+      "machine_name": "Carton Packing / Manual"
+    }
+  ]
+}

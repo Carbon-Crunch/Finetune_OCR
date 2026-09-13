@@ -1,0 +1,86 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Production & Operational",
+  "data_category": "Production Summary",
+  "boilerplate_used": "production/production_summary.json",
+  "report_period": {
+    "value": "2024-25"
+  },
+  "entries": [
+    {
+      "date_period": "Apr-24",
+      "total_production": {
+        "value": "3.73",
+        "unit": "Qtl"
+      }
+    },
+    {
+      "date_period": "May-24",
+      "total_production": null
+    },
+    {
+      "date_period": "Jun-24",
+      "total_production": null
+    },
+    {
+      "date_period": "Jul-24",
+      "total_production": null
+    },
+    {
+      "date_period": "Aug-24",
+      "total_production": null
+    },
+    {
+      "date_period": "Sep-24",
+      "total_production": null
+    },
+    {
+      "date_period": "Oct-24",
+      "total_production": null
+    },
+    {
+      "date_period": "Nov-24",
+      "total_production": {
+        "value": "6.70",
+        "unit": "Qtl"
+      }
+    },
+    {
+      "date_period": "Dec-24",
+      "total_production": {
+        "value": "7.23",
+        "unit": "Qtl"
+      }
+    },
+    {
+      "date_period": "Jan-25",
+      "total_production": {
+        "value": "7.69",
+        "unit": "Qtl"
+      }
+    },
+    {
+      "date_period": "Feb-25",
+      "total_production": {
+        "value": "6.77",
+        "unit": "Qtl"
+      }
+    },
+    {
+      "date_period": "Mar-25",
+      "total_production": {
+        "value": "7.36",
+        "unit": "Qtl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "April 2024"
+  },
+  "entries": [
+    {
+      "date_period": "Opening Balance of Self Consumed Energy",
+      "consumption": {
+        "value": "0.29",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Opening Balance of Grid Injected RECs eligible Energy",
+      "consumption": {
+        "value": "0",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Total Quantity of Energy Injection and/or deemed injection",
+      "consumption": {
+        "value": "3010.28",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Quantum of energy used for self consumption and eligible for issuance of REC",
+      "consumption": {
+        "value": "2709.25",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "B + O1",
+      "consumption": {
+        "value": "2710.04",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Quantum of energy injected in the grid and not eligible for issuance of REC",
+      "consumption": {
+        "value": "0",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Quantum of energy injected in the grid and eligible for issuance of REC",
+      "consumption": {
+        "value": "0",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "D + O2",
+      "consumption": {
+        "value": "0",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "RECs requested for Energy used for Self-Consumption",
+      "consumption": {
+        "value": "2709",
+        "unit": "REC"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "RECs requested for Energy Injected in the Grid",
+      "consumption": {
+        "value": "0",
+        "unit": "REC"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Closing Balance of Self Consumed Energy",
+      "consumption": {
+        "value": "1.04",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Closing Balance of Grid Injected RECs eligible energy",
+      "consumption": {
+        "value": "0",
+        "unit": "MWh"
+      },
+      "net_generation": null
+    }
+  ]
+}

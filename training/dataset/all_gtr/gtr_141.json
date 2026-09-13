@@ -1,0 +1,100 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Electricity Unit Generation, Purchase & Consumption Data",
+    "document_type": "Power Plant Report",
+    "report_period": {
+      "value": "2024-25"
+    },
+    "entries": [
+      {
+        "item_description": "Number of Units generated",
+        "kwh": {
+          "value": 52610470,
+          "unit": "KWH"
+        }
+      },
+      {
+        "item_description": "Number of units purchased",
+        "quantity": {
+          "value": 6687500,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "Consumption in power house incl. other losses",
+        "kwh": {
+          "value": 3947072,
+          "unit": "KWH"
+        },
+        "consumption": {
+          "value": 7718792,
+          "unit": null
+        }
+      },
+      {
+        "item_description": "Net units consumed",
+        "kwh": {
+          "value": 51579178,
+          "unit": "KWH"
+        }
+      },
+      {
+        "equipment_name": "Unit I (Power Plant)",
+        "generation": {
+          "value": 37434500,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": 4838432,
+          "unit": "Aux Power"
+        },
+        "steam_generated": {
+          "value": 240486,
+          "unit": "MT"
+        },
+        "extraction_steam": {
+          "value": 170308,
+          "unit": "MT"
+        }
+      },
+      {
+        "equipment_name": "Unit II (Powerplant II)",
+        "generation": {
+          "value": 15175970,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": 2880360,
+          "unit": "Aux Power"
+        },
+        "steam_generated": {
+          "value": 118307,
+          "unit": "MT"
+        },
+        "extraction_steam": {
+          "value": 51621,
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

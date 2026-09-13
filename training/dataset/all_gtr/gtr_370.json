@@ -1,0 +1,177 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "November 2011"
+    },
+    "entries": [
+      {
+        "sample_name": "Sample No.-1) ECL Coal",
+        "date_period": "29-11-2011",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 1.35,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": 15.14,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": 31.77,
+          "unit": "%"
+        },
+        "gcv": null,
+        "ash_content": {
+          "value": 51.74,
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": null,
+        "remarks": "Proximate analysis and ultimate analysis"
+      },
+      {
+        "sample_name": "Sample No.-2) Imported Coal",
+        "date_period": "29-11-2011",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 27.17,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": 34.78,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": 32.26,
+          "unit": "%"
+        },
+        "gcv": null,
+        "ash_content": {
+          "value": 5.79,
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": null,
+        "remarks": "Proximate analysis and ultimate analysis"
+      },
+      {
+        "sample_name": "Sample No.-4) 50% ECL Coal + 50% Imported Coal",
+        "date_period": "29-11-2011",
+        "sample_quantity": null,
+        "moisture_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": null,
+        "ash_content": null,
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": null,
+        "remarks": "Chemical Composition (Elemental Ash Analysis)"
+      },
+      {
+        "sample_name": "Sample No.-5) 50% ECL Coal + 35% Imported Coal + 15% Pet Coke",
+        "date_period": "29-11-2011",
+        "sample_quantity": null,
+        "moisture_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": null,
+        "ash_content": null,
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": null,
+        "remarks": "Chemical Composition (Elemental Ash Analysis)"
+      },
+      {
+        "sample_name": "Sample No.-3) Pet Coke",
+        "date_period": "30-11-2011",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 0.49,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": 9.2,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": 89.37,
+          "unit": "%"
+        },
+        "gcv": null,
+        "ash_content": {
+          "value": 0.94,
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": null,
+        "remarks": "Proximate analysis and ultimate analysis"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "document_title": "Electricity Bill",
+  "document_type": "Electricity Bill",
+  "report_period": {
+    "value": "05-06-2025 to 16-06-2025"
+  },
+  "customer_name": "M/S GENUS PAPER AND BOARDS LTD.",
+  "location": "JANSATH ROAD MUZAFFARNAGAR",
+  "total_amount": {
+    "value": "6325535",
+    "unit": "INR"
+  },
+  "entries": [
+    {
+      "meter_reading_difference": "352",
+      "multiplying_factor": "4",
+      "kwh": {
+        "value": "1408",
+        "unit": "KWH"
+      }
+    },
+    {
+      "meter_reading_difference": "407",
+      "multiplying_factor": "4",
+      "kwh": {
+        "value": "1628",
+        "unit": "KWH"
+      }
+    },
+    {
+      "meter_reading_difference": "568.5",
+      "multiplying_factor": "4",
+      "kwh": {
+        "value": "2274",
+        "unit": "KWH"
+      }
+    },
+    {
+      "meter_reading_difference": "687.5",
+      "multiplying_factor": "4",
+      "kwh": {
+        "value": "2750",
+        "unit": "KWH"
+      }
+    },
+    {
+      "meter_reading_difference": "1416",
+      "multiplying_factor": "8",
+      "kwh": {
+        "value": "11328",
+        "unit": "KWH"
+      }
+    },
+    {
+      "meter_reading_difference": "1006.5",
+      "multiplying_factor": "8",
+      "kwh": {
+        "value": "8052",
+        "unit": "KWH"
+      }
+    },
+    {
+      "meter_reading_difference": "1617.5",
+      "multiplying_factor": "8",
+      "kwh": {
+        "value": "12940",
+        "unit": "KWH"
+      }
+    },
+    {
+      "meter_reading_difference": "1845",
+      "multiplying_factor": "8",
+      "kwh": {
+        "value": "14760",
+        "unit": "KWH"
+      }
+    }
+  ],
+  "contract_demand": {
+    "value": "2000",
+    "unit": "KVA"
+  }
+}

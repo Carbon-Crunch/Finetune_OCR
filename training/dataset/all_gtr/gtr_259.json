@@ -1,0 +1,109 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "1-Apr-24 to 31-Mar-25"
+  },
+  "entries": [
+    {
+      "fuel_name": "Coal",
+      "date_period": "May",
+      "inwards": {
+        "value": "1,103.2800 MT"
+      },
+      "outwards": {
+        "value": "1,103.2800 MT"
+      },
+      "closing_balance": {
+        "value": "1,103.2800 MT"
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "June",
+      "inwards": {
+        "value": "419.9260 MT"
+      },
+      "outwards": {
+        "value": "1,304.0000 MT"
+      },
+      "closing_balance": {
+        "value": "219.2060 MT"
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "July",
+      "inwards": {
+        "value": "134.9650 MT"
+      },
+      "outwards": {
+        "value": "348.0000 MT"
+      },
+      "closing_balance": {
+        "value": "6.1710 MT"
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "August",
+      "inwards": {
+        "value": "1,028.4900 MT"
+      },
+      "outwards": {
+        "value": "15.0000 MT"
+      },
+      "closing_balance": {
+        "value": "1,019.6610 MT"
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "September",
+      "inwards": {
+        "value": "1,894.7100 MT"
+      },
+      "outwards": {
+        "value": "1,466.0000 MT"
+      },
+      "closing_balance": {
+        "value": "1,448.3710 MT"
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "October",
+      "inwards": {
+        "value": "4,623.7700 MT"
+      },
+      "outwards": {
+        "value": "4,382.0000 MT"
+      },
+      "closing_balance": {
+        "value": "1,690.1410 MT"
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "November",
+      "inwards": {
+        "value": "(-)24.6600 MT"
+      },
+      "outwards": {
+        "value": "1,654.0000 MT"
+      },
+      "closing_balance": {
+        "value": "11.4810 MT"
+      }
+    },
+    {
+      "fuel_name": "Coal",
+      "date_period": "December",
+      "inwards": {
+        "value": "(-)11.4810 MT"
+      },
+      "outwards": null,
+      "closing_balance": null
+    }
+  ]
+}

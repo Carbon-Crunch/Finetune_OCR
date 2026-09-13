@@ -1,0 +1,43 @@
+{
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "sample_name": null,
+        "date_period": null,
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "supplier_name": null,
+        "operator_name": null,
+        "remarks": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "01/May/2024 to 31/May/2024",
+  "entries": [
+    {
+      "fuel_name": "STRAW RICE BALE 1121",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": 0,
+        "unit": "KGS"
+      }
+    },
+    {
+      "fuel_name": "STRAW RICE PR (FUEL)",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": 0,
+        "unit": "KGS"
+      }
+    },
+    {
+      "fuel_name": "SUGER CANE WASTE (BAIL)",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": 0,
+        "unit": "KGS"
+      }
+    },
+    {
+      "fuel_name": "WASTE EXHAUSTED HERB",
+      "fuel_type": null,
+      "date_period": "01/May/2024 to 31/May/2024",
+      "opening_balance": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 0,
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": 0,
+        "unit": "KGS"
+      }
+    }
+  ]
+}

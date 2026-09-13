@@ -1,0 +1,109 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Flow Diagram of Power Plant",
+    "document_type": "Flow Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "equipment_name": "Coal storage"
+      },
+      {
+        "equipment_name": "Coal handling plant"
+      },
+      {
+        "equipment_name": "Primary air fan"
+      },
+      {
+        "equipment_name": "Boiler"
+      },
+      {
+        "equipment_name": "Super heater"
+      },
+      {
+        "equipment_name": "Economiser"
+      },
+      {
+        "equipment_name": "Air pre-heater"
+      },
+      {
+        "equipment_name": "Forced draught fan"
+      },
+      {
+        "equipment_name": "ESP"
+      },
+      {
+        "equipment_name": "Induced draught fan"
+      },
+      {
+        "equipment_name": "Chimney"
+      },
+      {
+        "equipment_name": "Turbine"
+      },
+      {
+        "equipment_name": "Alternator"
+      },
+      {
+        "equipment_name": "Condenser"
+      },
+      {
+        "equipment_name": "Circulating water pump"
+      },
+      {
+        "equipment_name": "Cooling tower"
+      },
+      {
+        "equipment_name": "Condensate extraction pump"
+      },
+      {
+        "equipment_name": "Feed water pump"
+      },
+      {
+        "equipment_name": "Feed water heater"
+      },
+      {
+        "equipment_name": "DM plant"
+      },
+      {
+        "equipment_name": "Ash handling plant"
+      },
+      {
+        "equipment_name": "Ash silo"
+      },
+      {
+        "equipment_name": "Bricks plant"
+      }
+    ],
+    "additional_fields": {}
+  }
+}

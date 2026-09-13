@@ -1,0 +1,120 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "96",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Generation Report",
+      "boilerplate_used": "energy/generation_report.json",
+      "data": {
+        "report_period": {
+          "value": "01-Jan-25 to 31-JAN-2025"
+        },
+        "entries": [
+          {
+            "date_period": "01-Jan-25 to 31-JAN-2025",
+            "consumption": null,
+            "net_generation": {
+              "value": "5648.568",
+              "unit": "Mwh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Consumption History / Generation Report",
+      "boilerplate_used": "energy/electric_consumption_history.json",
+      "data": {
+        "report_period": {
+          "value": "Jan'25"
+        },
+        "entries": [
+          {
+            "date_period": "SENVION WIND TECHONOLOGY PRIVATE LIMITED(DHUN-29)",
+            "consumption": null,
+            "net_generation": {
+              "value": "411.281",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "VINOD COTFAB PRIVATE LIMITED(SP-335)",
+            "consumption": null,
+            "net_generation": {
+              "value": "561.587",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "UNITED POLYFAB GUJARAT LIMITED(SP-281)",
+            "consumption": null,
+            "net_generation": {
+              "value": "517.273",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "MARUTI SPINTEX PRIVATE LIMITED(SP-476)",
+            "consumption": null,
+            "net_generation": {
+              "value": "485.225",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "OZONE PB SPINTEX LIMITED(KK-263)",
+            "consumption": null,
+            "net_generation": {
+              "value": "636.519",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "OMAX COTSPIN PRIVATE LIMITED(SP-414)",
+            "consumption": null,
+            "net_generation": {
+              "value": "523.573",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "SHAH PAPER MILLS LIMITED(BNG-500)",
+            "consumption": null,
+            "net_generation": {
+              "value": "724.211",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "JANI SALES PRIVATE LIMITED(KK-228)",
+            "consumption": null,
+            "net_generation": {
+              "value": "675.503",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "VINOD SPINNERS PRIVATE LIMITED (BNG-102)",
+            "consumption": null,
+            "net_generation": {
+              "value": "582.164",
+              "unit": "Mwh"
+            }
+          },
+          {
+            "date_period": "MEHALI PAPERS PRIVATE LIMITED (SP-66)",
+            "consumption": null,
+            "net_generation": {
+              "value": "531.232",
+              "unit": "Mwh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electricity Bill",
+  "report_period": {
+    "value": "JUN-2024"
+  },
+  "entries": [
+    {
+      "supply_voltage": {
+        "value": "11",
+        "unit": "kV"
+      },
+      "sanctioned_load": {
+        "value": null,
+        "unit": "MW/kVA"
+      },
+      "contract_demand": {
+        "value": "400.00000",
+        "unit": null
+      },
+      "billed_demand": {
+        "value": "446.08",
+        "unit": null
+      },
+      "kwh_consumption": {
+        "value": "288716.5",
+        "unit": "KWH"
+      },
+      "kvah": {
+        "value": "26804",
+        "unit": "KVAH"
+      },
+      "average_pf": {
+        "value": null,
+        "unit": null
+      }
+    }
+  ]
+}

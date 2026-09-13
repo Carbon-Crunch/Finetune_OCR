@@ -1,0 +1,151 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": true,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": true,
+      "degree": 90
+    }
+  ],
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or day record of boiler operation.",
+  "extracted_fields": {
+    "boiler_name": "14 TPH BOILER",
+    "registration_number": null,
+    "entries": [
+      {
+        "date_period": "05/08/2024",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "12-08-24",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "16/10/24",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "21-11-24",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "14-12-24",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "08/01/25",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "06/02/2025",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "04/03/2025",
+        "shift": null,
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      }
+    ]
+  }
+}

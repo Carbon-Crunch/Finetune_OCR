@@ -1,0 +1,59 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation (CCA)",
+    "document_type": "Pollution Control Board Consent Document",
+    "report_period": {
+      "value": "2024-12-03 to 2025-12-31"
+    },
+    "invoice_date": null,
+    "document_date": "2025-02-07",
+    "supplier_name": null,
+    "customer_name": "M/SANAND TRIPLEX BOARD PVT LTD",
+    "company_name": "Uttar Pradesh Pollution Control Board",
+    "plant_name": "M/SANAND TRIPLEX BOARD PVT LTD",
+    "location": "9th Km, Meerut-Mawana Road, Village- Saini, Meerut,MEERUT,250003",
+    "registration_number": "224534/UPPCB/Meerut(UPPCBRO)/CTO/both/MEERUT/2024",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "28721756",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "product_name": "News Print/Writing Printing Paper",
+        "quantity": {
+          "value": 150,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "product_name": "Captive Power Plant",
+        "quantity": {
+          "value": 10,
+          "unit": "MW"
+        }
+      }
+    ],
+    "additional_fields": {
+      "raw_material_declared": "Wood, Agro residues: Recycled Fiber (Waste Paper) 175 MT/DAY",
+      "acts_covered": [
+        "Water (Prevention & Control of Pollution) Act, 1974",
+        "Air (Prevention & Control of Pollution) Act, 1981",
+        "Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016"
+      ],
+      "validity": "2025-12-31",
+      "authorized_signatory": "PRAVEEN KUMAR"
+    }
+  }
+}

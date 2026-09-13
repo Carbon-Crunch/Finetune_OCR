@@ -1,0 +1,75 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "INVOICE",
+    "document_type": "Invoice",
+    "report_period": {
+      "value": "FEBRUARY - 2025"
+    },
+    "invoice_date": {
+      "value": "04/03/2025"
+    },
+    "document_date": {
+      "value": "04/03/2025"
+    },
+    "supplier_name": "PADMASHRI DR. D. Y. PATIL SAHAKARI SAKHAR KARKHANA LTD",
+    "customer_name": "Chief Engineer (Renewable Energy) MSEDCL, MUMBAl",
+    "company_name": "PADMASHRI DR. D. Y. PATIL SAHAKARI SAKHAR KARKHANA LTD",
+    "plant_name": "Pad Dr. D.Y. Patil SSK Ltd, Tal- Gaganbawda, Kolhapur",
+    "location": "Gaganbawda, Dist. Kolhapur",
+    "registration_number": "KPR/GWA/PRG/(A)/S-50/Date.6/4/1994",
+    "invoice_number": "05",
+    "bill_number": null,
+    "reference_number": "DYPSSKL / MSEDCL / 2024-25 / 05",
+    "total_amount": {
+      "value": "61724302",
+      "unit": "Rs."
+    },
+    "total_quantity": {
+      "value": "8501970",
+      "unit": "KWH"
+    },
+    "entries": [
+      {
+        "item_description": "Exported Units",
+        "quantity": {
+          "value": "8501970",
+          "unit": "KWH"
+        },
+        "amount": {
+          "value": "61724302",
+          "unit": "Rs."
+        },
+        "rate": {
+          "value": "7.26",
+          "unit": "Rs./unit"
+        },
+        "kwh": {
+          "value": "8501970",
+          "unit": "KWH"
+        },
+        "kvarh": {
+          "value": "3122595",
+          "unit": "KVARH"
+        }
+      }
+    ],
+    "additional_fields": {
+      "meter_number": "24007736",
+      "meter_make": "Schneider ER 300 P",
+      "multiplying_factor": "1500",
+      "installed_capacity": "20.65 MW",
+      "surplus_generation_season": "15.05 MW",
+      "surplus_generation_off_season": "18.2 MW",
+      "first_commissioning_date": "08/02/2015",
+      "ct_ratio": "150/1 Amp",
+      "pt_ratio": "110 KV / 110V",
+      "kvarh_penalty_rate": "0.25",
+      "kvarh_penalty_amount": "0"
+    }
+  }
+}

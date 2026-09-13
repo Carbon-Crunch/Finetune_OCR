@@ -1,0 +1,130 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation (CCA)",
+    "document_type": "Regulatory/Consent",
+    "report_period": {
+      "value": "2025-01-23 to 2029-12-31"
+    },
+    "invoice_date": {
+      "value": "2025-02-26"
+    },
+    "document_date": {
+      "value": "2025-02-26"
+    },
+    "supplier_name": null,
+    "customer_name": "M/s JANKI NEWSPRINT PRIVATE LIMITED",
+    "company_name": "M/s JANKI NEWSPRINT PRIVATE LIMITED",
+    "plant_name": "JANKI NEWSPRINT PRIVATE LIMITED",
+    "location": "PANCHLI BAGHPAT ROAD, MEERUT-250002",
+    "registration_number": "29974095",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "231120/UPPCB/Meerut(UPPCBRO)/CTO/both/MEERUT/2025",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "product_name": "Kraft Paper",
+        "quantity": {
+          "value": 350,
+          "unit": "TPD"
+        }
+      },
+      {
+        "equipment_name": "55 TPH Boiler",
+        "fuel": "RDF- 600 MTD, BIOMASS- 200 MTD, LOW SULPHUR COAL-250 MTD",
+        "capacity": "55 TPH"
+      },
+      {
+        "equipment_name": "30 TPH Boiler",
+        "fuel": "RDF- 600 MTD, BIOMASS- 200 MTD, LOW SULPHUR COAL-250 MTD",
+        "capacity": "30 TPH"
+      }
+    ],
+    "additional_fields": {
+      "raw_material": "WASTE PAPER 440 TPD",
+      "co_generation_capacity": "07 MW",
+      "zld_status": "Yes",
+      "sewage_discharge": "5 KLD"
+    }
+  }
+}

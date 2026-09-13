@@ -1,0 +1,319 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": "FY 2024-25",
+  "entries": [
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "APRIL",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 988,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "MAY",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 707,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "JUNE",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 461,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "JULY",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 400,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "AUGUST",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 400,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "SEPTEMBER",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 400,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "OCTOBER",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 0,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "NOVEMBER",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 0,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "DECEMBER",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 0,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "JANUARY",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 0,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "FEBRUARY",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 0,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "MARCH",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 0,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "IMPORTED COAL",
+      "date_period": "TOTAL",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 3356,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "APRIL",
+      "opening_balance": null,
+      "received_quantity": 10512.905,
+      "consumption": 4903,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "MAY",
+      "opening_balance": null,
+      "received_quantity": 4044.28,
+      "consumption": 6332,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "JUNE",
+      "opening_balance": null,
+      "received_quantity": 11850.9,
+      "consumption": 6119,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "JULY",
+      "opening_balance": null,
+      "received_quantity": 3988.92,
+      "consumption": 7018,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "AUGUST",
+      "opening_balance": null,
+      "received_quantity": 1269.31,
+      "consumption": 6453,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "SEPTEMBER",
+      "opening_balance": null,
+      "received_quantity": 8390.85,
+      "consumption": 6041,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "OCTOBER",
+      "opening_balance": null,
+      "received_quantity": 7917.195,
+      "consumption": 8669,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "NOVEMBER",
+      "opening_balance": null,
+      "received_quantity": 9252.03,
+      "consumption": 5895,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "DECEMBER",
+      "opening_balance": null,
+      "received_quantity": 5815.18,
+      "consumption": 9281,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "JANUARY",
+      "opening_balance": null,
+      "received_quantity": 6375.23,
+      "consumption": 8243,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "FEBRUARY",
+      "opening_balance": null,
+      "received_quantity": 12551.815,
+      "consumption": 7541,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "MARCH",
+      "opening_balance": null,
+      "received_quantity": 5722.61,
+      "consumption": 5881,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "INDIAN COAL",
+      "date_period": "TOTAL",
+      "opening_balance": null,
+      "received_quantity": 87691.225,
+      "consumption": 82376,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "APRIL",
+      "opening_balance": null,
+      "received_quantity": 469.145,
+      "consumption": 606.99,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "MAY",
+      "opening_balance": null,
+      "received_quantity": 759.128,
+      "consumption": 636,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "JUNE",
+      "opening_balance": null,
+      "received_quantity": 451.284,
+      "consumption": 424.412,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "JULY",
+      "opening_balance": null,
+      "received_quantity": 358.719,
+      "consumption": 439.92,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "AUGUST",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 0,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "SEPTEMBER",
+      "opening_balance": null,
+      "received_quantity": 0,
+      "consumption": 0,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "OCTOBER",
+      "opening_balance": null,
+      "received_quantity": 40.56,
+      "consumption": 45,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "NOVEMBER",
+      "opening_balance": null,
+      "received_quantity": 336.85,
+      "consumption": 341,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "DECEMBER",
+      "opening_balance": null,
+      "received_quantity": 1379.9,
+      "consumption": 1440.109,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "JANUARY",
+      "opening_balance": null,
+      "received_quantity": 135.12,
+      "consumption": 135.12,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "FEBRUARY",
+      "opening_balance": null,
+      "received_quantity": 328.191,
+      "consumption": 328.191,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "MARCH",
+      "opening_balance": null,
+      "received_quantity": 697.03,
+      "consumption": 646,
+      "closing_balance": null
+    },
+    {
+      "fuel_name": "BIO MASS",
+      "date_period": "TOTAL",
+      "opening_balance": null,
+      "received_quantity": 4955.927,
+      "consumption": 5042.742,
+      "closing_balance": null
+    }
+  ]
+}

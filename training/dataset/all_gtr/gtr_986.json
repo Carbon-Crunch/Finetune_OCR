@@ -1,0 +1,284 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "986",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "JUN-2024"
+        },
+        "vendor": {
+          "value": "Maharashtra State Electricity Distribution Co. Ltd."
+        },
+        "vendor_gstin": {
+          "value": "27AAECM2933K1ZB"
+        },
+        "buyer": {
+          "value": "Padmashri Dr D Y Patil SSK Ltd"
+        },
+        "buyer_gstin": {
+          "value": "27AAACO9310N1Z6"
+        },
+        "invoice_no": {
+          "value": "202406450097331"
+        },
+        "invoice_date": {
+          "value": "05/07/2024"
+        },
+        "document_type": {
+          "value": "BILL OF SUPPLY"
+        },
+        "company_pan": {
+          "value": "AAACO9310N"
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "Demand Charges"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "8,23,500.00"
+            }
+          },
+          {
+            "item": {
+              "value": "Wheeling Charge"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": "0.00"
+            },
+            "amount": {
+              "value": "0.00"
+            }
+          },
+          {
+            "item": {
+              "value": "Energy Charges"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "12,78,135.32"
+            }
+          },
+          {
+            "item": {
+              "value": "TOD Tariff EC"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "-27,283.30"
+            }
+          },
+          {
+            "item": {
+              "value": "FAC"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": "65.00"
+            },
+            "amount": {
+              "value": "99,376.55"
+            }
+          },
+          {
+            "item": {
+              "value": "Electricity Duty"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "1,63,029.64"
+            }
+          },
+          {
+            "item": {
+              "value": "Bulk Consumption Rebate"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "-9,530.24"
+            }
+          },
+          {
+            "item": {
+              "value": "Tax on Sale"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": "18.00"
+            },
+            "amount": {
+              "value": "26,996.76"
+            }
+          },
+          {
+            "item": {
+              "value": "Incremental Consumption Rebate"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "-78,850.50"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "JUN-2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "98.806",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": "1500.000",
+              "unit": null
+            },
+            "kwh": {
+              "value": "148209.000",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "152658.000",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": "28890.000",
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": null,
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

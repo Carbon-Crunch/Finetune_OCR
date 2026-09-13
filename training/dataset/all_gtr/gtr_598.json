@@ -1,0 +1,28 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "2-May-24"
+  },
+  "supplier_name": "A V R Trades",
+  "entries": [
+    {
+      "item_description": "Baggase",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": "23032000",
+      "quantity": {
+        "value": "71.70",
+        "unit": "Qtls."
+      },
+      "units": {
+        "value": "Qtls.",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "19359.00",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Steam Distribution Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one date or shift record of steam distribution.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "date_period": null,
+        "turbine_inlet_steam": {
+          "value": "710",
+          "unit": "TPD"
+        },
+        "extraction_steam": {
+          "value": "569",
+          "unit": "TPD"
+        },
+        "distribution_to_process": {
+          "value": "1191",
+          "unit": "TPD"
+        }
+      }
+    ]
+  }
+}

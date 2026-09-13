@@ -1,0 +1,104 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": null
+  },
+  "entries": [
+    {
+      "supplier_name": "Bindal Papers",
+      "weighted_gcv": {
+        "value": "3613",
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": "14.0",
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": "34.2",
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": "537.275",
+        "unit": "MT"
+      }
+    },
+    {
+      "supplier_name": "Shree Ganesh",
+      "weighted_gcv": {
+        "value": "3707",
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": "12.8",
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": "36.1",
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": "3569.074",
+        "unit": "MT"
+      }
+    },
+    {
+      "supplier_name": "Northern Coal",
+      "weighted_gcv": {
+        "value": "4422",
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": "14.4",
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": "27.0",
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": "7600.115",
+        "unit": "MT"
+      }
+    },
+    {
+      "supplier_name": "Shree Sai Urja LTD.",
+      "weighted_gcv": {
+        "value": "3538",
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": "14.1",
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": "39.1",
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": "633.280",
+        "unit": "MT"
+      }
+    },
+    {
+      "supplier_name": "SRV Traders",
+      "weighted_gcv": {
+        "value": "4067",
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": "14.9",
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": "29.5",
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": "288.225",
+        "unit": "MT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "fuel_name": null,
+        "fuel_type": null,
+        "date_period": null,
+        "opening_balance": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "closing_balance": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

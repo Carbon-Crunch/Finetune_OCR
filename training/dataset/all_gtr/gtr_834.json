@@ -1,0 +1,186 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 15,
+      "image_index": 15,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 16,
+      "image_index": 16,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 17,
+      "image_index": 17,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 18,
+      "image_index": 18,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 19,
+      "image_index": 19,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "834",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": "56.737",
+              "unit": "MU"
+            },
+            "boiler_fuel_use": {
+              "value": "119906145.000",
+              "unit": "kg"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "date_period": "Quarter 1",
+            "power": {
+              "value": "14.187",
+              "unit": "MU"
+            }
+          },
+          {
+            "date_period": "Quarter 2",
+            "power": {
+              "value": "14.075",
+              "unit": "MU"
+            }
+          },
+          {
+            "date_period": "Quarter 3",
+            "power": {
+              "value": "14.542",
+              "unit": "MU"
+            }
+          },
+          {
+            "date_period": "Quarter 4",
+            "power": {
+              "value": "13.933",
+              "unit": "MU"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

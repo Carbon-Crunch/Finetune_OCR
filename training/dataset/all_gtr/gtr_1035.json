@@ -1,0 +1,32 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "boiler_name": "Boiler Regn. No. - GT 10559",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "07/10/2024",
+      "shift": "A Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "07/10/2024",
+      "shift": "B Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "07/10/2024",
+      "shift": "C Shift",
+      "total_steam_generated": null,
+      "total_feedwater": null,
+      "shift_total": null,
+      "day_total": null
+    }
+  ]
+}

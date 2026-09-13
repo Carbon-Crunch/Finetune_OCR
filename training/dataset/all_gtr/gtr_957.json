@@ -1,0 +1,50 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "957",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "06/03/05"
+        },
+        "entries": [
+          {
+            "date_period": "06/03/05",
+            "timestamp": "10AM-6PM",
+            "pressure": null,
+            "temperature": null,
+            "flow_rate": null,
+            "runtime": null,
+            "power": null,
+            "pulp_levels": null
+          },
+          {
+            "date_period": "06/03/05",
+            "timestamp": "6PM-2AM",
+            "pressure": null,
+            "temperature": null,
+            "flow_rate": null,
+            "runtime": null,
+            "power": null,
+            "pulp_levels": null
+          },
+          {
+            "date_period": "06/03/05",
+            "timestamp": "2AM-10PM",
+            "pressure": null,
+            "temperature": null,
+            "flow_rate": null,
+            "runtime": null,
+            "power": null,
+            "pulp_levels": null
+          }
+        ]
+      }
+    }
+  ]
+}

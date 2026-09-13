@@ -1,0 +1,575 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Belt Conveyor Sample Report",
+  "extraction_rules": "Extract date, shift, conveyor ID, moisture, ash, GCV.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01.04.2025 - 15.04.2025"
+    },
+    "entries": [
+      {
+        "date_period": "01.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 42.4,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3420,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "01.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 42.0,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3370,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "01.04.2025",
+        "shift": "C",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39.6,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3421,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "02.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.7,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3634,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "02.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.6,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3665,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "02.04.2025",
+        "shift": "C",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3471,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "03.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 11.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 4567,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "03.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.2,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3760,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "03.04.2025",
+        "shift": "C",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 14.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3671,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "04.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3818,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "04.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3816,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "04.04.2025",
+        "shift": "C",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.2,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3652,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "05.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.5,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3684,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "05.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 11.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3934,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "05.04.2025",
+        "shift": "C",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.7,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3748,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "06.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.3,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3710,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "06.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 10.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 58.1,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 2210,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "07.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 9.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 26.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3774,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "08.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 10.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.3,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3648,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "09.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.3,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3442,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "09.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 13.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.5,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3660,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "10.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 11.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3480,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "10.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 11.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3638,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "11.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 11.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.3,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3572,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "11.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.7,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3670,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "11.04.2025",
+        "shift": "C",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.5,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3615,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "12.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3660,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "12.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.2,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3580,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "13.04.2025",
+        "shift": "C",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 14.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.2,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3744,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "14.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 11.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.8,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3510,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "14.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 11.9,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.2,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3550,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "15.04.2025",
+        "shift": "A",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 12.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40.4,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 3418,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "15.04.2025",
+        "shift": "B",
+        "conveyor_id": "Belt-1",
+        "moisture_content": {
+          "value": 15.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 26.7,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 4560,
+          "unit": "kcal/kg"
+        }
+      }
+    ]
+  }
+}

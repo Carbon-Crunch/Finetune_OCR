@@ -1,0 +1,78 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "977",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Boiler Log Book",
+      "boilerplate_used": "production/boiler_log_book.json",
+      "data": {
+        "boiler_name": "30 TPH BOILER",
+        "registration_number": null,
+        "entries": [
+          {
+            "date_period": "08/03/2025",
+            "shift": "A",
+            "total_steam_generated": null,
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": "6040"
+          },
+          {
+            "date_period": "08/03/2025",
+            "shift": "B",
+            "total_steam_generated": null,
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": "5780"
+          },
+          {
+            "date_period": "08/03/2025",
+            "shift": "C",
+            "total_steam_generated": null,
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": "5512"
+          }
+        ],
+        "summary": {
+          "total_steam_generation": {
+            "shift_a": {
+              "final_reading": "6040",
+              "tons": "6040"
+            },
+            "shift_b": {
+              "final_reading": "5780",
+              "tons": "5780"
+            },
+            "shift_c": {
+              "final_reading": "5512",
+              "tons": "5512"
+            },
+            "day_total": "17332"
+          },
+          "feed_water_consumption": {
+            "shift_a": {
+              "final_reading": "254",
+              "tons": "254"
+            },
+            "shift_b": {
+              "final_reading": "268",
+              "tons": "268"
+            },
+            "shift_c": {
+              "final_reading": "242",
+              "tons": "242"
+            },
+            "day_total": "764"
+          },
+          "dearator_steam_consumption": null,
+          "bed_material_consumption": null,
+          "bd_of_bed_material": null
+        }
+      }
+    }
+  ]
+}

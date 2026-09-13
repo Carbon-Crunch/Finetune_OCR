@@ -1,0 +1,570 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "952",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Stock Register",
+      "boilerplate_used": "fuel/fuel_stock_register.json",
+      "data": {
+        "report_period": null,
+        "entries": [
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "April '24",
+            "opening_balance": {
+              "value": "NIL",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "May '24",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "June '24",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "July '24",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "August '24",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "September '24",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "October '24",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "Nov '24",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "Dec '24",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "2391.30",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "2391.30",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "NIL",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "Jan '25",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "4707.35",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "4707.35",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "NIL",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "Feb '25",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "-",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "Bagasse",
+            "fuel_type": "Bagasse",
+            "date_period": "March '25",
+            "opening_balance": {
+              "value": "-",
+              "unit": null
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": null
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "-",
+              "unit": null
+            },
+            "closing_balance": {
+              "value": "25000",
+              "unit": null
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "April '24",
+            "opening_balance": {
+              "value": "3020",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "12000",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "1865",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "13155",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "May '24",
+            "opening_balance": {
+              "value": "13155",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "12000",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "16605",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "8550",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "June '24",
+            "opening_balance": {
+              "value": "8550",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "12000",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "14405",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "6145",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "July '24",
+            "opening_balance": {
+              "value": "6145",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "12000",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "16825",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "1320",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "August '24",
+            "opening_balance": {
+              "value": "1320",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "24000",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "16005",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "9315",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "September '24",
+            "opening_balance": {
+              "value": "9315",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "12000",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "16250",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "5065",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "October '24",
+            "opening_balance": {
+              "value": "5065",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "24000",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "18630",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "10435",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "Nov '24",
+            "opening_balance": {
+              "value": "10435",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "3610",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "6825",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "Dec '24",
+            "opening_balance": {
+              "value": "6825",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "12000",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "6005",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "12820",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "Jan '25",
+            "opening_balance": {
+              "value": "12820",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "2925",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "9895",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "Feb '25",
+            "opening_balance": {
+              "value": "9895",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "3415",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "6480",
+              "unit": "lit"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "fuel_type": "FUEL",
+            "date_period": "March '25",
+            "opening_balance": {
+              "value": "6480",
+              "unit": "lit"
+            },
+            "received_quantity": {
+              "value": "-",
+              "unit": "lit"
+            },
+            "inwards": null,
+            "outwards": null,
+            "consumption": {
+              "value": "1605",
+              "unit": "lit"
+            },
+            "closing_balance": {
+              "value": "4875",
+              "unit": "lit"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

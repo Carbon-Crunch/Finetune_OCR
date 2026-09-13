@@ -1,0 +1,37 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "AUGUST 2024",
+  "entries": [
+    {
+      "total_power_generation": {
+        "value": "5299600",
+        "unit": null
+      },
+      "internal_dg_generation": {
+        "value": "0",
+        "unit": null
+      },
+      "steam_generation": {
+        "value": "33386",
+        "unit": null
+      },
+      "turbine_input": {
+        "value": "32774",
+        "unit": null
+      },
+      "condensate": {
+        "value": "12351",
+        "unit": null
+      },
+      "bleed_steam": {
+        "value": "1404",
+        "unit": null
+      },
+      "boiler_fuel_use": {
+        "value": "7780.445",
+        "unit": null
+      }
+    }
+  ]
+}

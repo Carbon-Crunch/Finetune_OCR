@@ -1,0 +1,155 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "NON-BINDING TERM SHEET FOR SALE AND PURCHASE OF POWER THROUGH GROUP CAPTIVE MODE IN GUJARAT",
+    "document_type": "Term Sheet",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": "2025",
+    "supplier_name": "AMPIN C&I POWER PRIVATE LIMITED",
+    "customer_name": "Gayatri Shakti Paper & Board Ltd.",
+    "company_name": "AMPIN C&I POWER PRIVATE LIMITED, Gayatri Shakti Paper & Board Ltd.",
+    "plant_name": null,
+    "location": "Gujarat",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": "9.9",
+      "unit": "Cr INR"
+    },
+    "total_quantity": null,
+    "entries": [
+      {
+        "item_description": "Project",
+        "remarks": "Sale and purchase of ~47.52 MUs/year in the state of Gujarat through Wind Solar Hybrid under Group Captive mode"
+      },
+      {
+        "item_description": "Contracted Quantity",
+        "quantity": {
+          "value": "9.9",
+          "unit": "MW Wind and 9.9 MWp Solar"
+        }
+      },
+      {
+        "item_description": "PPA Price",
+        "rate": {
+          "value": "3.75",
+          "unit": "INR/kWh"
+        }
+      },
+      {
+        "item_description": "Total Investment",
+        "amount": {
+          "value": "9.9",
+          "unit": "Cr INR"
+        }
+      },
+      {
+        "item_description": "Investment per MW",
+        "rate": {
+          "value": "1.02",
+          "unit": "Cr INR/MW (+/- 10%)"
+        }
+      }
+    ],
+    "additional_fields": {
+      "tenure": "25 years",
+      "lock_in_period": "15 years",
+      "equity_requirement": "minimum 26%",
+      "consumption_test": "minimum 51%",
+      "governing_law": "Laws of India and Courts of Ahmedabad, Gujarat"
+    }
+  }
+}

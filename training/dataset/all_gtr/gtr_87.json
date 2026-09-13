@@ -1,0 +1,144 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "87",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "DEC-2024"
+        },
+        "vendor": {
+          "value": "Dakshin Gujarat Vij Company Ltd."
+        },
+        "vendor_gstin": {
+          "value": "24AABCD8912C1Z3"
+        },
+        "buyer": {
+          "value": "M/S. Gayatri Shakti Paper & Board Ltd."
+        },
+        "buyer_gstin": {
+          "value": "24AABCG0273F1Z4"
+        },
+        "invoice_no": {
+          "value": null
+        },
+        "invoice_date": {
+          "value": "03-01-2025"
+        },
+        "document_type": {
+          "value": "HT BILL"
+        },
+        "company_pan": {
+          "value": "AABCD8912C"
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "1st 500 KVA"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "500",
+              "unit": "KVA"
+            },
+            "rate": {
+              "value": "150"
+            },
+            "amount": {
+              "value": "75000"
+            }
+          },
+          {
+            "item": {
+              "value": "2nd 500 KVA"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "500",
+              "unit": "KVA"
+            },
+            "rate": {
+              "value": "260"
+            },
+            "amount": {
+              "value": "130000"
+            }
+          },
+          {
+            "item": {
+              "value": "Next"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": "2717",
+              "unit": "KVA"
+            },
+            "rate": {
+              "value": "475"
+            },
+            "amount": {
+              "value": "1290575"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "DEC-2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "370.94",
+              "unit": "KWH"
+            },
+            "multiplying_factor": {
+              "value": "5000",
+              "unit": null
+            },
+            "kwh": {
+              "value": "1854700",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "1856500",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": "35100",
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": "622450",
+              "unit": null
+            },
+            "night_hour": {
+              "value": "616350",
+              "unit": null
+            },
+            "amd": {
+              "value": "3717",
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

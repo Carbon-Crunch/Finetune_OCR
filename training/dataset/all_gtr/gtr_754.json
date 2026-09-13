@@ -1,0 +1,34 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "22/07/2025"
+  },
+  "entries": [
+    {
+      "sample_name": "Refuse Derived Fuel (RDF)",
+      "date_period": "21/07/2025",
+      "sample_quantity": {
+        "value": 1,
+        "unit": "Kg"
+      },
+      "moisture_content": {
+        "value": 11.2,
+        "unit": "%"
+      },
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": {
+        "value": 2247,
+        "unit": "kcal/kg"
+      },
+      "ash_content": {
+        "value": 8.6,
+        "unit": "%"
+      },
+      "supplier_name": "M/S NIKITA PAPERS LIMITED",
+      "operator_name": "Swati Chauhan",
+      "remarks": null
+    }
+  ]
+}

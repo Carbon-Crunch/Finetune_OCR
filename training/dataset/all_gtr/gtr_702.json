@@ -1,0 +1,101 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "PROCESS FLOW CHART",
+    "document_type": "Process Flow Chart",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Kajaria Ceramics Ltd.",
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "BODY PREPARATION: RAW MATERIAL WEIGHING",
+        "remarks": "Process Start"
+      },
+      {
+        "item_description": "RAW MATERIAL CHARGING IN BALL MILL WITH WATER AND WET GRINDING"
+      },
+      {
+        "item_description": "SIEVING AND REMOVAL OF IRON PARTICLES FROM THE SLIP AND STORING IN RCC TANKS"
+      },
+      {
+        "item_description": "SPRAY DRYING OF THE SLIP TO GET THE POWDER",
+        "remarks": "Outputs: WATER VAPOUR & WASTE GASES"
+      },
+      {
+        "item_description": "POWDER STORED IN SILOS"
+      },
+      {
+        "item_description": "PRESS HOPPERS VIA VIBRATING SCREENS"
+      },
+      {
+        "item_description": "PRESSING"
+      },
+      {
+        "item_description": "RAPID DRYING IN VERTICAL / HORIZONTAL DRIERS TO REMOVE THE MOISTURE AND MAKE THE TILES DRY"
+      },
+      {
+        "item_description": "GLAZING DECORATING LINES",
+        "remarks": "Receives: PREPARED GLAZE SOLUTION"
+      },
+      {
+        "item_description": "KILN FEEDING MACHINE"
+      },
+      {
+        "item_description": "ROLLER KILN",
+        "temperature": {
+          "value": 1215,
+          "unit": "C"
+        },
+        "remarks": "Min Temp: 1215 C, Max Temp: 1225 C"
+      },
+      {
+        "item_description": "STORAGE CONTAINERS FOR THE FIRED TILES"
+      },
+      {
+        "item_description": "POLISHING & SQUARING CHAMFERING OF FIRED TILES",
+        "remarks": "Recycling of water from settling Tanks (from FILTER PRESS)"
+      },
+      {
+        "item_description": "SORTING AND CLASSIFICATION OF FIRED TILES",
+        "remarks": "Generates: FILTER CAKE"
+      },
+      {
+        "item_description": "PACKING"
+      }
+    ],
+    "additional_fields": {
+      "glaze_preparation_process": "WEIGHED GLAZE WATER used in GLAZE PREPARATION DEPARTMENT",
+      "kiln_max_temp": {
+        "value": 1225,
+        "unit": "C"
+      }
+    }
+  }
+}

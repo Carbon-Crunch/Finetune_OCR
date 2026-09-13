@@ -1,0 +1,299 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "Daily Power Plant Log",
+  "document_type": "Log book, Electricity Generation/Consumption",
+  "report_period": {
+    "value": "10-1-25 to 20-1-25"
+  },
+  "entries": [
+    {
+      "date_period": "10-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70166.523",
+      "kwh": "121498.8",
+      "kvah": "70029.3",
+      "average_pf": "0.7",
+      "consumption": "39046+1940 = 40986"
+    },
+    {
+      "date_period": "11-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70205569",
+      "kwh": "121564.6",
+      "kvah": "70074.3",
+      "average_pf": "0.7",
+      "consumption": "38950+1624 = 40574"
+    },
+    {
+      "date_period": "11-1-25",
+      "timestamp": "2PM",
+      "meter_reading": "70244519",
+      "kwh": "121628.9",
+      "kvah": "70119.9",
+      "average_pf": "0.7",
+      "consumption": "3393+1344 = 35137"
+    },
+    {
+      "date_period": "11-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70278312",
+      "kwh": "121688.3",
+      "kvah": "70161.3",
+      "average_pf": "0.7",
+      "consumption": "39454+1230 = 40684"
+    },
+    {
+      "date_period": "12-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70317766",
+      "kwh": "121754.8",
+      "kvah": "70208.2",
+      "average_pf": "0.7",
+      "consumption": "37597+1564 = 39161"
+    },
+    {
+      "date_period": "12-1-25",
+      "timestamp": "2PM",
+      "meter_reading": "70355363",
+      "kwh": "121818.8",
+      "kvah": "70253.5",
+      "average_pf": "0.7",
+      "consumption": "31865+1437 = 33302"
+    },
+    {
+      "date_period": "12-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70387298",
+      "kwh": "121874.5",
+      "kvah": "70294.9",
+      "average_pf": null,
+      "consumption": "30714-102 = 30612"
+    },
+    {
+      "date_period": "13-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70417942",
+      "kwh": "121927.5",
+      "kvah": null,
+      "average_pf": null,
+      "consumption": null
+    },
+    {
+      "date_period": "14-1-25",
+      "timestamp": "6PM",
+      "meter_reading": "70428136",
+      "kwh": "121928.6",
+      "kvah": "70333.5",
+      "average_pf": "0.7",
+      "consumption": "552-249 = 203"
+    },
+    {
+      "date_period": "14-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70428688",
+      "kwh": "121986.1",
+      "kvah": "70375.0",
+      "average_pf": null,
+      "consumption": "31427+2977 = 34404"
+    },
+    {
+      "date_period": "15-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70460115",
+      "kwh": "122042.7",
+      "kvah": "70416.0",
+      "average_pf": "0.7",
+      "consumption": "36446+81 = 36527"
+    },
+    {
+      "date_period": "15-1-25",
+      "timestamp": "2PM",
+      "meter_reading": "70496561",
+      "kwh": "122042.7",
+      "kvah": "70416.0",
+      "average_pf": "0.7",
+      "consumption": "35630+823 = 36453"
+    },
+    {
+      "date_period": "15-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70532191",
+      "kwh": "122099.3",
+      "kvah": "70457.0",
+      "average_pf": "0.7",
+      "consumption": "38727-229 = 38498"
+    },
+    {
+      "date_period": "16-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70570918",
+      "kwh": "122162.8",
+      "kvah": "70501.8",
+      "average_pf": "0.7",
+      "consumption": "26942-415 = 26527"
+    },
+    {
+      "date_period": "16-1-25",
+      "timestamp": "12PM",
+      "meter_reading": "70597860",
+      "kwh": "122207.4",
+      "kvah": "70531.0",
+      "average_pf": "0.7",
+      "consumption": "626"
+    },
+    {
+      "date_period": "16-1-25",
+      "timestamp": "2PM",
+      "meter_reading": "70598486",
+      "kwh": "122207.6",
+      "kvah": "70532.9",
+      "average_pf": null,
+      "consumption": null
+    },
+    {
+      "date_period": "16-1-25",
+      "timestamp": "5PM",
+      "meter_reading": "70599584",
+      "kwh": "122207.6",
+      "kvah": "70532.9",
+      "average_pf": null,
+      "consumption": null
+    },
+    {
+      "date_period": "16-1-25",
+      "timestamp": "6PM",
+      "meter_reading": "70600080",
+      "kwh": "122211.5",
+      "kvah": "70535.5",
+      "average_pf": null,
+      "consumption": null
+    },
+    {
+      "date_period": "16-1-25",
+      "timestamp": "8PM",
+      "meter_reading": "70601058",
+      "kwh": "122291.5",
+      "kvah": "70535.5",
+      "average_pf": null,
+      "consumption": null
+    },
+    {
+      "date_period": "16-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70604442",
+      "kwh": "122220.0",
+      "kvah": "70541.4",
+      "average_pf": null,
+      "consumption": "38666+310 = 38976"
+    },
+    {
+      "date_period": "17-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70643108",
+      "kwh": "122282.9",
+      "kvah": "70584.8",
+      "average_pf": "0.7",
+      "consumption": "39072+212 = 39284"
+    },
+    {
+      "date_period": "17-1-25",
+      "timestamp": "2PM",
+      "meter_reading": "70682180",
+      "kwh": "122347.0",
+      "kvah": "70629.2",
+      "average_pf": "0.7",
+      "consumption": "39029+150 = 39179"
+    },
+    {
+      "date_period": "17-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70721209",
+      "kwh": "122412.1",
+      "kvah": "70675.3",
+      "average_pf": "0.7",
+      "consumption": "38133+734 = 38867"
+    },
+    {
+      "date_period": "18-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70759342",
+      "kwh": "122477.8",
+      "kvah": "70721.1",
+      "average_pf": "0.7",
+      "consumption": "34891+1913 = 36804"
+    },
+    {
+      "date_period": "18-1-25",
+      "timestamp": "2PM",
+      "meter_reading": "70794233",
+      "kwh": "122539.9",
+      "kvah": "70764.0",
+      "average_pf": "0.7",
+      "consumption": "35273+2354 = 37627"
+    },
+    {
+      "date_period": "18-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70829506",
+      "kwh": "122603.9",
+      "kvah": "708075",
+      "average_pf": "0.7",
+      "consumption": "35919+1288 = 37207"
+    },
+    {
+      "date_period": "19-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70865425",
+      "kwh": "122667.0",
+      "kvah": "70850.8",
+      "average_pf": "0.7",
+      "consumption": "37891+1609 = 39500"
+    },
+    {
+      "date_period": "19-1-25",
+      "timestamp": "2PM",
+      "meter_reading": "70903322",
+      "kwh": "122732.1",
+      "kvah": "70895.2",
+      "average_pf": "0.7",
+      "consumption": "36697+916 = 37613"
+    },
+    {
+      "date_period": "19-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "70940019",
+      "kwh": "122796.8",
+      "kvah": "70938.0",
+      "average_pf": "0.7",
+      "consumption": "38287+404 = 38691"
+    },
+    {
+      "date_period": "20-1-25",
+      "timestamp": "6AM",
+      "meter_reading": "70978306",
+      "kwh": "122860.9",
+      "kvah": "70980.9",
+      "average_pf": "0.7",
+      "consumption": "39959+365 = 40324"
+    },
+    {
+      "date_period": "20-1-25",
+      "timestamp": "2PM",
+      "meter_reading": "71018265",
+      "kwh": "122926.7",
+      "kvah": "71026.4",
+      "average_pf": "0.7",
+      "consumption": "33707-243 = 33464"
+    },
+    {
+      "date_period": "20-1-25",
+      "timestamp": "10PM",
+      "meter_reading": "71051972",
+      "kwh": "122984.7",
+      "kvah": "71066.7",
+      "average_pf": "0.7",
+      "consumption": "7304-316 = 6988"
+    }
+  ]
+}

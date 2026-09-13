@@ -1,0 +1,82 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "950",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Boiler Log Book",
+      "boilerplate_used": "production/boiler_log_book.json",
+      "data": {
+        "boiler_name": null,
+        "registration_number": null,
+        "entries": [
+          {
+            "date_period": "Feb-25",
+            "shift": null,
+            "total_steam_generated": {
+              "value": "1568",
+              "unit": "tonne"
+            },
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "March-25",
+            "shift": null,
+            "total_steam_generated": {
+              "value": "1736",
+              "unit": "tonne"
+            },
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          }
+        ],
+        "summary": null
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Steam Distribution Log",
+      "boilerplate_used": "energy/steam_distribution_log.json",
+      "data": {
+        "report_period": null,
+        "entries": [
+          {
+            "date_period": "Feb-25",
+            "turbine_inlet_steam": {
+              "value": "56",
+              "unit": "TPH"
+            },
+            "extraction_steam": {
+              "value": "21",
+              "unit": "kg/cm2"
+            },
+            "distribution_to_process": {
+              "value": "320",
+              "unit": "C"
+            }
+          },
+          {
+            "date_period": "March-25",
+            "turbine_inlet_steam": {
+              "value": "56",
+              "unit": "TPH"
+            },
+            "extraction_steam": {
+              "value": "21",
+              "unit": "kg/cm2"
+            },
+            "distribution_to_process": {
+              "value": "320",
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

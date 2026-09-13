@@ -1,0 +1,139 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consent to Operate under Air Act, 1981",
+    "document_type": "Renewal of Consent",
+    "report_period": {
+      "value": "28/07/2023 to 31/03/2026"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "28/07/2023"
+    },
+    "supplier_name": "PUNJAB POLLUTION CONTROL BOARD",
+    "customer_name": "Trident Ltd (htd)",
+    "company_name": "Trident Ltd",
+    "plant_name": "Trident Complex",
+    "location": "Mansa-road, Vill-dhaula, Barnala, Barnala - 148107",
+    "registration_number": "R12BAR22182",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "CTOA/Renewal/BAR/2023/22049439",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": "From: 14/10/2022 To: 30/06/2023",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": "Previous CTO No. & Validity",
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": "CTOA/Renewal/BAR/2022/20105228",
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Renewal",
+        "quantity": null,
+        "units": null,
+        "weight": null,
+        "amount": null,
+        "gross_amount": null,
+        "net_amount": null,
+        "price": null,
+        "rate": null,
+        "consumption": null,
+        "production": null,
+        "generation": null,
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": null,
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": null,
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      }
+    ],
+    "additional_fields": {
+      "Application No": "22049439",
+      "Applicant Name": "Mr Mohit Soni",
+      "Designation": "Managing Director",
+      "Capital Investment of the Industry": "74583.37 lakhs",
+      "Category of Industry": "Red",
+      "Type of Industry": "Other",
+      "Scale of the Industry": "Large",
+      "Office District": "Barnala",
+      "Environmental Engineer": "Amit Kumar"
+    }
+  }
+}

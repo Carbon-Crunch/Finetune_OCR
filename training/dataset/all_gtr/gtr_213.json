@@ -1,0 +1,317 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01/04/2024 - 16/04/2024"
+    },
+    "entries": [
+      {
+        "sample_name": "COAL",
+        "date_period": "01/04/2024 - 16/04/2024",
+        "sample_quantity": {
+          "value": "837.0",
+          "unit": "g"
+        },
+        "moisture_content": {
+          "value": "2.67",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "23.07",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "28.65",
+          "unit": "%"
+        },
+        "gcv": {
+          "value": "3949",
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": "45.60",
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": "Padmanava Panda",
+        "remarks": null
+      },
+      {
+        "sample_name": "COAL",
+        "date_period": "01/04/2024 - 16/04/2024",
+        "sample_quantity": {
+          "value": "794.0",
+          "unit": "g"
+        },
+        "moisture_content": {
+          "value": "2.19",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "23.30",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "29.14",
+          "unit": "%"
+        },
+        "gcv": {
+          "value": "4041",
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": "45.37",
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": "Padmanava Panda",
+        "remarks": null
+      },
+      {
+        "sample_name": "COAL",
+        "date_period": "01/04/2024 - 16/04/2024",
+        "sample_quantity": {
+          "value": "665.0",
+          "unit": "g"
+        },
+        "moisture_content": {
+          "value": "4.45",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "28.36",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "41.17",
+          "unit": "%"
+        },
+        "gcv": {
+          "value": "5195",
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": "26.02",
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": "Padmanava Panda",
+        "remarks": null
+      },
+      {
+        "sample_name": "COAL",
+        "date_period": "01/04/2024 - 16/04/2024",
+        "sample_quantity": {
+          "value": "805.0",
+          "unit": "g"
+        },
+        "moisture_content": {
+          "value": "4.38",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "27.33",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "35.79",
+          "unit": "%"
+        },
+        "gcv": {
+          "value": "4644",
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": "32.50",
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": "Padmanava Panda",
+        "remarks": null
+      },
+      {
+        "sample_name": "COAL",
+        "date_period": "01/04/2024 - 16/04/2024",
+        "sample_quantity": {
+          "value": "961.0",
+          "unit": "g"
+        },
+        "moisture_content": {
+          "value": "2.40",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "21.78",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "28.06",
+          "unit": "%"
+        },
+        "gcv": {
+          "value": "3823",
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": "47.76",
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": "Padmanava Panda",
+        "remarks": null
+      },
+      {
+        "sample_name": "COAL",
+        "date_period": "01/04/2024 - 16/04/2024",
+        "sample_quantity": {
+          "value": "824.0",
+          "unit": "g"
+        },
+        "moisture_content": {
+          "value": "4.74",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "23.35",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "29.16",
+          "unit": "%"
+        },
+        "gcv": {
+          "value": "3664",
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": "42.74",
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": "Padmanava Panda",
+        "remarks": null
+      },
+      {
+        "sample_name": "COAL",
+        "date_period": "01/04/2024 - 16/04/2024",
+        "sample_quantity": {
+          "value": "738.0",
+          "unit": "g"
+        },
+        "moisture_content": {
+          "value": "2.42",
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": "26.37",
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": "43.31",
+          "unit": "%"
+        },
+        "gcv": {
+          "value": "5444",
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": "27.89",
+          "unit": "%"
+        },
+        "supplier_name": "TRIDENT LIMITED",
+        "operator_name": "Padmanava Panda",
+        "remarks": null
+      }
+    ]
+  }
+}

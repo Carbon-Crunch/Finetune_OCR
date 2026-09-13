@@ -1,0 +1,80 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "955",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Boiler Log Book",
+      "boilerplate_used": "production/boiler_log_book.json",
+      "data": {
+        "boiler_name": "Boiler No. 1",
+        "registration_number": null,
+        "entries": [
+          {
+            "date_period": "5-3-2025",
+            "shift": "10-11 AM",
+            "total_steam_generated": null,
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          }
+        ],
+        "summary": {
+          "total_steam_generation": {
+            "shift_a": null,
+            "shift_b": null,
+            "shift_c": null,
+            "day_total": null
+          },
+          "feed_water_consumption": {
+            "shift_a": null,
+            "shift_b": null,
+            "shift_c": null,
+            "day_total": null
+          },
+          "dearator_steam_consumption": null,
+          "bed_material_consumption": null,
+          "bd_of_bed_material": null
+        }
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Boiler Log Book",
+      "boilerplate_used": "production/boiler_log_book.json",
+      "data": {
+        "boiler_name": "Boiler No. 2",
+        "registration_number": null,
+        "entries": [
+          {
+            "date_period": "5-3-2025",
+            "shift": "10-11 AM",
+            "total_steam_generated": null,
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          }
+        ],
+        "summary": {
+          "total_steam_generation": {
+            "shift_a": null,
+            "shift_b": null,
+            "shift_c": null,
+            "day_total": null
+          },
+          "feed_water_consumption": {
+            "shift_a": null,
+            "shift_b": null,
+            "shift_c": null,
+            "day_total": null
+          },
+          "dearator_steam_consumption": null,
+          "bed_material_consumption": null,
+          "bd_of_bed_material": null
+        }
+      }
+    }
+  ]
+}

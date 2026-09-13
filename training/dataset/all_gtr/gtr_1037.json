@@ -1,0 +1,200 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "boiler_name": "30 TPH BOILER",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "19/01/2025",
+      "shift": "7:00 AM",
+      "total_steam_generated": "29",
+      "total_feedwater": "70",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "8:00 AM",
+      "total_steam_generated": "29",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "9:00 AM",
+      "total_steam_generated": "39",
+      "total_feedwater": "72",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "10:00 AM",
+      "total_steam_generated": "39",
+      "total_feedwater": "72",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "11:00 AM",
+      "total_steam_generated": "39",
+      "total_feedwater": "73",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "12:00 PM",
+      "total_steam_generated": "36",
+      "total_feedwater": "72",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "1:00 PM",
+      "total_steam_generated": "38",
+      "total_feedwater": "73",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "2:00 PM",
+      "total_steam_generated": "38",
+      "total_feedwater": "73",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "3:00 PM",
+      "total_steam_generated": "36",
+      "total_feedwater": "73",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "4:00 PM",
+      "total_steam_generated": "39",
+      "total_feedwater": "73",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "5:00 PM",
+      "total_steam_generated": "37",
+      "total_feedwater": "72",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "6:00 PM",
+      "total_steam_generated": "37",
+      "total_feedwater": "72",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "7:00 PM",
+      "total_steam_generated": "38",
+      "total_feedwater": "73",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "8:00 PM",
+      "total_steam_generated": "38",
+      "total_feedwater": "73",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "9:00 PM",
+      "total_steam_generated": "38",
+      "total_feedwater": "73",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "10:00 PM",
+      "total_steam_generated": "38",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "11:00 PM",
+      "total_steam_generated": "36",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "12:00 AM",
+      "total_steam_generated": "35",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "1:00 AM",
+      "total_steam_generated": "35",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "2:00 AM",
+      "total_steam_generated": "36",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "3:00 AM",
+      "total_steam_generated": "36",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "4:00 AM",
+      "total_steam_generated": "38",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "5:00 AM",
+      "total_steam_generated": "30",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    },
+    {
+      "date_period": "19/01/2025",
+      "shift": "6:00 AM",
+      "total_steam_generated": "28",
+      "total_feedwater": "74",
+      "shift_total": null,
+      "day_total": null
+    }
+  ]
+}

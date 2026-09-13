@@ -1,0 +1,84 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "1-Oct-25 to 31-Dec-25",
+  "entries": [
+    {
+      "fuel_name": "Plastic Waste-Fuel",
+      "fuel_type": "Taxable",
+      "date_period": "Opening Balance",
+      "opening_balance": {
+        "value": 3586313.01,
+        "unit": "KG"
+      }
+    },
+    {
+      "fuel_name": "Plastic Waste-Fuel",
+      "fuel_type": "Taxable",
+      "date_period": "October",
+      "inwards": {
+        "value": 2766864.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 4051863.05,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 2301313.96,
+        "unit": "KG"
+      }
+    },
+    {
+      "fuel_name": "Plastic Waste-Fuel",
+      "fuel_type": "Taxable",
+      "date_period": "November",
+      "inwards": {
+        "value": 2609845.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3287679.9,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 1623479.06,
+        "unit": "KG"
+      }
+    },
+    {
+      "fuel_name": "Plastic Waste-Fuel",
+      "fuel_type": "Taxable",
+      "date_period": "December",
+      "inwards": {
+        "value": 3065329.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 3417000.0,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 1271808.06,
+        "unit": "KG"
+      }
+    },
+    {
+      "fuel_name": "Plastic Waste-Fuel",
+      "fuel_type": "Taxable",
+      "date_period": "Grand Total",
+      "inwards": {
+        "value": 8442038.0,
+        "unit": "KG"
+      },
+      "outwards": {
+        "value": 10756542.95,
+        "unit": "KG"
+      },
+      "closing_balance": {
+        "value": 1271808.06,
+        "unit": "KG"
+      }
+    }
+  ]
+}

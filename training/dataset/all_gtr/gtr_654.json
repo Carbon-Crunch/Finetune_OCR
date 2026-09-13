@@ -1,0 +1,255 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "DEC-2024",
+  "entries": [
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "1",
+      "opening_balance": "122.520",
+      "received_quantity": "130.600",
+      "consumption": "80.000",
+      "closing_balance": "173.200"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "2",
+      "opening_balance": "173.200",
+      "received_quantity": "82.095",
+      "consumption": "90.000",
+      "closing_balance": "165.295"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "3",
+      "opening_balance": "165.295",
+      "received_quantity": "129.270",
+      "consumption": "100.000",
+      "closing_balance": "194.565"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "4",
+      "opening_balance": "194.565",
+      "received_quantity": "134.180",
+      "consumption": "95.000",
+      "closing_balance": "233.745"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "5",
+      "opening_balance": "233.745",
+      "received_quantity": "131.220",
+      "consumption": "90.000",
+      "closing_balance": "274.965"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "6",
+      "opening_balance": "274.965",
+      "received_quantity": "152.640",
+      "consumption": "110.000",
+      "closing_balance": "317.605"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "7",
+      "opening_balance": "317.605",
+      "received_quantity": "163.240",
+      "consumption": "120.000",
+      "closing_balance": "360.845"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "8",
+      "opening_balance": "360.845",
+      "received_quantity": "131.700",
+      "consumption": "120.000",
+      "closing_balance": "372.545"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "9",
+      "opening_balance": "372.545",
+      "received_quantity": "95.045",
+      "consumption": "130.000",
+      "closing_balance": "337.590"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "10",
+      "opening_balance": "337.590",
+      "received_quantity": "238.785",
+      "consumption": "140.000",
+      "closing_balance": "436.375"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "11",
+      "opening_balance": "436.375",
+      "received_quantity": "136.230",
+      "consumption": "125.000",
+      "closing_balance": "447.605"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "12",
+      "opening_balance": "447.605",
+      "received_quantity": "20.740",
+      "consumption": "135.000",
+      "closing_balance": "333.345"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "13",
+      "opening_balance": "333.345",
+      "received_quantity": "97.300",
+      "consumption": "115.000",
+      "closing_balance": "315.645"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "14",
+      "opening_balance": "315.645",
+      "received_quantity": "98.260",
+      "consumption": "105.000",
+      "closing_balance": "308.905"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "15",
+      "opening_balance": "308.905",
+      "received_quantity": "122.965",
+      "consumption": "110.000",
+      "closing_balance": "321.870"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "16",
+      "opening_balance": "321.870",
+      "received_quantity": "0.000",
+      "consumption": "80.000",
+      "closing_balance": "241.870"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "17",
+      "opening_balance": "241.870",
+      "received_quantity": "54.270",
+      "consumption": "80.000",
+      "closing_balance": "216.140"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "18",
+      "opening_balance": "216.140",
+      "received_quantity": "66.590",
+      "consumption": "80.000",
+      "closing_balance": "202.730"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "19",
+      "opening_balance": "202.730",
+      "received_quantity": "116.910",
+      "consumption": "110.000",
+      "closing_balance": "209.640"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "20",
+      "opening_balance": "209.640",
+      "received_quantity": "0.000",
+      "consumption": "125.000",
+      "closing_balance": "84.640"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "21",
+      "opening_balance": "84.640",
+      "received_quantity": "128.200",
+      "consumption": "120.000",
+      "closing_balance": "92.840"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "22",
+      "opening_balance": "92.840",
+      "received_quantity": "70.390",
+      "consumption": "100.000",
+      "closing_balance": "63.230"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "23",
+      "opening_balance": "63.230",
+      "received_quantity": "113.850",
+      "consumption": "115.000",
+      "closing_balance": "62.080"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "24",
+      "opening_balance": "62.080",
+      "received_quantity": "111.525",
+      "consumption": "110.000",
+      "closing_balance": "63.605"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "25",
+      "opening_balance": "63.605",
+      "received_quantity": "172.030",
+      "consumption": "150.000",
+      "closing_balance": "85.635"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "26",
+      "opening_balance": "85.635",
+      "received_quantity": "123.625",
+      "consumption": "120.000",
+      "closing_balance": "84.260"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "27",
+      "opening_balance": "84.260",
+      "received_quantity": "176.150",
+      "consumption": "110.000",
+      "closing_balance": "155.410"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "28",
+      "opening_balance": "155.410",
+      "received_quantity": "25.140",
+      "consumption": "115.000",
+      "closing_balance": "65.550"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "29",
+      "opening_balance": "65.550",
+      "received_quantity": "60.495",
+      "consumption": "125.000",
+      "closing_balance": "1.045"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "30",
+      "opening_balance": "1.045",
+      "received_quantity": "126.970",
+      "consumption": "125.000",
+      "closing_balance": "3.015"
+    },
+    {
+      "fuel_name": "MUSTARD SHELL",
+      "date_period": "31",
+      "opening_balance": "3.015",
+      "received_quantity": "168.085",
+      "consumption": "171.100",
+      "closing_balance": "0.000"
+    }
+  ]
+}

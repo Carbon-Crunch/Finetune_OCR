@@ -1,0 +1,41 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": false,
+  "document_id": "929",
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice",
+  "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+  "data": {
+    "invoice_no": {
+      "value": "SRHZR24250006025"
+    },
+    "invoice_date": {
+      "value": "20-10-2024"
+    },
+    "supplier_name": "MAHESHWARI LOGISTICS LIMITED-TRADE DIVISION",
+    "supplier_gstin": "24AAECM8332N4Z3",
+    "buyer_name": "MAHESHWARI LOGISTICS LIMITED - PAPER DIV",
+    "buyer_gstin": "24AAECM8332N1Z6",
+    "total_amount": {
+      "value": "287047.80",
+      "unit": "Rs."
+    },
+    "entries": [
+      {
+        "item_description": "IMP COAL",
+        "material_description": "GCV 5700",
+        "item_code": null,
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "38.070",
+          "unit": "MTS"
+        },
+        "gross_amount": {
+          "value": "258876.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

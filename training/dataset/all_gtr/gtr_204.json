@@ -1,0 +1,219 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "AMENDMENT AGREEMENT",
+    "document_type": "First Amendment to Energy Purchase Agreement (EPA)",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "06.08.2024"
+    },
+    "supplier_name": "M/s. Sahakar Maharshi Bhausaheb Thorat SSKL",
+    "customer_name": "Maharashtra State Electricity Distribution Company Ltd. (MSEDCL)",
+    "company_name": "M/s. Sahakar Maharshi Bhausaheb Thorat SSKL",
+    "plant_name": "30 MW bagasse based co-generation plant",
+    "location": "Amrutnagar, Tal. Sangamner, Dist. Ahmednagar",
+    "registration_number": "CIN: U40109MH2005SGC153645",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "No 2 5 5 7 4",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": "Month-1",
+        "item_description": "Co-generation",
+        "quantity": {
+          "value": "100",
+          "unit": "Unit"
+        },
+        "rate": {
+          "value": "7.32",
+          "unit": "Rs./Unit"
+        },
+        "amount": {
+          "value": "732",
+          "unit": "Rs."
+        }
+      },
+      {
+        "date_period": "Month-1",
+        "item_description": "Solar",
+        "quantity": {
+          "value": "20",
+          "unit": "Unit"
+        },
+        "rate": {
+          "value": "2.69",
+          "unit": "Rs./Unit"
+        },
+        "amount": {
+          "value": "53.8",
+          "unit": "Rs."
+        }
+      },
+      {
+        "date_period": "Month-1",
+        "item_description": "Hybrid",
+        "quantity": {
+          "value": "120",
+          "unit": "Unit"
+        },
+        "amount": {
+          "value": "785.8",
+          "unit": "Rs."
+        },
+        "price": {
+          "value": "6.55",
+          "unit": "Rs./Unit"
+        }
+      },
+      {
+        "date_period": "Month-2",
+        "item_description": "Co-generation",
+        "quantity": {
+          "value": "50",
+          "unit": "Unit"
+        },
+        "rate": {
+          "value": "7.32",
+          "unit": "Rs./Unit"
+        },
+        "amount": {
+          "value": "366",
+          "unit": "Rs."
+        }
+      },
+      {
+        "date_period": "Month-2",
+        "item_description": "Solar",
+        "quantity": {
+          "value": "20",
+          "unit": "Unit"
+        },
+        "rate": {
+          "value": "2.69",
+          "unit": "Rs./Unit"
+        },
+        "amount": {
+          "value": "53.8",
+          "unit": "Rs."
+        }
+      },
+      {
+        "date_period": "Month-2",
+        "item_description": "Hybrid",
+        "quantity": {
+          "value": "70",
+          "unit": "Unit"
+        },
+        "amount": {
+          "value": "419.8",
+          "unit": "Rs."
+        },
+        "price": {
+          "value": "6.00",
+          "unit": "Rs./Unit"
+        }
+      },
+      {
+        "date_period": "Month-3",
+        "item_description": "Co-generation",
+        "quantity": {
+          "value": "100",
+          "unit": "Unit"
+        },
+        "rate": {
+          "value": "7.32",
+          "unit": "Rs./Unit"
+        },
+        "amount": {
+          "value": "732",
+          "unit": "Rs."
+        }
+      },
+      {
+        "date_period": "Month-3",
+        "item_description": "Solar",
+        "quantity": {
+          "value": "0",
+          "unit": "Unit"
+        },
+        "rate": {
+          "value": "2.69",
+          "unit": "Rs./Unit"
+        },
+        "amount": {
+          "value": "0",
+          "unit": "Rs."
+        }
+      },
+      {
+        "date_period": "Month-3",
+        "item_description": "Hybrid",
+        "quantity": {
+          "value": "100",
+          "unit": "Unit"
+        },
+        "amount": {
+          "value": "732",
+          "unit": "Rs."
+        },
+        "price": {
+          "value": "7.32",
+          "unit": "Rs./Unit"
+        }
+      }
+    ],
+    "additional_fields": {
+      "rftop_solar_capacity": "750 KWp",
+      "original_epa_date": "23.04.2015"
+    }
+  }
+}

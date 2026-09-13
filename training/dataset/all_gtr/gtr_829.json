@@ -1,0 +1,79 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "829",
+  "extractions": [
+    {
+      "data_type": "Generic",
+      "data_category": "Generic Fallback Document",
+      "boilerplate_used": "generic_fallback",
+      "data": {
+        "document_title": "Renewable Consumption Obligation (RCO) Data Collection Checklist",
+        "document_type": "Data Collection Checklist",
+        "entries": [
+          {
+            "item_description": "Grid Contract demand",
+            "quantity": {
+              "value": "2500",
+              "unit": "kVAH"
+            }
+          },
+          {
+            "item_description": "Key energy consumption areas",
+            "remarks": "polishing - ballmills"
+          },
+          {
+            "item_description": "DG sets ratings",
+            "remarks": "1000 kVA, 1500 kVA"
+          },
+          {
+            "item_description": "Installed production capacity",
+            "quantity": {
+              "value": "430",
+              "unit": "ton/day"
+            }
+          },
+          {
+            "item_description": "Number of machines/lines",
+            "remarks": "Single"
+          },
+          {
+            "item_description": "Key products and Major energy-consuming equipment",
+            "remarks": "polishing line, 8 ball mills"
+          },
+          {
+            "item_description": "Boiler Fuel type",
+            "remarks": "coal"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "data_types": {
+    "Energy": {
+      "description": "Energy consumption, generation, and distribution documents",
+      "categories": {
+        "Energy Purchase Invoice": {
+          "boilerplate": "energy/energy_purchase_invoice.json",
+          "aliases": ["energy invoice", "energy purchase"],
+          "extraction_rules": "Extract invoice date, supplier, item, HSN/SAC, Quantity / Consumption / Withdrawal, units, gross amount."
+        },
+        "Electricity Bill": {
+          "boilerplate": "energy/electricity_bill.json",
+          "aliases": ["electric bill", "power bill", "energy bill"],
+          "extraction_rules": "Extract electrical parameters only. Ignore charges and taxes."
+        },
+        "Electric Consumption History": {
+          "boilerplate": "energy/electric_consumption_history.json",
+          "aliases": ["consumption history", "monthly consumption"],
+          "extraction_rules": "Extract monthly consumption values and period."
+        },
+        "Electric Meter Reading": {
+          "boilerplate": "energy/electric_meter_reading.json",
+          "aliases": ["meter reading", "meter reading sheet"],
+          "extraction_rules": "Extract meter readings, MF, KWH, KVAH, KVARH, peak/night hours."
+        },
+        "Generation Report": {
+          "boilerplate": "energy/generation_report.json",
+          "aliases": [
+            "generation report",
+            "net generation report",
+            "net power",
+            "net generation"
+          ],
+          "extraction_rules": "Extract date range and net generation."
+        },
+        "Power Plant Report": {
+          "boilerplate": "energy/power_plant_report.json",
+          "aliases": ["power plant report", "plant generation report"],
+          "extraction_rules": "Extract generation, steam, turbine, and fuel-use totals."
+        },
+        "Hand Written Power Log": {
+          "boilerplate": "energy/hand_written_power_log.json",
+          "aliases": ["power log", "handwritten power log"],
+          "extraction_rules": "Extract date, shift, meter readings, and consumption difference."
+        },
+        "Hydel Bill Summary": {
+          "boilerplate": "energy/hydel_bill_summary.json",
+          "aliases": ["hydel bill", "hydel expense summary"],
+          "extraction_rules": "Extract hydel bill amount and hydel consumption."
+        },
+        "Steam Distribution Log": {
+          "boilerplate": "energy/steam_distribution_log.json",
+          "aliases": ["steam distribution", "steam log"],
+          "extraction_rules": "Extract date, turbine inlet/extraction steam, and distribution values."
+        }
+      }
+    },
+    "Fuel": {
+      "description": "Fuel purchase, stock, quality, and consumption documents",
+      "categories": {
+        "Fuel Purchase Invoice": {
+          "boilerplate": "fuel/fuel_purchase_invoice.json",
+          "aliases": ["fuel invoice", "fuel purchase"],
+          "extraction_rules": "Extract invoice date, supplier, item, HSN/SAC, Quantity / Consumption / Withdrawal, units, gross amount."
+        },
+        "Diesel Purchase Invoice": {
+          "boilerplate": "fuel/diesel_purchase_invoice.json",
+          "aliases": ["diesel invoice"],
+          "extraction_rules": "Extract material description, item code, quantity, and HSN."
+        },
+        "Gas Bill": {
+          "boilerplate": "fuel/gas_bill.json",
+          "aliases": ["gas statement", "gas bill"],
+          "extraction_rules": "Extract SCM consumption, actual/excess gas, and gas price."
+        },
+        "Fuel Stock Register": {
+          "boilerplate": "fuel/fuel_stock_register.json",
+          "aliases": ["fuel stock register", "stock register"],
+          "extraction_rules": "Extract fuel name, date, opening balance, received quantity, consumption."
+        },
+        "Fuel Stock Summary": {
+          "boilerplate": "fuel/fuel_stock_summary.json",
+          "aliases": ["fuel stock summary"],
+          "extraction_rules": "Extract period, fuel type, inwards, outwards, closing balance."
+        },
+        "Coal Receipt Register & Quality Register": {
+          "boilerplate": "fuel/coal_receipt_quality_register.json",
+          "aliases": ["coal receipt register", "coal quality register"],
+          "extraction_rules": "Extract date, supplier, GCV, moisture, ash, net weight."
+        },
+        "Coal Consignment Report": {
+          "boilerplate": "fuel/coal_consignment_report.json",
+          "aliases": ["coal consignment", "consignment report"],
+          "extraction_rules": "Extract month/date range, truck count, moisture, GCV, ash."
+        },
+        "Coal Quality Summary": {
+          "boilerplate": "fuel/coal_quality_summary.json",
+          "aliases": ["coal quality summary"],
+          "extraction_rules": "Extract supplier, weighted GCV/moisture/ash, total coal."
+        },
+        "Coal laboratory test report": {
+          "boilerplate": "fuel/coal_laboratory_test_report.json",
+          "aliases": [
+            "coal lab test report",
+            "coal laboratory test report",
+            "coal test report",
+            "laboratory test report"
+          ],
+          "extraction_rules": "Extract report date, sample quantity, GCV, moisture, ash from test results."
+        },
+        "Fuel Lab Test Report": {
+          "boilerplate": "fuel/fuel_lab_test_report.json",
+          "aliases": ["fuel lab report", "lab test report"],
+          "extraction_rules": "Extract sample name, date, moisture, volatile matter, fixed carbon, GCV."
+        },
+        "Belt Conveyor Sample Report": {
+          "boilerplate": "fuel/belt_conveyor_sample_report.json",
+          "aliases": ["belt conveyor sample", "conveyor sample report"],
+          "extraction_rules": "Extract date, shift, conveyor ID, moisture, ash, GCV."
+        },
+        "Daily Fuel Consumption": {
+          "boilerplate": "fuel/daily_fuel_consumption.json",
+          "aliases": ["daily fuel consumption", "fuel consumption log"],
+          "extraction_rules": "Extract date and fuel-wise consumption (rice husk, coal, RDF, bagasse, biomass, diesel)."
+        },
+        "RDF / Waste Fuel Sampling": {
+          "boilerplate": "fuel/rdf_waste_fuel_sampling.json",
+          "aliases": ["rdf sampling", "waste fuel sampling"],
+          "extraction_rules": "Extract waste type, weight, composition %, GCV, ash, moisture."
+        }
+      }
+    },
+    "Production & Operational": {
+      "description": "Production, boiler, turbine, and process operational logs",
+      "categories": {
+        "Production Summary": {
+          "boilerplate": "production/production_summary.json",
+          "aliases": ["production summary", "monthly production"],
+          "extraction_rules": "Extract product, period, opening stock, production, dispatch, closing stock."
+        },
+        "Machine Consumption Summary": {
+          "boilerplate": "production/machine_consumption_summary.json",
+          "aliases": ["machine consumption", "machine consumption summary"],
+          "extraction_rules": "Extract machine name, production, consumption, power per tonne."
+        },
+        "Boiler Log Book": {
+          "boilerplate": "production/boiler_log_book.json",
+          "aliases": ["boiler log", "boiler log book"],
+          "extraction_rules": "Extract boiler ID, registration, steam generated, feedwater, shift/day totals."
+        },
+        "Turbine Capacity Log": {
+          "boilerplate": "production/turbine_capacity_log.json",
+          "aliases": ["turbine capacity", "turbine log"],
+          "extraction_rules": "Extract turbine name/ID, nominal capacity, generation capacity."
+        },
+        "Process Log Book": {
+          "boilerplate": "production/process_log_book.json",
+          "aliases": ["process log", "process log book"],
+          "extraction_rules": "Extract date, timestamp, pressure, temperature, flow rate, runtime, power, pulp levels."
+        }
+      }
+    }
+  }
+}

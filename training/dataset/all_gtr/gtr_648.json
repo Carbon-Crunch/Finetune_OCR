@@ -1,0 +1,596 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "OCT-2024",
+  "entries": [
+    {
+      "date_period": "1",
+      "opening_balance": {
+        "value": "3778.920",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "406.315",
+        "unit": null
+      },
+      "consumption": {
+        "value": "273",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "3512.235",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "2",
+      "opening_balance": {
+        "value": "3512.235",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "248.425",
+        "unit": null
+      },
+      "consumption": {
+        "value": "246",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "3464.660",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "3",
+      "opening_balance": {
+        "value": "3464.660",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "229.070",
+        "unit": null
+      },
+      "consumption": {
+        "value": "308",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "3385.730",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "4",
+      "opening_balance": {
+        "value": "3385.730",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "535.895",
+        "unit": null
+      },
+      "consumption": {
+        "value": "320",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "3601.625",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "5",
+      "opening_balance": {
+        "value": "3601.625",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "427.295",
+        "unit": null
+      },
+      "consumption": {
+        "value": "288",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "3740.920",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "6",
+      "opening_balance": {
+        "value": "3740.920",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "304",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "3436.920",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "7",
+      "opening_balance": {
+        "value": "3436.920",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "480.980",
+        "unit": null
+      },
+      "consumption": {
+        "value": "254",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "3663.900",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "8",
+      "opening_balance": {
+        "value": "3663.900",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "766.260",
+        "unit": null
+      },
+      "consumption": {
+        "value": "309",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4121.160",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "9",
+      "opening_balance": {
+        "value": "4121.160",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "591.450",
+        "unit": null
+      },
+      "consumption": {
+        "value": "313",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4399.610",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "10",
+      "opening_balance": {
+        "value": "4399.610",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "224.170",
+        "unit": null
+      },
+      "consumption": {
+        "value": "310",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4313.780",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "11",
+      "opening_balance": {
+        "value": "4313.780",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "250.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "365",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4199.580",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "12",
+      "opening_balance": {
+        "value": "4199.580",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "501.920",
+        "unit": null
+      },
+      "consumption": {
+        "value": "365",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4336.500",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "13",
+      "opening_balance": {
+        "value": "4336.500",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "138.690",
+        "unit": null
+      },
+      "consumption": {
+        "value": "367",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4108.190",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "14",
+      "opening_balance": {
+        "value": "4108.190",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "443.740",
+        "unit": null
+      },
+      "consumption": {
+        "value": "364",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4187.530",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "15",
+      "opening_balance": {
+        "value": "4187.530",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "187.620",
+        "unit": null
+      },
+      "consumption": {
+        "value": "345",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4030.150",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "16",
+      "opening_balance": {
+        "value": "4030.150",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "595.070",
+        "unit": null
+      },
+      "consumption": {
+        "value": "370",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4255.220",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "17",
+      "opening_balance": {
+        "value": "4255.220",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "216.470",
+        "unit": null
+      },
+      "consumption": {
+        "value": "361",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4110.890",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "18",
+      "opening_balance": {
+        "value": "4110.690",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "287.720",
+        "unit": null
+      },
+      "consumption": {
+        "value": "358",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4040.410",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "19",
+      "opening_balance": {
+        "value": "4040.410",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "409.500",
+        "unit": null
+      },
+      "consumption": {
+        "value": "337",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4112.910",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "20",
+      "opening_balance": {
+        "value": "4112.910",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "355.225",
+        "unit": null
+      },
+      "consumption": {
+        "value": "350",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4118.135",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "21",
+      "opening_balance": {
+        "value": "4118.135",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "522.035",
+        "unit": null
+      },
+      "consumption": {
+        "value": "333",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4307.170",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "22",
+      "opening_balance": {
+        "value": "4307.170",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "864.330",
+        "unit": null
+      },
+      "consumption": {
+        "value": "365",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4806.500",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "23",
+      "opening_balance": {
+        "value": "4806.500",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "892.545",
+        "unit": null
+      },
+      "consumption": {
+        "value": "366",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "5333.045",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "24",
+      "opening_balance": {
+        "value": "5333.045",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "831.445",
+        "unit": null
+      },
+      "consumption": {
+        "value": "361",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "5803.490",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "25",
+      "opening_balance": {
+        "value": "5803.490",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "245.180",
+        "unit": null
+      },
+      "consumption": {
+        "value": "385",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "5463.670",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "26",
+      "opening_balance": {
+        "value": "5463.670",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "451.200",
+        "unit": null
+      },
+      "consumption": {
+        "value": "378",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "5536.870",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "27",
+      "opening_balance": {
+        "value": "5536.870",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "184.990",
+        "unit": null
+      },
+      "consumption": {
+        "value": "382",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "5339.860",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "28",
+      "opening_balance": {
+        "value": "5339.860",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "199.520",
+        "unit": null
+      },
+      "consumption": {
+        "value": "370",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "5169.380",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "29",
+      "opening_balance": {
+        "value": "5169.380",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "357.120",
+        "unit": null
+      },
+      "consumption": {
+        "value": "375",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "5151.500",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "30",
+      "opening_balance": {
+        "value": "5151.500",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "401.130",
+        "unit": null
+      },
+      "consumption": {
+        "value": "383",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "5169.630",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "31",
+      "opening_balance": {
+        "value": "5169.630",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "365",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "4804.630",
+        "unit": null
+      }
+    }
+  ]
+}

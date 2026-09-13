@@ -1,0 +1,110 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-25"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "41,99,040",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "44,08,013",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "45,26,643",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "40,84,366",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "41,66,936",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "45,83,116",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "46,54,006",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "42,36,626",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "36,63,603",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "consumption": null,
+        "net_generation": {
+          "value": "24,61,872",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "consumption": null,
+        "net_generation": {
+          "value": "42,85,094",
+          "unit": "kwh"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "consumption": null,
+        "net_generation": {
+          "value": "46,61,607",
+          "unit": "kwh"
+        }
+      }
+    ]
+  }
+}

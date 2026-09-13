@@ -1,0 +1,180 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "CONSENT ORDER FOR ESTABLISHMENT",
+    "document_type": "Consent Order",
+    "report_period": {
+      "value": "7 years from the date of issue"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "23/05/2022"
+    },
+    "supplier_name": null,
+    "customer_name": "M/s. Kajaria Floera Ceramics Private Limited",
+    "company_name": "M/s. Kajaria Floera Ceramics Private Limited",
+    "plant_name": "M/s. Kajaria Floera Ceramics Private Limited",
+    "location": "Sy. No. 129 (P), Thatiparthi (V), Thottambedu (M), Chittoor District",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "Order No.283/APPCB/CFE/RO-TPT/HO/2018",
+    "total_amount": {
+      "value": "119.12",
+      "unit": "Cr (Additional Investment)"
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "product_name": "Vitrified Ceramic Tiles",
+        "opening_stock": "15000",
+        "production": "15000",
+        "closing_stock": "30000",
+        "remarks": "Sq.m / day"
+      },
+      {
+        "item_description": "Make-up of Process (Raw material Mixing + Printing + Polishing line consumption)",
+        "consumption": "500",
+        "units": "KLD"
+      },
+      {
+        "item_description": "Cooling tower (Make up)",
+        "consumption": "30",
+        "units": "KLD"
+      },
+      {
+        "item_description": "Greenbelt",
+        "consumption": "100",
+        "units": "KLD"
+      },
+      {
+        "item_description": "Scrubbers",
+        "consumption": "20",
+        "units": "KLD"
+      },
+      {
+        "item_description": "Domestic",
+        "consumption": "70",
+        "units": "KLD"
+      },
+      {
+        "item_description": "Cooling tower bleed of",
+        "consumption": "5.0",
+        "units": "KLD"
+      },
+      {
+        "item_description": "Domestic (Plant)",
+        "consumption": "60.0",
+        "units": "KLD"
+      },
+      {
+        "item_description": "Process (Recycled)",
+        "consumption": "100",
+        "units": "KLD"
+      },
+      {
+        "item_description": "ETP Sludge",
+        "quantity": {
+          "value": "27",
+          "unit": "TPD"
+        }
+      },
+      {
+        "item_description": "Sludge (Wet scrubbers)",
+        "quantity": {
+          "value": "2.0",
+          "unit": "TPD"
+        }
+      },
+      {
+        "item_description": "Broken Tiles",
+        "quantity": {
+          "value": "6.0",
+          "unit": "TPD"
+        }
+      },
+      {
+        "item_description": "Dust collected in Air Pollution control Equipments",
+        "quantity": {
+          "value": "700",
+          "unit": "Kg/day"
+        }
+      },
+      {
+        "item_description": "Used oil / Waste Lubrication oil",
+        "quantity": {
+          "value": "3300",
+          "unit": "LPA"
+        }
+      },
+      {
+        "item_description": "Used Lead acid Batteries",
+        "quantity": {
+          "value": "10",
+          "unit": "Nos./year"
+        }
+      }
+    ],
+    "additional_fields": {
+      "site_surroundings": {
+        "North": "Dry lands followed by branch canal of Telugu Ganga canal",
+        "South": "Proposed site of M/s Kajaria Bath ware Limited",
+        "East": "Dry lands followed by Bhavani Shankarapuram",
+        "West": "Dry lands followed by Telugu Ganga canal"
+      }
+    }
+  }
+}

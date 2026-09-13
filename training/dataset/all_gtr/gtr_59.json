@@ -1,0 +1,106 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "document_title": "ETP FLOW CHART and Paper Manufacturing Process",
+  "document_type": "Technical Process Documentation",
+  "company_name": "Bahl Paper Mills Ltd., Kashipur",
+  "entries": [
+    {
+      "equipment_name": "Collection Back Water Tank",
+      "capacity": {
+        "value": "310",
+        "unit": "m3"
+      }
+    },
+    {
+      "equipment_name": "Hill Screen",
+      "capacity": {
+        "value": null,
+        "unit": null
+      }
+    },
+    {
+      "equipment_name": "Equalization Tank",
+      "capacity": {
+        "value": "524",
+        "unit": "m3"
+      }
+    },
+    {
+      "equipment_name": "Equalization Tank",
+      "capacity": {
+        "value": "892.8",
+        "unit": "m3"
+      }
+    },
+    {
+      "equipment_name": "Sedicell",
+      "capacity": {
+        "value": "332",
+        "unit": "m3"
+      }
+    },
+    {
+      "equipment_name": "Primary Clarifier Tank",
+      "capacity": {
+        "value": "974",
+        "unit": "m3"
+      }
+    },
+    {
+      "equipment_name": "Aeration Tank (New)",
+      "capacity": {
+        "value": "2325",
+        "unit": "m3"
+      }
+    },
+    {
+      "equipment_name": "Aeration Tank (Old)",
+      "capacity": {
+        "value": "2712",
+        "unit": "m3"
+      }
+    },
+    {
+      "equipment_name": "Secondary Clarifier",
+      "capacity": {
+        "value": "1178",
+        "unit": "m3"
+      }
+    },
+    {
+      "equipment_name": "Sand Filter",
+      "capacity": {
+        "value": "50",
+        "unit": "m3/hr"
+      }
+    },
+    {
+      "equipment_name": "Sludge Drying Beds",
+      "capacity": {
+        "value": "75",
+        "unit": "m3"
+      }
+    }
+  ]
+}

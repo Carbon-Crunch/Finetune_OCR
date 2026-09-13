@@ -1,0 +1,58 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Shift Production and Operational Log",
+    "document_type": "Production & Operational Log",
+    "report_period": {
+      "value": "31-03-2025"
+    },
+    "document_date": {
+      "value": "31-03-2025"
+    },
+    "plant_name": "KCLM/M/SIR/KNL/07",
+    "entries": [
+      {
+        "shift": "A SHIFT",
+        "operator_name": "Sup -> Karishma",
+        "remarks": "Feeding Gap -> Nil, General Care found Normal Condition, 84 box per piece change mod no 71 to 86 15, 86 box change, Cause in the bullet inform by Shirinchages, And Press Sup and he Chars",
+        "production": {
+          "value": "15340",
+          "unit": "Pic"
+        }
+      },
+      {
+        "shift": "B SHIFT",
+        "operator_name": "Sup -> Arvind Pathak",
+        "remarks": "Feeding Gap -> Nil, General Care found Normal Condition, 06 lock flip change mod No 59 R No 22 mod No 71H 28 mod No 86 R 19",
+        "production": {
+          "value": "15621",
+          "unit": "Pic"
+        }
+      }
+    ],
+    "additional_fields": {
+      "A_SHIFT_details": {
+        "Sup": "Karishma",
+        "Temp": "1207/1205",
+        "Design": "6212/12629",
+        "Batch": "127/03",
+        "Total_Production": "17234 Pic",
+        "Gas_Readings": "1405844 (5153273-3918) = 2693",
+        "Fixed_Box": "30"
+      },
+      "B_SHIFT_details": {
+        "Sup": "Arvind Pathak",
+        "Temp": "1207/1205",
+        "Design": "6212/12629",
+        "Batch": "127/03",
+        "Total_Production": "17526 Pic",
+        "Gas_Readings": "1408583 (5157369-5153273) = 4096",
+        "Fixed_Box": "18"
+      }
+    }
+  }
+}

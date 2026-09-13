@@ -1,0 +1,302 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Process Log Book",
+  "boilerplate": "production/process_log_book.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "18"
+    },
+    "entries": [
+      {
+        "date_period": "18",
+        "timestamp": "6:00 AM",
+        "pressure": {
+          "value": "13.5",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "7:00 AM",
+        "pressure": {
+          "value": "13.4",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "8:00 AM",
+        "pressure": {
+          "value": "13.4",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "9:00 AM",
+        "pressure": {
+          "value": "13.2",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "10:00 AM",
+        "pressure": {
+          "value": "13.5",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "11:00 AM",
+        "pressure": {
+          "value": "13.2",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "12:00 PM",
+        "pressure": {
+          "value": "12.9",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "1:00 PM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "2:00 PM",
+        "pressure": {
+          "value": "13.1",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "3:00 PM",
+        "pressure": {
+          "value": "13.2",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "4:00 PM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "5:00 PM",
+        "pressure": {
+          "value": "13.1",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "6:00 PM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "7:00 PM",
+        "pressure": {
+          "value": "13.2",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "8:00 PM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "9:00 PM",
+        "pressure": {
+          "value": "13.2",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "10:00 PM",
+        "pressure": {
+          "value": "13.5",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "11:00 PM",
+        "pressure": {
+          "value": "13.2",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "12:00 AM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "1:00 AM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "2:00 AM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "3:00 AM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "4:00 AM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      },
+      {
+        "date_period": "18",
+        "timestamp": "5:00 AM",
+        "pressure": {
+          "value": "13.3",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "135",
+          "unit": "C"
+        }
+      }
+    ]
+  }
+}

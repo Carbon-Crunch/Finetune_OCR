@@ -1,0 +1,377 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 15,
+      "image_index": 15,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 16,
+      "image_index": 16,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 17,
+      "image_index": 17,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 18,
+      "image_index": 18,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 19,
+      "image_index": 19,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 20,
+      "image_index": 20,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "2024-04-11, 2024-04-11, 2024-05-23, 2024-05-31, 2024-07-16, 2024-07-10, 2024-09-14, 2024-09-14, 2024-10-30, 2024-10-30, 2024-11-25, 2024-11-23, 2024-12-17, 2024-12-14, 2025-01-06, 2025-01-06, 2025-02-21, 2025-02-17, 2025-03-07, 2025-03-07"
+    },
+    "supplier_name": "Shree Tirupati Trading Co., SHRI SHYAM TRADERS, SHRI SHYAM TRADERS, Shivam Traders, ARS PADDY HUSK (P) LTD., Shivam Traders, Shivam Traders, NEHA ENTERPRISES, ARS PADDY HUSK (P) LTD., VISHAL TRADERS, Shivam Traders, ARS PADDY HUSK (P) LTD., ARS PADDY HUSK (P) LTD., SHRI SHYAM TRADERS, VISHAL TRADERS, SHRI SHYAM TRADERS, VISHAL TRADERS, ARS PADDY HUSK (P) LTD., ARS PADDY HUSK (P) LTD., VISHAL TRADERS",
+    "entries": [
+      {
+        "item_description": "De-Oiled Paddy Husk",
+        "hsn_sac": "001213",
+        "quantity": {
+          "value": "88.70",
+          "unit": "Qtl."
+        },
+        "gross_amount": {
+          "value": "48785.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "CERIAL STRAW & PEDDY HUSK",
+        "hsn_sac": "12130000",
+        "quantity": {
+          "value": "9970",
+          "unit": "KGS"
+        },
+        "gross_amount": {
+          "value": "54835.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "CERIAL STRAW & PEDDY HUSK",
+        "hsn_sac": "12130000",
+        "quantity": {
+          "value": "8600",
+          "unit": "KGS"
+        },
+        "gross_amount": {
+          "value": "42570.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "De-Oiled Paddy Husk",
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "86.00",
+          "unit": "Qtl."
+        },
+        "gross_amount": {
+          "value": "42570.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "DE-OILED Paddy Husk",
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "87.40",
+          "unit": "Qtl."
+        },
+        "gross_amount": {
+          "value": "51566.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "De-Oiled Paddy Husk",
+        "hsn_sac": "121300",
+        "quantity": {
+          "value": "83.30",
+          "unit": "Qtl."
+        },
+        "gross_amount": {
+          "value": "47065.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "De-Oiled Paddy Husk",
+        "hsn_sac": "121300",
+        "quantity": {
+          "value": "103.40",
+          "unit": "Qtl."
+        },
+        "gross_amount": {
+          "value": "75999.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "PADDY HUSK",
+        "hsn_sac": "12130000",
+        "quantity": {
+          "value": "95.00",
+          "unit": "Qtl."
+        },
+        "gross_amount": {
+          "value": "69825.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "DE OILED Paddy Husk",
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "97.90",
+          "unit": "Qtl."
+        },
+        "gross_amount": {
+          "value": "61187.50",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Paddy Husk",
+        "hsn_sac": "121300",
+        "quantity": {
+          "value": "9230.00",
+          "unit": "KG"
+        },
+        "gross_amount": {
+          "value": "57687.50",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "De-Oiled Paddy Husk",
+        "hsn_sac": "121300",
+        "quantity": {
+          "value": "93.10",
+          "unit": "Qtl."
+        },
+        "gross_amount": {
+          "value": "52136.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "DE OILED PADDY HUSK",
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "102.00",
+          "unit": "QTL."
+        },
+        "gross_amount": {
+          "value": "57120.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "DE OILED PADDY HUSK",
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "90.90",
+          "unit": "QTL."
+        },
+        "gross_amount": {
+          "value": "45450.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "CERIAL STRAW & PEDDY HUSK",
+        "hsn_sac": "12130000",
+        "quantity": {
+          "value": "8500",
+          "unit": "KGS"
+        },
+        "gross_amount": {
+          "value": "43350.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Paddy Husk",
+        "hsn_sac": "121300",
+        "quantity": {
+          "value": "9500.00",
+          "unit": "KG"
+        },
+        "gross_amount": {
+          "value": "45125.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "CERIAL STRAW & PEDDY HUSK",
+        "hsn_sac": "12130000",
+        "quantity": {
+          "value": "9990",
+          "unit": "KGS"
+        },
+        "gross_amount": {
+          "value": "47453.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Paddy Husk",
+        "hsn_sac": "121300",
+        "quantity": {
+          "value": "9740.00",
+          "unit": "KG"
+        },
+        "gross_amount": {
+          "value": "49674.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "DE OILED PADDY HUSK",
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "91.80",
+          "unit": "QTL."
+        },
+        "gross_amount": {
+          "value": "44982.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "DE OILED PADDY HUSK",
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "96.50",
+          "unit": "QTL."
+        },
+        "gross_amount": {
+          "value": "50662.50",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Paddy Husk",
+        "hsn_sac": "121300",
+        "quantity": {
+          "value": "9100.00",
+          "unit": "KG"
+        },
+        "gross_amount": {
+          "value": "47775.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

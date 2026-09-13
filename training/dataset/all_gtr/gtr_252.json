@@ -1,0 +1,33 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "22-Oct-24"
+    },
+    "supplier_name": "Ansh Minerals",
+    "entries": [
+      {
+        "item_description": "Steam Coal",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "34.7800",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "MT",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "2,81,718.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

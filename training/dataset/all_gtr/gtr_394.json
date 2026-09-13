@@ -1,0 +1,68 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Renewal of consent under the Water (Prevention and Control of Pollution) Act, 1974",
+    "document_type": "Consent to Operate (CTO) Renewal",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "27/07/2023"
+    },
+    "supplier_name": "Punjab Pollution Control Board",
+    "customer_name": "Trident Ltd (htd)",
+    "company_name": "Trident Ltd (htd)",
+    "plant_name": "Trident Complex",
+    "location": "Mansa-road, Vill-dhaula, Barnala, Barnala-148107",
+    "registration_number": "R12BAR22182",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "CTOW/Renewal/BAR/2023/22049467",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {
+      "application_no": "22049467",
+      "consent_to_operate_certificate_no": "CTOW/Renewal/BAR/2023/22049467",
+      "date_of_issue": "27/07/2023",
+      "date_of_expiry": "31/03/2026",
+      "capital_investment": "74583.37 lakhs",
+      "category_of_industry": "Red",
+      "scale_of_industry": "Large",
+      "office_district": "Barnala"
+    }
+  }
+}

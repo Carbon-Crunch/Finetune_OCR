@@ -1,0 +1,79 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "933",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "SRHZR24250000300"
+        },
+        "invoice_date": {
+          "value": "10-04-2024"
+        },
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED-TRADE DIVISION",
+        "supplier_gstin": "24AAECM8332N4Z3",
+        "buyer_name": "MAHESHWARI LOGISTICS LIMITED - PAPER DIV",
+        "buyer_gstin": "24AAECM8332N1Z6",
+        "total_amount": {
+          "value": "188809.20",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "IMP COAL",
+            "material_description": "IMP COAL",
+            "item_code": null,
+            "hsn_sac": "27011920",
+            "quantity": {
+              "value": "32.220",
+              "unit": "MTS"
+            },
+            "gross_amount": {
+              "value": "167544.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Coal laboratory test report",
+      "boilerplate_used": "fuel/coal_laboratory_test_report.json",
+      "data": {
+        "report_period": {
+          "value": "10-04-2024"
+        },
+        "entries": [
+          {
+            "sample_name": "IMP COAL",
+            "date_period": "10-04-2024",
+            "sample_quantity": {
+              "value": "32.220",
+              "unit": "MTS"
+            },
+            "moisture_content": {
+              "value": "40.7",
+              "unit": "%"
+            },
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": {
+              "value": "5400",
+              "unit": "kcal/kg"
+            },
+            "ash_content": null,
+            "supplier_name": "MAHESHWARI LOGISTICS LIMITED-TRADE DIVISION",
+            "operator_name": "BHUPESHKUMAR NAGINBHAI PATEL",
+            "remarks": "Deduction - 10.7%"
+          }
+        ]
+      }
+    }
+  ]
+}

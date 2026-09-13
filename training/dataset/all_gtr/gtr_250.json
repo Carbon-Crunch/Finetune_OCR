@@ -1,0 +1,123 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation",
+    "document_type": "Environmental Consent",
+    "report_period": {
+      "value": "01/01/2025 to 31/12/2025"
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "11/01/2025"
+    },
+    "supplier_name": null,
+    "customer_name": "THE GANGA KISAN SAHKARI CHINI MILLS LTD MORNA",
+    "company_name": "Uttar Pradesh Pollution Control Board",
+    "plant_name": "THE GANGA KISAN SAHKARI CHINI MILLS LTD MORNA",
+    "location": "Morna, Distt - Muzaffarnagar, 251316",
+    "registration_number": "228524/UPPCB/MuzaffarNagar(UPPCBRO)/CTO/both/MUZAFFARNAGAR/2024",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "29461167",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "product_name": "Sugar From Sugar Cane Crushing Capacity",
+        "quantity": {
+          "value": 25000,
+          "unit": "TCD"
+        }
+      },
+      {
+        "product_name": "By Product Molasses",
+        "quantity": {
+          "value": 133.33,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "product_name": "By Product Bagasse",
+        "quantity": {
+          "value": 833.33,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "product_name": "By Product PressMud",
+        "quantity": {
+          "value": 80,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "item_description": "Domestic Effluent",
+        "quantity": {
+          "value": 40,
+          "unit": "KLD"
+        }
+      },
+      {
+        "item_description": "Industrial Effluent",
+        "quantity": {
+          "value": 500,
+          "unit": "KLD"
+        }
+      }
+    ],
+    "additional_fields": {
+      "boiler_1_details": "2 X 20 TPH Boiler with Common Wet Scrubber",
+      "boiler_2_details": "1 X 30 TPH Boiler with Wet Scrubber",
+      "dg_sets": "2x320 KVA, 1x380 KVA, 1x180 KVA",
+      "fuel_used": "BAGASSE, HSD+PNG"
+    }
+  }
+}

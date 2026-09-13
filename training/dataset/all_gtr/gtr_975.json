@@ -1,0 +1,87 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "production/boiler_log_book.json": {
+    "boiler_name": "30 TPH BOILER",
+    "registration_number": null,
+    "entries": [
+      {
+        "date_period": "09.05.2024",
+        "shift": "A",
+        "total_steam_generated": {
+          "value": 4689,
+          "unit": "Tons"
+        },
+        "total_feedwater": {
+          "value": 4727,
+          "unit": "Tons"
+        },
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "09.05.2024",
+        "shift": "B",
+        "total_steam_generated": {
+          "value": 4930,
+          "unit": "Tons"
+        },
+        "total_feedwater": {
+          "value": 4967,
+          "unit": "Tons"
+        },
+        "shift_total": null,
+        "day_total": null
+      },
+      {
+        "date_period": "09.05.2024",
+        "shift": "C",
+        "total_steam_generated": {
+          "value": 5166,
+          "unit": "Tons"
+        },
+        "total_feedwater": {
+          "value": 5204,
+          "unit": "Tons"
+        },
+        "shift_total": null,
+        "day_total": null
+      }
+    ],
+    "summary": {
+      "total_steam_generation": {
+        "shift_a": {
+          "final_reading": 4689,
+          "tons": 242
+        },
+        "shift_b": {
+          "final_reading": 4930,
+          "tons": 241
+        },
+        "shift_c": {
+          "final_reading": 5166,
+          "tons": 236
+        },
+        "day_total": 719
+      },
+      "feed_water_consumption": {
+        "shift_a": {
+          "final_reading": 4727,
+          "tons": 243
+        },
+        "shift_b": {
+          "final_reading": 4967,
+          "tons": 240
+        },
+        "shift_c": {
+          "final_reading": 5204,
+          "tons": 237
+        },
+        "day_total": 720
+      },
+      "dearator_steam_consumption": null,
+      "bed_material_consumption": null,
+      "bd_of_bed_material": "1249 kg/m3"
+    }
+  }
+}

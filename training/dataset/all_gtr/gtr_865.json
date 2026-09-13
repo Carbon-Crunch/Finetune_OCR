@@ -1,0 +1,80 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 270
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "865",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "12/12/2025"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": null,
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": null,
+              "unit": null
+            },
+            "kwh": {
+              "value": "3358",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": "4668",
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": null,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": null,
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

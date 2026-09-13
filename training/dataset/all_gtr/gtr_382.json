@@ -1,0 +1,350 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "date_of_receipt": "07/10/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Reyansh Corporations (Coal)",
+        "truck_vehicle_no": "RJ07GD6116",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 3650,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41.97,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "06/11/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Reyansh Corporations (Coal)",
+        "truck_vehicle_no": "RJ07GD7116",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 3600,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 16.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41.88,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "31/12/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Northern Coal Fields Ltd. (Coal)",
+        "truck_vehicle_no": "UP448T3121",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 3600,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 40.43,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "19/10/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Singhal Traders (Bagasse)",
+        "truck_vehicle_no": "Tractor Traly",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 1900,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 44.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 4.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 7.09,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "27/11/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Singhal Traders (Bagasse)",
+        "truck_vehicle_no": "Tractor Traly",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 1850,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 45.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 5.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 14.35,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "30/12/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Shree Narayan Chemicals (Bagasse)",
+        "truck_vehicle_no": "Tractor Traly",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 1800,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 45.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 3.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 6.77,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "17/11/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Anjani Traders (Rice Husk)",
+        "truck_vehicle_no": "UP21BN3541",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 3000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 8.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 9.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 16.93,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "22/11/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Singhal Traders (Rice Husk)",
+        "truck_vehicle_no": "UP21BN5406",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 3000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 8.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 15.67,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "29/12/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Roshan Lal Ashok Kumar (Rice Husk)",
+        "truck_vehicle_no": "UP21CN2622",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 3100,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 9.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 11.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 9.12,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "02/10/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Baba Balaji Trading Company (RDF)",
+        "truck_vehicle_no": "HR63C1945",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 1500,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 43.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 22.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41.33,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "06/11/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "SBC Minerals Private Limited (RDF)",
+        "truck_vehicle_no": "HR58C2089",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 1500,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 44.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 27.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 37.45,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "24/12/2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Ashmeet Trading Company (RDF)",
+        "truck_vehicle_no": "PB11DD7051",
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": 1550,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 43.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 26.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 51.19,
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "838",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": null,
+        "entries": [
+          {
+            "sample_name": "Coal - Sample 1",
+            "date_period": "24/06/2024",
+            "sample_quantity": "40.98",
+            "moisture_content": "12.19%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "4170",
+            "ash_content": "12.19%",
+            "supplier_name": "Sainson Enterprises - PB13BD-5687",
+            "operator_name": null,
+            "remarks": null
+          },
+          {
+            "sample_name": "Coal - Sample 2",
+            "date_period": "15/07/2024",
+            "sample_quantity": "34.92",
+            "moisture_content": "13.57%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "4525",
+            "ash_content": "13.57%",
+            "supplier_name": "Sainson Enterprises - UP22T-9163",
+            "operator_name": null,
+            "remarks": null
+          },
+          {
+            "sample_name": "Coal - Sample 3",
+            "date_period": "23/08/2024",
+            "sample_quantity": "29.66",
+            "moisture_content": "11.25%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3766",
+            "ash_content": "11.25%",
+            "supplier_name": "Janki Cokes Traders (P) Ltd - UP45T-7198",
+            "operator_name": null,
+            "remarks": null
+          },
+          {
+            "sample_name": "Rice Husk - Sample 1",
+            "date_period": "27/04/2024",
+            "sample_quantity": "21.08",
+            "moisture_content": "8.52%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3483",
+            "ash_content": "8.52%",
+            "supplier_name": "Kashish Traders - UP21CM-9673",
+            "operator_name": null,
+            "remarks": null
+          },
+          {
+            "sample_name": "Rice Husk - Sample 2",
+            "date_period": "05/07/2024",
+            "sample_quantity": "10.76",
+            "moisture_content": "7.68%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3495",
+            "ash_content": "7.68%",
+            "supplier_name": "A.J. Traders - UP21CK-7506",
+            "operator_name": null,
+            "remarks": null
+          },
+          {
+            "sample_name": "Rice Husk - Sample 3",
+            "date_period": "04/12/2024",
+            "sample_quantity": "11.24",
+            "moisture_content": "8.25%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3425",
+            "ash_content": "8.25%",
+            "supplier_name": "Maa Shakumbhari Traders - UK18C-O138",
+            "operator_name": null,
+            "remarks": null
+          },
+          {
+            "sample_name": "Non Recycled Solid Waste - Sample 1",
+            "date_period": "02/04/2024",
+            "sample_quantity": "8.66",
+            "moisture_content": "9.00%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3325",
+            "ash_content": "9.00%",
+            "supplier_name": "Banwari Paper Mill Limited - UK18F-9283",
+            "operator_name": null,
+            "remarks": null
+          },
+          {
+            "sample_name": "Non Recycled Solid Waste - Sample 2",
+            "date_period": "13/10/2024",
+            "sample_quantity": "11.32",
+            "moisture_content": "8.00%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3425",
+            "ash_content": "8.00%",
+            "supplier_name": "Katyayini Paper Mills Pvt. Ltd. - UP22AZ2349",
+            "operator_name": null,
+            "remarks": null
+          },
+          {
+            "sample_name": "Non Recycled Solid Waste - Sample 3",
+            "date_period": "09/12/2024",
+            "sample_quantity": "7.46",
+            "moisture_content": "8.00%",
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": "3443",
+            "ash_content": "8.00%",
+            "supplier_name": "Fibremarx Papers (P) Limited - UP21AY-8831",
+            "operator_name": null,
+            "remarks": null
+          }
+        ]
+      }
+    }
+  ]
+}

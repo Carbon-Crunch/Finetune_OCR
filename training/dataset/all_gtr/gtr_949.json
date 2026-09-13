@@ -1,0 +1,39 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "document_title": "Data Collection Checklist for Renewable Consumption Obligation",
+  "document_type": "Data Collection Checklist",
+  "company_name": "The Baghpat Co-operative Sugar Mills Ltd",
+  "location": "Meerut Road, Baghpat 250609 U.P.",
+  "additional_fields": {
+    "authorised_person": "S.K. Verma",
+    "designation": "Chief Engineer",
+    "plant_head_name": "Sri Pradeep Kumar",
+    "no_of_operational_days": "180 Days",
+    "boiler_details": {
+      "no_of_boilers": "03 Nos",
+      "boiler_size_capacity": "20 Ton, 30 Ton, 30 Ton (21 kg/cm²)"
+    },
+    "dg_details": {
+      "no_of_dg": "04 Nos",
+      "dg_size": "62.5 KVA, 200 KVA, 320 KVA, 380 KVA"
+    },
+    "turbine_details": {
+      "no_of_turbine": "02 Nos",
+      "turbine_size": "1.5 MW each"
+    },
+    "production_capacity": {
+      "installed_production_capacity": "25000 Qtls Per Day",
+      "installed_crushing_capacity": "2500 TPD",
+      "no_of_machines_lines": "100 Nos",
+      "major_products": "White Sugar, All Machinery"
+    },
+    "other_info": {
+      "total_working_days": null,
+      "production_capacity_distillery": "Distillery (NA)",
+      "grid_contract_demand": null,
+      "whr": null,
+      "solar": null
+    }
+  }
+}

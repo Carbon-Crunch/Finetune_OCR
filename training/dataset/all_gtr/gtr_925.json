@@ -1,0 +1,45 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "925",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "SRVWP24250001090"
+        },
+        "invoice_date": {
+          "value": "17-08-2024"
+        },
+        "supplier_name": "MAHESHWARI LOGISTICS LIMITED-TRADE DIVISION",
+        "supplier_gstin": "24AAECM8332N4Z3",
+        "buyer_name": "MAHESHWARI LOGISTICS LIMITED - PAPER DIVISION",
+        "buyer_gstin": "24AAECM8332N1Z6",
+        "total_amount": {
+          "value": "45570.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "WASTE PAPER",
+            "material_description": "KRAFT",
+            "item_code": null,
+            "hsn_sac": "47079000",
+            "quantity": {
+              "value": "2.48",
+              "unit": "MTS"
+            },
+            "gross_amount": {
+              "value": "43400.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

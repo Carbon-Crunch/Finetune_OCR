@@ -1,0 +1,67 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "AGREEMENT",
+    "document_type": "Electricity and Steam Supply Agreement",
+    "report_period": {
+      "value": "From 1st April, 2015 till cancellation"
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "1st April, 2015"
+    },
+    "supplier_name": "M/s Dev Priya Papers Pvt. Ltd.",
+    "customer_name": "M/s Dev Priya Industries Pvt. Ltd.",
+    "company_name": "Dev Priya Papers Pvt. Ltd. / Dev Priya Industries Pvt. Ltd.",
+    "plant_name": "Village Saini, 8th KM Mawana Road, Meerut",
+    "location": "Meerut (U.P.)",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Supply of Electricity and Steam",
+        "remarks": "Supplied through Cables and Pipe Lines from DPPL to DPIPL",
+        "quantity": null,
+        "amount": null
+      }
+    ],
+    "additional_fields": {
+      "first_party": "M/s Dev Priya Papers Pvt. Ltd.",
+      "first_party_director": "Shri Suresh Chand Gupta",
+      "second_party": "M/s Dev Priya Industries Pvt. Ltd.",
+      "second_party_director": "Shri Amit Gupta",
+      "governing_law": "Arbitration under the provisions of the India Arbitration and Conciliation Act 1996",
+      "jurisdiction": "District Meerut",
+      "witness_1": "Deepak Kumar Goyal",
+      "witness_2": "Praveen Sharma"
+    }
+  }
+}

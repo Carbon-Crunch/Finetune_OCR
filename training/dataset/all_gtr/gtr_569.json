@@ -1,0 +1,434 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "Oct-24, Nov-24, Dec-24"
+    },
+    "entries": [
+      {
+        "fuel_name": "IMPOTED COAL",
+        "date_period": "Oct-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "0.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "IND. COAL",
+        "date_period": "Oct-24",
+        "opening_balance": {
+          "value": "3378.920",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "12045.710",
+          "unit": null
+        },
+        "consumption": {
+          "value": "10620.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "4804.630",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "FIRE WOOD",
+        "date_period": "Oct-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "0.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "R/HUSK",
+        "date_period": "Oct-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "0.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Baggase",
+        "date_period": "Oct-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "0.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "RDF",
+        "date_period": "Oct-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "1422.315",
+          "unit": null
+        },
+        "consumption": {
+          "value": "415.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "1007.315",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "date_period": "Oct-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "309.180",
+          "unit": null
+        },
+        "consumption": {
+          "value": "309.180",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "IMPOTED COAL",
+        "date_period": "Nov-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "0.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "IND. COAL",
+        "date_period": "Nov-24",
+        "opening_balance": {
+          "value": "4804.630",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "10072.525",
+          "unit": null
+        },
+        "consumption": {
+          "value": "9605.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "5272.155",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "FIRE WOOD",
+        "date_period": "Nov-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "0.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "R/HUSK",
+        "date_period": "Nov-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "560.400",
+          "unit": null
+        },
+        "consumption": {
+          "value": "380.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "180.400",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Baggase",
+        "date_period": "Nov-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "2113.080",
+          "unit": null
+        },
+        "consumption": {
+          "value": "1900.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "213.080",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "RDF",
+        "date_period": "Nov-24",
+        "opening_balance": {
+          "value": "1007.315",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "279.760",
+          "unit": null
+        },
+        "consumption": {
+          "value": "555.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "732.075",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "date_period": "Nov-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "1247.520",
+          "unit": null
+        },
+        "consumption": {
+          "value": "1125.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "122.520",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "IMPOTED COAL",
+        "date_period": "Dec-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "0.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "IND. COAL",
+        "date_period": "Dec-24",
+        "opening_balance": {
+          "value": "5272.155",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "5486.530",
+          "unit": null
+        },
+        "consumption": {
+          "value": "7763.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "2995.685",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "FIRE WOOD",
+        "date_period": "Dec-24",
+        "opening_balance": {
+          "value": "0.000",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "0.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "R/HUSK",
+        "date_period": "Dec-24",
+        "opening_balance": {
+          "value": "180.400",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "900.645",
+          "unit": null
+        },
+        "consumption": {
+          "value": "981.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "100.045",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Baggase",
+        "date_period": "Dec-24",
+        "opening_balance": {
+          "value": "213.080",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "1351.210",
+          "unit": null
+        },
+        "consumption": {
+          "value": "1564.290",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "RDF",
+        "date_period": "Dec-24",
+        "opening_balance": {
+          "value": "732.075",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "0.000",
+          "unit": null
+        },
+        "consumption": {
+          "value": "310.000",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "422.075",
+          "unit": null
+        }
+      },
+      {
+        "fuel_name": "Mustard Shell",
+        "date_period": "Dec-24",
+        "opening_balance": {
+          "value": "122.520",
+          "unit": null
+        },
+        "received_quantity": {
+          "value": "3378.580",
+          "unit": null
+        },
+        "consumption": {
+          "value": "3501.100",
+          "unit": null
+        },
+        "closing_balance": {
+          "value": "0.000",
+          "unit": null
+        }
+      }
+    ]
+  }
+}

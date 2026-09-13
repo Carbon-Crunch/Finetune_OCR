@@ -1,0 +1,42 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "30/09/2021"
+    },
+    "entries": [
+      {
+        "sample_name": "Coal (6/20)",
+        "date_period": "22/07/2021",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 18.51,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": 39.72,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": 36.73,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": 5084,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 5.04,
+          "unit": "%"
+        },
+        "supplier_name": "Kajaria Ceramics Ltd.",
+        "operator_name": "Mitra S.K. Private Limited",
+        "remarks": "Sample not drawn by us. Crushed Sealed Marked Pulp Sample Ready to Analyse"
+      }
+    ]
+  }
+}

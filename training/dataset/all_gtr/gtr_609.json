@@ -1,0 +1,105 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "14/May/2024"
+    },
+    "supplier_name": "GENUS PAPER AND BOARDS GENUS DIRECT LTD (CUST) MZN",
+    "entries": [
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "30.050",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "MT",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "189315.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "27.310",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "MT",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "172053.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "26.640",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "MT",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "167832.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "26.460",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "MT",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "166698.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "44.165",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "MT",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "278239.50",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

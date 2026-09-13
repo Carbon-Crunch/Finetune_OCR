@@ -1,0 +1,168 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Renewable Consumption Obligation (RCO)",
+    "document_type": "Data Collection Checklist",
+    "entries": [
+      {
+        "item_description": "Consent to Operate (CTO)"
+      },
+      {
+        "item_description": "Consent to Establish (CTE)"
+      },
+      {
+        "item_description": "Electricity Bills (Grid)"
+      },
+      {
+        "item_description": "Electricity Consumption Report"
+      },
+      {
+        "item_description": "Electricity Generation Data and logbook"
+      },
+      {
+        "item_description": "Electricity Sale Report (if any)"
+      },
+      {
+        "item_description": "Auxiliary Power Consumption"
+      },
+      {
+        "item_description": "Backup Generator/DG/GG Consumption (if any)"
+      },
+      {
+        "item_description": "Purchase Agreement for Power (OA/CPP/DRE)"
+      },
+      {
+        "item_description": "Electricity Generation from WHR (if any) - Fossil Based"
+      },
+      {
+        "item_description": "Electricity Generation from WHR (if any) - Non-Fossil Based"
+      },
+      {
+        "item_description": "RE Energy Data - Wind (if any)"
+      },
+      {
+        "item_description": "RE Energy Data - Solar (if any)"
+      },
+      {
+        "item_description": "RE Energy Data - Hydro (if any)"
+      },
+      {
+        "item_description": "Other RE Energy Data (like DRE, Energy Storage etc) (if any)"
+      },
+      {
+        "item_description": "Stock Report - Purchase, Sale, Consumption and Proof of Weight"
+      },
+      {
+        "item_description": "Proof of Purchase of Fuel (GST purchase bills) or Proof of Weight of Stock"
+      },
+      {
+        "item_description": "GCV Certificate of all raw materials (External)"
+      },
+      {
+        "item_description": "Internal Bomb Calorimeter Reading (Log books) or GCV certificate by internal Laboratory"
+      },
+      {
+        "item_description": "Natural Gas/LPG/PNG - Consumption"
+      },
+      {
+        "item_description": "Natural Gas/LPG/PNG - Purchase"
+      },
+      {
+        "item_description": "Natural Gas/LPG/PNG - Proof of Purchase (GST Bills)"
+      },
+      {
+        "item_description": "Steam Report"
+      },
+      {
+        "item_description": "Boiler/Hot Air Generator Log Book - Photocopy"
+      },
+      {
+        "item_description": "Spray Dryer Log Book - Photocopy"
+      },
+      {
+        "item_description": "Kiln Log Book - Photocopy"
+      },
+      {
+        "item_description": "Dryer Log Book - Photocopy"
+      },
+      {
+        "item_description": "Press line (Hydraulic Presses) Log Book - Photocopy"
+      },
+      {
+        "item_description": "Polishing & Finishing Section Log Book - Photocopy"
+      },
+      {
+        "item_description": "Compressed air system Log Book - Photocopy"
+      },
+      {
+        "item_description": "Chiller or Cooling Tower Log Book - Photocopy"
+      },
+      {
+        "item_description": "Any other energy consumption/generation machine applicable"
+      },
+      {
+        "item_description": "Spray Dryer"
+      },
+      {
+        "item_description": "Kiln Section"
+      },
+      {
+        "item_description": "Dryer Section"
+      },
+      {
+        "item_description": "Press Line (Hydraulic Press)"
+      },
+      {
+        "item_description": "Polishing & Finishing Section"
+      },
+      {
+        "item_description": "Boiler/Hot air generator"
+      },
+      {
+        "item_description": "Compressed Air System"
+      },
+      {
+        "item_description": "Effluent / Water Treatment Plant (ETP/STP)"
+      },
+      {
+        "item_description": "Waste heat recovery"
+      }
+    ]
+  }
+}

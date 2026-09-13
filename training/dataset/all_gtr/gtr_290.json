@@ -1,0 +1,138 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Renewable Consumption Obligation (RCO) Data Collection Checklist",
+    "document_type": "Data Collection Checklist",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Consent to Operate (CTO)",
+        "entry_id": "1"
+      },
+      {
+        "item_description": "GCV Certificate of all raw materials (External) OR Internal Bomb Calorimeter Reading (Logbook) or GCV certificate by internal Laboratory",
+        "entry_id": "2"
+      },
+      {
+        "item_description": "Electricity Bills (Grid)",
+        "entry_id": "3"
+      },
+      {
+        "item_description": "Electricity Consumption Report",
+        "entry_id": "4"
+      },
+      {
+        "item_description": "Electricity Generation Data and logbook",
+        "entry_id": "5"
+      },
+      {
+        "item_description": "Electricity Sale Report (if any)",
+        "entry_id": "6"
+      },
+      {
+        "item_description": "Auxiliary Power Consumption",
+        "entry_id": "7"
+      },
+      {
+        "item_description": "Stock Report (All Fuel Source - Coal, Bagasse, Diesel, Natural Gas, or any other) - Purchase, Sale, Consumption and Proof of Weight",
+        "entry_id": "8"
+      },
+      {
+        "item_description": "Proof of Purchase of Fuel (GST purchase bills) or Proof of Weight of Stock (external party - Digital Bill)",
+        "entry_id": "9"
+      },
+      {
+        "item_description": "Backup Generator/DG",
+        "entry_id": "10"
+      },
+      {
+        "item_description": "Process Flow Diagram for the plant",
+        "entry_id": "11"
+      },
+      {
+        "item_description": "RE Energy Data - Wind (if any)",
+        "entry_id": "12"
+      },
+      {
+        "item_description": "RE Energy Data - Solar (if any)",
+        "entry_id": "13"
+      },
+      {
+        "item_description": "RE Energy Data - Hydro (if any)",
+        "entry_id": "14"
+      },
+      {
+        "item_description": "Other RE Energy Data (if any)",
+        "entry_id": "15"
+      },
+      {
+        "item_description": "Electricity Generation from WHR (if any)",
+        "entry_id": "16"
+      },
+      {
+        "item_description": "Steam Report",
+        "entry_id": "17"
+      },
+      {
+        "item_description": "Boiler Log Book - Photocopy",
+        "entry_id": "18"
+      },
+      {
+        "item_description": "Renewable Energy Credits (RECs) History",
+        "entry_id": "19"
+      },
+      {
+        "item_description": "Surplus Energy to Grid (if applicable)",
+        "entry_id": "20"
+      },
+      {
+        "item_description": "Tariff/Subsidy Framework (if applicable)",
+        "entry_id": "21"
+      }
+    ],
+    "additional_fields": {}
+  }
+}

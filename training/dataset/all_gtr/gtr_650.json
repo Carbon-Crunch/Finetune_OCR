@@ -1,0 +1,427 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "750 KVA D.G. NO. 2 Log Book",
+  "document_type": "Log book, Electricity Generation",
+  "report_period": {
+    "value": "24/7/24"
+  },
+  "company_name": "GENUS PAPER & BOARDS LTD.",
+  "location": "8th Km., Jansath Road, Muzaffarnagar-251 001 (U.P.)",
+  "entries": [
+    {
+      "timestamp": "08:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 416
+      },
+      "kvah": {
+        "value": 425
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "09:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 416
+      },
+      "kvah": {
+        "value": 700
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "10:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 416
+      },
+      "kvah": {
+        "value": 650
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "11:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 600
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "12:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 416
+      },
+      "kvah": {
+        "value": 500
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "13:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 500
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "14:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 416
+      },
+      "kvah": {
+        "value": 510
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "15:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 520
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "16:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 500
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "17:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 550
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "18:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 500
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "19:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 500
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "20:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 520
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "21:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 500
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "22:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 500
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "23:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 490
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "00:00",
+      "meter_reading_left": {
+        "value": 25
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 450
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "01:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 350
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "02:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 450
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "03:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 450
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "04:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 420
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "05:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 450
+      },
+      "amd": {
+        "value": 50
+      }
+    },
+    {
+      "timestamp": "06:00",
+      "meter_reading_left": {
+        "value": 24
+      },
+      "meter_reading_right": {
+        "value": 150
+      },
+      "kwh": {
+        "value": 415
+      },
+      "kvah": {
+        "value": 400
+      },
+      "amd": {
+        "value": 50
+      }
+    }
+  ]
+}

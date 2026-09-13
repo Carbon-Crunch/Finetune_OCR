@@ -1,0 +1,350 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Quality Summary",
+  "extraction_rules": "This is a tabular quality summary. Extract EVERY row from the table into the entries array. Each object in entries represents one supplier or quality record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "July 2024"
+    },
+    "entries": [
+      {
+        "supplier_name": "COAL VARAHASI & BIHAR",
+        "weighted_gcv": {
+          "value": 3737,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "COAL VARAHASI & BIHAR",
+        "weighted_gcv": {
+          "value": 3747,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "COAL VARAHASI & BIHAR",
+        "weighted_gcv": {
+          "value": 3850,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 40,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "COAL VARAHASI & BIHAR",
+        "weighted_gcv": {
+          "value": 3850,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 39,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3554,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3612,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3721,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3564,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3648,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3574,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3593,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3611,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3400,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 50,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3500,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3512,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3590,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3612,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3600,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3497,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3650,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 44,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3586,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 48,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3602,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3589,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3599,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3621,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3621,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 46,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3497,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 50,
+          "unit": "%"
+        }
+      },
+      {
+        "supplier_name": "VARAHASI COAL",
+        "weighted_gcv": {
+          "value": 3617,
+          "unit": "kcal/kg"
+        },
+        "weighted_moisture": null,
+        "weighted_ash": {
+          "value": 47,
+          "unit": "%"
+        }
+      }
+    ]
+  }
+}

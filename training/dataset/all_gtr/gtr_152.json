@@ -1,0 +1,25 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "September 2024"
+    },
+    "entries": [
+      {
+        "date_period": "Sep 2024",
+        "consumption": {
+          "value": "3133.97",
+          "unit": "MWh"
+        },
+        "net_generation": {
+          "value": "3133.97",
+          "unit": "MWh"
+        }
+      }
+    ]
+  }
+}

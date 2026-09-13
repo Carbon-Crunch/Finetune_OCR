@@ -1,0 +1,28 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "11/10/2024"
+  },
+  "supplier_name": "RAJARSHI PETROLEUM CORPORATION",
+  "entries": [
+    {
+      "item_description": "DIESEL",
+      "material_description": "DIESEL",
+      "item_code": null,
+      "hsn_sac": "VAT",
+      "quantity": {
+        "value": "1700.00",
+        "unit": "LITRES"
+      },
+      "units": {
+        "value": null,
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "133973.02",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

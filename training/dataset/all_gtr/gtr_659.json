@@ -1,0 +1,111 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "GENERATION AND CONSUMPTION REPORT",
+  "document_type": "Log book, Electricity Generation/Consumption",
+  "report_period": {
+    "value": "09.DEC.2024"
+  },
+  "company_name": "Genus Paper And Boards Ltd.",
+  "location": "Aghwanpur, Kanth Road, Moradabad",
+  "entries": [
+    {
+      "item_description": "6 M.W TURBINE",
+      "generation": {
+        "value": "0",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "9 M.W TURBINE",
+      "generation": {
+        "value": "191800",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "1 M.W D G",
+      "generation": {
+        "value": "0",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "UTILITY",
+      "consumption": {
+        "value": "25033",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "PAPER M/C NO 1",
+      "consumption": {
+        "value": "35490",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "PAPER M/C NO 2",
+      "consumption": {
+        "value": "59329",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "PULP MILL NO 1",
+      "consumption": {
+        "value": "16104",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "PULP MILL NO 2",
+      "consumption": {
+        "value": "51955",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "E.T.P",
+      "consumption": {
+        "value": "2587",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "SUNDRY PLANT",
+      "consumption": {
+        "value": "126",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "BOARD PLANT",
+      "consumption": {
+        "value": "64",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "P.LIGHTING",
+      "consumption": {
+        "value": "1032",
+        "unit": "kWh"
+      }
+    },
+    {
+      "item_description": "GUEST HOUSE",
+      "consumption": {
+        "value": "80",
+        "unit": "kWh"
+      }
+    }
+  ],
+  "additional_fields": {
+    "net_power": {
+      "value": "166767",
+      "unit": "kWh"
+    },
+    "off_utility_load_percentage": "13.05%"
+  }
+}

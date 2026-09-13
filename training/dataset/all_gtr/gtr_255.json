@@ -1,0 +1,36 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "1-Apr-25 to 30-Jun-25",
+  "entries": [
+    {
+      "fuel_name": "COAL",
+      "fuel_type": null,
+      "date_period": "1-Apr-25 to 30-Jun-25",
+      "opening_balance": {
+        "value": null,
+        "unit": null
+      },
+      "received_quantity": {
+        "value": null,
+        "unit": null
+      },
+      "inwards": {
+        "value": 625.27,
+        "unit": "MT"
+      },
+      "outwards": {
+        "value": 10.0,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": null,
+        "unit": null
+      },
+      "closing_balance": {
+        "value": 615.27,
+        "unit": "MT"
+      }
+    }
+  ]
+}

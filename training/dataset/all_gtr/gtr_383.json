@@ -1,0 +1,314 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "January - March 2025"
+    },
+    "entries": [
+      {
+        "sample_name": "COAL",
+        "date_period": "29/01/2025",
+        "sample_quantity": {
+          "value": 42170.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3650.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "supplier_name": "Reyansh Corporations",
+        "operator_name": null,
+        "remarks": "Truck no.-RJ32GC1078, Bill no-GUJ/24-25/268, Date-22/01/2025, Qty-42170.00 kg"
+      },
+      {
+        "sample_name": "COAL",
+        "date_period": "02/02/2025",
+        "sample_quantity": {
+          "value": 38700.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3600.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "supplier_name": "Northern Coal Fields Ltd.",
+        "operator_name": null,
+        "remarks": "Truck no.-HR62AS252, Bill no-RD1220007799, Date-29/01/2025, Qty-38700.00 kg"
+      },
+      {
+        "sample_name": "COAL",
+        "date_period": "24/03/2025",
+        "sample_quantity": {
+          "value": 40490.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3600.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 14.5,
+          "unit": "%"
+        },
+        "supplier_name": "Northern Coal Fields Ltd.",
+        "operator_name": null,
+        "remarks": "Truck no.-RJ52GA5281, Bill no-RD1220010307, Date-21/03/2025, Qty-40490.00 kg"
+      },
+      {
+        "sample_name": "Bagasse",
+        "date_period": "10/01/2025",
+        "sample_quantity": {
+          "value": 4940.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 46.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1900.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 4.0,
+          "unit": "%"
+        },
+        "supplier_name": "Shree Narayan Chemicals",
+        "operator_name": null,
+        "remarks": "Truck no.-Tractor Traly, Bill no-928, Date-09/01/2025, Qty-4940.00 kg"
+      },
+      {
+        "sample_name": "Bagasse",
+        "date_period": "08/02/2025",
+        "sample_quantity": {
+          "value": 5690.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 45.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1950.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 4.5,
+          "unit": "%"
+        },
+        "supplier_name": "Nandi Trading Company",
+        "operator_name": null,
+        "remarks": "Truck no.-Tractor Traly, Bill no-TI/24-25/848, Date-08/02/2025, Qty-5690.00 kg"
+      },
+      {
+        "sample_name": "Bagasse",
+        "date_period": "29/03/2025",
+        "sample_quantity": {
+          "value": 8585.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 44.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1900.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 4.0,
+          "unit": "%"
+        },
+        "supplier_name": "Shree Narayan Chemicals",
+        "operator_name": null,
+        "remarks": "Truck no.-Tractor Traly, Bill no-1061, Date-29/03/2025, Qty-8585.00 kg"
+      },
+      {
+        "sample_name": "Rice Husk",
+        "date_period": "03/01/2025",
+        "sample_quantity": {
+          "value": 25970.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 8.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3100.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 10.0,
+          "unit": "%"
+        },
+        "supplier_name": "Anjani Traders",
+        "operator_name": null,
+        "remarks": "Truck no.-UK04CA9504, Bill no-AT/24-25/563, Date-03/01/2025, Qty-25970.00 kg"
+      },
+      {
+        "sample_name": "Rice Husk",
+        "date_period": "07/02/2025",
+        "sample_quantity": {
+          "value": 21540.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 7.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3000.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 11.0,
+          "unit": "%"
+        },
+        "supplier_name": "A.M International",
+        "operator_name": null,
+        "remarks": "Truck no.-UP12AT5927, Bill no-BOSS/24-25/900, Date-06/02/2025, Qty-21540.00 kg"
+      },
+      {
+        "sample_name": "Rice Husk",
+        "date_period": "30/03/2025",
+        "sample_quantity": {
+          "value": 25350.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 7.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3050.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 11.0,
+          "unit": "%"
+        },
+        "supplier_name": "A.M International",
+        "operator_name": null,
+        "remarks": "Truck no.-UP34BT7535, Bill no-BOSS/24-25/1138, Date-29/03/2025, Qty-25350.00 kg"
+      },
+      {
+        "sample_name": "RDF",
+        "date_period": "01/01/2025",
+        "sample_quantity": {
+          "value": 42830.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 44.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1550.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 28.0,
+          "unit": "%"
+        },
+        "supplier_name": "Roshan Lal Ashok Kumar",
+        "operator_name": null,
+        "remarks": "Truck no.-HR38AG1627, Bill no-RLAK/24-25/822, Date-01/01/2025, Qty-42830.00 kg"
+      },
+      {
+        "sample_name": "RDF",
+        "date_period": "20/02/2025",
+        "sample_quantity": {
+          "value": 36530.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 43.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1500.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 29.0,
+          "unit": "%"
+        },
+        "supplier_name": "Shree Mukteshwar Traders",
+        "operator_name": null,
+        "remarks": "Truck no.-HR45C2200, Bill no-2024-25/659, Date-20/02/2025, Qty-36530.00 kg"
+      },
+      {
+        "sample_name": "RDF",
+        "date_period": "29/03/2025",
+        "sample_quantity": {
+          "value": 40140.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 42.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1500.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 28.0,
+          "unit": "%"
+        },
+        "supplier_name": "A.S Enterprises",
+        "operator_name": null,
+        "remarks": "Truck no.-HR38AE9046, Bill no-17, Date-29/03/2025, Qty-40140.00 kg"
+      }
+    ]
+  }
+}

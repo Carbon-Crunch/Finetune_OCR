@@ -1,0 +1,28 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice",
+  "invoice_date": "31/03/2025",
+  "supplier_name": "YAJUR COMTRADE PVT LTD",
+  "entries": [
+    {
+      "item_description": "STEAM COAL",
+      "material_description": "STEAM COAL",
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "38000",
+        "unit": "Kgs"
+      },
+      "units": {
+        "value": null,
+        "unit": "Kgs"
+      },
+      "gross_amount": {
+        "value": null,
+        "unit": "Rs."
+      }
+    }
+  ]
+}

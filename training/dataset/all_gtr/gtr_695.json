@@ -1,0 +1,510 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Production & Operational, Energy",
+  "data_category": "Log book, Electricity Generation/Consumption",
+  "boilerplate": "energy/hand_written_power_log.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "July-2024"
+    },
+    "entries": [
+      {
+        "date_period": "01.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "81875.30",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19119.1",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "57000",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "02.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "81875.30",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19119.1",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "03.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "81875.30",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19119.1",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "04.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "81875.30",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19119.1",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "05.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "81918.10",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19125.1",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "42800",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "06.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "81974.20",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19135.8",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "56100",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "07.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "81974.20",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19135.8",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "08.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82017.70",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19142.6",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "43500",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "09.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82071.20",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19152.5",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "53500",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "10.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82071.20",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19152.5",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "11.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82125.60",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19162.5",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "54400",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "12.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82179.40",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19172.7",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "53800",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "13.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82234.60",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19183.3",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "55200",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "14.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82290.90",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19194.1",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "56300",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "15.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82352.50",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19205.9",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "61600",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "16.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82411.70",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19217.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "59200",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "17.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82466.10",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19227.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "54400",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "18.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82519.30",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19236.9",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "53200",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82577.70",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19248.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "58400",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "20.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82632.20",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19258.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "54500",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "21.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82632.20",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19258.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "22.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82686.00",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19268.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "53800",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "23.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82686.00",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19268.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "24.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82686.00",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19268.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "25.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82686.00",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19268.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "26.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82704.40",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19271.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "18400",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "27.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82762.40",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19282.0",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "58000",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "28.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82817.60",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19292.2",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "55200",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "29.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82873.30",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19302.8",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "55700",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "30.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82928.90",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19313.3",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "55600",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "31.07.2024",
+        "shift": null,
+        "meter_reading_left": {
+          "value": "82973.80",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "19320.3",
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": "44900",
+          "unit": null
+        }
+      }
+    ]
+  }
+}

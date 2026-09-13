@@ -1,0 +1,110 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024"
+    },
+    "entries": [
+      {
+        "sample_name": "April",
+        "date_period": "April",
+        "gcv": {
+          "value": 3150,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "May",
+        "date_period": "May",
+        "gcv": {
+          "value": 3142,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "June",
+        "date_period": "June",
+        "gcv": {
+          "value": 3098,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "July",
+        "date_period": "July",
+        "gcv": {
+          "value": 2733,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "August",
+        "date_period": "August",
+        "gcv": {
+          "value": 2780,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "September",
+        "date_period": "September",
+        "gcv": {
+          "value": 2853,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "October",
+        "date_period": "October",
+        "gcv": {
+          "value": 2946,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "November",
+        "date_period": "November",
+        "gcv": {
+          "value": 2742,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "December",
+        "date_period": "December",
+        "gcv": {
+          "value": 3019,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "January",
+        "date_period": "January",
+        "gcv": {
+          "value": 3035,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "February",
+        "date_period": "February",
+        "gcv": {
+          "value": 3078,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "March",
+        "date_period": "March",
+        "gcv": {
+          "value": 3108,
+          "unit": "kcal/kg"
+        }
+      }
+    ]
+  }
+}

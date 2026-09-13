@@ -1,0 +1,911 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array.",
+  "extracted_fields": {
+    "document_title": "APRIL 2024",
+    "document_type": "Plant Consumption and Loss Report",
+    "company_name": "Det Priya Products Pvt. Ltd.",
+    "location": "MEERUT",
+    "entries": [
+      {
+        "date_period": "1",
+        "plant_name": "237500",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28180",
+              "unit": null
+            },
+            "inwards": {
+              "value": "71890",
+              "unit": null
+            },
+            "outwards": {
+              "value": "47080",
+              "unit": null
+            },
+            "balance": {
+              "value": "89410",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "137290",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "140",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "2",
+        "plant_name": "345900",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28540",
+              "unit": null
+            },
+            "inwards": {
+              "value": "75580",
+              "unit": null
+            },
+            "outwards": {
+              "value": "47820",
+              "unit": null
+            },
+            "balance": {
+              "value": "93820",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "141640",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "140",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "3",
+        "plant_name": "237200",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28580",
+              "unit": null
+            },
+            "inwards": {
+              "value": "75400",
+              "unit": null
+            },
+            "outwards": {
+              "value": "48850",
+              "unit": null
+            },
+            "balance": {
+              "value": "84260",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "133110",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "180",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "4",
+        "plant_name": "236360",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28680",
+              "unit": null
+            },
+            "inwards": {
+              "value": "74270",
+              "unit": null
+            },
+            "outwards": {
+              "value": "43960",
+              "unit": null
+            },
+            "balance": {
+              "value": "89260",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "133220",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "130",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "5",
+        "plant_name": "253000",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28760",
+              "unit": null
+            },
+            "inwards": {
+              "value": "78490",
+              "unit": null
+            },
+            "outwards": {
+              "value": "55020",
+              "unit": null
+            },
+            "balance": {
+              "value": "90600",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "145620",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "130",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "6",
+        "plant_name": "227600",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28000",
+              "unit": null
+            },
+            "inwards": {
+              "value": "76050",
+              "unit": null
+            },
+            "outwards": {
+              "value": "39020",
+              "unit": null
+            },
+            "balance": {
+              "value": "84410",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "123430",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "120",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "7",
+        "plant_name": "229100",
+        "entries": [
+          {
+            "consumption": {
+              "value": "27950",
+              "unit": null
+            },
+            "inwards": {
+              "value": "59640",
+              "unit": null
+            },
+            "outwards": {
+              "value": "52480",
+              "unit": null
+            },
+            "balance": {
+              "value": "89000",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "141480",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "130",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "8",
+        "plant_name": "228600",
+        "entries": [
+          {
+            "consumption": {
+              "value": "27820",
+              "unit": null
+            },
+            "inwards": {
+              "value": "60640",
+              "unit": null
+            },
+            "outwards": {
+              "value": "41990",
+              "unit": null
+            },
+            "balance": {
+              "value": "91150",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "133140",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "110",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "9",
+        "plant_name": "226900",
+        "entries": [
+          {
+            "consumption": {
+              "value": "27250",
+              "unit": null
+            },
+            "inwards": {
+              "value": "57780",
+              "unit": null
+            },
+            "outwards": {
+              "value": "50880",
+              "unit": null
+            },
+            "balance": {
+              "value": "89140",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "140020",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "120",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "10",
+        "plant_name": "224700",
+        "entries": [
+          {
+            "consumption": {
+              "value": "26980",
+              "unit": null
+            },
+            "inwards": {
+              "value": "59650",
+              "unit": null
+            },
+            "outwards": {
+              "value": "48690",
+              "unit": null
+            },
+            "balance": {
+              "value": "89630",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "141710",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "160",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "11",
+        "plant_name": "228600",
+        "entries": [
+          {
+            "consumption": {
+              "value": "27520",
+              "unit": null
+            },
+            "inwards": {
+              "value": "62110",
+              "unit": null
+            },
+            "outwards": {
+              "value": "52160",
+              "unit": null
+            },
+            "balance": {
+              "value": "86690",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "138850",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "120",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "12",
+        "plant_name": "192800",
+        "entries": [
+          {
+            "consumption": {
+              "value": "26440",
+              "unit": null
+            },
+            "inwards": {
+              "value": "61190",
+              "unit": null
+            },
+            "outwards": {
+              "value": "5870",
+              "unit": null
+            },
+            "balance": {
+              "value": "99240",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "105110",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "60",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "13",
+        "plant_name": "184800",
+        "entries": [
+          {
+            "consumption": {
+              "value": "26220",
+              "unit": null
+            },
+            "inwards": {
+              "value": "56810",
+              "unit": null
+            },
+            "outwards": {
+              "value": "3880",
+              "unit": null
+            },
+            "balance": {
+              "value": "97770",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "101650",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "120",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "14",
+        "plant_name": "208100",
+        "entries": [
+          {
+            "consumption": {
+              "value": "27320",
+              "unit": null
+            },
+            "inwards": {
+              "value": "54630",
+              "unit": null
+            },
+            "outwards": {
+              "value": "30170",
+              "unit": null
+            },
+            "balance": {
+              "value": "95780",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "125950",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "200",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "15",
+        "plant_name": "232000",
+        "entries": [
+          {
+            "consumption": {
+              "value": "27320",
+              "unit": null
+            },
+            "inwards": {
+              "value": "59390",
+              "unit": null
+            },
+            "outwards": {
+              "value": "46470",
+              "unit": null
+            },
+            "balance": {
+              "value": "98050",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "144520",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "150",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "16",
+        "plant_name": "243700",
+        "entries": [
+          {
+            "consumption": {
+              "value": "27940",
+              "unit": null
+            },
+            "inwards": {
+              "value": "71360",
+              "unit": null
+            },
+            "outwards": {
+              "value": "52150",
+              "unit": null
+            },
+            "balance": {
+              "value": "91860",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "144010",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "120",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "17",
+        "plant_name": "240200",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28210",
+              "unit": null
+            },
+            "inwards": {
+              "value": "73060",
+              "unit": null
+            },
+            "outwards": {
+              "value": "50470",
+              "unit": null
+            },
+            "balance": {
+              "value": "88240",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "138710",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "180",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "18",
+        "plant_name": "237400",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28250",
+              "unit": null
+            },
+            "inwards": {
+              "value": "72600",
+              "unit": null
+            },
+            "outwards": {
+              "value": "55320",
+              "unit": null
+            },
+            "balance": {
+              "value": "80110",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "135430",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "130",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "19",
+        "plant_name": "65900",
+        "entries": [
+          {
+            "consumption": {
+              "value": "29240",
+              "unit": null
+            },
+            "inwards": {
+              "value": "16140",
+              "unit": null
+            },
+            "outwards": {
+              "value": "17770",
+              "unit": null
+            },
+            "balance": {
+              "value": "22820",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "40590",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "40",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "20",
+        "plant_name": "142500",
+        "entries": [
+          {
+            "consumption": {
+              "value": "9130",
+              "unit": null
+            },
+            "inwards": {
+              "value": "42240",
+              "unit": null
+            },
+            "outwards": {
+              "value": "35200",
+              "unit": null
+            },
+            "balance": {
+              "value": "44880",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "80080",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "50",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "21",
+        "plant_name": "232300",
+        "entries": [
+          {
+            "consumption": {
+              "value": "20130",
+              "unit": null
+            },
+            "inwards": {
+              "value": "69000",
+              "unit": null
+            },
+            "outwards": {
+              "value": "44790",
+              "unit": null
+            },
+            "balance": {
+              "value": "89740",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "134530",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "110",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "22",
+        "plant_name": "231700",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28660",
+              "unit": null
+            },
+            "inwards": {
+              "value": "65510",
+              "unit": null
+            },
+            "outwards": {
+              "value": "50060",
+              "unit": null
+            },
+            "balance": {
+              "value": "88820",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "137360",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "80",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "23",
+        "plant_name": "247600",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28950",
+              "unit": null
+            },
+            "inwards": {
+              "value": "70040",
+              "unit": null
+            },
+            "outwards": {
+              "value": "59620",
+              "unit": null
+            },
+            "balance": {
+              "value": "89650",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "148440",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "160",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "24",
+        "plant_name": "251900",
+        "entries": [
+          {
+            "consumption": {
+              "value": "28960",
+              "unit": null
+            },
+            "inwards": {
+              "value": "72630",
+              "unit": null
+            },
+            "outwards": {
+              "value": "59670",
+              "unit": null
+            },
+            "balance": {
+              "value": "94760",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "151420",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "120",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "25",
+        "plant_name": "253100",
+        "entries": [
+          {
+            "consumption": {
+              "value": "29830",
+              "unit": null
+            },
+            "inwards": {
+              "value": "71580",
+              "unit": null
+            },
+            "outwards": {
+              "value": "56660",
+              "unit": null
+            },
+            "balance": {
+              "value": "88250",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "147410",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "110",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "26",
+        "plant_name": "244700",
+        "entries": [
+          {
+            "consumption": {
+              "value": "29990",
+              "unit": null
+            },
+            "inwards": {
+              "value": "67470",
+              "unit": null
+            },
+            "outwards": {
+              "value": "59160",
+              "unit": null
+            },
+            "balance": {
+              "value": "81510",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "144090",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "100",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "27",
+        "plant_name": "240700",
+        "entries": [
+          {
+            "consumption": {
+              "value": "29720",
+              "unit": null
+            },
+            "inwards": {
+              "value": "66120",
+              "unit": null
+            },
+            "outwards": {
+              "value": "62580",
+              "unit": null
+            },
+            "balance": {
+              "value": "82170",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "144950",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "130",
+              "unit": null
+            }
+          }
+        ]
+      },
+      {
+        "date_period": "28",
+        "plant_name": "248600",
+        "entries": [
+          {
+            "consumption": {
+              "value": "29760",
+              "unit": null
+            },
+            "inwards": {
+              "value": "68980",
+              "unit": null
+            },
+            "outwards": {
+              "value": "67380",
+              "unit": null
+            },
+            "balance": {
+              "value": "60740",
+              "unit": null
+            },
+            "net_weight": {
+              "value": "128290",
+              "unit": null
+            },
+            "opening_stock": {
+              "value": "180",
+              "unit": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

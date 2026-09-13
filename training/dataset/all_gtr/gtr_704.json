@@ -1,0 +1,42 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Daily Production Log",
+    "document_type": "Production Log",
+    "report_period": {
+      "value": "07-04-2024"
+    },
+    "entries": [
+      {
+        "shift": "A-SHIFT",
+        "date_period": "07-04-24",
+        "operator_name": "Kamlesh sharma, Sunil",
+        "production": {
+          "value": 7049.52,
+          "unit": "m^2"
+        },
+        "remarks": "Fired broken tiles 26 pic, 936, 18 Crack + 05 MoR + 03 Coolbubbles"
+      },
+      {
+        "shift": "B-SHIFT",
+        "date_period": "07-04-2024",
+        "operator_name": "Kamlesh yadav, Inderjeet",
+        "production": {
+          "value": 7038.78,
+          "unit": "m^2"
+        },
+        "remarks": "Fired broken tiles 60 pic + 21.60 m^2, 46 Crack + 05 MoR + 03 Lamination + 06 Cool bubbles"
+      }
+    ],
+    "additional_fields": {
+      "A_Shift_Gas_Consumption": "19592 (Production 6201)",
+      "B_Shift_Gas_Consumption": "19552 (Production 6201)",
+      "A_Shift_Gas_Reading": "931321-9340045 = 7165 (1.01)",
+      "B_Shift_Gas_Reading": "09353862-09343273 = 3228"
+    }
+  }
+}

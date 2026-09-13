@@ -1,0 +1,116 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "980",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "18/01/2025"
+        },
+        "entries": [
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "07:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "08:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "09:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "10:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "11:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "12:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "01:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "02:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "03:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "04:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "05:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "06:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "07:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "08:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "09:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "10:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "11:00 PM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "12:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "01:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "02:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "03:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "04:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "05:00 AM"
+          },
+          {
+            "date_period": "18/01/2025",
+            "timestamp": "06:00 AM"
+          }
+        ]
+      }
+    }
+  ]
+}

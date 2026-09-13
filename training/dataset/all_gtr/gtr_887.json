@@ -1,0 +1,40 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": false,
+  "data_type": "Energy",
+  "data_category": "Energy Purchase Invoice",
+  "boilerplate_used": "energy/energy_purchase_invoice.json",
+  "data": {
+    "invoice_no": {
+      "value": "1838/2024-25"
+    },
+    "invoice_date": {
+      "value": "9-Jan-25"
+    },
+    "supplier_name": "Anand Triplex Board Pvt. Ltd.",
+    "supplier_gstin": "09AAEC A9305M1ZD",
+    "buyer_name": "M/S ANAND DUPLEX LTD - CUSTOMERS",
+    "buyer_gstin": "09AABCA4927A1Z3",
+    "total_amount": {
+      "value": "1,81,22,050.00",
+      "unit": "Rs."
+    },
+    "entries": [
+      {
+        "item_description": "ELECTRICITY",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "27160000",
+        "quantity": {
+          "value": "18,12,205",
+          "unit": "UN"
+        },
+        "gross_amount": {
+          "value": "1,81,22,050.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

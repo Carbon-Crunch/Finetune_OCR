@@ -1,0 +1,126 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Renewable Energy Certificate Registry of INDIA - View Injection Report",
+    "document_type": "Energy Injection Report",
+    "report_period": {
+      "value": "Nov 2024"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "12-02-2025"
+    },
+    "supplier_name": null,
+    "customer_name": "Bahl Paper Mills Limited",
+    "company_name": "Bahl Paper Mills Limited",
+    "plant_name": null,
+    "location": null,
+    "registration_number": "UL0NSBMPLK002R121015",
+    "invoice_number": "INJUL0120220252718110251",
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "O1 => Opening Balance of Self Consumed Energy (G of previous month) [O1]",
+        "quantity": {
+          "value": "0.41",
+          "unit": null
+        }
+      },
+      {
+        "item_description": "O2 => Opening Balance of Grid Injected RECs eligible Energy (H of previous month) [O2]",
+        "quantity": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "item_description": "A. Total Quantity of Energy Injection and/or deemed injection (MWh)",
+        "quantity": {
+          "value": "2770.74",
+          "unit": "MWh"
+        }
+      },
+      {
+        "item_description": "B. Quantum of energy used for self consumption (MWh) and eligible for issuance of REC for self consumption",
+        "quantity": {
+          "value": "2493.67",
+          "unit": "MWh"
+        }
+      },
+      {
+        "item_description": "B1. (B + O1) (MWh)",
+        "quantity": {
+          "value": "2493.67",
+          "unit": "MWh"
+        }
+      },
+      {
+        "item_description": "C. Quantum of energy injected in the grid and not eligible for issuance of REC",
+        "quantity": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "item_description": "D. Quantum of energy injected in the grid and eligible for issuance of REC (MWh)",
+        "quantity": {
+          "value": "0",
+          "unit": "MWh"
+        }
+      },
+      {
+        "item_description": "D1. (D + O2) (MWh)",
+        "quantity": {
+          "value": "0",
+          "unit": "MWh"
+        }
+      },
+      {
+        "item_description": "E. RECs requested for Energy used for Self-Consumption (Non-Tradeable RECs)",
+        "quantity": {
+          "value": "2494",
+          "unit": null
+        }
+      },
+      {
+        "item_description": "F. RECs requested for Energy Injected in the Grid (Tradeable)",
+        "quantity": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "item_description": "G. Closing Balance of Self-Consumed Energy (Non-Tradeable) (B + O1 - E)",
+        "quantity": {
+          "value": "0",
+          "unit": null
+        }
+      },
+      {
+        "item_description": "H. Closing Balance of Grid Injected RECs eligible energy (Tradeable) (D + O2 - F)",
+        "quantity": {
+          "value": "0",
+          "unit": null
+        }
+      }
+    ],
+    "additional_fields": {
+      "concerned_licensee": "Uttarakhand Power Corporation Ltd."
+    }
+  }
+}

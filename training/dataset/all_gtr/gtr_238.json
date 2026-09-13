@@ -1,0 +1,26 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "08/01/2025"
+  },
+  "supplier_name": "SHYAM COAL CORPORATION",
+  "entries": [
+    {
+      "item_description": "Indonesia Steam (Non Coking) Coal",
+      "hsn_sac": "27011920",
+      "quantity": {
+        "value": "37.020",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "(0-50mm)",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "178048.43",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

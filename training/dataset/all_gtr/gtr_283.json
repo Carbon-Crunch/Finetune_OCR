@@ -1,0 +1,196 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "January 2025"
+  },
+  "entries": [
+    {
+      "fuel_name": "Loder",
+      "fuel_type": null,
+      "date_period": "01/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3891",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "Loder",
+      "fuel_type": null,
+      "date_period": "02/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3831",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "press",
+      "fuel_type": null,
+      "date_period": "03/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "1",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3830",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "Loder",
+      "fuel_type": null,
+      "date_period": "03/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3770",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "Loder",
+      "fuel_type": null,
+      "date_period": "05/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3710",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "Loder",
+      "fuel_type": null,
+      "date_period": "07/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3650",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "Loder",
+      "fuel_type": null,
+      "date_period": "11/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3590",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "Loder",
+      "fuel_type": null,
+      "date_period": "15/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "150",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3440",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "D.G. KILLN",
+      "fuel_type": null,
+      "date_period": "15/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "20",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3420",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "KILLN",
+      "fuel_type": null,
+      "date_period": "15/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "10",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3410",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "Loder",
+      "fuel_type": null,
+      "date_period": "17/01/25",
+      "opening_balance": null,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": "80",
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": "3330",
+        "unit": null
+      }
+    }
+  ]
+}

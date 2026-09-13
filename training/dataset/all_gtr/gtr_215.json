@@ -1,0 +1,102 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "BLOCK DIAGRAM. PM2",
+    "document_type": "Engineering Block Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Joni SALES PRIVATE LIMITED",
+    "plant_name": null,
+    "location": "Sarigam",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "equipment_name": "CONVEYOR"
+      },
+      {
+        "equipment_name": "PULPER"
+      },
+      {
+        "equipment_name": "HDC"
+      },
+      {
+        "equipment_name": "S/W CHEST."
+      },
+      {
+        "equipment_name": "REFINER S/W"
+      },
+      {
+        "equipment_name": "REFINER ACCEPT CHEST S/W"
+      },
+      {
+        "equipment_name": "REFINER FEED CHEST H/W"
+      },
+      {
+        "equipment_name": "REFINER H/W"
+      },
+      {
+        "equipment_name": "REFINER ACCEPT CHEST H/W"
+      },
+      {
+        "equipment_name": "STORAGE TOWER."
+      },
+      {
+        "equipment_name": "MIXING CHEST."
+      },
+      {
+        "equipment_name": "MACHINE CHEST."
+      },
+      {
+        "equipment_name": "FAN PUMP."
+      },
+      {
+        "equipment_name": "PRESSURE SCREEN."
+      },
+      {
+        "equipment_name": "HEAD BOX."
+      },
+      {
+        "equipment_name": "CRESCENT FORMERS."
+      },
+      {
+        "equipment_name": "PRESS SECTION."
+      },
+      {
+        "equipment_name": "YANKEE."
+      },
+      {
+        "equipment_name": "POPE REEL."
+      },
+      {
+        "equipment_name": "REWINDER."
+      }
+    ],
+    "additional_fields": {
+      "drawing_revision": "0"
+    }
+  }
+}

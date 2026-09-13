@@ -1,0 +1,111 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "ETP FLOW CHART / Layout of Paper Manufacturing Process",
+    "document_type": "Process Flow Diagram",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "BAHL PAPER MILLS LTD., KASHIPUR",
+    "plant_name": "Bahl Paper Mills Ltd., Kashipur (U.K.)",
+    "location": "Kashipur",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "equipment_name": "BACK WATER TANK",
+        "capacity": {
+          "value": 310,
+          "unit": "m3"
+        }
+      },
+      {
+        "equipment_name": "HILL SCREEN",
+        "capacity": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "equipment_name": "EQUALIZATION TANK",
+        "capacity": {
+          "value": 524,
+          "unit": "m3"
+        }
+      },
+      {
+        "equipment_name": "EQUALIZATION TANK",
+        "capacity": {
+          "value": 892.8,
+          "unit": "m3"
+        }
+      },
+      {
+        "equipment_name": "SEDICELL",
+        "capacity": {
+          "value": 332,
+          "unit": "m3"
+        }
+      },
+      {
+        "equipment_name": "PRIMARY CLARIFIER TANK",
+        "capacity": {
+          "value": 974,
+          "unit": "m3"
+        }
+      },
+      {
+        "equipment_name": "AERATION TANK - (NEW)",
+        "capacity": {
+          "value": 2325,
+          "unit": "m3"
+        }
+      },
+      {
+        "equipment_name": "AERATION TANK (OLD)",
+        "capacity": {
+          "value": 2712,
+          "unit": "m3"
+        }
+      },
+      {
+        "equipment_name": "SECONDARY CLARIFIER",
+        "capacity": {
+          "value": 1178,
+          "unit": "m3"
+        }
+      },
+      {
+        "equipment_name": "SAND FILTER",
+        "capacity": {
+          "value": 50,
+          "unit": "m3/hr"
+        }
+      },
+      {
+        "equipment_name": "SLUDGE DRYING BEDS",
+        "capacity": {
+          "value": 75,
+          "unit": "m3 x 4 Nos"
+        }
+      }
+    ],
+    "additional_fields": {}
+  }
+}

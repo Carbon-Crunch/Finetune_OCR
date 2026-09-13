@@ -1,0 +1,34 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Summary",
+  "report_period": {
+    "value": "1-Jul-25 to 30-Sep-25"
+  },
+  "entries": [
+    {
+      "fuel_name": "COAL",
+      "fuel_type": null,
+      "date_period": "1-Jul-25 to 30-Sep-25",
+      "opening_balance": {
+        "value": 615.27,
+        "unit": "MT"
+      },
+      "received_quantity": null,
+      "inwards": {
+        "value": 2972.75,
+        "unit": "MT"
+      },
+      "outwards": {
+        "value": 3588.02,
+        "unit": "MT"
+      },
+      "consumption": null,
+      "closing_balance": {
+        "value": null,
+        "unit": null
+      }
+    }
+  ]
+}

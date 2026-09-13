@@ -1,0 +1,470 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Process Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one timestamp record of process parameters.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "21/09/2024"
+    },
+    "entries": [
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "7:00 AM",
+        "pressure": {
+          "value": "8283",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "462",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.5",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "8:00 AM",
+        "pressure": {
+          "value": "8283",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "463",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.5",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "9:00 AM",
+        "pressure": {
+          "value": "8284",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "473",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "27.7",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "10:00 AM",
+        "pressure": {
+          "value": "8285",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "476",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "31.1",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "11:00 AM",
+        "pressure": {
+          "value": "8286",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "476",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "31.1",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "12:00 PM",
+        "pressure": {
+          "value": "8285",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "470",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "31.4",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "1:00 PM",
+        "pressure": {
+          "value": "8286",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "466",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.4",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "2:00 PM",
+        "pressure": {
+          "value": "8286",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "468",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.6",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "3:00 PM",
+        "pressure": {
+          "value": "8284",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "471",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.9",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "4:00 PM",
+        "pressure": {
+          "value": "8283",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "477",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.6",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "5:00 PM",
+        "pressure": {
+          "value": "8282",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "478",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.1",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "6:00 PM",
+        "pressure": {
+          "value": "8283",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "482",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.5",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "7:00 PM",
+        "pressure": {
+          "value": "8283",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "462",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.5",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "8:00 PM",
+        "pressure": {
+          "value": "8283",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "462",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.5",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "9:00 PM",
+        "pressure": {
+          "value": "8285",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "475",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "28",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "10:00 PM",
+        "pressure": {
+          "value": "8285",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "479",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.2",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "11:00 PM",
+        "pressure": {
+          "value": "8289",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "475",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.5",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "12:00 AM",
+        "pressure": {
+          "value": "8288",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "467",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "31.6",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "1:00 AM",
+        "pressure": {
+          "value": "8289",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "472",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "28.6",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "2:00 AM",
+        "pressure": {
+          "value": "8289",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "477",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "29.3",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "3:00 AM",
+        "pressure": {
+          "value": "8289",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "477",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "29.9",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "4:00 AM",
+        "pressure": {
+          "value": "8289",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "472",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "28.9",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "5:00 AM",
+        "pressure": {
+          "value": "8286",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "472",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "29.1",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21/09/2024",
+        "timestamp": "6:00 AM",
+        "pressure": {
+          "value": "8286",
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": "472",
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": "30.5",
+          "unit": "TPH"
+        },
+        "runtime": null,
+        "power": null,
+        "pulp_levels": null
+      }
+    ]
+  }
+}

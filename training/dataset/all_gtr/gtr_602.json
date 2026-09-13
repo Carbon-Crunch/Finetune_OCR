@@ -1,0 +1,707 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "March 2025"
+    },
+    "entries": [
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR38 Y 9133",
+        "gcv": {
+          "value": 43430,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 17503960,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6923",
+        "gcv": {
+          "value": 52355,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 207954060,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 2199",
+        "gcv": {
+          "value": 45270,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 183796200,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 ET 2599",
+        "gcv": {
+          "value": 45585,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 185075100,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 2860",
+        "gcv": {
+          "value": 40820,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 165729200,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 BT 9871",
+        "gcv": {
+          "value": 42190,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 171291400,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 FT 9912",
+        "gcv": {
+          "value": 57500,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 233450000,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6922",
+        "gcv": {
+          "value": 51030,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 207181800,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 ET 3510",
+        "gcv": {
+          "value": 46115,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 187226900,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 8725",
+        "gcv": {
+          "value": 54165,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 219909900,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR58 C 1413",
+        "gcv": {
+          "value": 52000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 208780000,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6895",
+        "gcv": {
+          "value": 52405,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 210406075,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 2828",
+        "gcv": {
+          "value": 40795,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 163791925,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR58 P 2799",
+        "gcv": {
+          "value": 55090,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 221186350,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR58 E 6332",
+        "gcv": {
+          "value": 58825,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 236182375,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 9585",
+        "gcv": {
+          "value": 46110,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 185131650,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP20 AT 1270",
+        "gcv": {
+          "value": 45150,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 181503000,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 8383",
+        "gcv": {
+          "value": 40995,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 164799900,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 ET 3509",
+        "gcv": {
+          "value": 45380,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 182427600,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR58 C 1956",
+        "gcv": {
+          "value": 56665,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 227793300,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "HR38 X 9133",
+        "gcv": {
+          "value": 31650,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 29.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 127233000,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP12 DT 2199",
+        "gcv": {
+          "value": 31850,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 126667450,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 AT 6894",
+        "gcv": {
+          "value": 50540,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 200997580,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP15 DT 5466",
+        "gcv": {
+          "value": 40055,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 159298735,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 8430",
+        "gcv": {
+          "value": 51835,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 206147795,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/03/2025",
+        "supplier_name": "Northern Coal",
+        "truck_vehicle_no": "UP37 T 9190",
+        "gcv": {
+          "value": 55450,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 15.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 30.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 220524650,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "15/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "UP21CN 3034",
+        "gcv": {
+          "value": 38855,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 135215400,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "15/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "BR02GC 8755",
+        "gcv": {
+          "value": 29600,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 107004000,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "UP81CT 0335",
+        "gcv": {
+          "value": 29900,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 104081900,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "UP21DT 2530",
+        "gcv": {
+          "value": 38945,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.5,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 139423100,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/03/2025",
+        "supplier_name": "SHREE SAI URJA",
+        "truck_vehicle_no": "UP82T 5504",
+        "gcv": {
+          "value": 40070,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 138842550,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/03/2025",
+        "supplier_name": "SHREE SAI URJA",
+        "truck_vehicle_no": "UP21CN 8151",
+        "gcv": {
+          "value": 39485,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 136815525,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "19/03/2025",
+        "supplier_name": "SHREE GANESH",
+        "truck_vehicle_no": "BR02GD 5254",
+        "gcv": {
+          "value": 29690,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 102964920,
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

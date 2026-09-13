@@ -1,0 +1,107 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "document_title": "Sale Register Item Wise (Other)",
+  "document_type": "Sale Register",
+  "report_period": {
+    "value": "01/Oct/2024 to 31/Dec/2024"
+  },
+  "invoice_date": {
+    "value": "11/Nov/2024"
+  },
+  "company_name": "Genus Paper & Boards Ltd.",
+  "location": "Aghwanpur, Moradabad, 244504",
+  "entries": [
+    {
+      "entry_id": "Misclnv/0371",
+      "supplier_name": "CHADHA PAPERS LTD.",
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "41.950",
+        "unit": "MT"
+      },
+      "amount": {
+        "value": "192970.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "entry_id": "Misclnv/0372",
+      "supplier_name": "CHADHA PAPERS LTD.",
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "41.220",
+        "unit": "MT"
+      },
+      "amount": {
+        "value": "189612.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "entry_id": "Misclnv/0373",
+      "supplier_name": "CHADHA PAPERS LTD.",
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "36.820",
+        "unit": "MT"
+      },
+      "amount": {
+        "value": "169372.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "entry_id": "Misclnv/0374",
+      "supplier_name": "CHADHA PAPERS LTD.",
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "40.275",
+        "unit": "MT"
+      },
+      "amount": {
+        "value": "185265.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "entry_id": "Misclnv/0375",
+      "supplier_name": "CHADHA PAPERS LTD.",
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "39.450",
+        "unit": "MT"
+      },
+      "amount": {
+        "value": "181470.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "entry_id": "Misclnv/0376",
+      "supplier_name": "CHADHA PAPERS LTD.",
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "37.790",
+        "unit": "MT"
+      },
+      "amount": {
+        "value": "173834.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "entry_id": "Misclnv/0377",
+      "supplier_name": "CHADHA PAPERS LTD.",
+      "item_description": "STEAM COAL",
+      "quantity": {
+        "value": "39.290",
+        "unit": "MT"
+      },
+      "amount": {
+        "value": "180734.00",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

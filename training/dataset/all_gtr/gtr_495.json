@@ -1,0 +1,201 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "19.DEC.2024"
+    },
+    "entries": [
+      {
+        "date_period": "6 M.W. TURBINE",
+        "consumption": {
+          "value": "0",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "20300",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "9 M.W. TURBINE",
+        "consumption": {
+          "value": "0148100",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "3046900",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "1 M.W. DG",
+        "consumption": {
+          "value": "0",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "9912",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "TOTAL",
+        "consumption": {
+          "value": "0148100",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "3085112",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "1 UTILITY",
+        "consumption": {
+          "value": "25329",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "446745",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "2 PAPER m/c No 1",
+        "consumption": {
+          "value": "35360",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "579432",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "3 PAPER m/c No 2",
+        "consumption": {
+          "value": "40090",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "971169",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "4 PULP MILL No 1",
+        "consumption": {
+          "value": "17261",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "273870",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "5 PULP MILL No 2",
+        "consumption": {
+          "value": "26085",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "745711",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "6 E.T.P.",
+        "consumption": {
+          "value": "2495",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "43507",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "7 SUNDRY PLANT",
+        "consumption": {
+          "value": "120",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "1920",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "8 BOARD PLANT",
+        "consumption": {
+          "value": "95",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "1517",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "9 P. LIGHTING",
+        "consumption": {
+          "value": "1204",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "19806",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "10 GUEST HOUSE",
+        "consumption": {
+          "value": "61",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "1435",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "TOTAL",
+        "consumption": {
+          "value": "148100",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "3085112",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "NET POWER",
+        "consumption": {
+          "value": "122771",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "2638367",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "OFF UTILITY LOAD",
+        "consumption": {
+          "value": "17.10",
+          "unit": null
+        },
+        "net_generation": {
+          "value": "14.48",
+          "unit": null
+        }
+      }
+    ]
+  }
+}

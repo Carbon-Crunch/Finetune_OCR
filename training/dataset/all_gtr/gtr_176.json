@@ -1,0 +1,30 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "invoice_date": {
+    "value": "04/08/2024"
+  },
+  "supplier_name": "JAIN COAL SERVICES",
+  "entries": [
+    {
+      "item_description": "COAL",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": "27011200",
+      "quantity": {
+        "value": "29.810",
+        "unit": "MT"
+      },
+      "units": {
+        "value": null,
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "1,77,440.45",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

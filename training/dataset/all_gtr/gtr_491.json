@@ -1,0 +1,429 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "2025-06-16"
+    },
+    "supplier_name": null,
+    "entries": [
+      {
+        "item_description": "BIOTA SAVIOUR PVT",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AALCB3595P1ZR",
+        "quantity": {
+          "value": "4096",
+          "unit": null
+        },
+        "units": {
+          "value": "32.19",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "BIOTA SAVIOUR PVT",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AALCB3595P1ZR",
+        "quantity": {
+          "value": "4001",
+          "unit": null
+        },
+        "units": {
+          "value": "33.2",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "BIOTA SAVIOUR PVT",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AALCB3595P1ZR",
+        "quantity": {
+          "value": "3741",
+          "unit": null
+        },
+        "units": {
+          "value": "33.93",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "BIOTA SAVIOUR PVT",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "649",
+          "unit": null
+        },
+        "units": {
+          "value": "33.52",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ECHO CLEAN ENVIRO SERVICES",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AALCB3595P1ZR",
+        "quantity": {
+          "value": "648",
+          "unit": null
+        },
+        "units": {
+          "value": "40.58",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ECHO CLEAN ENVIRO SERVICES",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AAYFV9045N1ZV",
+        "quantity": {
+          "value": "63",
+          "unit": null
+        },
+        "units": {
+          "value": "28.51",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "RIOTA SAVIOUR PVT",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "40",
+          "unit": null
+        },
+        "units": {
+          "value": "42.985",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "VINAYAK TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "655",
+          "unit": null
+        },
+        "units": {
+          "value": "38.53",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "VINAYAK TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AAYFV9045N1ZV",
+        "quantity": {
+          "value": "51",
+          "unit": null
+        },
+        "units": {
+          "value": "20.285",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "VINAYAK TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AAYFV9045N1ZV",
+        "quantity": {
+          "value": "77",
+          "unit": null
+        },
+        "units": {
+          "value": "15.375",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "VINAYAK TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AAYFV9045N1ZV",
+        "quantity": {
+          "value": "89",
+          "unit": null
+        },
+        "units": {
+          "value": "32.865",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "VINAYAK TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AAYFV9045N1ZV",
+        "quantity": {
+          "value": "99",
+          "unit": null
+        },
+        "units": {
+          "value": "36.73",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "VINAYAK TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09AAYFV9045N1ZV",
+        "quantity": {
+          "value": "99",
+          "unit": null
+        },
+        "units": {
+          "value": "34.345",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "VINAYAK TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "5",
+          "unit": null
+        },
+        "units": {
+          "value": "37.665",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ECHO CLEAN ENVIRO SERVICES",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "6",
+          "unit": null
+        },
+        "units": {
+          "value": "36.395",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ECHO CLEAN ENVIRO SERVICES",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "7",
+          "unit": null
+        },
+        "units": {
+          "value": "37.84",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ECHO CLEAN ENVIRO SERVICES",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "8",
+          "unit": null
+        },
+        "units": {
+          "value": "37.43",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ECHO CLEAN ENVIRO SERVICES",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "8",
+          "unit": null
+        },
+        "units": {
+          "value": "0.73",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ECHO CLEAN ENVIRO SERVICES",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09ALNPH0402M1Z3",
+        "quantity": {
+          "value": "40",
+          "unit": null
+        },
+        "units": {
+          "value": "16.37",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ASHOKA THERMAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "06CFP3285K1Z6",
+        "quantity": {
+          "value": "14",
+          "unit": null
+        },
+        "units": {
+          "value": "42.22",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "ANSHUL SIROHI",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "09EEPSS3361Z1ZB",
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": "36.52",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "RAVI TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "05CAPPS1481L1ZE",
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": "33.05",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "RAVI TRADERS",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "05CAPPS1481L1ZE",
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": "40.58",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

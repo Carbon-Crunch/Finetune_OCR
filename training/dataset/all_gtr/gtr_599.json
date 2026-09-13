@@ -1,0 +1,80 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "Genus Paper & Boards Ltd. Form R.G. 1 Part-Duplex",
+  "document_type": "Production Summary",
+  "report_period": {
+    "value": "2025-2026"
+  },
+  "company_name": "Genus Paper & Boards Ltd.",
+  "entries": [
+    {
+      "date_period": "APRIL",
+      "opening_stock": {
+        "value": 1483.552,
+        "unit": null
+      },
+      "production": {
+        "value": 3987.898,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 4289.141,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1182.309,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "MAY",
+      "opening_stock": {
+        "value": 1182.309,
+        "unit": null
+      },
+      "production": {
+        "value": 4532.956,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 4410.092,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1305.173,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "JUNE",
+      "opening_stock": {
+        "value": 1305.173,
+        "unit": null
+      },
+      "production": {
+        "value": 1751.518,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 2482.9,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 573.791,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "TOTAL",
+      "production": {
+        "value": 10272.372,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 11182.133,
+        "unit": null
+      }
+    }
+  ]
+}

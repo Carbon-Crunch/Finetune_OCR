@@ -1,0 +1,96 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "01/Dec/2024 to 31/Dec/2024"
+  },
+  "entries": [
+    {
+      "fuel_name": "COTTON DUST",
+      "fuel_type": "C1213",
+      "date_period": null,
+      "opening_balance": {
+        "value": "52029900",
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": "340311.700",
+        "unit": "KGS"
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": "290311.710",
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": "49999.990",
+        "unit": "KGS"
+      }
+    },
+    {
+      "fuel_name": "FADDA 1121",
+      "fuel_type": "F8020",
+      "date_period": null,
+      "opening_balance": {
+        "value": null,
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "1429262.030",
+        "unit": "Kgs"
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": "1399262.030",
+        "unit": "Kgs"
+      },
+      "closing_balance": {
+        "value": "30000.000",
+        "unit": "Kgs"
+      }
+    },
+    {
+      "fuel_name": "STRAW RICE (BALE)",
+      "fuel_type": "PB001",
+      "date_period": null,
+      "opening_balance": {
+        "value": "99185260.405",
+        "unit": "KGS"
+      },
+      "received_quantity": {
+        "value": "7877915.880",
+        "unit": "KGS"
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": null,
+        "unit": null
+      },
+      "consumption": {
+        "value": "16720000.000",
+        "unit": "KGS"
+      },
+      "closing_balance": {
+        "value": "90343176.285",
+        "unit": "KGS"
+      }
+    }
+  ]
+}

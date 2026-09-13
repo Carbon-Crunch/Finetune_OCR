@@ -1,0 +1,250 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": false,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice",
+  "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+  "data": {
+    "invoice_no": {
+      "value": "8004140553"
+    },
+    "invoice_date": {
+      "value": "Feb 19, 2025"
+    },
+    "supplier_name": "Northern Coalfields Ltd, Panjreh Bhawan Singrauli",
+    "supplier_gstin": "09AAEC A9305M1ZD",
+    "buyer_name": "ANAND TRIPLEX BOARD PRIVATE LIMITED",
+    "buyer_gstin": "09AAEC A9305M1ZD",
+    "total_amount": {
+      "value": "687174.180",
+      "unit": "Rs."
+    },
+    "entries": [
+      {
+        "item_description": "Crushed size Coal",
+        "material_description": null,
+        "item_code": "4100000042",
+        "hsn_sac": "27011990",
+        "quantity": {
+          "value": "230.020",
+          "unit": "Ton(s)"
+        },
+        "gross_amount": {
+          "value": "429907.380",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Sizing Charges",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "230.020",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "12881.200",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Evac Facility Charge",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "230.020",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "29003.220",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STC Charges",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": "230.020",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "13801.200",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Reim.Basic Charges (14.00 %)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "39931.470",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Reim. NMET Charges (2.00 %)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "798.630",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Reim. OF DMF (30.00 %)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "11979.440",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Reim. Royalty Charges (5.00 %)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "14261.240",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Reim. of Terminal Tax",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1150.100",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Reim. MP GATSVA (5.00 %)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "13111.140",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Reim. of Transit Fees",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "57.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "CGST (2.5 %)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "2464.24",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "SGST (2.5 %)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "2.50",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "GST Comp Cess",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "14170.620",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Gross Bill Value",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "92008.000",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Net Value",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "400.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "1-Apr-24 to 31-Mar-25",
+  "entries": [
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "Opening Balance",
+      "opening_balance": 172002.71
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "April",
+      "inwards": 36985.22,
+      "outwards": 46680.0,
+      "closing_balance": 162307.93
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "May",
+      "inwards": 28472.81,
+      "outwards": 49820.0,
+      "closing_balance": 140960.74
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "June",
+      "inwards": 13048.62,
+      "outwards": 33040.0,
+      "closing_balance": 120969.36
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "July",
+      "inwards": 4017.81,
+      "outwards": 44130.0,
+      "closing_balance": 80857.17
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "August",
+      "inwards": 2446.55,
+      "outwards": 48760.0,
+      "closing_balance": 34543.72
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "September",
+      "inwards": 405007.0,
+      "outwards": 31970.0,
+      "closing_balance": 2573.72
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "October",
+      "inwards": 13424.22,
+      "outwards": 1750.0,
+      "closing_balance": 14247.94
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "November",
+      "inwards": 79440.72,
+      "outwards": 28680.0,
+      "closing_balance": 65008.66
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "December",
+      "inwards": 158913.22,
+      "outwards": 52450.0,
+      "closing_balance": 171471.88
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "January",
+      "inwards": 89002.46,
+      "outwards": 53120.0,
+      "closing_balance": 207354.34
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "February",
+      "inwards": 44733.68,
+      "outwards": 46390.0,
+      "closing_balance": 205698.02
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "March",
+      "inwards": 49802.36,
+      "outwards": 49840.0,
+      "closing_balance": 205660.38
+    },
+    {
+      "fuel_name": "Paddy Husk",
+      "date_period": "Grand Total",
+      "inwards": 520287.67,
+      "outwards": 486630.0,
+      "closing_balance": 205660.38
+    }
+  ]
+}

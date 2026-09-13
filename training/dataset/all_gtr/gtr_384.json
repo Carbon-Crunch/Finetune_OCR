@@ -1,0 +1,280 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "GCV Report",
+    "document_type": "GCV Report",
+    "report_period": {
+      "value": "Apr-24 to Mar-25"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Bahl Paper Mills Limited",
+    "plant_name": "Bahl Paper Mills Limited, Kashipur",
+    "location": "Kashipur, Uttarakhand",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3500,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Apr-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3480,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3498,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3485,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3410,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "material_description": "Coal",
+        "gcv": {
+          "value": 4890,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3573,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3490,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "material_description": "Coal",
+        "gcv": {
+          "value": 4965,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3490,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3440,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "material_description": "Coal",
+        "gcv": {
+          "value": 4810,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3505,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3420,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "material_description": "Coal",
+        "gcv": {
+          "value": 4800,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3500,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3560,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "material_description": "Coal",
+        "gcv": {
+          "value": 4885,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3488,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3500,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "material_description": "Coal",
+        "gcv": {
+          "value": 4850,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3410,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3460,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3401,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3499,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3500,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3485,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3490,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "material_description": "Rice Husk",
+        "gcv": {
+          "value": 3490,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "material_description": "Plastic Waste",
+        "gcv": {
+          "value": 3493,
+          "unit": "kcal/kg"
+        }
+      }
+    ],
+    "additional_fields": {}
+  }
+}

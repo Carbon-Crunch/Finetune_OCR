@@ -1,0 +1,30 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "04-Jan-25"
+  },
+  "supplier_name": "Indian Oil Corporation Limited",
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "entries": [
+    {
+      "item_description": "HSD - BS VI",
+      "material_description": "HSD - BS VI",
+      "item_code": "50700",
+      "hsn_sac": "2710 19 44*",
+      "quantity": {
+        "value": "12.000",
+        "unit": "KL"
+      },
+      "units": {
+        "value": "KL",
+        "unit": "KL"
+      },
+      "gross_amount": {
+        "value": "907408.96",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

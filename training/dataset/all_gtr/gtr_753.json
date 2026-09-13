@@ -1,0 +1,20 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "16/09/2025",
+  "entries": [
+    {
+      "sample_name": "Briquette",
+      "date_period": "16/09/2025",
+      "sample_quantity": "1 Kg",
+      "moisture_content": "9.7",
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": "3176",
+      "ash_content": "13.8",
+      "supplier_name": null,
+      "operator_name": "Swati Chauhan",
+      "remarks": null
+    }
+  ]
+}

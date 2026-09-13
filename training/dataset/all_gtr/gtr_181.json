@@ -1,0 +1,112 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Process Log Book",
+  "report_period": {
+    "value": "2024-06-20"
+  },
+  "entries": [
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "7:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "8:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "9:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "10:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "11:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "12:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "1:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "2:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "3:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "4:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "5:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "6:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "7:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "8:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "9:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "10:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "11:00 PM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "12:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "1:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "2:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "3:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "4:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "5:00 AM"
+    },
+    {
+      "date_period": "2024-06-20",
+      "timestamp": "6:00 AM"
+    }
+  ],
+  "summary": {
+    "steam_statistics": {
+      "oil_purifier_running_hours": null
+    }
+  }
+}

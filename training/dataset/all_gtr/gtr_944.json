@@ -1,0 +1,125 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "944",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": null
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": "4005100",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "3905600",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "3295600",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "3350800",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "3895800",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "3989300",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "4313300",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "2816600",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "4411400",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "4244300",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "3946300",
+              "unit": "kWh"
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": "3385300",
+              "unit": "kWh"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Machine Consumption Summary",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": null
+        },
+        "entries": [
+          {
+            "machine_name": "PM-1",
+            "machine_consumption": {
+              "value": "839200",
+              "unit": "kWh"
+            }
+          },
+          {
+            "machine_name": "PM-2",
+            "machine_consumption": {
+              "value": "813500",
+              "unit": "kWh"
+            }
+          },
+          {
+            "machine_name": "PM-3",
+            "machine_consumption": {
+              "value": "574000",
+              "unit": "kWh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

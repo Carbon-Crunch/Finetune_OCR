@@ -1,0 +1,212 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "boiler_name": "30 TPH BOILER",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "09.05.2024",
+      "shift": "7:00 AM",
+      "total_steam_generated": {
+        "value": "2441",
+        "unit": "TPH"
+      },
+      "total_feedwater": {
+        "value": null,
+        "unit": null
+      },
+      "shift_total": {
+        "value": null,
+        "unit": null
+      },
+      "day_total": {
+        "value": null,
+        "unit": null
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "8:00 AM",
+      "total_steam_generated": {
+        "value": "2462",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "9:00 AM",
+      "total_steam_generated": {
+        "value": "2573",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "10:00 AM",
+      "total_steam_generated": {
+        "value": "2669",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "11:00 AM",
+      "total_steam_generated": {
+        "value": "2689",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "12:00 PM",
+      "total_steam_generated": {
+        "value": "2639",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "1:00 PM",
+      "total_steam_generated": {
+        "value": "2669",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "2:00 PM",
+      "total_steam_generated": {
+        "value": "2648",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "3:00 PM",
+      "total_steam_generated": {
+        "value": "2651",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "4:00 PM",
+      "total_steam_generated": {
+        "value": "2603",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "5:00 PM",
+      "total_steam_generated": {
+        "value": "2629",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "6:00 PM",
+      "total_steam_generated": {
+        "value": "2603",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "7:00 PM",
+      "total_steam_generated": {
+        "value": "2619",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "8:00 PM",
+      "total_steam_generated": {
+        "value": "2628",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "9:00 PM",
+      "total_steam_generated": {
+        "value": "2636",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "10:00 PM",
+      "total_steam_generated": {
+        "value": "2649",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "11:00 PM",
+      "total_steam_generated": {
+        "value": "2682",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "12:00 AM",
+      "total_steam_generated": {
+        "value": "2612",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "1:00 AM",
+      "total_steam_generated": {
+        "value": "2654",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "2:00 AM",
+      "total_steam_generated": {
+        "value": "2628",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "3:00 AM",
+      "total_steam_generated": {
+        "value": "2629",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "4:00 AM",
+      "total_steam_generated": {
+        "value": "2644",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "5:00 AM",
+      "total_steam_generated": {
+        "value": "2680",
+        "unit": "TPH"
+      }
+    },
+    {
+      "date_period": "09.05.2024",
+      "shift": "6:00 AM",
+      "total_steam_generated": {
+        "value": "2642",
+        "unit": "TPH"
+      }
+    }
+  ]
+}

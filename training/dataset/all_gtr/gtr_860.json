@@ -1,0 +1,348 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "Jain Cord Industries Pvt. Ltd.",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Generation Report",
+      "boilerplate_used": "energy/generation_report.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "date_period": "Apr-24",
+            "consumption": {
+              "value": 0,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 0,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "May-24",
+            "consumption": {
+              "value": 57510,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 57510,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Jun-24",
+            "consumption": {
+              "value": 120918,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 120918,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Jul-24",
+            "consumption": {
+              "value": 117002,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 117002,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Aug-24",
+            "consumption": {
+              "value": 91040,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 91040,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Sep-24",
+            "consumption": {
+              "value": 71370,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 71370,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Oct-24",
+            "consumption": {
+              "value": 85874,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 85874,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Nov-24",
+            "consumption": {
+              "value": 59400,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 59400,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Dec-24",
+            "consumption": {
+              "value": 51332,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 51332,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Jan-25",
+            "consumption": {
+              "value": 49950,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 49950,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Feb-25",
+            "consumption": {
+              "value": 62600,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 62600,
+              "unit": "KWH"
+            }
+          },
+          {
+            "date_period": "Mar-25",
+            "consumption": {
+              "value": 77450,
+              "unit": "KWH"
+            },
+            "net_generation": {
+              "value": 77450,
+              "unit": "KWH"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Hand Written Power Log",
+      "boilerplate_used": "energy/hand_written_power_log.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "date_period": "1-8-2024",
+            "shift": null,
+            "meter_reading_left": {
+              "value": 139640,
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": 162000,
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": 3330,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "1-9-2024",
+            "shift": null,
+            "meter_reading_left": {
+              "value": 170370,
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": 220310,
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": 3360,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "01/10/2024",
+            "shift": null,
+            "meter_reading_left": {
+              "value": 195600,
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": 266450,
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": 2820,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "01/11/2024",
+            "shift": null,
+            "meter_reading_left": {
+              "value": 233850,
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": 313540,
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": 1820,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "1-12-2024",
+            "shift": null,
+            "meter_reading_left": {
+              "value": 260310,
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": 345670,
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": 2230,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "1-1-2025",
+            "shift": null,
+            "meter_reading_left": {
+              "value": 283420,
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": 374180,
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": 1780,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "01/02/2025",
+            "shift": null,
+            "meter_reading_left": {
+              "value": 305100,
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": 399550,
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": 2030,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "01/03/2025",
+            "shift": null,
+            "meter_reading_left": {
+              "value": 331890,
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": 434680,
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": 2780,
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "document_title": "CONSOLIDATED CONSENT AND AUTHORIZATION (CC & A - Amendment)",
+  "document_type": "Environmental Consent/Authorization",
+  "company_name": "M/s. Mehali Papers Pvt. Ltd.",
+  "location": "Plot No. D2/11/B/2, GIDC Dahej, Ta. Vagra, Dist. Bharuch",
+  "reference_number": "GPCB/BRCH-B/CCA-185(3)/ID-44406",
+  "document_date": "02/06/2025",
+  "entries": [
+    {
+      "product_name": "Paper & Paper Board Coated & Uncoated Duplex & Test liner Paper",
+      "capacity": "240000 MT/Year"
+    },
+    {
+      "product_name": "Captive Power Plant (CPP)",
+      "capacity": "13.2 MW"
+    }
+  ],
+  "additional_fields": {
+    "validity_date": "27/10/2026",
+    "total_effluent_kld": "2822 KLD",
+    "effluent_disposal_mode": "GIDC underground drainage",
+    "domestic_sewage_kld": "25 KLD"
+  }
+}

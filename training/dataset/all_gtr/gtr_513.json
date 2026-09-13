@@ -1,0 +1,69 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "31/Mar/25"
+    },
+    "supplier_name": "BHARAT LOGISTICS(DOPH)",
+    "entries": [
+      {
+        "item_description": "DEOILED PADDY HUSK",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "10.18",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "10.18",
+          "unit": "MT"
+        },
+        "gross_amount": {
+          "value": "55973.50",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "DEOILED PADDY HUSK",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "10.18",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "10.18",
+          "unit": "MT"
+        },
+        "gross_amount": {
+          "value": "55973.50",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "DEOILED PADDY HUSK",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "1213",
+        "quantity": {
+          "value": "10.02",
+          "unit": "MT"
+        },
+        "units": {
+          "value": "10.02",
+          "unit": "MT"
+        },
+        "gross_amount": {
+          "value": "55099.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

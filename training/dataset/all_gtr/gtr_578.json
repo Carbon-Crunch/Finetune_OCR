@@ -1,0 +1,59 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "FLOW DIAGRAM OF E.T.P. (EFFLUENT TERATMENT PLANT) FOR FIBRE RECOVERY",
+    "document_type": "Flow Diagram",
+    "report_period": {
+      "value": "17/JUN/25"
+    },
+    "company_name": "Genus Paper And Boards Ltd.",
+    "location": "Vill. Aghwanpur, Kanth Road, Distt. Moradabad",
+    "entries": [
+      {
+        "equipment_name": "EQUALIZATION TANK",
+        "capacity": {
+          "value": "348",
+          "unit": "M3"
+        }
+      },
+      {
+        "equipment_name": "PRIMARY CLARIFIER TANK",
+        "capacity": {
+          "value": "840",
+          "unit": "M3"
+        }
+      },
+      {
+        "equipment_name": "FIBRE RECOVERY TANK",
+        "capacity": {
+          "value": "50",
+          "unit": "M3"
+        }
+      },
+      {
+        "equipment_name": "SEDICELL",
+        "capacity": {
+          "value": "250",
+          "unit": "M3"
+        }
+      },
+      {
+        "equipment_name": "NEW SEDICELL",
+        "capacity": {
+          "value": "300",
+          "unit": "M3"
+        }
+      }
+    ],
+    "additional_fields": {
+      "inlet_flow": {
+        "value": "2200",
+        "unit": "M3/D"
+      }
+    }
+  }
+}

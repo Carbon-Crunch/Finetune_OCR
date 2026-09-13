@@ -1,0 +1,56 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "extraction_rules": "This is a tabular log book. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or day record of boiler operation.",
+  "extracted_fields": {
+    "boiler_name": "30 TPH BOILER",
+    "registration_number": null,
+    "entries": [
+      {
+        "date_period": "27-08-2024",
+        "shift": "6:00 AM",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      }
+    ],
+    "summary": {
+      "total_steam_generation": {
+        "shift_a": {
+          "final_reading": "18379",
+          "tons": null
+        },
+        "shift_b": {
+          "final_reading": "18618",
+          "tons": null
+        },
+        "shift_c": {
+          "final_reading": "18618",
+          "tons": null
+        },
+        "day_total": "18618"
+      },
+      "feed_water_consumption": {
+        "shift_a": {
+          "final_reading": null,
+          "tons": null
+        },
+        "shift_b": {
+          "final_reading": null,
+          "tons": null
+        },
+        "shift_c": {
+          "final_reading": null,
+          "tons": null
+        },
+        "day_total": null
+      },
+      "dearator_steam_consumption": null,
+      "bed_material_consumption": "1131 kg",
+      "bd_of_bed_material": null
+    }
+  }
+}

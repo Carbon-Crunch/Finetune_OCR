@@ -1,0 +1,29 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "22/07/2025",
+  "entries": [
+    {
+      "sample_name": "Briquette",
+      "date_period": "22/07/2025",
+      "sample_quantity": "1 Kg",
+      "moisture_content": {
+        "value": 9.71,
+        "unit": "%"
+      },
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": {
+        "value": 3120,
+        "unit": "kcal/kg"
+      },
+      "ash_content": {
+        "value": 12.25,
+        "unit": "%"
+      },
+      "supplier_name": "M/S NIKITA PAPERS LIMITED",
+      "operator_name": "Swati Chauhan",
+      "remarks": null
+    }
+  ]
+}

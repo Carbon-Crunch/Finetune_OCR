@@ -1,0 +1,256 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "RCO Compliance Data reporting (Form A) - DCs with CPP & Open Access",
+    "document_type": "RCO Compliance Report",
+    "report_period": {
+      "value": "2024-25"
+    },
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Trident Limited",
+    "plant_name": "Pulp and Paper, Threshold: 75000 toe",
+    "location": null,
+    "registration_number": "PNP030PB",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "item_description": "Own Electricity Generation, Net after deducting Auxiliary Power Consumption (APC)*** (Sub-Total)",
+        "quantity": {
+          "value": 58.906,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Total Fossil based electricity generation *",
+        "quantity": {
+          "value": 129.549,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Fossil based electricity from WHR **",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Fossil based electricity from Waste Energy Recovery (WER) *",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Ex-Bus Electricity generation from Fossil based Auxiliary Firing in WHR & WER System #",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Balance Fossil based energy generation other than WHR and WER (1)",
+        "quantity": {
+          "value": 129.549,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Co-generation component of Balance Fossil based generation (other than WHR and WER) (2)",
+        "quantity": {
+          "value": 129.549,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "APC corresponding to Generation including 50% Cogen and excluding WHR (3)",
+        "quantity": {
+          "value": 5.869,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Electricity Purchase through Open Access and Banking (Sub-Total)",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Fossil based energy (through PPA/Bilateral and Power Exchanges)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Banking (Drawl) of Electricity (4)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Electricity Purchase from Discom (Not included in RCO calculations)",
+        "quantity": {
+          "value": 18.406,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Electricity Sales and Banking (Sub-Total)",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Fossil based electricity sales (PPA/Bilateral and Power Exchange)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Banking (Storage) of Electricity (4)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Electricity Consumption at Aluminium Smelter (if applicable)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Gross Total Electricity Consumption on which Renewable Consumption Obligations is applicable",
+        "quantity": {
+          "value": 215.561,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "RE Own Generation, Purchase and Banking †† (Sub-Total)",
+        "quantity": {
+          "value": 156.655,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Generation (except firing of RE fuel in CPP) and Purchase of All Renewable Electricity (except purchase from Discom) (5)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Ex-bus electrical energy generated by combustion of renewable fuels including Co-firing †",
+        "quantity": {
+          "value": 156.655,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Purchase of Renewable Electricity from Discom (6)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Banking (Drawl) of Electricity (4)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "RE Sales and Banking †† (Sub-Total)",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Sale of All Renewable Energy (5)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Banking (Storage) of Electricity (4)",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Energy Equivalent of GH2 Consumed ##",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Energy Equivalent of Green Ammonia Consumed ###",
+        "quantity": {
+          "value": null,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Gross Non-fossil based Electricity Consumption",
+        "quantity": {
+          "value": 156.655,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Renewable Energy Certificates (RECs) †††",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MU"
+        }
+      },
+      {
+        "item_description": "Number of RECs Purchased",
+        "quantity": {
+          "value": null,
+          "unit": "No. of Certificates"
+        }
+      },
+      {
+        "item_description": "Number of RECs Self-Retained",
+        "quantity": {
+          "value": null,
+          "unit": "No. of Certificates"
+        }
+      }
+    ],
+    "additional_fields": {
+      "type_of_obligation_of_designated_consumer": "Captive power Plant (CPP)",
+      "compliance_period": "Annual",
+      "rco_notified_by_mop": "29.91%",
+      "renewable_consumption_obligation_target": "64.474 MU",
+      "compliance_value": "156.655 MU",
+      "compliance_percentage": "72.67%",
+      "surplus_deficit": "92.181 MU",
+      "surplus_deficit_percentage": "42.76%"
+    }
+  }
+}

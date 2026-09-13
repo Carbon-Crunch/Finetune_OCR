@@ -1,0 +1,94 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consent to Establish for New Unit/Expansion/Diversification",
+    "document_type": "Pollution Consent Order",
+    "report_period": {
+      "value": "04/09/2018 To 04/09/2023"
+    },
+    "document_date": "17/09/2018",
+    "supplier_name": null,
+    "customer_name": "Shri SURYA PRAKASH SINHA",
+    "company_name": "M/s GENUS PAPER AND BOARDS LTD",
+    "plant_name": null,
+    "location": "VILLAGE-AGHWANPUR, KANTH ROAD, MORADABAD, UP, 244001",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "31121/UPPCB/Moradabad(UPPCBRO)/CTE/MORADABAD/2018",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "material_description": "waste paper",
+        "quantity": {
+          "value": "400.00",
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "product_name": "craft paper",
+        "quantity": {
+          "value": "9000",
+          "unit": null
+        }
+      },
+      {
+        "material_description": "Domestic Effluent",
+        "quantity": {
+          "value": "30.0",
+          "unit": "KL/D"
+        }
+      },
+      {
+        "material_description": "Industrial Effluent",
+        "quantity": {
+          "value": "1320.0",
+          "unit": "KL/D"
+        }
+      },
+      {
+        "material_description": "Others (Fuel)",
+        "quantity": {
+          "value": "220",
+          "unit": "tpd/kld"
+        }
+      }
+    ],
+    "additional_fields": {
+      "water_requirement": "1350.0 KL/D",
+      "water_source": "TUBE WELL",
+      "specific_conditions": "17 points of specific compliance conditions including bank guarantee of Rs 1000000/-"
+    }
+  }
+}

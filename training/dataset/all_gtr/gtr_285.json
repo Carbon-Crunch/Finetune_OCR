@@ -1,0 +1,242 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register",
+  "boilerplate": "fuel/fuel_stock_register.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "NOVEMBER 2024"
+    },
+    "entries": [
+      {
+        "fuel_name": "Diesel",
+        "date_period": "01/11/24",
+        "consumption": {
+          "value": 5,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3455,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "02/11/24",
+        "consumption": {
+          "value": 80,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3375,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "05/11/24",
+        "consumption": {
+          "value": 5,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3370,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "08/11/24",
+        "consumption": {
+          "value": 5,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3365,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "09/11/24",
+        "consumption": {
+          "value": 5,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3360,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "10/11/24",
+        "consumption": {
+          "value": 90,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3270,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "12/11/24",
+        "consumption": {
+          "value": 5,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3265,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "15/11/24",
+        "consumption": {
+          "value": 5,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3260,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "18/11/24",
+        "consumption": {
+          "value": 5,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3255,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "21/11/24",
+        "consumption": {
+          "value": 80,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3175,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "22/11/24",
+        "consumption": {
+          "value": 5,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3170,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "23/11/24",
+        "consumption": {
+          "value": 80,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3090,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "25/11/24",
+        "consumption": {
+          "value": 80,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3010,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "26/11/24",
+        "consumption": {
+          "value": 60,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 2950,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "27/11/24",
+        "consumption": {
+          "value": 60,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 2890,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "29/11/24",
+        "consumption": {
+          "value": 60,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 2830,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "29/11/24",
+        "consumption": {
+          "value": 100,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 2730,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "30/11/24",
+        "consumption": {
+          "value": 60,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 2670,
+          "unit": "LTR"
+        }
+      },
+      {
+        "fuel_name": "Diesel",
+        "date_period": "30/11/24",
+        "received_quantity": {
+          "value": 1000,
+          "unit": "LTR"
+        },
+        "closing_balance": {
+          "value": 3670,
+          "unit": "LTR"
+        }
+      }
+    ]
+  }
+}

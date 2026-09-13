@@ -1,0 +1,145 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Initial inspection for the electrical installation",
+    "document_type": "Electrical Inspection Certificate",
+    "report_period": {
+      "value": "27/9/2023"
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "27/9/2023"
+    },
+    "supplier_name": null,
+    "customer_name": "jani sales private limited",
+    "company_name": "jani sales private limited",
+    "plant_name": "jani sales private limited",
+    "location": "survey no.3902,sarigam Plastic Zone.opp Gayatri Shakti paper mill,village-moje fansa(karajgam),Ta Umbergaon-396155 (Gujarat)",
+    "registration_number": "No/EI/Val/Certi/99730/2023",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "No/EI/Val/Plan/67252/2022",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "equipment_name": "Engine",
+        "item_description": "Make",
+        "amount": "CUMMINS INDIA LIMITED"
+      },
+      {
+        "equipment_name": "Engine",
+        "item_description": "Capacity",
+        "amount": "250.0 KW"
+      },
+      {
+        "equipment_name": "Engine",
+        "item_description": "Sr. No.",
+        "amount": "84515790"
+      },
+      {
+        "equipment_name": "Engine",
+        "item_description": "RPM",
+        "amount": "1500.00"
+      },
+      {
+        "equipment_name": "Alternator",
+        "item_description": "Make",
+        "amount": "STAMFORD"
+      },
+      {
+        "equipment_name": "Alternator",
+        "item_description": "Capacity",
+        "amount": "250.0 KVA"
+      },
+      {
+        "equipment_name": "Alternator",
+        "item_description": "Sr. No.",
+        "amount": "N19E219401"
+      },
+      {
+        "equipment_name": "Alternator",
+        "item_description": "Volt",
+        "amount": "415"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "Make",
+        "amount": "HPL Electric and Power Ltd"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "Sr. No.",
+        "amount": "1K 167184"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "Volt",
+        "amount": "240.00"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "C.T. Ratio",
+        "amount": "600/5A"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "P.T. Ratio",
+        "amount": "1"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "Dial M.F.",
+        "amount": "1.0"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "Final M.F.",
+        "amount": "120.00"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "Reading",
+        "amount": "3"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "Seal No. of Terminal Cover",
+        "amount": "3652672"
+      },
+      {
+        "equipment_name": "Energy Meter",
+        "item_description": "Seal No. of MMB",
+        "amount": "3652673"
+      }
+    ],
+    "additional_fields": {
+      "inspection_date": "03/07/2023",
+      "drawing_approval_date": "30/01/2023"
+    }
+  }
+}

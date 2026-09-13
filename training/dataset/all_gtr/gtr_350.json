@@ -1,0 +1,3148 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Feb - 2025 Daily Log",
+    "document_type": "Handwritten Power Log",
+    "report_period": {
+      "value": "February 2025"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": "01.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 58900.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90229.9,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20655.8,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12400.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "02.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90229.9,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20655.8,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 0.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "03.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 58600.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90288.5,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20668.1,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12300.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "04.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 29500.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90318.0,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20678.1,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 10000.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "05.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90318.0,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20678.1,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 0.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "06.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 53800.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90371.8,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20690.1,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12000.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "07.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 56100.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90427.9,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20702.2,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12100.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "08.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 60500.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90488.4,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20714.7,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12500.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "09.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 56500.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90544.9,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20727.0,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12300.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "10.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 56600.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90601.5,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20739.2,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12200.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "11.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 56300.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90657.8,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20751.3,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12100.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "12.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 58400.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90716.2,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20763.5,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12200.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "13.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 45900.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90762.1,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20775.6,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12100.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "14.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 56000.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90818.1,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20787.6,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12000.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "15.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 54200.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90872.3,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20799.9,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12300.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "16.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 46700.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90919.0,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20811.9,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12000.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "17.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 54100.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 90973.1,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20824.6,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12700.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "18.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 62100.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91035.2,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20837.5,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12900.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "19.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 58300.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91093.5,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20850.0,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12500.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "20.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 46200.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91139.7,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20862.2,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12200.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "21.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 55300.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91195.0,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20874.6,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12400.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "22.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 58800.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91253.8,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20887.0,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12400.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "23.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 56800.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91310.6,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20899.2,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12200.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "24.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 51600.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91362.2,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20910.8,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 11600.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "25.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91362.2,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20910.8,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 0.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "26.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91362.2,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20910.8,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 0.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "27.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 56400.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91418.6,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20922.9,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12100.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      },
+      {
+        "date_period": "28.02.25",
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": null,
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": null,
+        "quantity": {
+          "value": null,
+          "unit": null
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": 54900.0,
+          "unit": null
+        },
+        "production": null,
+        "generation": {
+          "value": 91473.5,
+          "unit": null
+        },
+        "opening_stock": null,
+        "closing_stock": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "balance": null,
+        "meter_reading": {
+          "value": 20934.9,
+          "unit": null
+        },
+        "meter_reading_difference": null,
+        "multiplying_factor": null,
+        "kwh": null,
+        "kvah": null,
+        "kvarh": null,
+        "peak_hour": null,
+        "night_hour": null,
+        "amd": null,
+        "supply_voltage": null,
+        "sanctioned_load": null,
+        "contract_demand": null,
+        "billed_demand": null,
+        "average_pf": null,
+        "pressure": null,
+        "temperature": null,
+        "flow_rate": null,
+        "runtime": null,
+        "power": {
+          "value": 12000.0,
+          "unit": null
+        },
+        "capacity": null,
+        "nominal_capacity": null,
+        "gcv": null,
+        "moisture_content": null,
+        "ash_content": null,
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "composition_percent": null,
+        "sample_quantity": null,
+        "total_trucks": null,
+        "net_weight": null,
+        "steam_generated": null,
+        "feedwater": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "extraction_steam": null,
+        "fuel_use": null,
+        "pulp_levels": null
+      }
+    ],
+    "additional_fields": {}
+  }
+}

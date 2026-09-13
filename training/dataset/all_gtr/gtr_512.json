@@ -1,0 +1,70 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "May-2024"
+    },
+    "entries": [
+      {
+        "date_of_receipt": "15.05.2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Northan coal Singrauli (M.P)",
+        "truck_vehicle_no": null,
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": "4008",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "14.3",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "31.0",
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "3626.940",
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "28.05.2024",
+        "date_period": null,
+        "shift": null,
+        "conveyor_id": null,
+        "supplier_name": "Northan coal Singrauli (M.P)",
+        "truck_vehicle_no": null,
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": "4061",
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "14.0",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "32.8",
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": "4028.600",
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

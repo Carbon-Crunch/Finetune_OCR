@@ -1,0 +1,109 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "NOTICE: Compliance and Reporting of Renewable Consumption Obligations (RCO)",
+    "document_type": "Regulatory Notice",
+    "report_period": {
+      "value": "FY 2024-25"
+    },
+    "invoice_date": null,
+    "document_date": "14th May 2025",
+    "supplier_name": "Bureau of Energy Efficiency",
+    "customer_name": "Designated Consumers (DCs)",
+    "company_name": "Bureau of Energy Efficiency, Ministry of Power, Government of India",
+    "plant_name": null,
+    "location": null,
+    "registration_number": "F. No. NMEEE-11018/1/2023-BEE",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "date_period": "2024-25",
+        "consumption": {
+          "value": 29.91,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "2025-26",
+        "consumption": {
+          "value": 33.01,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "2026-27",
+        "consumption": {
+          "value": 35.95,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "2027-28",
+        "consumption": {
+          "value": 38.81,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "2028-29",
+        "consumption": {
+          "value": 41.36,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "2029-30",
+        "consumption": {
+          "value": 43.33,
+          "unit": "%"
+        }
+      }
+    ],
+    "additional_fields": {
+      "initial_submission_deadline": "30th Sept 2025",
+      "audit_deadline": "30th Sept 2025",
+      "penalty_reference": "Section 26(3) and 26(4) of the Energy Conservation Act, 2001",
+      "email_id": "rco.support@beeindia.gov.in"
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Coal Consumption",
+  "extraction_rules": "This is a tabular daily log. Extract EVERY row from the table into the entries array. Each object in entries represents one day's fuel consumption record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01-04-2024 to 31-03-2025"
+    },
+    "entries": [
+      {
+        "date_period": "APRIL'2024",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 3527.43,
+        "receipt_value": 25522246,
+        "consumed_qty": 4367.0,
+        "consumed_value": 32980579
+      },
+      {
+        "date_period": "MAY",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 5138.98,
+        "receipt_value": 41548614,
+        "consumed_qty": 3852.0,
+        "consumed_value": 30068936
+      },
+      {
+        "date_period": "JUNE",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 5588.96,
+        "receipt_value": 51796997,
+        "consumed_qty": 3181.0,
+        "consumed_value": 28048044
+      },
+      {
+        "date_period": "JULY",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 2084.82,
+        "receipt_value": 17041653,
+        "consumed_qty": 4040.0,
+        "consumed_value": 35145458
+      },
+      {
+        "date_period": "AUGUST",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 4247.06,
+        "receipt_value": 31804939,
+        "consumed_qty": 4876.93,
+        "consumed_value": 40002872
+      },
+      {
+        "date_period": "SEPETMBER",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 2138.13,
+        "receipt_value": 15174876,
+        "consumed_qty": 3197.0,
+        "consumed_value": 23857534
+      },
+      {
+        "date_period": "OCTOBER",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 6346.46,
+        "receipt_value": 42716861,
+        "consumed_qty": 5818.01,
+        "consumed_value": 39194188
+      },
+      {
+        "date_period": "NOVEMBER",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 4805.78,
+        "receipt_value": 32418053,
+        "consumed_qty": 5015.595,
+        "consumed_value": 34051105
+      },
+      {
+        "date_period": "DECEMBER",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 6607.9,
+        "receipt_value": 43764296,
+        "consumed_qty": 5634.0,
+        "consumed_value": 37502288
+      },
+      {
+        "date_period": "JANUARY",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 4864.75,
+        "receipt_value": 31809681,
+        "consumed_qty": 5675.03,
+        "consumed_value": 37214841
+      },
+      {
+        "date_period": "FEBRUARY",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 4264.91,
+        "receipt_value": 29789022,
+        "consumed_qty": 5006.0,
+        "consumed_value": 34343746
+      },
+      {
+        "date_period": "MARCH\" 2025",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": null,
+        "rdf_consumption": null,
+        "bagasse_consumption": null,
+        "biomass_consumption": null,
+        "diesel_consumption": null,
+        "receipt_qty": 5472.35,
+        "receipt_value": 39827564,
+        "consumed_qty": 5248.51,
+        "consumed_value": 38556087
+      }
+    ]
+  }
+}

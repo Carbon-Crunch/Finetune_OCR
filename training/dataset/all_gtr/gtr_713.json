@@ -1,0 +1,39 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "WIND SOLAR HYBRID INVOICE FOR THE MONTH OF AUG-25",
+  "document_type": "Electricity Bill",
+  "report_period": {
+    "value": "AUG-25"
+  },
+  "invoice_date": {
+    "value": "15. October 2025"
+  },
+  "supplier_name": "AMP ENERGY C&I TWO PRIVATE LIMITED TRUST AND RETENTION ACCOUNT",
+  "customer_name": "Kherani Paper Mills Private Limited",
+  "invoice_number": "PSI6120GJ26/0110",
+  "total_amount": {
+    "value": "12,84,272.91",
+    "unit": "Rs."
+  },
+  "total_quantity": {
+    "value": "3,26,787",
+    "unit": "kWh"
+  },
+  "entries": [
+    {
+      "quantity": {
+        "value": "3,26,787",
+        "unit": "kWh"
+      },
+      "rate": {
+        "value": "3.93",
+        "unit": "Rs./kWh"
+      },
+      "amount": {
+        "value": "12,84,272.91",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": true,
+      "degree": 90
+    }
+  ],
+  "data_type": "Energy",
+  "data_category": "Electricity Bill",
+  "extraction_rules": "This is a tabular billing document. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period or charge entry.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "April 2024 to March 2025"
+    },
+    "entries": [
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 1159260.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 354151.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 1159260.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 1079130.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 436850.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 1079130.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 857160.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 199544.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 857160.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 906285.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 269146.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 906285.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 1169700.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 515156.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 1169700.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 881415.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 39145.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 881415.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 1036035.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 361758.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 1036035.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 924540.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 312319.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 924540.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 1111650.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 382228.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 1111650.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 582365.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": 0.99,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": null,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 272818.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 272818.0,
+          "unit": "kWH"
+        }
+      },
+      {
+        "supply_voltage": {
+          "value": 33.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "contract_demand": {
+          "value": 3700.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 2775.0,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 1116630.0,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 585367.0,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "load_factor": {
+          "value": null,
+          "unit": null
+        },
+        "net_kwh_consumed": {
+          "value": 1116630.0,
+          "unit": "kWH"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "FUEL AVERAGE GCV REPORT FY 2024-25",
+  "document_type": "Fuel Lab Test Report",
+  "report_period": {
+    "value": "FY 2024-25"
+  },
+  "company_name": "ANAND TRIPLEX BOARD PRIVATE LIMITED",
+  "location": "9TH KM VILLAGE SAINI MAWANA ROAD MEERUT",
+  "entries": [
+    {
+      "date_period": "APRIL",
+      "gcv": {
+        "value": 5930,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "APRIL",
+      "gcv": {
+        "value": 3710,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "APRIL",
+      "gcv": {
+        "value": 3180,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "MAY",
+      "gcv": {
+        "value": 5895,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "MAY",
+      "gcv": {
+        "value": 3680,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "MAY",
+      "gcv": {
+        "value": 3240,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "JUNE",
+      "gcv": {
+        "value": 5910,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "JUNE",
+      "gcv": {
+        "value": 3690,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "JUNE",
+      "gcv": {
+        "value": 3260,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "JULY",
+      "gcv": {
+        "value": 5890,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "JULY",
+      "gcv": {
+        "value": 3805,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "JULY",
+      "gcv": {
+        "value": 3190,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "AUGUST",
+      "gcv": {
+        "value": 5960,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "AUGUST",
+      "gcv": {
+        "value": 3720,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "SEPTEMBER",
+      "gcv": {
+        "value": 5905,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "SEPTEMBER",
+      "gcv": {
+        "value": 3810,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "OCTOBER",
+      "gcv": {
+        "value": 5880,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "OCTOBER",
+      "gcv": {
+        "value": 3715,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "OCTOBER",
+      "gcv": {
+        "value": 3170,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "NOVEMBER",
+      "gcv": {
+        "value": 5920,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "NOVEMBER",
+      "gcv": {
+        "value": 3680,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "NOVEMBER",
+      "gcv": {
+        "value": 3240,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "DECEMBER",
+      "gcv": {
+        "value": 5935,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "DECEMBER",
+      "gcv": {
+        "value": 3670,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "DECEMBER",
+      "gcv": {
+        "value": 3260,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "JANUARY",
+      "gcv": {
+        "value": 5840,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "JANUARY",
+      "gcv": {
+        "value": 3735,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "JANUARY",
+      "gcv": {
+        "value": 3185,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "FEBRUARY",
+      "gcv": {
+        "value": 3800,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "FEBRUARY",
+      "gcv": {
+        "value": 3150,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "MARCH",
+      "gcv": {
+        "value": 3685,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "MARCH",
+      "gcv": {
+        "value": 3250,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    },
+    {
+      "date_period": "TOTAL AVERAGE",
+      "gcv": {
+        "value": 5907,
+        "unit": "kcal/kg"
+      },
+      "material_description": "IMP COAL"
+    },
+    {
+      "date_period": "TOTAL AVERAGE",
+      "gcv": {
+        "value": 3725,
+        "unit": "kcal/kg"
+      },
+      "material_description": "INDIAN COAL"
+    },
+    {
+      "date_period": "TOTAL AVERAGE",
+      "gcv": {
+        "value": 3213,
+        "unit": "kcal/kg"
+      },
+      "material_description": "BIO MASS"
+    }
+  ]
+}

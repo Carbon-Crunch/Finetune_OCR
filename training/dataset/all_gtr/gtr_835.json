@@ -1,0 +1,52 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "835",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": "56829449",
+              "unit": "KWH"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Production Summary",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "product_name": "PM/C-1",
+            "total_production": {
+              "value": "49707.909",
+              "unit": "KWH"
+            }
+          },
+          {
+            "product_name": "PM/C-2",
+            "total_production": {
+              "value": "80368.154",
+              "unit": "KWH"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

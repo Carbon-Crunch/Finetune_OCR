@@ -1,0 +1,52 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Coal Consignment Report",
+  "extraction_rules": "Extract month/date range, total truck count, and per-consignment fields (truck no, supplier, gross weight, net weight, GCV, moisture, ash). Include summary totals where present.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "May 2025"
+    },
+    "truck_count": {
+      "value": "1",
+      "unit": "count"
+    },
+    "entries": [
+      {
+        "truck_no": "16",
+        "supplier": "SHREE GANESH COAL",
+        "gross_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "net_weight": {
+          "value": "568.56",
+          "unit": "MT"
+        },
+        "gcv": {
+          "value": "3370.18",
+          "unit": "kcal/kg"
+        },
+        "moisture": {
+          "value": "12.9",
+          "unit": "%"
+        },
+        "ash": {
+          "value": null,
+          "unit": "%"
+        }
+      }
+    ],
+    "totals": {
+      "total_gross_weight": {
+        "value": null,
+        "unit": "MT"
+      },
+      "total_net_weight": {
+        "value": null,
+        "unit": "MT"
+      }
+    }
+  }
+}

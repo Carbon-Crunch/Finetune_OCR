@@ -1,0 +1,52 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "961",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "06/03/25"
+        },
+        "entries": [
+          {
+            "date_period": "06/03/25",
+            "timestamp": "21",
+            "pressure": {
+              "value": "92",
+              "unit": "bar"
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "timestamp": "22",
+            "pressure": {
+              "value": "92",
+              "unit": "bar"
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "timestamp": "23",
+            "pressure": {
+              "value": "92",
+              "unit": "bar"
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "timestamp": "24",
+            "pressure": {
+              "value": "92",
+              "unit": "bar"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

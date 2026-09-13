@@ -1,0 +1,82 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "926",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "RAJGST-240006789"
+        },
+        "invoice_date": {
+          "value": "15-MAY-24"
+        },
+        "supplier_name": "GUJARAT MINERAL DEVELOPMENT CORPORATION LIMITED",
+        "supplier_gstin": "24AAECM8332N1Z6",
+        "buyer_name": "MAHESHWARI LOGISTICS LIMITED",
+        "buyer_gstin": "24AAACM7987P1ZT",
+        "total_amount": {
+          "value": 112261,
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "RAJPARDI 'A' GRADE- LIGNITE RA",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "270220",
+            "quantity": {
+              "value": 20,
+              "unit": "MT"
+            },
+            "gross_amount": {
+              "value": 89600,
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Coal Receipt Register & Quality Register",
+      "boilerplate_used": "fuel/coal_receipt_quality_register.json",
+      "data": {
+        "report_period": {
+          "value": null
+        },
+        "entries": [
+          {
+            "date_of_receipt": "15-MAY-24",
+            "date_period": null,
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": "GUJARAT MINERAL DEVELOPMENT CORPORATION LIMITED",
+            "truck_vehicle_no": "GJ16AU-7219",
+            "total_trucks": {
+              "value": 1,
+              "unit": null
+            },
+            "gcv": {
+              "value": 3448,
+              "unit": "kcal/kg"
+            },
+            "moisture_content": {
+              "value": 6.1,
+              "unit": "%"
+            },
+            "ash_content": null,
+            "net_weight": {
+              "value": 20,
+              "unit": "MT"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

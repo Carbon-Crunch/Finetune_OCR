@@ -1,0 +1,231 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register",
+  "report_period": {
+    "value": "MAY 2024"
+  },
+  "entries": [
+    {
+      "date_period": "02/05/2024",
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "415",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "05/05/2024",
+      "consumption": {
+        "value": "80",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "335",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "06/05/2024",
+      "consumption": {
+        "value": "20",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "315",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "06/05/2024",
+      "consumption": {
+        "value": "40",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "275",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "08/05/2024",
+      "consumption": {
+        "value": "30",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "245",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "09/05/2024",
+      "consumption": {
+        "value": "90",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "155",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "09/05/2024",
+      "received_quantity": {
+        "value": "215",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "2306",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "10/05/2024",
+      "consumption": {
+        "value": "16",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "2290",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "10/05/2024",
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "2230",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "14/05/2024",
+      "consumption": {
+        "value": "80",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "2150",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "14/05/2024",
+      "consumption": {
+        "value": "40",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "2110",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "14/05/2024",
+      "consumption": {
+        "value": "10",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "2100",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "16/05/2024",
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "2040",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "18/05/2024",
+      "consumption": {
+        "value": "80",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "1960",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "19/05/2024",
+      "consumption": {
+        "value": "15",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "1945",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "20/05/2024",
+      "consumption": {
+        "value": "100",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "1845",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "21/05/2024",
+      "consumption": {
+        "value": "120",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "1725",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "24/05/2024",
+      "consumption": {
+        "value": "15",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "1710",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "27/05/2024",
+      "consumption": {
+        "value": "80",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "1630",
+        "unit": null
+      }
+    },
+    {
+      "date_period": "27/05/2024",
+      "consumption": {
+        "value": "60",
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": "1570",
+        "unit": null
+      }
+    }
+  ]
+}

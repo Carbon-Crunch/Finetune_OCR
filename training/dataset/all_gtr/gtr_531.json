@@ -1,0 +1,254 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2025-05"
+    },
+    "entries": [
+      {
+        "date_period": "2025-05-01 to 2025-05-02",
+        "consumption": null,
+        "net_generation": {
+          "value": "189.6",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-02 to 2025-05-03",
+        "consumption": null,
+        "net_generation": {
+          "value": "178.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-03 to 2025-05-04",
+        "consumption": null,
+        "net_generation": {
+          "value": "180.4",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-04 to 2025-05-05",
+        "consumption": null,
+        "net_generation": {
+          "value": "192.8",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-05 to 2025-05-06",
+        "consumption": null,
+        "net_generation": {
+          "value": "178.7",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-06 to 2025-05-07",
+        "consumption": null,
+        "net_generation": {
+          "value": "193.7",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-07 to 2025-05-08",
+        "consumption": null,
+        "net_generation": {
+          "value": "192.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-08 to 2025-05-09",
+        "consumption": null,
+        "net_generation": {
+          "value": "180.9",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-09 to 2025-05-10",
+        "consumption": null,
+        "net_generation": {
+          "value": "176.7",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-10 to 2025-05-11",
+        "consumption": null,
+        "net_generation": {
+          "value": "158.6",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-11 to 2025-05-12",
+        "consumption": null,
+        "net_generation": {
+          "value": "143.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-12 to 2025-05-13",
+        "consumption": null,
+        "net_generation": {
+          "value": "128.7",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-13 to 2025-05-14",
+        "consumption": null,
+        "net_generation": {
+          "value": "181.6",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-14 to 2025-05-15",
+        "consumption": null,
+        "net_generation": {
+          "value": "159.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-15 to 2025-05-16",
+        "consumption": null,
+        "net_generation": {
+          "value": "187.4",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-16 to 2025-05-17",
+        "consumption": null,
+        "net_generation": {
+          "value": "188.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-17 to 2025-05-18",
+        "consumption": null,
+        "net_generation": {
+          "value": "183.9",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-18 to 2025-05-19",
+        "consumption": null,
+        "net_generation": {
+          "value": "184.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-19 to 2025-05-20",
+        "consumption": null,
+        "net_generation": {
+          "value": "180.7",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-20 to 2025-05-21",
+        "consumption": null,
+        "net_generation": {
+          "value": "150.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-21 to 2025-05-22",
+        "consumption": null,
+        "net_generation": {
+          "value": "172.7",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-22 to 2025-05-23",
+        "consumption": null,
+        "net_generation": {
+          "value": "183.9",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-23 to 2025-05-24",
+        "consumption": null,
+        "net_generation": {
+          "value": "168.8",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-24 to 2025-05-25",
+        "consumption": null,
+        "net_generation": {
+          "value": "177.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-25 to 2025-05-26",
+        "consumption": null,
+        "net_generation": {
+          "value": "198.3",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-26 to 2025-05-27",
+        "consumption": null,
+        "net_generation": {
+          "value": "176.1",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-27 to 2025-05-28",
+        "consumption": null,
+        "net_generation": {
+          "value": "184",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-28 to 2025-05-29",
+        "consumption": null,
+        "net_generation": {
+          "value": "166.2",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-29 to 2025-05-30",
+        "consumption": null,
+        "net_generation": {
+          "value": "178.6",
+          "unit": "mWh"
+        }
+      },
+      {
+        "date_period": "2025-05-30 to 2025-06-01",
+        "consumption": null,
+        "net_generation": {
+          "value": "178.3",
+          "unit": "mWh"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "988",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "JAN-2025"
+        },
+        "vendor": {
+          "value": "MAHARASHTRA STATE ELECTRICITY DISTRIBUTION CO. LTD."
+        },
+        "vendor_gstin": {
+          "value": "27AAECM2933K1ZB"
+        },
+        "buyer": {
+          "value": "Padmashri Dr D Y Patil SSK Ltd"
+        },
+        "buyer_gstin": {
+          "value": "27AAACO9310N1Z6"
+        },
+        "invoice_no": {
+          "value": "202501450005799"
+        },
+        "invoice_date": {
+          "value": "06/02/2025"
+        },
+        "document_type": {
+          "value": "BILL OF SUPPLY"
+        },
+        "company_pan": {
+          "value": "AAACO9310N"
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "Demand Charges"
+            },
+            "hsn_sac": {
+              "value": "9986"
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": 549
+            },
+            "amount": {
+              "value": 823500.0
+            }
+          },
+          {
+            "item": {
+              "value": "Tax Collection at Source"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": 936.72
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "JAN-2025"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": 0.0,
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": 1500.0,
+              "unit": null
+            },
+            "kwh": {
+              "value": 0.0,
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": 0.0,
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": 0.0,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": 0.0,
+              "unit": null
+            },
+            "night_hour": {
+              "value": 0.0,
+              "unit": null
+            },
+            "amd": {
+              "value": 0.0,
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

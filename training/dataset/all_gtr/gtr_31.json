@@ -1,0 +1,52 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electricity Bill",
+  "extraction_rules": "This is a tabular billing document. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period or charge entry.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "202502"
+    },
+    "entries": [
+      {
+        "supply_voltage": {
+          "value": 132.0,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": 27540.0,
+          "unit": "kW"
+        },
+        "contract_demand": {
+          "value": 18000.0,
+          "unit": "kVA"
+        },
+        "billed_demand": {
+          "value": 13525.8,
+          "unit": "kVA"
+        },
+        "kwh_consumption": {
+          "value": 8374403.1,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": 8395210.8,
+          "unit": "KVAH"
+        },
+        "average_pf": {
+          "value": 0.997,
+          "unit": null
+        },
+        "load_factor": {
+          "value": 62.53,
+          "unit": "%"
+        },
+        "net_kwh_consumed": {
+          "value": 8374403.1,
+          "unit": "kWH"
+        }
+      }
+    ]
+  }
+}

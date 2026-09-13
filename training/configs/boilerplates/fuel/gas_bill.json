@@ -1,0 +1,30 @@
+{
+  "data_type": "Fuel",
+  "data_category": "Gas Bill",
+  "extraction_rules": "This is a tabular gas bill document. Extract EVERY row from the table into the entries array. Each object in entries represents one billing period entry.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "consumption_scm": {
+          "value": null,
+          "unit": "SCM"
+        },
+        "actual_consumption": {
+          "value": null,
+          "unit": null
+        },
+        "excess_gas_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "gas_price": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

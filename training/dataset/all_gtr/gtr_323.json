@@ -1,0 +1,4319 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": true,
+      "degree": 180
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": true,
+      "degree": 180
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array.",
+  "extracted_fields": {
+    "document_title": "Electricity Generation & Consume Register",
+    "document_type": "Internal Register",
+    "report_period": {
+      "value": "April 2024 - March 2025"
+    },
+    "company_name": "TEHRI PULP AND PAPER LIMITED",
+    "entries": [
+      {
+        "date_period": "01/04/24",
+        "consumption": {
+          "value": 30595,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 140405,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 51942, PM-2: 57878"
+      },
+      {
+        "date_period": "02/04/24",
+        "consumption": {
+          "value": 38491,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 148042,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 51815, PM-2: 57736"
+      },
+      {
+        "date_period": "03/04/24",
+        "consumption": {
+          "value": 38911,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 149657,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 52380, PM-2: 58366"
+      },
+      {
+        "date_period": "04/04/24",
+        "consumption": {
+          "value": 37750,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 145223,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 50816, PM-2: 56657"
+      },
+      {
+        "date_period": "05/04/24",
+        "consumption": {
+          "value": 37333,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 143587,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 50255, PM-2: 55999"
+      },
+      {
+        "date_period": "06/04/24",
+        "consumption": {
+          "value": 39562,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152163,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53257, PM-2: 59344"
+      },
+      {
+        "date_period": "07/04/24",
+        "consumption": {
+          "value": 39137,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 150526,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 52684, PM-2: 58705"
+      },
+      {
+        "date_period": "08/04/24",
+        "consumption": {
+          "value": 40295,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154980,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54243, PM-2: 60442"
+      },
+      {
+        "date_period": "09/04/24",
+        "consumption": {
+          "value": 40709,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156802,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54909, PM-2: 61184"
+      },
+      {
+        "date_period": "10/04/24",
+        "consumption": {
+          "value": 39038,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153228,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53628, PM-2: 59757"
+      },
+      {
+        "date_period": "11/04/24",
+        "consumption": {
+          "value": 39736,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152831,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53491, PM-2: 59604"
+      },
+      {
+        "date_period": "12/04/24",
+        "consumption": {
+          "value": 40939,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157457,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55110, PM-2: 61408"
+      },
+      {
+        "date_period": "13/04/24",
+        "consumption": {
+          "value": 39938,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153607,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53762, PM-2: 59907"
+      },
+      {
+        "date_period": "14/04/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "15/04/24",
+        "consumption": {
+          "value": 38835,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 149365,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 52278, PM-2: 58252"
+      },
+      {
+        "date_period": "16/04/24",
+        "consumption": {
+          "value": 40987,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157641,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55174, PM-2: 61480"
+      },
+      {
+        "date_period": "17/04/24",
+        "consumption": {
+          "value": 40862,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157163,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55007, PM-2: 61294"
+      },
+      {
+        "date_period": "18/04/24",
+        "consumption": {
+          "value": 43855,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 168674,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59036, PM-2: 65783"
+      },
+      {
+        "date_period": "19/04/24",
+        "consumption": {
+          "value": 40839,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157074,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54976, PM-2: 61259"
+      },
+      {
+        "date_period": "20/04/24",
+        "consumption": {
+          "value": 44754,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172129,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60245, PM-2: 67130"
+      },
+      {
+        "date_period": "21/04/24",
+        "consumption": {
+          "value": 36056,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 138677,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 48537, PM-2: 54084"
+      },
+      {
+        "date_period": "22/04/24",
+        "consumption": {
+          "value": 39207,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 151103,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 52896, PM-2: 58930"
+      },
+      {
+        "date_period": "23/04/24",
+        "consumption": {
+          "value": 36757,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 141374,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 49481, PM-2: 55136"
+      },
+      {
+        "date_period": "24/04/24",
+        "consumption": {
+          "value": 40715,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156595,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54808, PM-2: 61072"
+      },
+      {
+        "date_period": "25/04/24",
+        "consumption": {
+          "value": 35654,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 137131,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 47996, PM-2: 53481"
+      },
+      {
+        "date_period": "26/04/24",
+        "consumption": {
+          "value": 40295,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154980,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54243, PM-2: 60442"
+      },
+      {
+        "date_period": "27/04/24",
+        "consumption": {
+          "value": 41679,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 160303,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56106, PM-2: 62518"
+      },
+      {
+        "date_period": "28/04/24",
+        "consumption": {
+          "value": 40138,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154377,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54032, PM-2: 60207"
+      },
+      {
+        "date_period": "29/04/24",
+        "consumption": {
+          "value": 43351,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 166734,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 58357, PM-2: 65026"
+      },
+      {
+        "date_period": "30/04/24",
+        "consumption": {
+          "value": 44550,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171346,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59971, PM-2: 66825"
+      },
+      {
+        "date_period": "01/05/24",
+        "consumption": {
+          "value": 40891,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156503,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54776, PM-2: 61036"
+      },
+      {
+        "date_period": "02/05/24",
+        "consumption": {
+          "value": 40023,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153934,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53877, PM-2: 60054"
+      },
+      {
+        "date_period": "03/05/24",
+        "consumption": {
+          "value": 40839,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157072,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54975, PM-2: 61259"
+      },
+      {
+        "date_period": "04/05/24",
+        "consumption": {
+          "value": 40540,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155921,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54572, PM-2: 60809"
+      },
+      {
+        "date_period": "05/05/24",
+        "consumption": {
+          "value": 40563,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156013,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54605, PM-2: 60845"
+      },
+      {
+        "date_period": "06/05/24",
+        "consumption": {
+          "value": 40989,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157651,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55178, PM-2: 61484"
+      },
+      {
+        "date_period": "07/05/24",
+        "consumption": {
+          "value": 40987,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157641,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55174, PM-2: 61480"
+      },
+      {
+        "date_period": "08/05/24",
+        "consumption": {
+          "value": 40862,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157163,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55007, PM-2: 61294"
+      },
+      {
+        "date_period": "09/05/24",
+        "consumption": {
+          "value": 40540,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155921,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54572, PM-2: 60809"
+      },
+      {
+        "date_period": "10/05/24",
+        "consumption": {
+          "value": 40889,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156497,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54774, PM-2: 61034"
+      },
+      {
+        "date_period": "11/05/24",
+        "consumption": {
+          "value": 41115,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158134,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55347, PM-2: 61672"
+      },
+      {
+        "date_period": "12/05/24",
+        "consumption": {
+          "value": 40839,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157074,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54976, PM-2: 61259"
+      },
+      {
+        "date_period": "13/05/24",
+        "consumption": {
+          "value": 40839,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157072,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54975, PM-2: 61259"
+      },
+      {
+        "date_period": "14/05/24",
+        "consumption": {
+          "value": 15717,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 60451,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 21158, PM-2: 23576"
+      },
+      {
+        "date_period": "15/05/24",
+        "consumption": {
+          "value": 40891,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156503,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54776, PM-2: 61036"
+      },
+      {
+        "date_period": "16/05/24",
+        "consumption": {
+          "value": 41265,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158711,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55549, PM-2: 61897"
+      },
+      {
+        "date_period": "17/05/24",
+        "consumption": {
+          "value": 41531,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 159734,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55907, PM-2: 62296"
+      },
+      {
+        "date_period": "18/05/24",
+        "consumption": {
+          "value": 40567,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156026,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54609, PM-2: 60850"
+      },
+      {
+        "date_period": "19/05/24",
+        "consumption": {
+          "value": 40715,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156595,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54808, PM-2: 61072"
+      },
+      {
+        "date_period": "20/05/24",
+        "consumption": {
+          "value": 40989,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157651,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55178, PM-2: 61484"
+      },
+      {
+        "date_period": "21/05/24",
+        "consumption": {
+          "value": 40987,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157641,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55174, PM-2: 61480"
+      },
+      {
+        "date_period": "22/05/24",
+        "consumption": {
+          "value": 40713,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156589,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54806, PM-2: 61070"
+      },
+      {
+        "date_period": "23/05/24",
+        "consumption": {
+          "value": 42767,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 164488,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 57571, PM-2: 64150"
+      },
+      {
+        "date_period": "24/05/24",
+        "consumption": {
+          "value": 40963,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157551,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55143, PM-2: 61445"
+      },
+      {
+        "date_period": "25/05/24",
+        "consumption": {
+          "value": 44772,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172200,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60278, PM-2: 67150"
+      },
+      {
+        "date_period": "26/05/24",
+        "consumption": {
+          "value": 41235,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158597,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55509, PM-2: 61853"
+      },
+      {
+        "date_period": "27/05/24",
+        "consumption": {
+          "value": 39988,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153800,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53830, PM-2: 59982"
+      },
+      {
+        "date_period": "28/05/24",
+        "consumption": {
+          "value": 40839,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157074,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54976, PM-2: 61259"
+      },
+      {
+        "date_period": "29/05/24",
+        "consumption": {
+          "value": 41531,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 159734,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55907, PM-2: 62296"
+      },
+      {
+        "date_period": "30/05/24",
+        "consumption": {
+          "value": 41655,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 160212,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56074, PM-2: 62483"
+      },
+      {
+        "date_period": "31/05/24",
+        "consumption": {
+          "value": 40264,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154861,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54201, PM-2: 60396"
+      },
+      {
+        "date_period": "01/06/24",
+        "consumption": {
+          "value": 40889,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156497,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54774, PM-2: 61034"
+      },
+      {
+        "date_period": "02/06/24",
+        "consumption": {
+          "value": 41391,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 159195,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55718, PM-2: 62086"
+      },
+      {
+        "date_period": "03/06/24",
+        "consumption": {
+          "value": 40965,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157558,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55145, PM-2: 61448"
+      },
+      {
+        "date_period": "04/06/24",
+        "consumption": {
+          "value": 40691,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156503,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54776, PM-2: 61036"
+      },
+      {
+        "date_period": "05/06/24",
+        "consumption": {
+          "value": 25248,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 97100,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 33980, PM-2: 37872"
+      },
+      {
+        "date_period": "06/06/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "07/06/24",
+        "consumption": {
+          "value": 15166,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 58330,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 20415, PM-2: 22749"
+      },
+      {
+        "date_period": "08/06/24",
+        "consumption": {
+          "value": 41111,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158119,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55342, PM-2: 61666"
+      },
+      {
+        "date_period": "09/06/24",
+        "consumption": {
+          "value": 40691,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156503,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54776, PM-2: 61036"
+      },
+      {
+        "date_period": "10/06/24",
+        "consumption": {
+          "value": 40889,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156497,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54774, PM-2: 61034"
+      },
+      {
+        "date_period": "11/06/24",
+        "consumption": {
+          "value": 41111,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158119,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55342, PM-2: 61666"
+      },
+      {
+        "date_period": "12/06/24",
+        "consumption": {
+          "value": 41383,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 159165,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55708, PM-2: 62074"
+      },
+      {
+        "date_period": "13/06/24",
+        "consumption": {
+          "value": 40138,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154377,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54032, PM-2: 60207"
+      },
+      {
+        "date_period": "14/06/24",
+        "consumption": {
+          "value": 41259,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158688,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55541, PM-2: 61888"
+      },
+      {
+        "date_period": "15/06/24",
+        "consumption": {
+          "value": 41531,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 159734,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55907, PM-2: 62296"
+      },
+      {
+        "date_period": "16/06/24",
+        "consumption": {
+          "value": 41655,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 160212,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56074, PM-2: 62483"
+      },
+      {
+        "date_period": "17/06/24",
+        "consumption": {
+          "value": 40965,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157558,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55145, PM-2: 61448"
+      },
+      {
+        "date_period": "18/06/24",
+        "consumption": {
+          "value": 40889,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156497,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54774, PM-2: 61034"
+      },
+      {
+        "date_period": "19/06/24",
+        "consumption": {
+          "value": 41383,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 159165,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55708, PM-2: 62074"
+      },
+      {
+        "date_period": "20/06/24",
+        "consumption": {
+          "value": 40965,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157558,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55145, PM-2: 61448"
+      },
+      {
+        "date_period": "21/06/24",
+        "consumption": {
+          "value": 41383,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 159165,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55708, PM-2: 62074"
+      },
+      {
+        "date_period": "22/06/24",
+        "consumption": {
+          "value": 40138,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154377,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54032, PM-2: 60207"
+      },
+      {
+        "date_period": "23/06/24",
+        "consumption": {
+          "value": 41803,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 160780,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56273, PM-2: 62704"
+      },
+      {
+        "date_period": "24/06/24",
+        "consumption": {
+          "value": 40839,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157072,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54975, PM-2: 61258"
+      },
+      {
+        "date_period": "25/06/24",
+        "consumption": {
+          "value": 40839,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157074,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54976, PM-2: 61259"
+      },
+      {
+        "date_period": "26/06/24",
+        "consumption": {
+          "value": 42075,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 162026,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56839, PM-2: 63112"
+      },
+      {
+        "date_period": "27/06/24",
+        "consumption": {
+          "value": 40889,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156497,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54774, PM-2: 61034"
+      },
+      {
+        "date_period": "28/06/24",
+        "consumption": {
+          "value": 44817,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172374,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60331, PM-2: 67226"
+      },
+      {
+        "date_period": "29/06/24",
+        "consumption": {
+          "value": 20339,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 78226,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 27379, PM-2: 30508"
+      },
+      {
+        "date_period": "30/06/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "01/07/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "02/07/24",
+        "consumption": {
+          "value": 25458,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 97916,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 34271, PM-2: 38187"
+      },
+      {
+        "date_period": "03/07/24",
+        "consumption": {
+          "value": 40241,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154774,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54171, PM-2: 60362"
+      },
+      {
+        "date_period": "04/07/24",
+        "consumption": {
+          "value": 40917,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157374,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55081, PM-2: 61376"
+      },
+      {
+        "date_period": "05/07/24",
+        "consumption": {
+          "value": 40766,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156792,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54877, PM-2: 61149"
+      },
+      {
+        "date_period": "06/07/24",
+        "consumption": {
+          "value": 40891,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157274,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55046, PM-2: 61337"
+      },
+      {
+        "date_period": "07/07/24",
+        "consumption": {
+          "value": 40917,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157374,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55081, PM-2: 61376"
+      },
+      {
+        "date_period": "08/07/24",
+        "consumption": {
+          "value": 40817,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156989,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54946, PM-2: 61226"
+      },
+      {
+        "date_period": "09/07/24",
+        "consumption": {
+          "value": 41392,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 159202,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55721, PM-2: 62089"
+      },
+      {
+        "date_period": "10/07/24",
+        "consumption": {
+          "value": 40441,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155543,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54440, PM-2: 60662"
+      },
+      {
+        "date_period": "11/07/24",
+        "consumption": {
+          "value": 41167,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158334,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55417, PM-2: 61750"
+      },
+      {
+        "date_period": "12/07/24",
+        "consumption": {
+          "value": 40641,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156313,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54710, PM-2: 60962"
+      },
+      {
+        "date_period": "13/07/24",
+        "consumption": {
+          "value": 40941,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157466,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55113, PM-2: 61412"
+      },
+      {
+        "date_period": "14/07/24",
+        "consumption": {
+          "value": 40567,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156026,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54609, PM-2: 60850"
+      },
+      {
+        "date_period": "15/07/24",
+        "consumption": {
+          "value": 40491,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155734,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54507, PM-2: 60736"
+      },
+      {
+        "date_period": "16/07/24",
+        "consumption": {
+          "value": 40667,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156411,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54744, PM-2: 61000"
+      },
+      {
+        "date_period": "17/07/24",
+        "consumption": {
+          "value": 40542,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155931,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54576, PM-2: 60813"
+      },
+      {
+        "date_period": "18/07/24",
+        "consumption": {
+          "value": 40239,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154766,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54168, PM-2: 60359"
+      },
+      {
+        "date_period": "19/07/24",
+        "consumption": {
+          "value": 40540,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155921,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54572, PM-2: 60809"
+      },
+      {
+        "date_period": "20/07/24",
+        "consumption": {
+          "value": 40114,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154285,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54000, PM-2: 60171"
+      },
+      {
+        "date_period": "21/07/24",
+        "consumption": {
+          "value": 38160,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 146769,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 51369, PM-2: 57240"
+      },
+      {
+        "date_period": "22/07/24",
+        "consumption": {
+          "value": 39988,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153800,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53830, PM-2: 59982"
+      },
+      {
+        "date_period": "23/07/24",
+        "consumption": {
+          "value": 40114,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154285,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54000, PM-2: 60171"
+      },
+      {
+        "date_period": "24/07/24",
+        "consumption": {
+          "value": 24547,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 94410,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 33043, PM-2: 36820"
+      },
+      {
+        "date_period": "25/07/24",
+        "consumption": {
+          "value": 25248,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 97108,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 33980, PM-2: 37872"
+      },
+      {
+        "date_period": "26/07/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "27/07/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "28/07/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "29/07/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "30/07/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "31/07/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "01/08/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "02/08/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "03/08/24",
+        "consumption": {
+          "value": 40114,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154285,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54000, PM-2: 60171"
+      },
+      {
+        "date_period": "04/08/24",
+        "consumption": {
+          "value": 40815,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156982,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54944, PM-2: 61223"
+      },
+      {
+        "date_period": "05/08/24",
+        "consumption": {
+          "value": 40889,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156497,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54774, PM-2: 61034"
+      },
+      {
+        "date_period": "06/08/24",
+        "consumption": {
+          "value": 40815,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156982,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54944, PM-2: 61223"
+      },
+      {
+        "date_period": "07/08/24",
+        "consumption": {
+          "value": 40815,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156982,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54944, PM-2: 61223"
+      },
+      {
+        "date_period": "08/08/24",
+        "consumption": {
+          "value": 40540,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155921,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54572, PM-2: 60809"
+      },
+      {
+        "date_period": "09/08/24",
+        "consumption": {
+          "value": 40271,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154889,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54211, PM-2: 60407"
+      },
+      {
+        "date_period": "10/08/24",
+        "consumption": {
+          "value": 40691,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156503,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54776, PM-2: 61036"
+      },
+      {
+        "date_period": "11/08/24",
+        "consumption": {
+          "value": 40540,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155921,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54572, PM-2: 60809"
+      },
+      {
+        "date_period": "12/08/24",
+        "consumption": {
+          "value": 40114,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154285,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54000, PM-2: 60171"
+      },
+      {
+        "date_period": "13/08/24",
+        "consumption": {
+          "value": 39539,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152072,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53225, PM-2: 59308"
+      },
+      {
+        "date_period": "14/08/24",
+        "consumption": {
+          "value": 40791,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156809,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54911, PM-2: 61107"
+      },
+      {
+        "date_period": "15/08/24",
+        "consumption": {
+          "value": 40641,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156313,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54710, PM-2: 60962"
+      },
+      {
+        "date_period": "16/08/24",
+        "consumption": {
+          "value": 39838,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153223,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53628, PM-2: 59757"
+      },
+      {
+        "date_period": "17/08/24",
+        "consumption": {
+          "value": 40516,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54540, PM-2: 60773"
+      },
+      {
+        "date_period": "18/08/24",
+        "consumption": {
+          "value": 40939,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157459,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55111, PM-2: 61409"
+      },
+      {
+        "date_period": "19/08/24",
+        "consumption": {
+          "value": 40240,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154769,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54169, PM-2: 60360"
+      },
+      {
+        "date_period": "20/08/24",
+        "consumption": {
+          "value": 32525,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 125017,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 43784, PM-2: 48708"
+      },
+      {
+        "date_period": "21/08/24",
+        "consumption": {
+          "value": 31674,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 121823,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 42638, PM-2: 47511"
+      },
+      {
+        "date_period": "22/08/24",
+        "consumption": {
+          "value": 40786,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156871,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54905, PM-2: 61180"
+      },
+      {
+        "date_period": "23/08/24",
+        "consumption": {
+          "value": 39983,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153782,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53824, PM-2: 59975"
+      },
+      {
+        "date_period": "24/08/24",
+        "consumption": {
+          "value": 40750,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156732,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54856, PM-2: 61126"
+      },
+      {
+        "date_period": "25/08/24",
+        "consumption": {
+          "value": 40846,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157102,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54986, PM-2: 61270"
+      },
+      {
+        "date_period": "26/08/24",
+        "consumption": {
+          "value": 41112,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158123,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55343, PM-2: 61668"
+      },
+      {
+        "date_period": "27/08/24",
+        "consumption": {
+          "value": 40595,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156134,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54647, PM-2: 60892"
+      },
+      {
+        "date_period": "28/08/24",
+        "consumption": {
+          "value": 31398,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 120762,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 42267, PM-2: 47097"
+      },
+      {
+        "date_period": "29/08/24",
+        "consumption": {
+          "value": 29851,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 114811,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 40184, PM-2: 44776"
+      },
+      {
+        "date_period": "30/08/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "31/08/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "01/09/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "02/09/24",
+        "consumption": {
+          "value": 31375,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 120674,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 42236, PM-2: 47063"
+      },
+      {
+        "date_period": "03/09/24",
+        "consumption": {
+          "value": 39996,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53840, PM-2: 59993"
+      },
+      {
+        "date_period": "04/09/24",
+        "consumption": {
+          "value": 40475,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155674,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54486, PM-2: 60713"
+      },
+      {
+        "date_period": "05/09/24",
+        "consumption": {
+          "value": 39996,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53840, PM-2: 59993"
+      },
+      {
+        "date_period": "06/09/24",
+        "consumption": {
+          "value": 39984,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153783,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53824, PM-2: 59975"
+      },
+      {
+        "date_period": "07/09/24",
+        "consumption": {
+          "value": 39744,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152861,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53501, PM-2: 59616"
+      },
+      {
+        "date_period": "08/09/24",
+        "consumption": {
+          "value": 39996,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53840, PM-2: 59993"
+      },
+      {
+        "date_period": "09/09/24",
+        "consumption": {
+          "value": 40383,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155310,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54350, PM-2: 60577"
+      },
+      {
+        "date_period": "10/09/24",
+        "consumption": {
+          "value": 39996,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53840, PM-2: 59993"
+      },
+      {
+        "date_period": "11/09/24",
+        "consumption": {
+          "value": 40475,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155674,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54486, PM-2: 60713"
+      },
+      {
+        "date_period": "12/09/24",
+        "consumption": {
+          "value": 40295,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154982,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54244, PM-2: 60443"
+      },
+      {
+        "date_period": "13/09/24",
+        "consumption": {
+          "value": 39996,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53840, PM-2: 59993"
+      },
+      {
+        "date_period": "14/09/24",
+        "consumption": {
+          "value": 39984,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153783,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53824, PM-2: 59975"
+      },
+      {
+        "date_period": "15/09/24",
+        "consumption": {
+          "value": 39744,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152861,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53501, PM-2: 59616"
+      },
+      {
+        "date_period": "16/09/24",
+        "consumption": {
+          "value": 39996,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53840, PM-2: 59993"
+      },
+      {
+        "date_period": "17/09/24",
+        "consumption": {
+          "value": 39375,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 151442,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53005, PM-2: 59062"
+      },
+      {
+        "date_period": "18/09/24",
+        "consumption": {
+          "value": 40398,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155376,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54381, PM-2: 60597"
+      },
+      {
+        "date_period": "19/09/24",
+        "consumption": {
+          "value": 39784,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153016,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53556, PM-2: 59676"
+      },
+      {
+        "date_period": "20/09/24",
+        "consumption": {
+          "value": 40146,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154408,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54043, PM-2: 60219"
+      },
+      {
+        "date_period": "21/09/24",
+        "consumption": {
+          "value": 39943,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153628,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53770, PM-2: 59915"
+      },
+      {
+        "date_period": "22/09/24",
+        "consumption": {
+          "value": 40039,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153997,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53899, PM-2: 60059"
+      },
+      {
+        "date_period": "23/09/24",
+        "consumption": {
+          "value": 40103,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154243,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53985, PM-2: 60155"
+      },
+      {
+        "date_period": "24/09/24",
+        "consumption": {
+          "value": 38701,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 148849,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 52097, PM-2: 58005"
+      },
+      {
+        "date_period": "25/09/24",
+        "consumption": {
+          "value": 37478,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 144146,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 50451, PM-2: 56217"
+      },
+      {
+        "date_period": "26/09/24",
+        "consumption": {
+          "value": 40283,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154935,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54227, PM-2: 60425"
+      },
+      {
+        "date_period": "27/09/24",
+        "consumption": {
+          "value": 38880,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 149540,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 52339, PM-2: 58321"
+      },
+      {
+        "date_period": "28/09/24",
+        "consumption": {
+          "value": 23451,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 90197,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 31569, PM-2: 35177"
+      },
+      {
+        "date_period": "29/09/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "30/09/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "01/10/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "02/10/24",
+        "consumption": {
+          "value": 26112,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 100432,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 35151, PM-2: 39169"
+      },
+      {
+        "date_period": "03/10/24",
+        "consumption": {
+          "value": 40091,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154197,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53969, PM-2: 60137"
+      },
+      {
+        "date_period": "04/10/24",
+        "consumption": {
+          "value": 39432,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 151662,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53082, PM-2: 59148"
+      },
+      {
+        "date_period": "05/10/24",
+        "consumption": {
+          "value": 40044,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154014,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53905, PM-2: 60065"
+      },
+      {
+        "date_period": "06/10/24",
+        "consumption": {
+          "value": 39148,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 150568,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 52699, PM-2: 58721"
+      },
+      {
+        "date_period": "07/10/24",
+        "consumption": {
+          "value": 39834,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153208,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53623, PM-2: 59751"
+      },
+      {
+        "date_period": "08/10/24",
+        "consumption": {
+          "value": 39996,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53840, PM-2: 59993"
+      },
+      {
+        "date_period": "09/10/24",
+        "consumption": {
+          "value": 39996,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153829,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53840, PM-2: 59993"
+      },
+      {
+        "date_period": "10/10/24",
+        "consumption": {
+          "value": 39750,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152886,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53510, PM-2: 59626"
+      },
+      {
+        "date_period": "11/10/24",
+        "consumption": {
+          "value": 39583,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152243,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53285, PM-2: 59375"
+      },
+      {
+        "date_period": "12/10/24",
+        "consumption": {
+          "value": 39318,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 151223,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 52928, PM-2: 58977"
+      },
+      {
+        "date_period": "13/10/24",
+        "consumption": {
+          "value": 42411,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 163119,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 57092, PM-2: 63616"
+      },
+      {
+        "date_period": "14/10/24",
+        "consumption": {
+          "value": 44349,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170572,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59700, PM-2: 66523"
+      },
+      {
+        "date_period": "15/10/24",
+        "consumption": {
+          "value": 43675,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 167980,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 58793, PM-2: 65512"
+      },
+      {
+        "date_period": "16/10/24",
+        "consumption": {
+          "value": 44622,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171625,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60069, PM-2: 66934"
+      },
+      {
+        "date_period": "17/10/24",
+        "consumption": {
+          "value": 43143,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 165934,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 58077, PM-2: 64714"
+      },
+      {
+        "date_period": "18/10/24",
+        "consumption": {
+          "value": 42890,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 164961,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 57736, PM-2: 64335"
+      },
+      {
+        "date_period": "19/10/24",
+        "consumption": {
+          "value": 40155,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154443,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54055, PM-2: 60233"
+      },
+      {
+        "date_period": "20/10/24",
+        "consumption": {
+          "value": 40355,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155213,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54325, PM-2: 60533"
+      },
+      {
+        "date_period": "21/10/24",
+        "consumption": {
+          "value": 40351,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155196,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54319, PM-2: 60526"
+      },
+      {
+        "date_period": "22/10/24",
+        "consumption": {
+          "value": 40296,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154986,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54245, PM-2: 60445"
+      },
+      {
+        "date_period": "23/10/24",
+        "consumption": {
+          "value": 41055,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157903,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55266, PM-2: 61582"
+      },
+      {
+        "date_period": "24/10/24",
+        "consumption": {
+          "value": 40303,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155012,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54254, PM-2: 60455"
+      },
+      {
+        "date_period": "25/10/24",
+        "consumption": {
+          "value": 40333,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155126,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54294, PM-2: 60499"
+      },
+      {
+        "date_period": "26/10/24",
+        "consumption": {
+          "value": 40512,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155817,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54536, PM-2: 60769"
+      },
+      {
+        "date_period": "27/10/24",
+        "consumption": {
+          "value": 40333,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155126,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54294, PM-2: 60499"
+      },
+      {
+        "date_period": "28/10/24",
+        "consumption": {
+          "value": 39982,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 153777,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53822, PM-2: 59973"
+      },
+      {
+        "date_period": "29/10/24",
+        "consumption": {
+          "value": 40615,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156210,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54673, PM-2: 60922"
+      },
+      {
+        "date_period": "30/10/24",
+        "consumption": {
+          "value": 40652,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156355,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54724, PM-2: 60979"
+      },
+      {
+        "date_period": "31/10/24",
+        "consumption": {
+          "value": 39699,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152688,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53441, PM-2: 59548"
+      },
+      {
+        "date_period": "01/11/24",
+        "consumption": {
+          "value": 40257,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154265,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53923, PM-2: 60085"
+      },
+      {
+        "date_period": "02/11/24",
+        "consumption": {
+          "value": 26509,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 101957,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 35685, PM-2: 39763"
+      },
+      {
+        "date_period": "03/11/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "04/11/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "05/11/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "06/11/24",
+        "consumption": {
+          "value": 29272,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 112585,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 39405, PM-2: 43908"
+      },
+      {
+        "date_period": "07/11/24",
+        "consumption": {
+          "value": 40752,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156739,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54859, PM-2: 61128"
+      },
+      {
+        "date_period": "08/11/24",
+        "consumption": {
+          "value": 40224,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154740,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54180, PM-2: 60336"
+      },
+      {
+        "date_period": "09/11/24",
+        "consumption": {
+          "value": 40368,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155262,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54342, PM-2: 60552"
+      },
+      {
+        "date_period": "10/11/24",
+        "consumption": {
+          "value": 40698,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156530,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54785, PM-2: 61047"
+      },
+      {
+        "date_period": "11/11/24",
+        "consumption": {
+          "value": 40668,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156415,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54745, PM-2: 61002"
+      },
+      {
+        "date_period": "12/11/24",
+        "consumption": {
+          "value": 40368,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155262,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54342, PM-2: 60552"
+      },
+      {
+        "date_period": "13/11/24",
+        "consumption": {
+          "value": 40578,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156069,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54624, PM-2: 60867"
+      },
+      {
+        "date_period": "14/11/24",
+        "consumption": {
+          "value": 40368,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155262,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54342, PM-2: 60552"
+      },
+      {
+        "date_period": "15/11/24",
+        "consumption": {
+          "value": 40608,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156184,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54664, PM-2: 60912"
+      },
+      {
+        "date_period": "16/11/24",
+        "consumption": {
+          "value": 32691,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 125736,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 44008, PM-2: 49037"
+      },
+      {
+        "date_period": "17/11/24",
+        "consumption": {
+          "value": 44893,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172666,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60433, PM-2: 67340"
+      },
+      {
+        "date_period": "18/11/24",
+        "consumption": {
+          "value": 44980,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 173000,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60550, PM-2: 67470"
+      },
+      {
+        "date_period": "19/11/24",
+        "consumption": {
+          "value": 43409,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 166958,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 58435, PM-2: 65114"
+      },
+      {
+        "date_period": "20/11/24",
+        "consumption": {
+          "value": 34699,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 133457,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 46710, PM-2: 52048"
+      },
+      {
+        "date_period": "21/11/24",
+        "consumption": {
+          "value": 40631,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156274,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54696, PM-2: 60947"
+      },
+      {
+        "date_period": "22/11/24",
+        "consumption": {
+          "value": 41138,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158223,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55378, PM-2: 61707"
+      },
+      {
+        "date_period": "23/11/24",
+        "consumption": {
+          "value": 39633,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 152435,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 53352, PM-2: 59450"
+      },
+      {
+        "date_period": "24/11/24",
+        "consumption": {
+          "value": 35639,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 137074,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 47976, PM-2: 53459"
+      },
+      {
+        "date_period": "25/11/24",
+        "consumption": {
+          "value": 40717,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156603,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54811, PM-2: 61075"
+      },
+      {
+        "date_period": "26/11/24",
+        "consumption": {
+          "value": 41010,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157730,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55205, PM-2: 61515"
+      },
+      {
+        "date_period": "27/11/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "28/11/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "29/11/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "30/11/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "01/12/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "02/12/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "03/12/24",
+        "consumption": {
+          "value": 42906,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 165025,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 57759, PM-2: 64360"
+      },
+      {
+        "date_period": "04/12/24",
+        "consumption": {
+          "value": 42849,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 164805,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 57682, PM-2: 64274"
+      },
+      {
+        "date_period": "05/12/24",
+        "consumption": {
+          "value": 42675,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 164134,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 57447, PM-2: 64012"
+      },
+      {
+        "date_period": "06/12/24",
+        "consumption": {
+          "value": 41832,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 160892,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56312, PM-2: 62748"
+      },
+      {
+        "date_period": "07/12/24",
+        "consumption": {
+          "value": 41741,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 160542,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56190, PM-2: 62611"
+      },
+      {
+        "date_period": "08/12/24",
+        "consumption": {
+          "value": 40950,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157500,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55125, PM-2: 61425"
+      },
+      {
+        "date_period": "09/12/24",
+        "consumption": {
+          "value": 40338,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155147,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54302, PM-2: 60507"
+      },
+      {
+        "date_period": "10/12/24",
+        "consumption": {
+          "value": 43465,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 167176,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 58512, PM-2: 65199"
+      },
+      {
+        "date_period": "11/12/24",
+        "consumption": {
+          "value": 42047,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 161718,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56601, PM-2: 63070"
+      },
+      {
+        "date_period": "12/12/24",
+        "consumption": {
+          "value": 40937,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157449,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55107, PM-2: 61405"
+      },
+      {
+        "date_period": "13/12/24",
+        "consumption": {
+          "value": 40597,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156143,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54650, PM-2: 60896"
+      },
+      {
+        "date_period": "14/12/24",
+        "consumption": {
+          "value": 40960,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157561,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55149, PM-2: 61452"
+      },
+      {
+        "date_period": "15/12/24",
+        "consumption": {
+          "value": 40820,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 157000,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54950, PM-2: 61230"
+      },
+      {
+        "date_period": "16/12/24",
+        "consumption": {
+          "value": 40632,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156277,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54697, PM-2: 60948"
+      },
+      {
+        "date_period": "17/12/24",
+        "consumption": {
+          "value": 40248,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 154802,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54181, PM-2: 60373"
+      },
+      {
+        "date_period": "18/12/24",
+        "consumption": {
+          "value": 40567,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156026,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54609, PM-2: 60850"
+      },
+      {
+        "date_period": "19/12/24",
+        "consumption": {
+          "value": 40664,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156398,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54739, PM-2: 60995"
+      },
+      {
+        "date_period": "20/12/24",
+        "consumption": {
+          "value": 40680,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156462,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54762, PM-2: 61020"
+      },
+      {
+        "date_period": "21/12/24",
+        "consumption": {
+          "value": 40770,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156808,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54883, PM-2: 61155"
+      },
+      {
+        "date_period": "22/12/24",
+        "consumption": {
+          "value": 40355,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155267,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54350, PM-2: 60562"
+      },
+      {
+        "date_period": "23/12/24",
+        "consumption": {
+          "value": 40541,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155926,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54574, PM-2: 60811"
+      },
+      {
+        "date_period": "24/12/24",
+        "consumption": {
+          "value": 40693,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156513,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54780, PM-2: 61040"
+      },
+      {
+        "date_period": "25/12/24",
+        "consumption": {
+          "value": 40712,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156583,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54804, PM-2: 61067"
+      },
+      {
+        "date_period": "26/12/24",
+        "consumption": {
+          "value": 40542,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 155931,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54576, PM-2: 60813"
+      },
+      {
+        "date_period": "27/12/24",
+        "consumption": {
+          "value": 40571,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156041,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54614, PM-2: 60856"
+      },
+      {
+        "date_period": "28/12/24",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "29/12/24",
+        "consumption": {
+          "value": 40629,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156265,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54693, PM-2: 60943"
+      },
+      {
+        "date_period": "30/12/24",
+        "consumption": {
+          "value": 40777,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 156835,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 54892, PM-2: 61166"
+      },
+      {
+        "date_period": "31/12/24",
+        "consumption": {
+          "value": 41256,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 158677,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 55537, PM-2: 61884"
+      },
+      {
+        "date_period": "01/01/25",
+        "consumption": {
+          "value": 44798,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172298,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60304, PM-2: 67196"
+      },
+      {
+        "date_period": "02/01/25",
+        "consumption": {
+          "value": 44245,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170172,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59560, PM-2: 66367"
+      },
+      {
+        "date_period": "03/01/25",
+        "consumption": {
+          "value": 44497,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171142,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59900, PM-2: 66745"
+      },
+      {
+        "date_period": "04/01/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "05/01/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "06/01/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "07/01/25",
+        "consumption": {
+          "value": 44748,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172109,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60238, PM-2: 67123"
+      },
+      {
+        "date_period": "08/01/25",
+        "consumption": {
+          "value": 44910,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172731,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60456, PM-2: 67365"
+      },
+      {
+        "date_period": "09/01/25",
+        "consumption": {
+          "value": 44550,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171369,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59982, PM-2: 66837"
+      },
+      {
+        "date_period": "10/01/25",
+        "consumption": {
+          "value": 44636,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171677,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60007, PM-2: 66954"
+      },
+      {
+        "date_period": "11/01/25",
+        "consumption": {
+          "value": 44584,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171477,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60017, PM-2: 66876"
+      },
+      {
+        "date_period": "12/01/25",
+        "consumption": {
+          "value": 44600,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171562,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60050, PM-2: 66912"
+      },
+      {
+        "date_period": "13/01/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "14/01/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "15/01/25",
+        "consumption": {
+          "value": 44675,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171826,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60139, PM-2: 67012"
+      },
+      {
+        "date_period": "16/01/25",
+        "consumption": {
+          "value": 44897,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172680,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60438, PM-2: 67345"
+      },
+      {
+        "date_period": "17/01/25",
+        "consumption": {
+          "value": 44949,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172882,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60509, PM-2: 67424"
+      },
+      {
+        "date_period": "18/01/25",
+        "consumption": {
+          "value": 44491,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171118,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59891, PM-2: 66736"
+      },
+      {
+        "date_period": "19/01/25",
+        "consumption": {
+          "value": 44660,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171792,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60130, PM-2: 67002"
+      },
+      {
+        "date_period": "20/01/25",
+        "consumption": {
+          "value": 44942,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172941,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60540, PM-2: 67459"
+      },
+      {
+        "date_period": "21/01/25",
+        "consumption": {
+          "value": 44695,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171905,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60167, PM-2: 67043"
+      },
+      {
+        "date_period": "22/01/25",
+        "consumption": {
+          "value": 44982,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172949,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60525, PM-2: 67442"
+      },
+      {
+        "date_period": "23/01/25",
+        "consumption": {
+          "value": 44766,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172167,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60252, PM-2: 67149"
+      },
+      {
+        "date_period": "24/01/25",
+        "consumption": {
+          "value": 44450,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170984,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59847, PM-2: 66687"
+      },
+      {
+        "date_period": "25/01/25",
+        "consumption": {
+          "value": 44877,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172605,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60412, PM-2: 67316"
+      },
+      {
+        "date_period": "26/01/25",
+        "consumption": {
+          "value": 44920,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172769,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60469, PM-2: 67380"
+      },
+      {
+        "date_period": "27/01/25",
+        "consumption": {
+          "value": 44712,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171971,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60190, PM-2: 67069"
+      },
+      {
+        "date_period": "28/01/25",
+        "consumption": {
+          "value": 44944,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172861,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60501, PM-2: 67416"
+      },
+      {
+        "date_period": "29/01/25",
+        "consumption": {
+          "value": 44531,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171274,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59946, PM-2: 66797"
+      },
+      {
+        "date_period": "30/01/25",
+        "consumption": {
+          "value": 44301,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170387,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59635, PM-2: 66451"
+      },
+      {
+        "date_period": "31/01/25",
+        "consumption": {
+          "value": 44436,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170908,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59818, PM-2: 66654"
+      },
+      {
+        "date_period": "01/02/25",
+        "consumption": {
+          "value": 44921,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172773,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60471, PM-2: 67381"
+      },
+      {
+        "date_period": "02/02/25",
+        "consumption": {
+          "value": 44565,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171405,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59992, PM-2: 66848"
+      },
+      {
+        "date_period": "03/02/25",
+        "consumption": {
+          "value": 44762,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172162,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60257, PM-2: 67143"
+      },
+      {
+        "date_period": "04/02/25",
+        "consumption": {
+          "value": 35979,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 138380,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 48433, PM-2: 53968"
+      },
+      {
+        "date_period": "05/02/25",
+        "consumption": {
+          "value": 35269,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 135651,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 47478, PM-2: 52904"
+      },
+      {
+        "date_period": "06/02/25",
+        "consumption": {
+          "value": 44530,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171269,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59944, PM-2: 66795"
+      },
+      {
+        "date_period": "07/02/25",
+        "consumption": {
+          "value": 44374,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170669,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59734, PM-2: 66561"
+      },
+      {
+        "date_period": "08/02/25",
+        "consumption": {
+          "value": 44509,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171188,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59916, PM-2: 66763"
+      },
+      {
+        "date_period": "09/02/25",
+        "consumption": {
+          "value": 44785,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172251,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60288, PM-2: 67178"
+      },
+      {
+        "date_period": "10/02/25",
+        "consumption": {
+          "value": 45006,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 173100,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60585, PM-2: 67509"
+      },
+      {
+        "date_period": "11/02/25",
+        "consumption": {
+          "value": 44853,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172511,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60379, PM-2: 67279"
+      },
+      {
+        "date_period": "12/02/25",
+        "consumption": {
+          "value": 44699,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171920,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60172, PM-2: 67049"
+      },
+      {
+        "date_period": "13/02/25",
+        "consumption": {
+          "value": 44746,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172100,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60235, PM-2: 67119"
+      },
+      {
+        "date_period": "14/02/25",
+        "consumption": {
+          "value": 44566,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171408,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59993, PM-2: 66849"
+      },
+      {
+        "date_period": "15/02/25",
+        "consumption": {
+          "value": 44875,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172597,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60409, PM-2: 67313"
+      },
+      {
+        "date_period": "16/02/25",
+        "consumption": {
+          "value": 44578,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171454,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60009, PM-2: 66867"
+      },
+      {
+        "date_period": "17/02/25",
+        "consumption": {
+          "value": 44943,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172858,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60500, PM-2: 67415"
+      },
+      {
+        "date_period": "18/02/25",
+        "consumption": {
+          "value": 44881,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172618,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60416, PM-2: 67321"
+      },
+      {
+        "date_period": "19/02/25",
+        "consumption": {
+          "value": 44667,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171797,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60129, PM-2: 67001"
+      },
+      {
+        "date_period": "20/02/25",
+        "consumption": {
+          "value": 44767,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172181,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60263, PM-2: 67151"
+      },
+      {
+        "date_period": "21/02/25",
+        "consumption": {
+          "value": 44980,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 173000,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60550, PM-2: 67470"
+      },
+      {
+        "date_period": "22/02/25",
+        "consumption": {
+          "value": 44893,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172665,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60433, PM-2: 67339"
+      },
+      {
+        "date_period": "23/02/25",
+        "consumption": {
+          "value": 44876,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172600,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60410, PM-2: 67314"
+      },
+      {
+        "date_period": "24/02/25",
+        "consumption": {
+          "value": 44694,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171900,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60165, PM-2: 67041"
+      },
+      {
+        "date_period": "25/02/25",
+        "consumption": {
+          "value": 45011,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 173120,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60592, PM-2: 67517"
+      },
+      {
+        "date_period": "26/02/25",
+        "consumption": {
+          "value": 44864,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172554,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60394, PM-2: 67296"
+      },
+      {
+        "date_period": "27/02/25",
+        "consumption": {
+          "value": 44941,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172851,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60498, PM-2: 67412"
+      },
+      {
+        "date_period": "28/02/25",
+        "consumption": {
+          "value": 44853,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172511,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60379, PM-2: 67279"
+      },
+      {
+        "date_period": "01/03/25",
+        "consumption": {
+          "value": 44874,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172592,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60407, PM-2: 67311"
+      },
+      {
+        "date_period": "02/03/25",
+        "consumption": {
+          "value": 44509,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171497,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60024, PM-2: 66884"
+      },
+      {
+        "date_period": "03/03/25",
+        "consumption": {
+          "value": 44281,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170311,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59609, PM-2: 66421"
+      },
+      {
+        "date_period": "04/03/25",
+        "consumption": {
+          "value": 44580,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171461,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60011, PM-2: 66870"
+      },
+      {
+        "date_period": "05/03/25",
+        "consumption": {
+          "value": 44597,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171527,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60034, PM-2: 66896"
+      },
+      {
+        "date_period": "06/03/25",
+        "consumption": {
+          "value": 44420,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170846,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59798, PM-2: 66630"
+      },
+      {
+        "date_period": "07/03/25",
+        "consumption": {
+          "value": 44331,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170504,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59676, PM-2: 66497"
+      },
+      {
+        "date_period": "08/03/25",
+        "consumption": {
+          "value": 44651,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171736,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60108, PM-2: 66977"
+      },
+      {
+        "date_period": "09/03/25",
+        "consumption": {
+          "value": 44742,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172085,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60230, PM-2: 67113"
+      },
+      {
+        "date_period": "10/03/25",
+        "consumption": {
+          "value": 44650,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171729,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60105, PM-2: 66974"
+      },
+      {
+        "date_period": "11/03/25",
+        "consumption": {
+          "value": 44472,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171047,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59867, PM-2: 66708"
+      },
+      {
+        "date_period": "12/03/25",
+        "consumption": {
+          "value": 44526,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171253,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59938, PM-2: 66789"
+      },
+      {
+        "date_period": "13/03/25",
+        "consumption": {
+          "value": 44590,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172502,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60026, PM-2: 66886"
+      },
+      {
+        "date_period": "14/03/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "15/03/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "16/03/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "17/03/25",
+        "consumption": null,
+        "generation": null,
+        "remarks": null
+      },
+      {
+        "date_period": "18/03/25",
+        "consumption": {
+          "value": 43295,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 166519,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 58282, PM-2: 64942"
+      },
+      {
+        "date_period": "19/03/25",
+        "consumption": {
+          "value": 44978,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172992,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60547, PM-2: 67467"
+      },
+      {
+        "date_period": "20/03/25",
+        "consumption": {
+          "value": 42925,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 165095,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 57783, PM-2: 64387"
+      },
+      {
+        "date_period": "21/03/25",
+        "consumption": {
+          "value": 44647,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171720,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60102, PM-2: 66971"
+      },
+      {
+        "date_period": "22/03/25",
+        "consumption": {
+          "value": 44187,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 169949,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59482, PM-2: 66280"
+      },
+      {
+        "date_period": "23/03/25",
+        "consumption": {
+          "value": 44978,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 172992,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60547, PM-2: 67467"
+      },
+      {
+        "date_period": "24/03/25",
+        "consumption": {
+          "value": 44692,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171092,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60162, PM-2: 67038"
+      },
+      {
+        "date_period": "25/03/25",
+        "consumption": {
+          "value": 42105,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 162249,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56707, PM-2: 63277"
+      },
+      {
+        "date_period": "26/03/25",
+        "consumption": {
+          "value": 44620,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 171615,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 60065, PM-2: 66930"
+      },
+      {
+        "date_period": "27/03/25",
+        "consumption": {
+          "value": 44045,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 169397,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59289, PM-2: 66065"
+      },
+      {
+        "date_period": "28/03/25",
+        "consumption": {
+          "value": 43983,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 169166,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59208, PM-2: 65975"
+      },
+      {
+        "date_period": "29/03/25",
+        "consumption": {
+          "value": 44289,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 170342,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 59620, PM-2: 66433"
+      },
+      {
+        "date_period": "30/03/25",
+        "consumption": {
+          "value": 42771,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 164504,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 57576, PM-2: 64157"
+      },
+      {
+        "date_period": "31/03/25",
+        "consumption": {
+          "value": 41712,
+          "unit": "kWh"
+        },
+        "generation": {
+          "value": 160431,
+          "unit": "kWh"
+        },
+        "remarks": "PM-1: 56151, PM-2: 62568"
+      }
+    ],
+    "additional_fields": {
+      "monthly_totals": {
+        "April_2024": {
+          "auxiliary": 1159926,
+          "pm_1": 1561437,
+          "pm_2": 1739886,
+          "total": 4461249
+        },
+        "June_2024": {
+          "auxiliary": 1090642,
+          "pm_1": 1460171,
+          "pm_2": 1635961,
+          "total": 4194774
+        },
+        "July_2024": {
+          "auxiliary": 925806,
+          "pm_1": 1246280,
+          "pm_2": 1388711,
+          "total": 3560797
+        },
+        "August_2024": {
+          "auxiliary": 1057428,
+          "pm_1": 1423457,
+          "pm_2": 1586145,
+          "total": 4067030
+        },
+        "September_2024": {
+          "auxiliary": 1051014,
+          "pm_1": 1414022,
+          "pm_2": 1576517,
+          "total": 4042353
+        },
+        "October_2024": {
+          "auxiliary": 1209035,
+          "pm_1": 1627547,
+          "pm_2": 1813552,
+          "total": 4650134
+        },
+        "November_2024": {
+          "auxiliary": 899910,
+          "pm_1": 1211418,
+          "pm_2": 1349866,
+          "total": 3461194
+        },
+        "December_2024": {
+          "auxiliary": 1151783,
+          "pm_1": 1550477,
+          "pm_2": 1727672,
+          "total": 4429932
+        },
+        "January_2025": {
+          "auxiliary": 1161238,
+          "pm_1": 1564013,
+          "pm_2": 1742757,
+          "total": 4468008
+        },
+        "February_2025": {
+          "auxiliary": 1235307,
+          "pm_1": 1663024,
+          "pm_2": 1853082,
+          "total": 4751498
+        },
+        "March_2025": {
+          "auxiliary": 1192608,
+          "pm_1": 1605432,
+          "pm_2": 1708913,
+          "total": 4506953
+        }
+      }
+    }
+  }
+}

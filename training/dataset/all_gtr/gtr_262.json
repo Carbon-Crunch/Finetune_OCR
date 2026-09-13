@@ -1,0 +1,46 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Energy, Production & Operational",
+  "data_category": "Generation Report",
+  "boilerplate": "energy/generation_report.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "FY 24-25"
+    },
+    "entries": [
+      {
+        "total_power_generation": {
+          "value": "354515460",
+          "unit": "KWH"
+        },
+        "internal_dg_generation": null,
+        "steam_generation": null,
+        "turbine_input": null,
+        "condensate": null,
+        "bleed_steam": null,
+        "boiler_fuel_use": null
+      }
+    ]
+  }
+}

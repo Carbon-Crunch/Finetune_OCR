@@ -1,0 +1,193 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "750 KVA D.G. NO. 2",
+    "document_type": "D.G. Set Log Book",
+    "report_period": {
+      "value": "30/5/24"
+    },
+    "company_name": "GENUS PAPER & BOARDS LTD.",
+    "location": "8th Km., Jansath Road, Muzaffarnagar-251 001 (U.P.)",
+    "entries": [
+      {
+        "timestamp": "07:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "65",
+        "pressure": "7",
+        "capacity": "463",
+        "kwh": "400",
+        "kvarh": "53"
+      },
+      {
+        "timestamp": "08:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "65",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "300",
+        "kvarh": "53"
+      },
+      {
+        "timestamp": "09:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "280",
+        "kvarh": "54"
+      },
+      {
+        "timestamp": "10:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "200",
+        "kvarh": "520"
+      },
+      {
+        "timestamp": "11:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "300",
+        "kvarh": "520"
+      },
+      {
+        "timestamp": "12:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "413",
+        "kwh": "290",
+        "kvarh": "56"
+      },
+      {
+        "timestamp": "13:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "280",
+        "kvarh": "520"
+      },
+      {
+        "timestamp": "14:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "300",
+        "kvarh": "56"
+      },
+      {
+        "timestamp": "15:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "413",
+        "kwh": "290",
+        "kvarh": "50"
+      },
+      {
+        "timestamp": "16:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "260",
+        "kvarh": "520"
+      },
+      {
+        "timestamp": "17:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "413",
+        "kwh": "200",
+        "kvarh": "50"
+      },
+      {
+        "timestamp": "18:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "300",
+        "kvarh": "50"
+      },
+      {
+        "timestamp": "19:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "60",
+        "pressure": "7",
+        "capacity": "415",
+        "kwh": "280",
+        "kvarh": "50"
+      },
+      {
+        "timestamp": "20:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "65",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "450",
+        "kvarh": "50"
+      },
+      {
+        "timestamp": "21:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "65",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "400",
+        "kvarh": "50"
+      },
+      {
+        "timestamp": "22:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "70",
+        "pressure": "7",
+        "capacity": "414",
+        "kwh": "800",
+        "kvarh": "50"
+      },
+      {
+        "timestamp": "23:00",
+        "meter_reading_difference": "24",
+        "power": "1500",
+        "temperature": "75",
+        "pressure": "7",
+        "capacity": "410",
+        "kwh": "850",
+        "kvarh": "50"
+      }
+    ],
+    "additional_fields": {
+      "total_hours": "13 Hours",
+      "total_unit": "20700",
+      "total_fuel_consumption": "7050"
+    }
+  }
+}

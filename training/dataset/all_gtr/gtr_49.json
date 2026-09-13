@@ -1,0 +1,33 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "04/Dec/2024"
+    },
+    "supplier_name": "TARANJOT RESOURCES PVT. LTD.",
+    "entries": [
+      {
+        "item_description": "Steam (Non Coking) Coal (00mm-50mm)",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "27011920",
+        "quantity": {
+          "value": "27.560",
+          "unit": "M.T."
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "151580.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

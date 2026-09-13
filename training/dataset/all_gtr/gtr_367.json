@@ -1,0 +1,215 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Daily Fuel Consumption",
+  "extraction_rules": "This is a tabular daily log. Extract EVERY row from the table into the entries array. Each object in entries represents one day's fuel consumption record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "Apr-24 to Mar-25"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 4374.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 2426.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "May-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 4879.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 421.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Jun-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 6059.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 276.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Jul-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 5461.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 428.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Aug-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 6047.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 509.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Sep-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 5747.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 450.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Oct-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 5951.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 849.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Nov-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 5588.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 891.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Dec-24",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 6546.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 896.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Jan-25",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 5037.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 834.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Feb-25",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 5890.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": null,
+        "bagasse_consumption": {
+          "value": 1046.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Mar-25",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 4583.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": {
+          "value": 88.0,
+          "unit": "MT"
+        },
+        "bagasse_consumption": {
+          "value": 906.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      },
+      {
+        "date_period": "Grand Total",
+        "rice_husk_consumption": null,
+        "steam_coal_consumption": {
+          "value": 66162.0,
+          "unit": "MT"
+        },
+        "rdf_consumption": {
+          "value": 88.0,
+          "unit": "MT"
+        },
+        "bagasse_consumption": {
+          "value": 9932.0,
+          "unit": "MT"
+        },
+        "biomass_consumption": null,
+        "diesel_consumption": null
+      }
+    ]
+  }
+}

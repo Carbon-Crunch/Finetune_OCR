@@ -1,0 +1,450 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "86",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Electricity Bill",
+      "boilerplate_used": "energy/electricity_bill.json",
+      "data": {
+        "report_period": {
+          "value": "12/2024"
+        },
+        "vendor": {
+          "value": "UTTARAKHAND POWER CORPORATION LIMITED"
+        },
+        "vendor_gstin": {
+          "value": "05AAACU6007G1ZP"
+        },
+        "buyer": {
+          "value": "KASHI VISHWANATH TEXTILE MILL"
+        },
+        "buyer_gstin": {
+          "value": null
+        },
+        "invoice_no": {
+          "value": "29450250104000071"
+        },
+        "invoice_date": {
+          "value": "04/01/2025"
+        },
+        "document_type": {
+          "value": "ELECTRICITY BILL"
+        },
+        "company_pan": {
+          "value": null
+        },
+        "entries": [
+          {
+            "item": {
+              "value": "EXCESS CHARGES DUE TO MCG"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "0.00"
+            }
+          },
+          {
+            "item": {
+              "value": "ACTUAL ENERGY CHARGES"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "14,856,186.88"
+            }
+          },
+          {
+            "item": {
+              "value": "FIXED @0- Above @ Rs.480.0/KVA/ DEMAND CHARGES FOR CONTR. LOAD"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "2,453,760.00"
+            }
+          },
+          {
+            "item": {
+              "value": "FIXED / DEMAND CHARGES FOR EXCESS LOAD"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "0.00"
+            }
+          },
+          {
+            "item": {
+              "value": "ELECTRICITY DUTY @ 0.5/ KW /GREEN ENERGY CESS @ 0.1"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "1,401,000.00"
+            }
+          },
+          {
+            "item": {
+              "value": "VOLTAGE SUPPLY REBATE / WHEELING CHARGE"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "519,966.54"
+            }
+          },
+          {
+            "item": {
+              "value": "VOLTAGE SUPPLY SURCHG/CROSS SUBSIDY SURCHG @ 0.63"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "0.00"
+            }
+          },
+          {
+            "item": {
+              "value": "FCA CHARGES @ 0.0 /FPPCA SURCHARGE"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "0.00"
+            }
+          },
+          {
+            "item": {
+              "value": "LOW POWER FACTOR SURCHG/OPEN ACCESS ADL SURCHG @ 1.12"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "0.00"
+            }
+          },
+          {
+            "item": {
+              "value": "CONTINUOUS SUPPLY SURCHG / GREEN POWER CHARGE @ 0.26"
+            },
+            "hsn_sac": {
+              "value": null
+            },
+            "quantity": {
+              "value": null,
+              "unit": null
+            },
+            "rate": {
+              "value": null
+            },
+            "amount": {
+              "value": "2,228,428.03"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Meter Reading",
+      "boilerplate_used": "energy/electric_meter_reading.json",
+      "data": {
+        "report_period": {
+          "value": "12/2024"
+        },
+        "entries": [
+          {
+            "meter_reading_difference": {
+              "value": "881700.0",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": "150",
+              "unit": null
+            },
+            "kwh": {
+              "value": "711687",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": null,
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": null,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "meter_reading_difference": {
+              "value": "518550.0",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": null,
+              "unit": null
+            },
+            "kwh": {
+              "value": "275794",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": null,
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": null,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "meter_reading_difference": {
+              "value": "1048500.0",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": null,
+              "unit": null
+            },
+            "kwh": {
+              "value": "1048500",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": null,
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": null,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "meter_reading_difference": {
+              "value": "357450.0",
+              "unit": null
+            },
+            "multiplying_factor": {
+              "value": null,
+              "unit": null
+            },
+            "kwh": {
+              "value": "357450",
+              "unit": "KWH"
+            },
+            "kvah": {
+              "value": null,
+              "unit": "KVAH"
+            },
+            "kvarh": {
+              "value": null,
+              "unit": "KVARH"
+            },
+            "peak_hour": {
+              "value": null,
+              "unit": null
+            },
+            "night_hour": {
+              "value": null,
+              "unit": null
+            },
+            "amd": {
+              "value": null,
+              "unit": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Electric Consumption History / Generation Report",
+      "boilerplate_used": "energy/electric_consumption_history.json",
+      "data": {
+        "report_period": {
+          "value": "LAST SIX MONTHS"
+        },
+        "entries": [
+          {
+            "date_period": "NOV",
+            "consumption": {
+              "value": "1857744",
+              "unit": null
+            },
+            "net_generation": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "OCT",
+            "consumption": {
+              "value": "2258630",
+              "unit": null
+            },
+            "net_generation": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "SEP",
+            "consumption": {
+              "value": "2193309",
+              "unit": null
+            },
+            "net_generation": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "AUG",
+            "consumption": {
+              "value": "1944235",
+              "unit": null
+            },
+            "net_generation": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "JUL",
+            "consumption": {
+              "value": "2854200",
+              "unit": null
+            },
+            "net_generation": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "JUN",
+            "consumption": {
+              "value": "2780250",
+              "unit": null
+            },
+            "net_generation": {
+              "value": null,
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

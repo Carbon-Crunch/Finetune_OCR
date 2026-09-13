@@ -1,0 +1,1729 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "January-2025",
+  "entries": [
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 8725",
+      "gcv": {
+        "value": 5080,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 46.59,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6895",
+      "gcv": {
+        "value": 5080,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 50.85,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 2828",
+      "gcv": {
+        "value": 5080,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 45.1,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15ET 3509",
+      "gcv": {
+        "value": 5080,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 42.26,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 2199",
+      "gcv": {
+        "value": 5080,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.92,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58C 1413",
+      "gcv": {
+        "value": 4978,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.7,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.95,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58C 8375",
+      "gcv": {
+        "value": 4978,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.7,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 53.31,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6894",
+      "gcv": {
+        "value": 4978,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.7,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 49.29,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15ET 2599",
+      "gcv": {
+        "value": 4978,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.7,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.59,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6923",
+      "gcv": {
+        "value": 4978,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.7,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 49.98,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58C 1956",
+      "gcv": {
+        "value": 4978,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.7,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 55.51,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 8720",
+      "gcv": {
+        "value": 4978,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.7,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 49.43,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58D 2797",
+      "gcv": {
+        "value": 4978,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.7,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.1,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR38X 9133",
+      "gcv": {
+        "value": 4990,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 40.39,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 3036",
+      "gcv": {
+        "value": 4990,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 39.05,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6922",
+      "gcv": {
+        "value": 4990,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 50.13,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 8430",
+      "gcv": {
+        "value": 4990,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 47.97,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 9585",
+      "gcv": {
+        "value": 4990,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.48,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 9190",
+      "gcv": {
+        "value": 4990,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 53.79,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP20AT 1270",
+      "gcv": {
+        "value": 4990,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.71,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 9661",
+      "gcv": {
+        "value": 4990,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.5,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 43.24,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 2929",
+      "gcv": {
+        "value": 5040,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.9,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.2,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 39.86,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 7189",
+      "gcv": {
+        "value": 5040,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.9,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.2,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 49.95,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 7860",
+      "gcv": {
+        "value": 5040,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.9,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.2,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 38.5,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 9786",
+      "gcv": {
+        "value": 5040,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.9,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.2,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.27,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 8383",
+      "gcv": {
+        "value": 5040,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.9,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.2,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 39.36,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 4197",
+      "gcv": {
+        "value": 5040,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.9,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.2,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.99,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15BT 9871",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 38.97,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 5883",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 39.86,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15FT 9912",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 53.7,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 5878",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.29,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15ET 3508",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 42.71,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58E 6332",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 56.18,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 5880",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 42.39,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37DT 7786",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.46,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 5790",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 42.66,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 6573",
+      "gcv": {
+        "value": 5061,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.3,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.0,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.14,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 5466",
+      "gcv": {
+        "value": 4919,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 50.32,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15CT 0588",
+      "gcv": {
+        "value": 4919,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 40.12,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15ET 3510",
+      "gcv": {
+        "value": 4919,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 42.37,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15FT 6931",
+      "gcv": {
+        "value": 4919,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 54.05,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15ET 3639",
+      "gcv": {
+        "value": 4919,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 43.56,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 2824",
+      "gcv": {
+        "value": 4919,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.4,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 55.05,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58D 1970",
+      "gcv": {
+        "value": 4900,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 52.11,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 8725",
+      "gcv": {
+        "value": 4900,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 52.85,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15ET 3509",
+      "gcv": {
+        "value": 4900,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 42.67,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6895",
+      "gcv": {
+        "value": 4900,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 50.78,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6899",
+      "gcv": {
+        "value": 4900,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 50.11,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58C 1956",
+      "gcv": {
+        "value": 4900,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 56.07,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 2199",
+      "gcv": {
+        "value": 4900,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.72,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58C 8375",
+      "gcv": {
+        "value": 4915,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 53.26,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58C 1413",
+      "gcv": {
+        "value": 4915,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.62,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15ET 2599",
+      "gcv": {
+        "value": 4915,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.18,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6923",
+      "gcv": {
+        "value": 4915,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.0,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.7,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 49.85,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 3036",
+      "gcv": {
+        "value": 4980,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 40.22,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 2828",
+      "gcv": {
+        "value": 4980,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 40.47,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58D 2799",
+      "gcv": {
+        "value": 4980,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.64,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6922",
+      "gcv": {
+        "value": 4980,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 50.31,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 8720",
+      "gcv": {
+        "value": 4980,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.22,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP20AT 1270",
+      "gcv": {
+        "value": 4980,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 42.2,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 9585",
+      "gcv": {
+        "value": 4980,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.6,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 21.3,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 43.01,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR38X 9133",
+      "gcv": {
+        "value": 5024,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 40.57,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 9190",
+      "gcv": {
+        "value": 5024,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 53.7,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 9661",
+      "gcv": {
+        "value": 5024,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 44.43,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 8430",
+      "gcv": {
+        "value": 5024,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 50.0,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15BT 9871",
+      "gcv": {
+        "value": 5024,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 38.89,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 4197",
+      "gcv": {
+        "value": 5024,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 42.71,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 9786",
+      "gcv": {
+        "value": 5024,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 13.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 50.96,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 5883",
+      "gcv": {
+        "value": 4950,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 38.78,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 5878",
+      "gcv": {
+        "value": 4950,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 31.74,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15ET 3508",
+      "gcv": {
+        "value": 4950,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 31.19,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "HR58E 6332",
+      "gcv": {
+        "value": 4950,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 55.76,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 7860",
+      "gcv": {
+        "value": 4950,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 40.64,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 5790",
+      "gcv": {
+        "value": 4950,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 14.8,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 22.6,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 41.93,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "18/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 7189",
+      "gcv": {
+        "value": 5045,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.29,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "19/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6895",
+      "gcv": {
+        "value": 5045,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 48.01,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "19/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37AT 6894",
+      "gcv": {
+        "value": 5045,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 51.67,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "19/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 7786",
+      "gcv": {
+        "value": 5045,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 52.14,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "19/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP15DT 5466",
+      "gcv": {
+        "value": 5045,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 48.75,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "19/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 2929",
+      "gcv": {
+        "value": 5045,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 40.97,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "19/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 8383",
+      "gcv": {
+        "value": 5045,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 39.57,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_of_receipt": "19/01/2025",
+      "supplier_name": "Sangita Sales Pvt Ltd",
+      "truck_vehicle_no": "UP37T 5880",
+      "gcv": {
+        "value": 5045,
+        "unit": "kcal/kg"
+      },
+      "moisture_content": {
+        "value": 15.1,
+        "unit": "%"
+      },
+      "ash_content": {
+        "value": 23.1,
+        "unit": "%"
+      },
+      "net_weight": {
+        "value": 27.83,
+        "unit": "MT"
+      }
+    }
+  ]
+}

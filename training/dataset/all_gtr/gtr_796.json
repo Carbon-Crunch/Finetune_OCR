@@ -1,0 +1,49 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "document_title": "Warehouse Packing Report",
+  "document_type": "Production & Operational",
+  "report_period": {
+    "value": "19/06/25"
+  },
+  "company_name": "KAJARIA CERAMICS LTD.",
+  "location": "MALUTANA, DISTT. ALWAR (RAJ.)",
+  "total_quantity": {
+    "value": "20710.8",
+    "unit": "m2"
+  },
+  "entries": [
+    {
+      "product_name": "6213",
+      "material_description": "Vitrified Tiles",
+      "item_code": "60x60",
+      "remarks": "G",
+      "quantity": {
+        "value": "6324",
+        "unit": "total boxes"
+      }
+    },
+    {
+      "product_name": "6204",
+      "material_description": "Vitrified Tiles",
+      "item_code": "60x60",
+      "remarks": "D",
+      "quantity": {
+        "value": "1870",
+        "unit": "total boxes"
+      }
+    },
+    {
+      "product_name": "Finished",
+      "item_code": "60x60",
+      "remarks": "L",
+      "quantity": {
+        "value": "12512",
+        "unit": "total boxes"
+      }
+    }
+  ],
+  "additional_fields": {
+    "quality_average_percentage": "91.40%"
+  }
+}

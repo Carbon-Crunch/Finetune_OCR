@@ -1,0 +1,26 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": null,
+  "entries": [
+    {
+      "supplier_name": null,
+      "weighted_gcv": {
+        "value": "4997",
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": "14.6",
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": "22.2",
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": "3777.885",
+        "unit": "MT"
+      }
+    }
+  ]
+}

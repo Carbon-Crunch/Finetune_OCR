@@ -1,0 +1,203 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Daily Fuel Consumption",
+  "extraction_rules": "This is a tabular daily log. Extract EVERY row from the table into the entries array. Each object in entries represents one day's fuel consumption record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "September 2023"
+    },
+    "entries": [
+      {
+        "date_period": "9-23",
+        "rice_husk_consumption": {
+          "value": "1672",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "2",
+        "rice_husk_consumption": {
+          "value": "7413",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "3",
+        "rice_husk_consumption": {
+          "value": "1204",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "4",
+        "rice_husk_consumption": {
+          "value": "9441",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "5",
+        "rice_husk_consumption": {
+          "value": "4704",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "6",
+        "rice_husk_consumption": {
+          "value": "1733",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "7",
+        "rice_husk_consumption": {
+          "value": "7266",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "8",
+        "rice_husk_consumption": {
+          "value": "0292",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "9",
+        "rice_husk_consumption": {
+          "value": "8892",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "10",
+        "rice_husk_consumption": {
+          "value": "6348",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "11",
+        "rice_husk_consumption": {
+          "value": "90.7266",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "12",
+        "rice_husk_consumption": {
+          "value": "G.C.7266",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "1-9-23",
+        "rice_husk_consumption": {
+          "value": "0201",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "2",
+        "rice_husk_consumption": {
+          "value": "4769",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "3",
+        "rice_husk_consumption": {
+          "value": "1389",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "2-9-23",
+        "rice_husk_consumption": {
+          "value": "9070",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "12-9-23",
+        "rice_husk_consumption": {
+          "value": "2266",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "14-9-23",
+        "rice_husk_consumption": {
+          "value": "3809",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "15-9-23",
+        "rice_husk_consumption": {
+          "value": "7266",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "16",
+        "rice_husk_consumption": {
+          "value": "944",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "17",
+        "rice_husk_consumption": {
+          "value": "1971",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "15-9-23",
+        "rice_husk_consumption": {
+          "value": "2989",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "19",
+        "rice_husk_consumption": {
+          "value": "7470",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "20",
+        "rice_husk_consumption": {
+          "value": "9609",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "21",
+        "rice_husk_consumption": {
+          "value": "5949",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "22",
+        "rice_husk_consumption": {
+          "value": "6449",
+          "unit": null
+        }
+      },
+      {
+        "date_period": "17-9-23",
+        "rice_husk_consumption": {
+          "value": "9188",
+          "unit": null
+        }
+      }
+    ]
+  }
+}

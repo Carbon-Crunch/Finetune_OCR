@@ -1,0 +1,188 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "922",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": "APR-2024 TO MARCH-2025"
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": 4589000
+            },
+            "steam_generation": {
+              "value": 30580
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 4818000
+            },
+            "steam_generation": {
+              "value": 31098
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 4243000
+            },
+            "steam_generation": {
+              "value": 27762
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 4955500
+            },
+            "steam_generation": {
+              "value": 31713
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 4718000
+            },
+            "steam_generation": {
+              "value": 29878
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 3160500
+            },
+            "steam_generation": {
+              "value": 24097
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 5096500
+            },
+            "steam_generation": {
+              "value": 33967
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 3452500
+            },
+            "steam_generation": {
+              "value": 23740
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 5151000
+            },
+            "steam_generation": {
+              "value": 34616
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 4729000
+            },
+            "steam_generation": {
+              "value": 31249
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 5031500
+            },
+            "steam_generation": {
+              "value": 33322
+            }
+          },
+          {
+            "total_power_generation": {
+              "value": 3978500
+            },
+            "steam_generation": {
+              "value": 26580
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Steam Distribution Log",
+      "boilerplate_used": "energy/steam_distribution_log.json",
+      "data": {
+        "report_period": {
+          "value": "APR-2024 TO MARCH-2025"
+        },
+        "entries": [
+          {
+            "date_period": "APR",
+            "extraction_steam": "5248",
+            "distribution_to_process": "7960"
+          },
+          {
+            "date_period": "MAY",
+            "extraction_steam": "6136",
+            "distribution_to_process": "7739"
+          },
+          {
+            "date_period": "JUN",
+            "extraction_steam": "5419",
+            "distribution_to_process": "5692"
+          },
+          {
+            "date_period": "JUL",
+            "extraction_steam": "5165",
+            "distribution_to_process": "7869"
+          },
+          {
+            "date_period": "AUG",
+            "extraction_steam": "6433",
+            "distribution_to_process": "6438"
+          },
+          {
+            "date_period": "SEP",
+            "extraction_steam": "7587",
+            "distribution_to_process": "2204"
+          },
+          {
+            "date_period": "OCT",
+            "extraction_steam": "7805",
+            "distribution_to_process": "6770"
+          },
+          {
+            "date_period": "NOV",
+            "extraction_steam": "5025",
+            "distribution_to_process": "4681"
+          },
+          {
+            "date_period": "DEC",
+            "extraction_steam": "8466",
+            "distribution_to_process": "7382"
+          },
+          {
+            "date_period": "JAN",
+            "extraction_steam": "5313",
+            "distribution_to_process": "6904"
+          },
+          {
+            "date_period": "FEB",
+            "extraction_steam": "4523",
+            "distribution_to_process": "7943"
+          },
+          {
+            "date_period": "MAR",
+            "extraction_steam": "3111",
+            "distribution_to_process": "6133"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Summary",
+  "extraction_rules": "Extract period, fuel type, inwards, outwards, closing balance.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "1-Apr-24 to 31-Mar-25"
+    },
+    "entries": [
+      {
+        "fuel_name": "BAGASSE",
+        "fuel_type": null,
+        "date_period": "1-Apr-24 to 31-Mar-25",
+        "opening_balance": {
+          "value": 436.9,
+          "unit": "QTL"
+        },
+        "received_quantity": null,
+        "inwards": {
+          "value": 647.0,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 1083.9,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 0.0,
+          "unit": "QTL"
+        }
+      }
+    ]
+  }
+}

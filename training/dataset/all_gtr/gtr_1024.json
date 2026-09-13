@@ -1,0 +1,107 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "report_period": {
+    "value": "F.Y. 2024-25"
+  },
+  "entries": [
+    {
+      "date_period": "Apr-24",
+      "consumption": {
+        "value": 288054,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "May-24",
+      "consumption": {
+        "value": 295770,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jun-24",
+      "consumption": {
+        "value": 307116,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jul-24",
+      "consumption": {
+        "value": 316890,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Aug-24",
+      "consumption": {
+        "value": 310734,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Sep-24",
+      "consumption": {
+        "value": 324882,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Oct-24",
+      "consumption": {
+        "value": 344388,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Nov-24",
+      "consumption": {
+        "value": 314082,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Dec-24",
+      "consumption": {
+        "value": 289872,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jan-25",
+      "consumption": {
+        "value": 247560,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Feb-25",
+      "consumption": {
+        "value": 339960,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Mar-25",
+      "consumption": {
+        "value": 364158,
+        "unit": "kwh"
+      },
+      "net_generation": null
+    }
+  ]
+}

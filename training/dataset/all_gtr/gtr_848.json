@@ -1,0 +1,161 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "848",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": null
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": "27",
+              "unit": "MW"
+            },
+            "internal_dg_generation": {
+              "value": "1010",
+              "unit": "KVA"
+            },
+            "steam_generation": {
+              "value": "145",
+              "unit": "TPH"
+            },
+            "turbine_input": null,
+            "condensate": null,
+            "bleed_steam": null,
+            "boiler_fuel_use": {
+              "value": "Bagasse",
+              "unit": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Generic",
+      "data_category": "Generic Fallback Document",
+      "boilerplate_used": "Generic Fallback",
+      "data": {
+        "document_title": "Data Collection Checklist for Renewable Consumption Obligation",
+        "document_type": "Data Collection Checklist",
+        "company_name": "Ramala Sahkari Chini Mills Ltd.",
+        "location": "Ramala, Baghpat",
+        "entries": [
+          {
+            "item_description": "Installed Crushing Capacity",
+            "quantity": {
+              "value": "5000",
+              "unit": "TCD"
+            }
+          },
+          {
+            "item_description": "Operational Days",
+            "quantity": {
+              "value": "200",
+              "unit": "Days"
+            }
+          },
+          {
+            "item_description": "Grid Contract Demand",
+            "quantity": {
+              "value": "20.20",
+              "unit": "MW"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

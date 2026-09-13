@@ -1,0 +1,37 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "07/2024",
+  "entries": [
+    {
+      "supply_voltage": {
+        "value": "33",
+        "unit": "kV"
+      },
+      "sanctioned_load": {
+        "value": "6500.00",
+        "unit": "kVA"
+      },
+      "contract_demand": {
+        "value": "6500.00",
+        "unit": "KVA"
+      },
+      "billed_demand": {
+        "value": "5172.00",
+        "unit": "KVA"
+      },
+      "kwh_consumption": {
+        "value": "2854200.0",
+        "unit": "KWH"
+      },
+      "kvah": {
+        "value": "2854200.0",
+        "unit": "KVAH"
+      },
+      "average_pf": {
+        "value": "1.00",
+        "unit": null
+      }
+    }
+  ]
+}

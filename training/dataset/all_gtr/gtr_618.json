@@ -1,0 +1,84 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": "August-2024",
+  "truck_count": {
+    "value": "60",
+    "unit": "count"
+  },
+  "entries": [
+    {
+      "truck_no": "Rack",
+      "supplier": "Genus Paper and Board LTD Muzaffarnagar",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "3068.14",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "4040",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "13.0",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "32.8",
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": "47 TRUCKS",
+      "supplier": "Shree Ganesh coal Enterprises",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "1457.87",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3665",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "16",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "35.9",
+        "unit": "%"
+      }
+    },
+    {
+      "truck_no": "13 TRUCKS",
+      "supplier": "Sidhgiri holding pvt Ltd",
+      "gross_weight": null,
+      "net_weight": {
+        "value": "403.81",
+        "unit": "MT"
+      },
+      "gcv": {
+        "value": "3647",
+        "unit": "kcal/kg"
+      },
+      "moisture": {
+        "value": "14.7",
+        "unit": "%"
+      },
+      "ash": {
+        "value": "36.2",
+        "unit": "%"
+      }
+    }
+  ],
+  "totals": {
+    "total_gross_weight": {
+      "value": null,
+      "unit": "MT"
+    },
+    "total_net_weight": {
+      "value": "4929.82",
+      "unit": "MT"
+    }
+  }
+}

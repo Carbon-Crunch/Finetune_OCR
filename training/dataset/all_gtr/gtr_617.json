@@ -1,0 +1,44 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "document_title": "Heat Balance Diagram",
+  "document_type": "Technical Drawing / Diagram",
+  "report_period": {
+    "value": "09/14/2022"
+  },
+  "invoice_date": null,
+  "document_date": {
+    "value": "09/14/2022"
+  },
+  "supplier_name": null,
+  "customer_name": "Ms GENUS PAPER & BOARDS LTD",
+  "company_name": "Triveni Turbine Limited",
+  "plant_name": null,
+  "location": "Ghaziabad",
+  "registration_number": null,
+  "invoice_number": null,
+  "bill_number": "C-3964",
+  "reference_number": "9MW/3964",
+  "total_amount": {
+    "value": null,
+    "unit": null
+  },
+  "total_quantity": {
+    "value": null,
+    "unit": null
+  },
+  "entries": [],
+  "additional_fields": {
+    "project_id": "C-3964",
+    "document_number": "HMBD/9MW/3964",
+    "format": "ID-1P-COND",
+    "turbine_capacity": "9 MW",
+    "steam_parameters": {
+      "boiler_outlet_pressure": "44.7 bara",
+      "turbine_inlet_pressure": "44.7 bara",
+      "turbine_inlet_temperature": "420 C",
+      "extraction_pressure": "5.1 bara",
+      "condenser_pressure": "0.1 bara"
+    }
+  }
+}

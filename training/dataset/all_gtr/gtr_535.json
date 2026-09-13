@@ -1,0 +1,1918 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Meter Reading",
+  "extraction_rules": "This is a tabular meter reading document. Extract EVERY row from the table into the entries array. Each object in entries represents one meter reading record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "January 2025"
+    },
+    "entries": [
+      {
+        "meter_reading_difference": {
+          "value": "43735",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "162519260",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "594796",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1517605",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "25185",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "93587460",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "342516",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "873920",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29915",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "111164140",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "406844",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1038051",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29885",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "105822785",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "367586",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1093791",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "34015",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "120447115",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "418385",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1244949",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "48305",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "193703050",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "560338",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1709997",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "48325",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "193783250",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "560570",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1710705",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42130",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "168941300",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "488708",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1491402",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "38920",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "156069200",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "451472",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1377768",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "52135",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "209061350",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "604766",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1845579",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "55245",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "221532450",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "640842",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1955673",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "53510",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "214575100",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "620716",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1894254",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "50895",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "204088950",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "590382",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1801683",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "51885",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "208058850",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "601866",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1836729",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "48525",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "194585250",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "562890",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1717785",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "51520",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "206595200",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "597632",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1823808",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "50590",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "202865900",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "586844",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1790886",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41965",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "168279650",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "486794",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1485561",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "48675",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "195186750",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "564630",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1723095",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "56210",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "222029500",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "642141",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1928003",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "49160",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "194182000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "594836",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1686188",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41945",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "165682750",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "507535",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1438714",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "53420",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "211009000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "646382",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1832306",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "40235",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "158928250",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "486844",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1380061",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "40405",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "159599750",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "488901",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1385892",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41620",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "164399000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "503602",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1427566",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42265",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "166946750",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "511407",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1449690",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42580",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "166913600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "502444",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1537138",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "54280",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "212777600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "640504",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1959508",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41635",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "163209200",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "491293",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1503024",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "39165",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "153526800",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "462147",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1413857",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41870",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "164130400",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "494066",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1511507",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "40255",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "157799600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "475009",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1453206",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "38400",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "150528000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "453120",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1386240",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "50000",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "196000000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "590000",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1805000",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "54705",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "214443600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "645519",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1974851",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "51295",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "201076400",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "605281",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1851750",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "50845",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "199312400",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "599971",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1835505",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "49480",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "193961600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "583864",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1786228",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42300",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "165816000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "499140",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1527030",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41480",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "162601600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "489464",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1497428",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42640",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "167148800",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "503152",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1539304",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "44530",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "174557600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "525454",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1607533",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "51215",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "200762800",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "604337",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1848862",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41690",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "163424800",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "491942",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1505009",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "56420",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "221166400",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "665756",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "2036762",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "38350",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "155087400",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "487045",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1342250",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "52045",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "210469980",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "660972",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1821575",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "51255",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "207275220",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "650939",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1793925",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "56795",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "229678980",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "721297",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1987825",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30335",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "122674740",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "385255",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1061725",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "50085",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "202543740",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "636080",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1752975",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "58650",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "237180600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "744855",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "2052750",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "38710",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "156543240",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "491617",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1354850",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42980",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "161690760",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "545846",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1495704",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29955",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "112690710",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "380429",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1042434",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42070",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "158267340",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "534289",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1464036",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30475",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "112148000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "420555",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1036150",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30415",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "111972000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "419727",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1034110",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30380",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "111798400",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "419244",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1032920",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "25370",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "93361600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "350106",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "862580",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41980",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "157089160",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "507958",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1410528",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "43115",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "161336330",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "521692",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1448664",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29980",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "112185160",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "362758",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1007328",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29865",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "111754830",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "361367",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1003464",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "55490",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "228063900",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "821252",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1803425",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30625",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "112822500",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "453250",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "995313",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29405",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "108328020",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "405789",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1002711",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "34055",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "125458620",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "469959",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1161276",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "41395",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "149228975",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "505019",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "929703",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "34210",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "123327050",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "417362",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1234981",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30145",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "106653010",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "385856",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1124409",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "24925",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "88184650",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "319040",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "929703",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "43350",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "152158500",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "528870",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1651635",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29745",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "104440450",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "362889",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1133285",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29910",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "104984100",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "364902",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1139571",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "26040",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "87494400",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "419244",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1148364",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42665",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "148132880",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "558912",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1954057",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "25420",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "87444800",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "325376",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1204908",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29500",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "102070000",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "368750",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1241950",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "29515",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "102121900",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "368938",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1242582",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30500",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "107207500",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "372100",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1183400",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30060",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "105660900",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "366732",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1166328",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30225",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "106240875",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "368745",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1172730",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "30900",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "108613500",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "376980",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1198920",
+          "unit": "KVARH"
+        }
+      },
+      {
+        "meter_reading_difference": {
+          "value": "42505",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": "149405075",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "518561",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "1649194",
+          "unit": "KVARH"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "04/11/2024"
+      },
+      "supplier_name": "MAHALUXMI TRADING CO.",
+      "entries": [
+        {
+          "item_description": "L.T.G. waste",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "5202",
+          "quantity": {
+            "value": "1034",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "24971",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "27/07/2024"
+      },
+      "supplier_name": "SWASTIK ENTERPRISES",
+      "entries": [
+        {
+          "item_description": "COTTONWASTE",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "52029900",
+          "quantity": {
+            "value": "8980",
+            "unit": "KG"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "20744",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "20/03/2025"
+      },
+      "supplier_name": "SWASTIK ENTERPRISES",
+      "entries": [
+        {
+          "item_description": "COTTONWASTE",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "52029900",
+          "quantity": {
+            "value": "10100",
+            "unit": "KG"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "22271",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "24-Feb-25"
+      },
+      "supplier_name": "Ginni Textiles",
+      "entries": [
+        {
+          "item_description": "COTTON WASTE MICRO DUST",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "52029900",
+          "quantity": {
+            "value": "11560",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "25745",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "20-Jan-25"
+      },
+      "supplier_name": "Ginni Textiles",
+      "entries": [
+        {
+          "item_description": "COTTON WASTE MICRO DUST",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "52029900",
+          "quantity": {
+            "value": "8155",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "20756",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "4-Dec-24"
+      },
+      "supplier_name": "Ginni Textiles",
+      "entries": [
+        {
+          "item_description": "COTTON WASTE MICRO DUST",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "52029900",
+          "quantity": {
+            "value": "7760",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "18928",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "01/04/2025"
+      },
+      "supplier_name": "MIGLANI TRADERS",
+      "entries": [
+        {
+          "item_description": "Old Waste gatt Post-Consumed",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "4707",
+          "quantity": {
+            "value": "6070",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "124283",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "09/05/2024"
+      },
+      "supplier_name": "OJAS TRADING COMPANY",
+      "entries": [
+        {
+          "item_description": "cotton dust waste",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "5202",
+          "quantity": {
+            "value": "6980",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "11726",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "02/06/2024"
+      },
+      "supplier_name": "OJAS TRADING COMPANY",
+      "entries": [
+        {
+          "item_description": "Cotton Dust Waste",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "5202",
+          "quantity": {
+            "value": "6310",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "11926",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "03/05/24"
+      },
+      "supplier_name": "M/s Anubhav Agro Industries",
+      "entries": [
+        {
+          "item_description": "waste Cotton",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "5202",
+          "quantity": {
+            "value": "18360",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "30844",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "02/06/24"
+      },
+      "supplier_name": "M/s Anubhav Agro Industries",
+      "entries": [
+        {
+          "item_description": "waste Cotton",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "5202",
+          "quantity": {
+            "value": "16660",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "31488",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "12/09/2024"
+      },
+      "supplier_name": "MAHALUXMI TRADING CO.",
+      "entries": [
+        {
+          "item_description": "Rottery Dust",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "5202",
+          "quantity": {
+            "value": "6000",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "15120",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "data_type": "Fuel",
+    "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+    "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+    "extracted_fields": {
+      "invoice_date": {
+        "value": "09/10/2024"
+      },
+      "supplier_name": "MAHALUXMI TRADING CO.",
+      "entries": [
+        {
+          "item_description": "Rottery Dust",
+          "material_description": null,
+          "item_code": null,
+          "hsn_sac": "5202",
+          "quantity": {
+            "value": "6500",
+            "unit": "kg"
+          },
+          "units": {
+            "value": null,
+            "unit": null
+          },
+          "gross_amount": {
+            "value": "15698",
+            "unit": "Rs."
+          }
+        }
+      ]
+    }
+  }
+]

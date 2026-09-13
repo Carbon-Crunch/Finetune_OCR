@@ -1,0 +1,85 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": null
+  },
+  "entries": [
+    {
+      "supplier_name": "Northern Coal",
+      "weighted_gcv": {
+        "value": 3456,
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": 38.2,
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": 37.6,
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": 7178.709,
+        "unit": "MT"
+      }
+    },
+    {
+      "supplier_name": "Shree Ganesh",
+      "weighted_gcv": {
+        "value": 3492,
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": 13.2,
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": 37.2,
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": 1347.265,
+        "unit": "MT"
+      }
+    },
+    {
+      "supplier_name": "Shree Sai Urja LTD.",
+      "weighted_gcv": {
+        "value": 3558,
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": 12.6,
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": 39.1,
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": 125.14,
+        "unit": "MT"
+      }
+    },
+    {
+      "supplier_name": "SRV Traders",
+      "weighted_gcv": {
+        "value": 3867,
+        "unit": "kcal/kg"
+      },
+      "weighted_moisture": {
+        "value": 12.6,
+        "unit": "%"
+      },
+      "weighted_ash": {
+        "value": 31.9,
+        "unit": "%"
+      },
+      "total_coal": {
+        "value": 1171.29,
+        "unit": "MT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "E.T.P. FLOW DIAGRAM",
+    "document_type": "Process Flow Diagram",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "NIKITA PAPERS LIMITED, SHAMLI",
+    "plant_name": "NIKITA PAPERS LIMITED, SHAMLI",
+    "location": "SHAMLI",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "equipment_name": "PAPER MACHINE & PULP SECTION"
+      },
+      {
+        "equipment_name": "PDF"
+      },
+      {
+        "equipment_name": "EQUALIZATION TANK"
+      },
+      {
+        "equipment_name": "HILL SCREEN"
+      },
+      {
+        "equipment_name": "COLLECTION PIT"
+      },
+      {
+        "equipment_name": "FIBER COLLECTION TANK"
+      },
+      {
+        "equipment_name": "SEDI CELL"
+      },
+      {
+        "equipment_name": "REUSE TANK"
+      },
+      {
+        "equipment_name": "PRIMARY CLARIFIER 1"
+      },
+      {
+        "equipment_name": "PRIMARY CLARIFIER 2"
+      },
+      {
+        "equipment_name": "SLUDGE PIT"
+      },
+      {
+        "equipment_name": "FILTER PRESS"
+      },
+      {
+        "equipment_name": "WATER COLLECTION PIT"
+      },
+      {
+        "equipment_name": "MICRON FILTER"
+      },
+      {
+        "equipment_name": "PULP MILL"
+      },
+      {
+        "equipment_name": "PAPER MACHINE"
+      }
+    ],
+    "additional_fields": {
+      "process_steps": [
+        "Paper Machine & Pulp Section to Equalization Tank",
+        "Equalization Tank to Hill Screen",
+        "Hill Screen to Collection Pit",
+        "Collection Pit to Sedi Cell",
+        "Sedi Cell to Sludge Pit",
+        "Sedi Cell to Reuse Tank",
+        "Reuse Tank to Primary Clarifier 1",
+        "Primary Clarifier 1 to Sludge Pit",
+        "Primary Clarifier 2 to Sludge Pit",
+        "Sludge Pit to Filter Press",
+        "Filter Press to Dry Sludge / Land Filling",
+        "Filter Press to Water Collection Pit",
+        "Water Collection Pit to Micron Filter"
+      ]
+    }
+  }
+}

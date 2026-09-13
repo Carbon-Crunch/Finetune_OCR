@@ -1,0 +1,352 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": false,
+  "document_id": "847",
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Summary",
+  "boilerplate_used": "fuel/fuel_stock_summary.json",
+  "data": {
+    "report_period": {
+      "value": "2023-2024"
+    },
+    "entries": [
+      {
+        "fuel_name": "COAL",
+        "fuel_type": "COAL",
+        "date_period": "QTR-1",
+        "opening_balance": {
+          "value": 18257089,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 9817895,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 18370000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 9704984,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "HUSK",
+        "fuel_type": "HUSK",
+        "date_period": "QTR-1",
+        "opening_balance": {
+          "value": 38460,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 275160,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 230000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 83620,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "FUEL BAGGASE",
+        "fuel_type": "FUEL BAGGASE",
+        "date_period": "QTR-1",
+        "opening_balance": {
+          "value": 14623267,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 20254450,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 24185000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 10692717,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "RDF",
+        "fuel_type": "RDF",
+        "date_period": "QTR-1",
+        "opening_balance": {
+          "value": 0,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 0,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 0,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 0,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "COAL",
+        "fuel_type": "COAL",
+        "date_period": "QTR-2",
+        "opening_balance": {
+          "value": 9704984,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 18590925,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 9810000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 18485909,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "HUSK",
+        "fuel_type": "HUSK",
+        "date_period": "QTR-2",
+        "opening_balance": {
+          "value": 83620,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 1357355,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 1341775,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 99200,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "FUEL BAGGASE",
+        "fuel_type": "FUEL BAGGASE",
+        "date_period": "QTR-2",
+        "opening_balance": {
+          "value": 10692717,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 10144690,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 20307097,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 530310,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "RDF",
+        "fuel_type": "RDF",
+        "date_period": "QTR-2",
+        "opening_balance": {
+          "value": 0,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 11737679,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 6210000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 5527679,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "COAL",
+        "fuel_type": "COAL",
+        "date_period": "QTR-3",
+        "opening_balance": {
+          "value": 18485909,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 8143070,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 6075000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 20553979,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "HUSK",
+        "fuel_type": "HUSK",
+        "date_period": "QTR-3",
+        "opening_balance": {
+          "value": 99200,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 3192035,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 3052100,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 239135,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "FUEL BAGGASE",
+        "fuel_type": "FUEL BAGGASE",
+        "date_period": "QTR-3",
+        "opening_balance": {
+          "value": 530310,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 10245040,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 10754350,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 21000,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "RDF",
+        "fuel_type": "RDF",
+        "date_period": "QTR-3",
+        "opening_balance": {
+          "value": 5527679,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 25855143,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 24035000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 7347822,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "COAL",
+        "fuel_type": "COAL",
+        "date_period": "QTR-4",
+        "opening_balance": {
+          "value": 20553979,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 14785810,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 6282000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 29057789,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "HUSK",
+        "fuel_type": "HUSK",
+        "date_period": "QTR-4",
+        "opening_balance": {
+          "value": 239135,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 6364605,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 5838890,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 764850,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "FUEL BAGGASE",
+        "fuel_type": "FUEL BAGGASE",
+        "date_period": "QTR-4",
+        "opening_balance": {
+          "value": 21000,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 6659645,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 6472575,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 208070,
+          "unit": "kg"
+        }
+      },
+      {
+        "fuel_name": "RDF",
+        "fuel_type": "RDF",
+        "date_period": "QTR-4",
+        "opening_balance": {
+          "value": 7347822,
+          "unit": "kg"
+        },
+        "received_quantity": {
+          "value": 34935260,
+          "unit": "kg"
+        },
+        "consumption": {
+          "value": 29270000,
+          "unit": "kg"
+        },
+        "closing_balance": {
+          "value": 13013082,
+          "unit": "kg"
+        }
+      }
+    ]
+  }
+}

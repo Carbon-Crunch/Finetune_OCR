@@ -1,0 +1,45 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": {
+    "value": "06/05/2025"
+  },
+  "entries": [
+    {
+      "product_name": "K-6701 (MATT)",
+      "machine_name": "60x60",
+      "date_period": "06/05/2025",
+      "total_production": {
+        "value": "1420",
+        "unit": "box"
+      }
+    },
+    {
+      "product_name": "K-6701 (POLISH)",
+      "machine_name": "60x60",
+      "date_period": "06/05/2025",
+      "total_production": {
+        "value": "2040",
+        "unit": "box"
+      }
+    },
+    {
+      "product_name": "K-6709 (MATT)",
+      "machine_name": "60x60",
+      "date_period": "06/05/2025",
+      "total_production": {
+        "value": "1088",
+        "unit": "box"
+      }
+    },
+    {
+      "product_name": "K-6351",
+      "machine_name": "60x60",
+      "date_period": "06/05/2025",
+      "total_production": {
+        "value": "9690",
+        "unit": "box"
+      }
+    }
+  ]
+}

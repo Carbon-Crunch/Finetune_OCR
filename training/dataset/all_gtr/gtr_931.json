@@ -1,0 +1,76 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "931",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "TADGST-240014541"
+        },
+        "invoice_date": {
+          "value": "25-SEP-24"
+        },
+        "supplier_name": "GUJARAT MINERAL DEVELOPMENT CORPORATION LIMITED",
+        "supplier_gstin": null,
+        "buyer_name": "MAHESHWARI LOGISTICS LIMITED",
+        "buyer_gstin": "24A/ECM8033N1Z6",
+        "total_amount": {
+          "value": "88690.05",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "TADKESHWAR 'A' GRADE - Lignite TA",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "270220",
+            "quantity": {
+              "value": "21.235",
+              "unit": "M.T"
+            },
+            "gross_amount": {
+              "value": "68589.05",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Coal Receipt Register & Quality Register",
+      "boilerplate_used": "fuel/coal_receipt_quality_register.json",
+      "data": {
+        "report_period": {
+          "value": "25-SEP-24"
+        },
+        "entries": [
+          {
+            "date_of_receipt": "25-SEP-24",
+            "date_period": null,
+            "shift": null,
+            "conveyor_id": null,
+            "supplier_name": "GUJARAT MINERAL DEVELOPMENT CORPORATION LIMITED",
+            "truck_vehicle_no": "GJ05BU-7171",
+            "total_trucks": {
+              "value": "1",
+              "unit": null
+            },
+            "gcv": null,
+            "moisture_content": null,
+            "ash_content": null,
+            "net_weight": {
+              "value": "21.235",
+              "unit": "MT"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

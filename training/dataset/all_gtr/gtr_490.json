@@ -1,0 +1,209 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or time-period reading.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "9/8/24"
+    },
+    "entries": [
+      {
+        "date_period": "9/8/24",
+        "shift": "07:00",
+        "meter_reading_left": {
+          "value": "29",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "08:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1600",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "09:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "10:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "11:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "12:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "13:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "14:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "15:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "16:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "17:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "18:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "19:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "20:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "9/8/24",
+        "shift": "21:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": "D.C.V."
+        },
+        "meter_reading_right": {
+          "value": "1500",
+          "unit": "RPM"
+        },
+        "consumption_difference": null
+      }
+    ]
+  }
+}

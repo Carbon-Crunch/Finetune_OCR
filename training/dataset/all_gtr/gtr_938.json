@@ -1,0 +1,84 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "938",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": null,
+        "entries": [
+          {
+            "sample_name": "Rick Husk Sample 1",
+            "date_period": "08/04/2024",
+            "sample_quantity": null,
+            "moisture_content": {
+              "value": "8",
+              "unit": "%"
+            },
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": {
+              "value": "3100",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "8.50",
+              "unit": "%"
+            },
+            "supplier_name": "Singhal Traders",
+            "operator_name": null,
+            "remarks": "Trally, Bill no-BOS/24-25/0009, Date-08/04/2024 Qty-6910.00 kg"
+          },
+          {
+            "sample_name": "Rick Husk Sample 2",
+            "date_period": "28/06/2024",
+            "sample_quantity": null,
+            "moisture_content": {
+              "value": "10",
+              "unit": "%"
+            },
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": {
+              "value": "3000",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "8",
+              "unit": "%"
+            },
+            "supplier_name": "Vinayak Traders",
+            "operator_name": null,
+            "remarks": "Truck no.-UP21CN2853, Bill no-VT/24-25/0369, Date-27/06/2024 Qty-17080.00 kg"
+          },
+          {
+            "sample_name": "Rick Husk Sample 3",
+            "date_period": "29/06/2024",
+            "sample_quantity": null,
+            "moisture_content": {
+              "value": "11",
+              "unit": "%"
+            },
+            "volatile_matter": null,
+            "fixed_carbon": null,
+            "gcv": {
+              "value": "3050",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "8",
+              "unit": "%"
+            },
+            "supplier_name": "Vinayak Traders",
+            "operator_name": null,
+            "remarks": "Truck no.-UP37T7809, Bill no-VT/24-25/0378, Date-28/06/2024 Qty-13740.00 kg"
+          }
+        ]
+      }
+    }
+  ]
+}

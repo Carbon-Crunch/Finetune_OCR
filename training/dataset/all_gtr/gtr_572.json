@@ -1,0 +1,366 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2024-2025"
+    },
+    "entries": [
+      {
+        "date_of_receipt": "31-05-2025",
+        "truck_vehicle_no": "U.P.67 T 9733",
+        "gcv": {
+          "value": 3580,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "NIL",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "NIL",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "01-06-2025",
+        "truck_vehicle_no": "B.R.02GA 7486",
+        "gcv": {
+          "value": 3611,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "5",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "46",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "01-06-2025",
+        "truck_vehicle_no": "B.R.02GA 7014",
+        "gcv": {
+          "value": 3628,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "2",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "44",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "01-06-2025",
+        "truck_vehicle_no": "C.G.BA 7934",
+        "gcv": {
+          "value": 3625,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "2",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "JH.13 6692",
+        "gcv": {
+          "value": 3614,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "NIL",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "JH.02 BH 0411",
+        "gcv": {
+          "value": 3609,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "B.R.02 GB 6025",
+        "gcv": {
+          "value": 3625,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "B.R.02 GD 6560",
+        "gcv": {
+          "value": 3621,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "B.R.24 GB 2570",
+        "gcv": {
+          "value": 3613,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "B.R.24 GB 2276",
+        "gcv": {
+          "value": 3753,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "NIL",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "U.P.21 D 9377",
+        "gcv": {
+          "value": 3729,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "U.P.21 CH 8892",
+        "gcv": {
+          "value": 3722,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "B.R.45 GA 1441",
+        "gcv": {
+          "value": 3728,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "B.R.02 GC 8589",
+        "gcv": {
+          "value": 3692,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "B.R.02 GA 8103",
+        "gcv": {
+          "value": 3711,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "U.P.12 BT 9931",
+        "gcv": {
+          "value": 3700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "06-2025",
+        "truck_vehicle_no": "P.R.05 AT 9053",
+        "gcv": {
+          "value": 3689,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "45",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "03-07-2025",
+        "truck_vehicle_no": "H.R.58 E 3057",
+        "gcv": {
+          "value": 3950,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "10",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "35",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "03-07-2025",
+        "truck_vehicle_no": "H.R.58 D 8688",
+        "gcv": {
+          "value": 3900,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "10",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "40",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "11-07-2025",
+        "truck_vehicle_no": "P.B.23 M 7725",
+        "gcv": {
+          "value": 3180,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "6",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "42",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "11-07-2025",
+        "truck_vehicle_no": "U.P.17 T 9454",
+        "gcv": {
+          "value": 3832,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "6",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "42",
+          "unit": "%"
+        }
+      },
+      {
+        "date_of_receipt": "01-12-2025",
+        "truck_vehicle_no": "Agarwal Duplex Board Mills",
+        "gcv": {
+          "value": 3980,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": "15",
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": "33",
+          "unit": "%"
+        }
+      }
+    ]
+  }
+}

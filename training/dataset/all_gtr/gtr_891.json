@@ -1,0 +1,133 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "CO-GENERATION FLOW DIAGRAM",
+    "document_type": "Flow Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "ANAND TRIDIEV BOARD LTD",
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Coal Storage to Coal Handling Plant",
+        "equipment_name": "Coal Handling Plant"
+      },
+      {
+        "item_description": "Coal Handling Plant to Boiler",
+        "equipment_name": "Boiler"
+      },
+      {
+        "item_description": "Boiler to Super Heater",
+        "equipment_name": "Super Heater"
+      },
+      {
+        "item_description": "Super Heater to Main Valve",
+        "equipment_name": "Main Valve"
+      },
+      {
+        "item_description": "Main Valve to Turbine",
+        "equipment_name": "Turbine"
+      },
+      {
+        "item_description": "Turbine to Generator",
+        "equipment_name": "Generator"
+      },
+      {
+        "item_description": "Turbine to Condenser",
+        "equipment_name": "Condenser"
+      },
+      {
+        "item_description": "Condenser to Cooling Tower",
+        "equipment_name": "Cooling Tower"
+      },
+      {
+        "item_description": "Condenser to Condensate Extraction Pump",
+        "equipment_name": "Condensate Extraction Pump"
+      },
+      {
+        "item_description": "Condensate Extraction Pump to Deaerator",
+        "equipment_name": "Deaerator"
+      },
+      {
+        "item_description": "Deaerator to Boiler Feed Pump",
+        "equipment_name": "Boiler Feed Pump"
+      },
+      {
+        "item_description": "Boiler Feed Pump to Economiser",
+        "equipment_name": "Economiser"
+      },
+      {
+        "item_description": "Economiser to Boiler",
+        "equipment_name": "Boiler"
+      },
+      {
+        "item_description": "Boiler to Air Pre-Heater",
+        "equipment_name": "Air Pre-Heater"
+      },
+      {
+        "item_description": "Air Pre-Heater to Chimney",
+        "equipment_name": "Chimney"
+      },
+      {
+        "item_description": "Turbine to Paper Machine",
+        "equipment_name": "Paper Machine"
+      },
+      {
+        "item_description": "Boiler to Ash Handling Plant",
+        "equipment_name": "Ash Handling Plant"
+      },
+      {
+        "item_description": "Ash Handling Plant to Ash Storage",
+        "equipment_name": "Ash Storage"
+      }
+    ],
+    "additional_fields": {
+      "process_components": [
+        "Coal Storage",
+        "Coal Handling Plant",
+        "Boiler",
+        "Ash Handling Plant",
+        "Ash Storage",
+        "Air Pre-Heater",
+        "Economiser",
+        "Super Heater",
+        "Main Valve",
+        "Turbine",
+        "Generator",
+        "Paper Machine",
+        "Condensate Extraction Pump",
+        "Deaerator",
+        "Boiler Feed Pump",
+        "Condenser",
+        "Cooling Tower",
+        "Circulating Water Pump"
+      ]
+    }
+  }
+}

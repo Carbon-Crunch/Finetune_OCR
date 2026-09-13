@@ -1,0 +1,69 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Agreement for supply of power and steam",
+    "document_type": "Agreement",
+    "report_period": {
+      "value": "10 years"
+    },
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": "RPG Industrial Products (P) Ltd.",
+    "customer_name": "Dev Priya Products Pvt. Ltd.",
+    "company_name": "Dev Priya Products Pvt. Ltd. and RPG Industrial Products (P) Ltd.",
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "remarks": "Agreement terms 1: Party 1 provides power/steam to party 2"
+      },
+      {
+        "remarks": "Agreement terms 2: Party 1 prioritizes own plant usage, sells surplus to party 2"
+      },
+      {
+        "remarks": "Agreement terms 3: Quantities mutually adjustable"
+      },
+      {
+        "remarks": "Agreement terms 4: Pricing based on production cost and market rates"
+      },
+      {
+        "remarks": "Agreement terms 5: Payments within 30 days from end of billing period"
+      },
+      {
+        "remarks": "Agreement terms 6: Supply should be constant; liability disclaimer for outages"
+      },
+      {
+        "remarks": "Agreement terms 7: Continuous supply unless mutually agreed otherwise"
+      },
+      {
+        "remarks": "Agreement terms 8: 10 year duration from start date"
+      },
+      {
+        "remarks": "Agreement terms 9: Point of delivery at factory gate, costs/maintenance borne by party 2"
+      },
+      {
+        "remarks": "Agreement terms 10: Meters to be installed by party 1"
+      },
+      {
+        "remarks": "Agreement terms 11: Modifications by mutual consent"
+      }
+    ],
+    "additional_fields": {}
+  }
+}

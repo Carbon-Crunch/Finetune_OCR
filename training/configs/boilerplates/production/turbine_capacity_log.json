@@ -1,0 +1,23 @@
+{
+  "data_type": "Production & Operational",
+  "data_category": "Turbine Capacity Log",
+  "extraction_rules": "This is a tabular turbine log. Extract EVERY row from the table into the entries array. Each object in entries represents one turbine record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "turbine_name": null,
+        "nominal_capacity": {
+          "value": null,
+          "unit": "MW"
+        },
+        "generation_capacity": {
+          "value": null,
+          "unit": "MW"
+        }
+      }
+    ]
+  }
+}

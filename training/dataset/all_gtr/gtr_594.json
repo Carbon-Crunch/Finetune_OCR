@@ -1,0 +1,108 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "GENERATION REPORT",
+  "document_type": "Generation Report",
+  "report_period": {
+    "value": "04.DEC.2024"
+  },
+  "company_name": "Genus Paper And Boards Ltd",
+  "location": "Vill. Aghwanpur, Kanth",
+  "entries": [
+    {
+      "item_description": "6 M.W. TURBINE",
+      "generation": {
+        "value": "0",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "9 M.W. TURBINE",
+      "generation": {
+        "value": "1,68,800",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "1 M.W. DG",
+      "generation": {
+        "value": "0",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "UTILITY",
+      "consumption": {
+        "value": "25,082",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "PAPER MIC NO 1",
+      "consumption": {
+        "value": "35,980",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "PAPER MIC NO 2",
+      "consumption": {
+        "value": "58,843",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "PULP MILL NO 1",
+      "consumption": {
+        "value": "16,167",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "PULP MILL NO 2",
+      "consumption": {
+        "value": "29,332",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "E.T.P",
+      "consumption": {
+        "value": "2,316",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "SUNDRY PLANT",
+      "consumption": {
+        "value": "12",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "BOARD PLANT",
+      "consumption": {
+        "value": "53",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "P.LIGHTING",
+      "consumption": {
+        "value": "936",
+        "unit": null
+      }
+    },
+    {
+      "item_description": "GUEST HOUSE",
+      "consumption": {
+        "value": "79",
+        "unit": null
+      }
+    }
+  ],
+  "additional_fields": {
+    "net_power": "1,43,718",
+    "off_utility_load_percentage": "14.86%"
+  }
+}

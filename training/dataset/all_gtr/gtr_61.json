@@ -1,0 +1,39 @@
+{
+  "rotation_needed": true,
+  "degree": 180,
+  "data_type": "Production & Operational",
+  "data_category": "Useless",
+  "extraction_rules": "This document is a process flow diagram of a paper manufacturing process and contains no operational data for extraction.",
+  "extracted_fields": {
+    "document_title": "Layout of Paper Manufacturing Process (Machine -1, Duplex)",
+    "document_type": "Process Flow Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Bahl Paper Mills Ltd, Kashipur",
+    "plant_name": "Bahl Paper Mills Ltd., Kashipur (U.K.)",
+    "location": "Kashipur",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "Machine -1, Duplex",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [],
+    "additional_fields": {}
+  }
+}

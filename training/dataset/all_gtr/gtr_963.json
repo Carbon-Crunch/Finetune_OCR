@@ -1,0 +1,1257 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 12,
+      "image_index": 12,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 13,
+      "image_index": 13,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 14,
+      "image_index": 14,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 15,
+      "image_index": 15,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 16,
+      "image_index": 16,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 17,
+      "image_index": 17,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 18,
+      "image_index": 18,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 19,
+      "image_index": 19,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 20,
+      "image_index": 20,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 21,
+      "image_index": 21,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 22,
+      "image_index": 22,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 23,
+      "image_index": 23,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 24,
+      "image_index": 24,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 25,
+      "image_index": 25,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 26,
+      "image_index": 26,
+      "rotation_needed": true,
+      "degree": 90
+    },
+    {
+      "page_number": 27,
+      "image_index": 27,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 28,
+      "image_index": 28,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 29,
+      "image_index": 29,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "963",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0783"
+        },
+        "invoice_date": {
+          "value": "28-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "43718.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "19430.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "43717.50",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0784"
+        },
+        "invoice_date": {
+          "value": "28-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "69950.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "13452.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "69950.40",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0785"
+        },
+        "invoice_date": {
+          "value": "28-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "49352.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "21934.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "49351.50",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0786"
+        },
+        "invoice_date": {
+          "value": "28-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "89024.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "17120.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "89024.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0787"
+        },
+        "invoice_date": {
+          "value": "29-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "45259.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "20115.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "45258.75",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0788"
+        },
+        "invoice_date": {
+          "value": "29-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "43218.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "19208.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "43218.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0789"
+        },
+        "invoice_date": {
+          "value": "29-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "58344.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "11220.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "58344.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0790"
+        },
+        "invoice_date": {
+          "value": "29-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "90002.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "17308.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "90001.60",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0775"
+        },
+        "invoice_date": {
+          "value": "23-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "63440.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "12200.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "63440.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0776"
+        },
+        "invoice_date": {
+          "value": "23-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "61672.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "11860.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "61672.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0777"
+        },
+        "invoice_date": {
+          "value": "24-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "96720.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "18600.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "96720.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0778"
+        },
+        "invoice_date": {
+          "value": "24-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "71760.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "13800.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "71760.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0779"
+        },
+        "invoice_date": {
+          "value": "24-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "92352.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "17760.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "92352.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0780"
+        },
+        "invoice_date": {
+          "value": "24-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "84292.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "16210.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "84292.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0757"
+        },
+        "invoice_date": {
+          "value": "17-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "91156.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "17530.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "91156.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0758"
+        },
+        "invoice_date": {
+          "value": "17-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "21094.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "9375.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "21093.75",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0762"
+        },
+        "invoice_date": {
+          "value": "18-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "75608.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "14540.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "75608.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0763"
+        },
+        "invoice_date": {
+          "value": "18-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "92976.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "17880.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "92976.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0765"
+        },
+        "invoice_date": {
+          "value": "18-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "21962.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "9761.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "21962.25",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0743"
+        },
+        "invoice_date": {
+          "value": "9-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "58708.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "11290.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "58708.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0744"
+        },
+        "invoice_date": {
+          "value": "9-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "57252.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "11010.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "57252.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0745"
+        },
+        "invoice_date": {
+          "value": "9-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "27428.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "12190.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "27427.50",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0746"
+        },
+        "invoice_date": {
+          "value": "9-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "32445.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "14420.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "32445.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0747"
+        },
+        "invoice_date": {
+          "value": "9-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "46384.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "8920.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "46384.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0748"
+        },
+        "invoice_date": {
+          "value": "10-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "63388.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "12190.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "63388.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0749"
+        },
+        "invoice_date": {
+          "value": "10-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "56784.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "10920.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "56784.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0750"
+        },
+        "invoice_date": {
+          "value": "10-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "31770.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Fire Wood Patta (Kutti)",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "44012100",
+            "quantity": {
+              "value": "14120.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "31770.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0751"
+        },
+        "invoice_date": {
+          "value": "10-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "57314.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "11022.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "57314.40",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Purchase Invoice",
+      "boilerplate_used": "fuel/fuel_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "24-25/0752"
+        },
+        "invoice_date": {
+          "value": "10-Mar-25"
+        },
+        "supplier_name": "Sushil Kumar HUF",
+        "supplier_gstin": null,
+        "buyer_name": "Nikita Papers Limited",
+        "buyer_gstin": "09AAACN0473F1ZO",
+        "total_amount": {
+          "value": "54652.00",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "PADDY HUSK",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": "121300",
+            "quantity": {
+              "value": "10510.00",
+              "unit": "kgs"
+            },
+            "gross_amount": {
+              "value": "54652.00",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

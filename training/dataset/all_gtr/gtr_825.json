@@ -1,0 +1,112 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Process Flow Diagram",
+    "document_type": "Process Flow Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": null,
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Raw Material -1"
+      },
+      {
+        "item_description": "Raw Material -2"
+      },
+      {
+        "item_description": "Raw Material -3"
+      },
+      {
+        "item_description": "Raw Material -4"
+      },
+      {
+        "item_description": "Proportioning"
+      },
+      {
+        "item_description": "Grinding & Sieving Ball Mills"
+      },
+      {
+        "item_description": "Water"
+      },
+      {
+        "item_description": "Grinding Media"
+      },
+      {
+        "item_description": "Spray Drying & Sieving"
+      },
+      {
+        "item_description": "Chain Stove Hot Air [ Coal ]"
+      },
+      {
+        "item_description": "Compressed Air"
+      },
+      {
+        "item_description": "Storage of Dust"
+      },
+      {
+        "item_description": "Pressing Press & Continua"
+      },
+      {
+        "item_description": "Drying 5 Layer Drier"
+      },
+      {
+        "item_description": "Fuel"
+      },
+      {
+        "item_description": "Glazing"
+      },
+      {
+        "item_description": "Firing - Kiln"
+      },
+      {
+        "item_description": "Waste Heat Recovery"
+      },
+      {
+        "item_description": "Storage"
+      },
+      {
+        "item_description": "Polishing & Finishing"
+      },
+      {
+        "item_description": "ETP Water Recycling"
+      },
+      {
+        "item_description": "Drying"
+      },
+      {
+        "item_description": "Sorting & Packing"
+      },
+      {
+        "item_description": "Warehouse"
+      }
+    ],
+    "additional_fields": {}
+  }
+}

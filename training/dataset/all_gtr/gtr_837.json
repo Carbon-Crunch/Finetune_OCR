@@ -1,0 +1,67 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "837",
+  "extractions": [
+    {
+      "data_type": "Generic",
+      "data_category": "Generic Fallback Document",
+      "boilerplate_used": "generic_fallback",
+      "data": {
+        "document_title": "Renewable Consumption Obligation (RCO) Data Collection Checklist",
+        "document_type": "Data Collection Checklist",
+        "entries": [
+          {
+            "equipment_name": "Grid Contract demand (KVA)",
+            "capacity": "6500 KVA"
+          },
+          {
+            "equipment_name": "Spinning Plant",
+            "capacity": "3000 KVA"
+          },
+          {
+            "equipment_name": "DG sets",
+            "capacity": "1250 KVA - 3 nos"
+          },
+          {
+            "equipment_name": "Boiler - Spinning Plant",
+            "capacity": "8 TPH @ 10 Kg pressure"
+          },
+          {
+            "equipment_name": "Boiler - Fiber Plant",
+            "capacity": "1. 6 TPH @ 25 Pressure, 2. 15 lakh K.Cal, 3. 30 Lakh K.Cal"
+          },
+          {
+            "equipment_name": "Installed production capacity - Spinning Plant",
+            "capacity": "11616 MT/annum"
+          },
+          {
+            "equipment_name": "Installed production capacity - Fiber Plant",
+            "capacity": "36000 MT/annum"
+          }
+        ]
+      }
+    }
+  ]
+}

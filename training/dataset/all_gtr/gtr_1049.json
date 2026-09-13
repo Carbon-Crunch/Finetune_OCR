@@ -1,0 +1,113 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Process Flow Chart (Spinning)",
+    "document_type": "Process Flow Chart",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Kashi Vishwanath Textile Mill (P) Limited",
+    "plant_name": "Kashi Vishwanath Textile Mill (P) Ltd Kashipur",
+    "location": "5th Km. Stone, Ramnagar Road, Kashipur-244713 (Uttarakhand)",
+    "registration_number": "U51311DL1996PTC079814",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Fibre bales Polyester",
+        "product_name": "Fibre bales Polyester"
+      },
+      {
+        "item_description": "Mixing (OPENING, SPRAYING, LAYERING, TOPPLING)"
+      },
+      {
+        "item_description": "Blowroom",
+        "product_name": "Fibre Mixture"
+      },
+      {
+        "item_description": "Carding",
+        "product_name": "Feed to Sliver"
+      },
+      {
+        "item_description": "Draw Frame (Breaker 1st Passage)",
+        "product_name": "Sliver"
+      },
+      {
+        "item_description": "Draw Frame (Finisher 2nd Passage)",
+        "product_name": "Sliver"
+      },
+      {
+        "item_description": "SpeedFrame",
+        "product_name": "Sliver to Roving"
+      },
+      {
+        "item_description": "Ring frame",
+        "product_name": "Roving to yarn"
+      },
+      {
+        "item_description": "Auto Coner",
+        "product_name": "Yarn Cop to Yarn Cone"
+      },
+      {
+        "item_description": "Single yarn Pack / Double yarn/Multifold Yarn pack"
+      },
+      {
+        "item_description": "Cheese Winding",
+        "product_name": "Single to Paraller Double/Multifold Yarn"
+      },
+      {
+        "item_description": "T.F.O.",
+        "product_name": "Parallel to Double/Multifold Yarn"
+      },
+      {
+        "item_description": "Yarn Conditioning"
+      },
+      {
+        "item_description": "Inspection& checking"
+      },
+      {
+        "item_description": "Packing"
+      }
+    ],
+    "additional_fields": {
+      "contact_info": "+91-99277 46666, +91-78303 90000, +91-011-22167048, 011-22167009",
+      "email": "textile@spnggroup.com, ho@spnggroup.com",
+      "registered_office": "A-80, Vivek Vihar, Phase-1, Delhi-110095"
+    }
+  }
+}

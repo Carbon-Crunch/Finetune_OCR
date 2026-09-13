@@ -1,0 +1,68 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": {
+    "value": "21/01/2025"
+  },
+  "entries": [
+    {
+      "date_period": "21/01/2025",
+      "timestamp": null,
+      "pressure": {
+        "value": null,
+        "unit": "bar"
+      },
+      "temperature": {
+        "value": null,
+        "unit": "C"
+      },
+      "flow_rate": {
+        "value": null,
+        "unit": "TPH"
+      },
+      "runtime": null,
+      "power": null,
+      "pulp_levels": null
+    }
+  ],
+  "additional_fields": {
+    "company_name": "KAJARIA CERAMICS LTD.",
+    "location": "MALUTANA, DISTT. ALWAR (RAJ.)",
+    "document_type": "Warehouse Packing Report",
+    "quality_average": "90.06%",
+    "total_packing_boxes": "13430",
+    "total_packing_sqm": "19339 sqm",
+    "details": [
+      {
+        "description": "K-6204",
+        "size": "60x60",
+        "shade": "G",
+        "prm": "4522",
+        "std": "34",
+        "com": "170",
+        "uty": "244",
+        "total_box": "4970"
+      },
+      {
+        "description": "K-6355",
+        "size": "60x60",
+        "shade": "D",
+        "prm": "5270",
+        "std": "170",
+        "com": "170",
+        "uty": "306",
+        "total_box": "5916"
+      },
+      {
+        "description": "K-12846",
+        "size": "60x20",
+        "shade": "D",
+        "prm": "2304",
+        "std": "96",
+        "com": "96",
+        "uty": "48",
+        "total_box": "2544"
+      }
+    ]
+  }
+}

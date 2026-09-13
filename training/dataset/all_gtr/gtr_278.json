@@ -1,0 +1,44 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": "25/02/25",
+  "supplier_name": "Shivam Petroleum",
+  "entries": [
+    {
+      "item_description": "Diesel",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "1000",
+        "unit": "Liters"
+      },
+      "units": {
+        "value": null,
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "90160",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "Diesel",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": null,
+      "quantity": {
+        "value": "1000",
+        "unit": "Liters"
+      },
+      "units": {
+        "value": null,
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "90160",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or time-period reading.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "6/8/24"
+    },
+    "entries": [
+      {
+        "date_period": "6/8/24",
+        "shift": "09:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": null,
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": "6/8/24",
+        "shift": "10:00",
+        "meter_reading_left": {
+          "value": "24",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": null,
+          "unit": null
+        },
+        "consumption_difference": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

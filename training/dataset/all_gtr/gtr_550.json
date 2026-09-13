@@ -1,0 +1,1568 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "Dec-2024"
+    },
+    "entries": [
+      {
+        "date_of_receipt": "01/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58B/7867",
+        "gcv": {
+          "value": 3751,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30060,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "01/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12BT/8947",
+        "gcv": {
+          "value": 3641,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29145,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "01/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR65A/4203",
+        "gcv": {
+          "value": 3580,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29815,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "01/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP15PT/0851",
+        "gcv": {
+          "value": 3634,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 24205,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "01/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "PB03BK/6366",
+        "gcv": {
+          "value": 3671,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 34150,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "02/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD/6659",
+        "gcv": {
+          "value": 3762,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29870,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "02/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH10BM/3823",
+        "gcv": {
+          "value": 3684,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30045,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "02/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02AV/2521",
+        "gcv": {
+          "value": 3642,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.5,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30320,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "02/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "PB10DA/2242",
+        "gcv": {
+          "value": 3615,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.9,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 24710,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "03/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP20AT/1114",
+        "gcv": {
+          "value": 3650,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41335,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "03/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR55S/7011",
+        "gcv": {
+          "value": 3680,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 34790,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "03/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP67AT/0482",
+        "gcv": {
+          "value": 3648,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30095,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "03/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP15FT/7824",
+        "gcv": {
+          "value": 3768,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 24545,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "03/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02AV/7967",
+        "gcv": {
+          "value": 3677,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30850,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "03/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24GD/0065",
+        "gcv": {
+          "value": 3760,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30465,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "03/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GB/7603",
+        "gcv": {
+          "value": 3818,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.5,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30030,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "03/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12AT/1001",
+        "gcv": {
+          "value": 3850,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 33.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 34890,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "04/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "RJ14GM/5567",
+        "gcv": {
+          "value": 3688,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 42030,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "04/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP15DT/7317",
+        "gcv": {
+          "value": 3655,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 38.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 25055,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "04/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GB/3260",
+        "gcv": {
+          "value": 3712,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29570,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "04/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24GB/8533",
+        "gcv": {
+          "value": 3390,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 17.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 33.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29405,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "04/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12AT/0071",
+        "gcv": {
+          "value": 3642,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 34015,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "04/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR68E/4210",
+        "gcv": {
+          "value": 3715,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 43010,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "05/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58D/9918",
+        "gcv": {
+          "value": 3651,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41965,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "05/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58C/0818",
+        "gcv": {
+          "value": 3715,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 42060,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "05/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58C/8118",
+        "gcv": {
+          "value": 3680,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41805,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "06/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24GB/2917",
+        "gcv": {
+          "value": 3335,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 17.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.3,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29670,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "06/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12BT/8947",
+        "gcv": {
+          "value": 3781,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.9,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30450,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "06/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD/1805",
+        "gcv": {
+          "value": 3631,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29805,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "06/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12BT/8705",
+        "gcv": {
+          "value": 3689,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 31135,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "06/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD/1497",
+        "gcv": {
+          "value": 3300,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 16.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29690,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "06/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58D/9395",
+        "gcv": {
+          "value": 3718,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 42585,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR10GB/4635",
+        "gcv": {
+          "value": 3733,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30330,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "CG04L/8229",
+        "gcv": {
+          "value": 3680,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 24245,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "07/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GA/7012",
+        "gcv": {
+          "value": 3680,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.9,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30590,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "PB03BK/6366",
+        "gcv": {
+          "value": 3642,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 35125,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12BT/0451",
+        "gcv": {
+          "value": 3720,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41415,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24GA/8533",
+        "gcv": {
+          "value": 3815,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.5,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29635,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GB/6366",
+        "gcv": {
+          "value": 3738,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 24955,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP53ET/4258",
+        "gcv": {
+          "value": 3341,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 16.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 33.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30295,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "08/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR24GB/0876",
+        "gcv": {
+          "value": 3684,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30365,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "PB11CY/7291",
+        "gcv": {
+          "value": 3710,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41565,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12AT/1985",
+        "gcv": {
+          "value": 3688,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 34800,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58E/6415",
+        "gcv": {
+          "value": 3748,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 42675,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58D/0122",
+        "gcv": {
+          "value": 3658,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 42890,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP11AT/6688",
+        "gcv": {
+          "value": 3650,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 40855,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH10BP/5705",
+        "gcv": {
+          "value": 3740,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 24780,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "09/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP15DT/6717",
+        "gcv": {
+          "value": 3710,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 24510,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58C/3901",
+        "gcv": {
+          "value": 3845,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 42950,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58D/5068",
+        "gcv": {
+          "value": 3612,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41795,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UK08CB/2103",
+        "gcv": {
+          "value": 3710,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 39875,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12AT/2457",
+        "gcv": {
+          "value": 3621,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 28880,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "10/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP19T/3567",
+        "gcv": {
+          "value": 3710,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.7,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 41625,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR58E/4210",
+        "gcv": {
+          "value": 3585,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 42895,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP65FT/9017",
+        "gcv": {
+          "value": 3655,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.5,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29525,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR55P/6715",
+        "gcv": {
+          "value": 3642,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.7,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 35175,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR46D/7569",
+        "gcv": {
+          "value": 3711,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 34645,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP12AT/2535",
+        "gcv": {
+          "value": 3660,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 40520,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "11/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP15CT/9166",
+        "gcv": {
+          "value": 3671,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.3,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30215,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "PB11CL/9810",
+        "gcv": {
+          "value": 3815,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 33.2,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 34855,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02BJ/3194",
+        "gcv": {
+          "value": 3608,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29660,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "12/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "UP15ET/4141",
+        "gcv": {
+          "value": 3681,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 23790,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "13/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02AV/7967",
+        "gcv": {
+          "value": 3655,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30630,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "14/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR06GD/8840",
+        "gcv": {
+          "value": 3678,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 33.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30155,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "14/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "JH02AU/6484",
+        "gcv": {
+          "value": 3742,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 37.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30550,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "15/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GB/7603",
+        "gcv": {
+          "value": 3685,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.4,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30185,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "15/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD/9686",
+        "gcv": {
+          "value": 3954,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29605,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GA/8221",
+        "gcv": {
+          "value": 3658,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.6,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30495,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GA/5729",
+        "gcv": {
+          "value": 3700,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 33.8,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30335,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD/1497",
+        "gcv": {
+          "value": 3695,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.0,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.5,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29850,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "BR02GD/1805",
+        "gcv": {
+          "value": 3765,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 12.1,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 36.0,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 29680,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "NL01AD/4291",
+        "gcv": {
+          "value": 3808,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 11.8,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.1,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 30355,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR62A/5479",
+        "gcv": {
+          "value": 3712,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 35.4,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 38755,
+          "unit": "MT"
+        }
+      },
+      {
+        "date_of_receipt": "16/12/2024",
+        "supplier_name": "Shree Ganesh",
+        "truck_vehicle_no": "HR56C/1194",
+        "gcv": {
+          "value": 3642,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 13.2,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 34.5,
+          "unit": "%"
+        },
+        "net_weight": {
+          "value": 39180,
+          "unit": "MT"
+        }
+      }
+    ]
+  }
+}

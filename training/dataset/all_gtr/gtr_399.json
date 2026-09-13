@@ -1,0 +1,108 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "1-Oct-25 to 31-Dec-25"
+    },
+    "entries": [
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": "Biomass",
+        "date_period": "Opening Balance",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": {
+          "value": 27611.52,
+          "unit": "QTL"
+        }
+      },
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": "Biomass",
+        "date_period": "October",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": {
+          "value": 28012.78,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 48630.0,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 6994.3,
+          "unit": "QTL"
+        }
+      },
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": "Biomass",
+        "date_period": "November",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": {
+          "value": 111452.13,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 44390.0,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 74056.43,
+          "unit": "QTL"
+        }
+      },
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": "Biomass",
+        "date_period": "December",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": {
+          "value": 122008.87,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 25630.0,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 170435.3,
+          "unit": "QTL"
+        }
+      },
+      {
+        "fuel_name": "PADDY HUSK",
+        "fuel_type": "Biomass",
+        "date_period": "Grand Total",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": {
+          "value": 261473.78,
+          "unit": "QTL"
+        },
+        "outwards": {
+          "value": 118650.0,
+          "unit": "QTL"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": 170435.3,
+          "unit": "QTL"
+        }
+      }
+    ]
+  }
+}

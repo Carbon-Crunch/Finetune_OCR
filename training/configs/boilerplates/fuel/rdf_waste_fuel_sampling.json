@@ -1,0 +1,35 @@
+{
+  "data_type": "Fuel",
+  "data_category": "RDF / Waste Fuel Sampling",
+  "extraction_rules": "This is a tabular sampling report. Extract EVERY row from the table into the entries array. Each object in entries represents one waste type or sample record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "waste_type": null,
+        "weight": {
+          "value": null,
+          "unit": "KG"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Total Energy Injection and REC Details",
+    "document_type": "REC Registry Detail Report",
+    "report_period": {
+      "value": "Till Date"
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "24-07-2025"
+    },
+    "supplier_name": null,
+    "customer_name": "Bahl Paper Mills Limited",
+    "company_name": "Bahl Paper Mills Limited",
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Total RECs Issued Till Date",
+        "quantity": {
+          "value": "252115",
+          "unit": "RECs"
+        }
+      },
+      {
+        "item_description": "Total RECs Redeemed",
+        "quantity": {
+          "value": "197956",
+          "unit": "RECs"
+        }
+      },
+      {
+        "item_description": "Total RECs Expired",
+        "quantity": {
+          "value": "0",
+          "unit": "RECs"
+        }
+      },
+      {
+        "item_description": "Total Valid RECs",
+        "quantity": {
+          "value": "54159",
+          "unit": "RECs"
+        }
+      },
+      {
+        "item_description": "Tradebale RECs",
+        "quantity": {
+          "value": "0",
+          "unit": "RECs"
+        }
+      },
+      {
+        "item_description": "Non Tradebale RECs",
+        "quantity": {
+          "value": "54159",
+          "unit": "RECs"
+        }
+      },
+      {
+        "item_description": "Total Injected Power Till Date",
+        "quantity": {
+          "value": "257844.3",
+          "unit": "MWh"
+        }
+      },
+      {
+        "item_description": "Closing Balance(Self-Consumption + Grid Eligible)",
+        "quantity": {
+          "value": "0.78",
+          "unit": null
+        }
+      }
+    ],
+    "additional_fields": {
+      "last_logged_in": "24-07-2025 10:45:17",
+      "payment_alert": "Currently, TPSL Payment Gateway Service is down, please make the payment through SBI Payment Gateway."
+    }
+  }
+}

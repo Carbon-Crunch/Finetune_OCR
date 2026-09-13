@@ -1,0 +1,157 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "extraction_rules": "This is a tabular log document. Extract EVERY row from the table into the entries array. Each object in entries represents one shift or time-period reading.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "3/8/24"
+    },
+    "entries": [
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 400,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 380,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 490,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 450,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 450,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 450,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 400,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 450,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 490,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 490,
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "3/8/24",
+        "shift": null,
+        "meter_reading_left": {
+          "value": 415,
+          "unit": "V"
+        },
+        "meter_reading_right": {
+          "value": 600,
+          "unit": null
+        },
+        "consumption_difference": null
+      }
+    ]
+  }
+}

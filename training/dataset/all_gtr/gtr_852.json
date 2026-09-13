@@ -1,0 +1,214 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "852",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": "13/01/2025"
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": "81900",
+              "unit": "KWH"
+            },
+            "internal_dg_generation": {
+              "value": "11500",
+              "unit": "KWH"
+            },
+            "steam_generation": {
+              "value": "755",
+              "unit": "Tons"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "13/01/2025"
+        },
+        "entries": [
+          {
+            "timestamp": "8.00",
+            "power": {
+              "value": "3382",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "9.00",
+            "power": {
+              "value": "3588",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "10.00",
+            "power": {
+              "value": "3551",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "11.00",
+            "power": {
+              "value": "3568",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "12.00",
+            "power": {
+              "value": "3780",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "13.00",
+            "power": {
+              "value": "3621",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "14.00",
+            "power": {
+              "value": "3698",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "15.00",
+            "power": {
+              "value": "3160",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "16.00",
+            "power": {
+              "value": "3602",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "17.00",
+            "power": {
+              "value": "3859",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "18.00",
+            "power": {
+              "value": "3645",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "19.00",
+            "power": {
+              "value": "3636",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "20.00",
+            "power": {
+              "value": "3572",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "21.00",
+            "power": {
+              "value": "3585",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "22.00",
+            "power": {
+              "value": "3566",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "23.00",
+            "power": {
+              "value": "3246",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "0.00",
+            "power": {
+              "value": "3259",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "1.00",
+            "power": {
+              "value": "3215",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "2.00",
+            "power": {
+              "value": "3241",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "3.00",
+            "power": {
+              "value": "3236",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "4.00",
+            "power": {
+              "value": "3288",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "5.00",
+            "power": {
+              "value": "3394",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "6.00",
+            "power": {
+              "value": "3380",
+              "unit": "KW"
+            }
+          },
+          {
+            "timestamp": "7.00",
+            "power": {
+              "value": "3410",
+              "unit": "KW"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

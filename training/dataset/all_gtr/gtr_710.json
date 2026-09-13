@@ -1,0 +1,117 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Amendment to Consolidated Consent & Authorization (CC & A)",
+    "document_type": "Environmental Amendment Order",
+    "report_period": {
+      "value": "Valid up to 30.06.2027"
+    },
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": "M/s. Kherani Paper Mills Pvt. Ltd",
+    "company_name": "M/s. Kherani Paper Mills Pvt. Ltd",
+    "plant_name": "GIDC Estate, Vapi",
+    "location": "Plot No: 808/C, Phase - III, GIDC Estate, Vapi - 396195, Tal: Pardi & Dist: Valsad",
+    "registration_number": "ID: 23761",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "GPCB/CCA-VSD-314(3)/ID: 23761",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Coal + Lignite",
+        "quantity": {
+          "value": 42,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "item_description": "Diesel",
+        "quantity": {
+          "value": 56,
+          "unit": "Lit/Hr"
+        }
+      },
+      {
+        "item_description": "Boiler (8 TPH)",
+        "capacity": {
+          "value": 8,
+          "unit": "TPH"
+        },
+        "remarks": "Height: 36m, APCM: ESP + Wet Scrubber, PM: 150 mg/Nm3, SO2: 100 ppm, NOx: 50 ppm"
+      },
+      {
+        "item_description": "D. G. Set (380 KVA)",
+        "capacity": {
+          "value": 380,
+          "unit": "KVA"
+        },
+        "remarks": "Height: 11m, APCM: Acoustic Enclosure"
+      },
+      {
+        "item_description": "Used Oil (5.1)",
+        "quantity": {
+          "value": 0.012,
+          "unit": "MT/Year"
+        },
+        "remarks": "Collection, Storage, Transportation & disposal by selling to registered recyclers."
+      },
+      {
+        "item_description": "Discarded containers (33.1)",
+        "quantity": {
+          "value": 2.0,
+          "unit": "MT/Year"
+        },
+        "remarks": "Collection, Storage, Transportation & disposal by selling to registered recyclers."
+      },
+      {
+        "item_description": "ETP Waste (35.3)",
+        "quantity": {
+          "value": 28.0,
+          "unit": "MT/Year"
+        },
+        "remarks": "Collection, Storage, Transportation, disposal by sending to adjoining sister concern unit M/s. Gaytrishakti Tissue Paper Pvt. Ltd. for WTE Boiler"
+      },
+      {
+        "item_description": "Non recyclable Plastic Waste (21.1)",
+        "quantity": {
+          "value": 3600,
+          "unit": "MT/Year"
+        },
+        "remarks": "Collection, Storage, Transportation and shall be sent to sister concern unit M/s. Gayatri Shakti Tissue Paper Pvt. Ltd. (GSTPL) (PCB ID: 87952)"
+      }
+    ],
+    "additional_fields": {
+      "industrial_water_limit": "1001 KLD",
+      "domestic_water_limit": "13 KLD",
+      "gardening_water_limit": "02 KLD",
+      "total_water_limit": "1016 KLD"
+    }
+  }
+}

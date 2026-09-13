@@ -1,0 +1,23 @@
+[project]
+name = "finetuning-ocr"
+version = "0.1.0"
+description = "Fine-tuning Qwen2.5-VL-7B-Instruct with Unsloth for Industrial Document OCR"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "unsloth[cu124-ampere-torch250]",
+    "qwen-vl-utils",
+    "pdf2image",
+    "pillow",
+    "datasets",
+    "trl",
+    "transformers>=4.48.0,<5.0",
+    "torchao>=0.12.0,<0.13.0",
+    "peft>=0.18.0,<0.19.0",
+    "setuptools",
+    "accelerate",
+    "bitsandbytes",
+    "decord",
+    "plotly",
+    "gdown>=6.1.0",
+]

@@ -1,0 +1,91 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "93",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "22/11/2024 - 1/4/2025"
+        },
+        "entries": [
+          {
+            "date_period": "22/11/2024",
+            "timestamp": "9:00",
+            "pressure": {
+              "value": "24.9",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "50",
+              "unit": "C"
+            },
+            "flow_rate": {
+              "value": "171",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "1/3/2025",
+            "timestamp": "9:00",
+            "pressure": {
+              "value": "24.7",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "54",
+              "unit": "C"
+            },
+            "flow_rate": {
+              "value": "236",
+              "unit": "TPH"
+            }
+          },
+          {
+            "date_period": "1/4/2025",
+            "timestamp": "9:00",
+            "pressure": {
+              "value": "24.7",
+              "unit": "bar"
+            },
+            "temperature": {
+              "value": "55",
+              "unit": "C"
+            },
+            "flow_rate": {
+              "value": "236",
+              "unit": "TPH"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Turbine Capacity Log",
+      "boilerplate_used": "production/turbine_capacity_log.json",
+      "data": {
+        "report_period": {
+          "value": "2024-2025"
+        },
+        "entries": [
+          {
+            "turbine_name": "30 MW CONDENSING",
+            "nominal_capacity": {
+              "value": "30",
+              "unit": "MW"
+            },
+            "generation_capacity": {
+              "value": "20",
+              "unit": "MW"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

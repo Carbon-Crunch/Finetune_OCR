@@ -1,0 +1,57 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "PROCESS FLOW CHART",
+    "document_type": "Process Flow Chart",
+    "company_name": "AGARWAL DUPLEX BOARD MILLS LTD",
+    "location": "4TH Km. Stone, Bhopa Road, Muzaffarnagar",
+    "entries": [
+      {
+        "item_description": "PULPER"
+      },
+      {
+        "item_description": "HD CLEANER"
+      },
+      {
+        "item_description": "FN SCREEN"
+      },
+      {
+        "item_description": "CENTRI CLEANER"
+      },
+      {
+        "item_description": "PRESSURE SCREEN"
+      },
+      {
+        "item_description": "THICKNERS"
+      },
+      {
+        "item_description": "REFINER"
+      },
+      {
+        "item_description": "CHEMICAL TREATMENT"
+      },
+      {
+        "item_description": "MACHINE"
+      },
+      {
+        "item_description": "SHEET FORMING ZONE"
+      },
+      {
+        "item_description": "PRESSING DRYING"
+      },
+      {
+        "item_description": "COATING"
+      },
+      {
+        "item_description": "FINAL PAPER"
+      },
+      {
+        "item_description": "FINISHING HOUSE"
+      }
+    ]
+  }
+}

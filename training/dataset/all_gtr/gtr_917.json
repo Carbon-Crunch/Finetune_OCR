@@ -1,0 +1,105 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report",
+  "boilerplate": "fuel/fuel_lab_test_report.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "FY 2024-25"
+    },
+    "entries": [
+      {
+        "sample_name": "APRIL",
+        "gcv": {
+          "value": 5930,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "MAY",
+        "gcv": {
+          "value": 5895,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "JUNE",
+        "gcv": {
+          "value": 5910,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "JULY",
+        "gcv": {
+          "value": 5890,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "AUGUST",
+        "gcv": {
+          "value": 5960,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "SEPTEMBER",
+        "gcv": {
+          "value": 5905,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "OCTOBER",
+        "gcv": {
+          "value": 5880,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "NOVEMBER",
+        "gcv": {
+          "value": 5920,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "DECEMBER",
+        "gcv": {
+          "value": 5935,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "JANUARY",
+        "gcv": {
+          "value": 5840,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "FEBRUARY",
+        "gcv": {
+          "value": 5875,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "MARCH",
+        "gcv": {
+          "value": 5950,
+          "unit": "kcal/kg"
+        }
+      },
+      {
+        "sample_name": "TOTAL AVERAGE",
+        "gcv": {
+          "value": 5907.5,
+          "unit": "kcal/kg"
+        }
+      }
+    ]
+  }
+}

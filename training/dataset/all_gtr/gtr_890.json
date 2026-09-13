@@ -1,0 +1,596 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "production_log_2024_25",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Production Summary",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": "2024-25"
+        },
+        "entries": [
+          {
+            "product_name": "Finished Good",
+            "date_period": "Apr",
+            "opening_stock": {
+              "value": "2809.510"
+            },
+            "total_production": {
+              "value": "3732.318"
+            },
+            "total_dispatch": {
+              "value": "3881.562"
+            },
+            "closing_stock": {
+              "value": "2660.266"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "May",
+            "opening_stock": {
+              "value": "2660.266"
+            },
+            "total_production": {
+              "value": "3589.038"
+            },
+            "total_dispatch": {
+              "value": "3988.437"
+            },
+            "closing_stock": {
+              "value": "2260.867"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Jun",
+            "opening_stock": {
+              "value": "2260.867"
+            },
+            "total_production": {
+              "value": "2999.875"
+            },
+            "total_dispatch": {
+              "value": "3700.191"
+            },
+            "closing_stock": {
+              "value": "1560.551"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Jul",
+            "opening_stock": {
+              "value": "1560.551"
+            },
+            "total_production": {
+              "value": "4313.794"
+            },
+            "total_dispatch": {
+              "value": "2827.372"
+            },
+            "closing_stock": {
+              "value": "3046.973"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Aug",
+            "opening_stock": {
+              "value": "3046.973"
+            },
+            "total_production": {
+              "value": "3518.647"
+            },
+            "total_dispatch": {
+              "value": "3006.487"
+            },
+            "closing_stock": {
+              "value": "3559.133"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Sep",
+            "opening_stock": {
+              "value": "3559.133"
+            },
+            "total_production": {
+              "value": "1216.216"
+            },
+            "total_dispatch": {
+              "value": "2035.343"
+            },
+            "closing_stock": {
+              "value": "2740.006"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Oct",
+            "opening_stock": {
+              "value": "2740.006"
+            },
+            "total_production": {
+              "value": "3348.618"
+            },
+            "total_dispatch": {
+              "value": "2627.351"
+            },
+            "closing_stock": {
+              "value": "3461.273"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Nov",
+            "opening_stock": {
+              "value": "3461.273"
+            },
+            "total_production": {
+              "value": "2568.229"
+            },
+            "total_dispatch": {
+              "value": "2283.831"
+            },
+            "closing_stock": {
+              "value": "3745.671"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Dec",
+            "opening_stock": {
+              "value": "3745.671"
+            },
+            "total_production": {
+              "value": "4056.462"
+            },
+            "total_dispatch": {
+              "value": "4223.592"
+            },
+            "closing_stock": {
+              "value": "3578.541"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Jan",
+            "opening_stock": {
+              "value": "3578.541"
+            },
+            "total_production": {
+              "value": "4033.285"
+            },
+            "total_dispatch": {
+              "value": "4111.839"
+            },
+            "closing_stock": {
+              "value": "3499.987"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Feb",
+            "opening_stock": {
+              "value": "3499.987"
+            },
+            "total_production": {
+              "value": "4484.507"
+            },
+            "total_dispatch": {
+              "value": "3923.479"
+            },
+            "closing_stock": {
+              "value": "4061.015"
+            }
+          },
+          {
+            "product_name": "Finished Good",
+            "date_period": "Mar",
+            "opening_stock": {
+              "value": "4061.015"
+            },
+            "total_production": {
+              "value": "3093.887"
+            },
+            "total_dispatch": {
+              "value": "3593.497"
+            },
+            "closing_stock": {
+              "value": "3561.405"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Apr",
+            "opening_stock": {
+              "value": "2015.497"
+            },
+            "total_production": {
+              "value": "1468.845"
+            },
+            "total_dispatch": {
+              "value": "1907.952"
+            },
+            "closing_stock": {
+              "value": "1576.390"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "May",
+            "opening_stock": {
+              "value": "1576.390"
+            },
+            "total_production": {
+              "value": "796.103"
+            },
+            "total_dispatch": {
+              "value": "1346.119"
+            },
+            "closing_stock": {
+              "value": "1026.374"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Jun",
+            "opening_stock": {
+              "value": "1026.374"
+            },
+            "total_production": {
+              "value": "1683.395"
+            },
+            "total_dispatch": {
+              "value": "1897.353"
+            },
+            "closing_stock": {
+              "value": "812.416"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Jul",
+            "opening_stock": {
+              "value": "812.416"
+            },
+            "total_production": {
+              "value": "2370.126"
+            },
+            "total_dispatch": {
+              "value": "1546.629"
+            },
+            "closing_stock": {
+              "value": "1635.913"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Aug",
+            "opening_stock": {
+              "value": "1635.913"
+            },
+            "total_production": {
+              "value": "2490.071"
+            },
+            "total_dispatch": {
+              "value": "1756.727"
+            },
+            "closing_stock": {
+              "value": "2369.257"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Sep",
+            "opening_stock": {
+              "value": "2369.257"
+            },
+            "total_production": {
+              "value": "95.872"
+            },
+            "total_dispatch": {
+              "value": "582.874"
+            },
+            "closing_stock": {
+              "value": "1882.255"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Oct",
+            "opening_stock": {
+              "value": "1882.255"
+            },
+            "total_production": {
+              "value": "1442.379"
+            },
+            "total_dispatch": {
+              "value": "841.582"
+            },
+            "closing_stock": {
+              "value": "2483.052"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Nov",
+            "opening_stock": {
+              "value": "2483.052"
+            },
+            "total_production": {
+              "value": "624.595"
+            },
+            "total_dispatch": {
+              "value": "786.163"
+            },
+            "closing_stock": {
+              "value": "2321.484"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Dec",
+            "opening_stock": {
+              "value": "2321.484"
+            },
+            "total_production": {
+              "value": "0"
+            },
+            "total_dispatch": {
+              "value": "367.832"
+            },
+            "closing_stock": {
+              "value": "1953.652"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Jan",
+            "opening_stock": {
+              "value": "1953.652"
+            },
+            "total_production": {
+              "value": "317.949"
+            },
+            "total_dispatch": {
+              "value": "373.212"
+            },
+            "closing_stock": {
+              "value": "1898.389"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Feb",
+            "opening_stock": {
+              "value": "1898.389"
+            },
+            "total_production": {
+              "value": "389.338"
+            },
+            "total_dispatch": {
+              "value": "452.231"
+            },
+            "closing_stock": {
+              "value": "1835.496"
+            }
+          },
+          {
+            "product_name": "Newsprint",
+            "date_period": "Mar",
+            "opening_stock": {
+              "value": "1835.496"
+            },
+            "total_production": {
+              "value": "1079.419"
+            },
+            "total_dispatch": {
+              "value": "1234.925"
+            },
+            "closing_stock": {
+              "value": "1679.990"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Apr",
+            "opening_stock": {
+              "value": "794.013"
+            },
+            "total_production": {
+              "value": "2263.473"
+            },
+            "total_dispatch": {
+              "value": "1973.610"
+            },
+            "closing_stock": {
+              "value": "1083.876"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "May",
+            "opening_stock": {
+              "value": "1083.876"
+            },
+            "total_production": {
+              "value": "2792.935"
+            },
+            "total_dispatch": {
+              "value": "2642.318"
+            },
+            "closing_stock": {
+              "value": "1234.493"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Jun",
+            "opening_stock": {
+              "value": "1234.493"
+            },
+            "total_production": {
+              "value": "1316.480"
+            },
+            "total_dispatch": {
+              "value": "1802.838"
+            },
+            "closing_stock": {
+              "value": "748.135"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Jul",
+            "opening_stock": {
+              "value": "748.135"
+            },
+            "total_production": {
+              "value": "1943.668"
+            },
+            "total_dispatch": {
+              "value": "1280.743"
+            },
+            "closing_stock": {
+              "value": "1411.060"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Aug",
+            "opening_stock": {
+              "value": "1411.060"
+            },
+            "total_production": {
+              "value": "1028.576"
+            },
+            "total_dispatch": {
+              "value": "1249.760"
+            },
+            "closing_stock": {
+              "value": "1189.876"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Sep",
+            "opening_stock": {
+              "value": "1189.876"
+            },
+            "total_production": {
+              "value": "1120.344"
+            },
+            "total_dispatch": {
+              "value": "1452.469"
+            },
+            "closing_stock": {
+              "value": "857.751"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Oct",
+            "opening_stock": {
+              "value": "857.751"
+            },
+            "total_production": {
+              "value": "1906.239"
+            },
+            "total_dispatch": {
+              "value": "1785.769"
+            },
+            "closing_stock": {
+              "value": "978.221"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Nov",
+            "opening_stock": {
+              "value": "978.221"
+            },
+            "total_production": {
+              "value": "1943.634"
+            },
+            "total_dispatch": {
+              "value": "1497.668"
+            },
+            "closing_stock": {
+              "value": "1424.187"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Dec",
+            "opening_stock": {
+              "value": "1424.187"
+            },
+            "total_production": {
+              "value": "4056.462"
+            },
+            "total_dispatch": {
+              "value": "3855.760"
+            },
+            "closing_stock": {
+              "value": "1624.889"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Jan",
+            "opening_stock": {
+              "value": "1624.889"
+            },
+            "total_production": {
+              "value": "3715.336"
+            },
+            "total_dispatch": {
+              "value": "3738.627"
+            },
+            "closing_stock": {
+              "value": "1601.598"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Feb",
+            "opening_stock": {
+              "value": "1601.598"
+            },
+            "total_production": {
+              "value": "4095.169"
+            },
+            "total_dispatch": {
+              "value": "3471.248"
+            },
+            "closing_stock": {
+              "value": "2225.519"
+            }
+          },
+          {
+            "product_name": "Writing Printing",
+            "date_period": "Mar",
+            "opening_stock": {
+              "value": "2225.519"
+            },
+            "total_production": {
+              "value": "2014.468"
+            },
+            "total_dispatch": {
+              "value": "2358.572"
+            },
+            "closing_stock": {
+              "value": "1881.415"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

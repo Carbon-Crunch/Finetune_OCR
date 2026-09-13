@@ -1,0 +1,247 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "APR.24 TO MARCH 25",
+  "entries": [
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "APR.24",
+      "opening_balance": 0.0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "MAY 24",
+      "opening_balance": 0.0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "JUN.24",
+      "opening_balance": 0.0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "JUL.24",
+      "opening_balance": 0.0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "AUG.24",
+      "opening_balance": 0.0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "SEP.24",
+      "opening_balance": 0.0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "OCT. 24",
+      "opening_balance": 0.0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "NOV.24",
+      "opening_balance": 0.0,
+      "received_quantity": 81.725,
+      "inwards": 81.725,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 81.725
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "DEC.24",
+      "opening_balance": 81.725,
+      "received_quantity": 601.49,
+      "inwards": 601.49,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 683.215
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "JAN.25",
+      "opening_balance": 683.215,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 683.215
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "FEB.25",
+      "opening_balance": 683.215,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": 659.04,
+      "consumption": 659.04,
+      "closing_balance": 18.585
+    },
+    {
+      "fuel_name": "REFUSED DERIVED FUEL",
+      "date_period": "MAR.25",
+      "opening_balance": 18.585,
+      "received_quantity": 0.0,
+      "inwards": 0.0,
+      "outwards": 0.0,
+      "consumption": 0.0,
+      "closing_balance": 18.585
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "APR.24",
+      "opening_balance": 0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "MAY 24",
+      "opening_balance": 0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "JUN.24",
+      "opening_balance": 0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "JUL.24",
+      "opening_balance": 0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "AUG.24",
+      "opening_balance": 0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "SEP.24",
+      "opening_balance": 0,
+      "received_quantity": 14000,
+      "inwards": 14000,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 14000
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "OCT. 24",
+      "opening_balance": 14000,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 14000
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "NOV.24",
+      "opening_balance": 14000,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": 14000,
+      "consumption": 14000,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "DEC.24",
+      "opening_balance": 0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "JAN.25",
+      "opening_balance": 0,
+      "received_quantity": 12000,
+      "inwards": 12000,
+      "outwards": 12000,
+      "consumption": 12000,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "FEB.25",
+      "opening_balance": 0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0
+    },
+    {
+      "fuel_name": "DIESEL",
+      "date_period": "MAR.25",
+      "opening_balance": 0,
+      "received_quantity": null,
+      "inwards": null,
+      "outwards": null,
+      "consumption": null,
+      "closing_balance": 0
+    }
+  ]
+}

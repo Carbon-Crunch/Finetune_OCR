@@ -1,0 +1,171 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "951",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Generation Report",
+      "boilerplate_used": "energy/generation_report.json",
+      "data": {
+        "report_period": {
+          "value": null
+        },
+        "entries": [
+          {
+            "date_period": "April",
+            "consumption": {
+              "value": "1549925",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "1649735",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "May",
+            "consumption": {
+              "value": "325646",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "325646",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "June",
+            "consumption": {
+              "value": "90603",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "90603",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "July",
+            "consumption": {
+              "value": "105450",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "105450",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "August",
+            "consumption": {
+              "value": "103214",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "103214",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "September",
+            "consumption": {
+              "value": "103316",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "103316",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "October",
+            "consumption": {
+              "value": "108220",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "108220",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "November",
+            "consumption": {
+              "value": "1402835",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "1402835",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "December",
+            "consumption": {
+              "value": "1759235",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "1759235",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "January",
+            "consumption": {
+              "value": "1780680",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "1780680",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "February",
+            "consumption": {
+              "value": "1567550",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "1567550",
+              "unit": null
+            }
+          },
+          {
+            "date_period": "March",
+            "consumption": {
+              "value": "1792525",
+              "unit": null
+            },
+            "net_generation": {
+              "value": "1792525",
+              "unit": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Machine Consumption Summary",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": null
+        },
+        "entries": [
+          {
+            "machine_name": "Machine 1",
+            "machine_consumption": {
+              "value": "9650",
+              "unit": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

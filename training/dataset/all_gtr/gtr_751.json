@@ -1,0 +1,78 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Mehali Papers",
+    "document_type": "Operational Flow Diagram",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": null,
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Mehali Papers",
+    "plant_name": null,
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [
+      {
+        "equipment_name": "Boiler #1",
+        "capacity": "60 TPH"
+      },
+      {
+        "equipment_name": "Boiler #2",
+        "capacity": "14 TPH"
+      },
+      {
+        "equipment_name": "TG",
+        "capacity": "10 MW"
+      },
+      {
+        "equipment_name": "TG",
+        "capacity": "3.2 MW"
+      },
+      {
+        "item_description": "Coal 1",
+        "remarks": "Xkg , X %"
+      },
+      {
+        "item_description": "Coal 2",
+        "remarks": "Xkg , X %"
+      },
+      {
+        "item_description": "Deinking sludge",
+        "remarks": "Xkg , X %"
+      },
+      {
+        "item_description": "biological etp sludge",
+        "remarks": "Xkg , X %"
+      },
+      {
+        "item_description": "nrsw plastic waste",
+        "remarks": "Xkg , X %"
+      },
+      {
+        "item_description": "etp primary sludge",
+        "remarks": "Xkg , X %"
+      },
+      {
+        "item_description": "natural gas",
+        "remarks": "Xkg , X %"
+      }
+    ],
+    "additional_fields": {
+      "dg_sets": [
+        "DG Set X KVA",
+        "DG Set X KVA"
+      ],
+      "grid": "GRID X KVA"
+    }
+  }
+}

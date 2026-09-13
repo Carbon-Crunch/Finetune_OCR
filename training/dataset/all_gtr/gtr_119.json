@@ -1,0 +1,143 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "report_period": {
+    "value": "01-04-2024 to 31-03-2025"
+  },
+  "entries": [
+    {
+      "date_period": "APRIL 2024",
+      "received_quantity": {
+        "value": "3527.43",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "4367.000",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "MAY",
+      "received_quantity": {
+        "value": "5138.98",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "3852.000",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "JUNE",
+      "received_quantity": {
+        "value": "5588.96",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "3181.000",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "JULY",
+      "received_quantity": {
+        "value": "2084.820",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "4040.000",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "AUGUST",
+      "received_quantity": {
+        "value": "4247.060",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "4876.930",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "SEPTEMBER",
+      "received_quantity": {
+        "value": "2138.130",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "3197.000",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "OCTOBER",
+      "received_quantity": {
+        "value": "6346.460",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "5818.010",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "NOVEMBER",
+      "received_quantity": {
+        "value": "4805.780",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "5015.595",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "DECEMBER",
+      "received_quantity": {
+        "value": "6607.900",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "5634.000",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "JANUARY",
+      "received_quantity": {
+        "value": "4864.750",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "5675.030",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "FEBRUARY",
+      "received_quantity": {
+        "value": "4264.91",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "5006.000",
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "MARCH 2025",
+      "received_quantity": {
+        "value": "5472.35",
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": "5248.510",
+        "unit": "MT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "April 2024 - March 2025",
+  "entries": [
+    {
+      "date_period": "Apr-24",
+      "total_power_generation": {
+        "value": 4461249,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "May-24",
+      "total_power_generation": {
+        "value": 4795014,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Jun-24",
+      "total_power_generation": {
+        "value": 4194774,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Jul-24",
+      "total_power_generation": {
+        "value": 3560797,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Aug-24",
+      "total_power_generation": {
+        "value": 4067038,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Sep-24",
+      "total_power_generation": {
+        "value": 4042353,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Oct-24",
+      "total_power_generation": {
+        "value": 4650134,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Nov-24",
+      "total_power_generation": {
+        "value": 3461194,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Dec-24",
+      "total_power_generation": {
+        "value": 4429932,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Jan-25",
+      "total_power_generation": {
+        "value": 4468608,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Feb-25",
+      "total_power_generation": {
+        "value": 4751493,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    },
+    {
+      "date_period": "Mar-25",
+      "total_power_generation": {
+        "value": 4586953,
+        "unit": "kWh"
+      },
+      "internal_dg_generation": null,
+      "steam_generation": null,
+      "turbine_input": null,
+      "condensate": null,
+      "bleed_steam": null,
+      "boiler_fuel_use": null
+    }
+  ]
+}

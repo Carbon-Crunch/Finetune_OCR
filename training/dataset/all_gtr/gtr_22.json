@@ -1,0 +1,150 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Grant of consent to operate",
+    "document_type": "Consent Order",
+    "report_period": {
+      "value": "01/10/2023 - 30/09/2028"
+    },
+    "invoice_date": null,
+    "document_date": {
+      "value": "28/06/2023"
+    },
+    "supplier_name": null,
+    "customer_name": "M/s SAINSONS PAPER INDUSTRIES PVT LTD",
+    "company_name": "Haryana State Pollution Control Board",
+    "plant_name": "SAINSONS PAPER INDUSTRIES PVT LTD",
+    "location": "PLOT NO. 05 VILLAGE BAKHLI, TEHSIL PEHOWA, DISTT KURUKSHETRA",
+    "registration_number": "313095823KURCTO37845400",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "37845400",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "material_description": "WASTE PAPER",
+        "production": {
+          "value": 300,
+          "unit": "Metric Tonnes/day"
+        }
+      },
+      {
+        "material_description": "AGRO PULP",
+        "production": {
+          "value": 150,
+          "unit": "Metric Tonnes/day"
+        }
+      },
+      {
+        "material_description": "COMPRESSED BIO GAS (CBG)",
+        "production": {
+          "value": 3,
+          "unit": "Metric Tonnes/day"
+        }
+      },
+      {
+        "material_description": "CO GENERATION POWER",
+        "production": {
+          "value": 9,
+          "unit": "Megawatt"
+        }
+      },
+      {
+        "material_description": "WHEAT STRAW",
+        "quantity": {
+          "value": 224,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "material_description": "PADDY STRAW",
+        "quantity": {
+          "value": 102,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "material_description": "WASTE PAPER",
+        "quantity": {
+          "value": 326,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "material_description": "CAUSTIC SODA",
+        "quantity": {
+          "value": 29,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "material_description": "ALUM",
+        "quantity": {
+          "value": 34,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "material_description": "EXHAUST GAS OF BIOMETHANATION PLANT",
+        "quantity": {
+          "value": 6200,
+          "unit": "Kilo Liters/Day"
+        }
+      },
+      {
+        "material_description": "ROSIN",
+        "quantity": {
+          "value": 1.3,
+          "unit": "Metric Tonnes/Day"
+        }
+      }
+    ],
+    "additional_fields": {
+      "industry_type": "Pulp & Paper ( waste paper based without bleaching process to manufacture Kraft paper)",
+      "investment_lakh": 28500.4,
+      "total_land_area_sqm": 162000.0,
+      "total_builtup_area_sqm": 19788.0,
+      "trade_effluent_quantity": "1350.0 KL/Day",
+      "domestic_effluent_quantity": "45.0 KL/Day",
+      "number_of_stacks": 2,
+      "boiler_capacity": "35 Ton/hr, 15 Ton/hr (Stand By), 50 Ton/hr"
+    }
+  }
+}

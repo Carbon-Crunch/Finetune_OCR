@@ -1,0 +1,32 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "General Terms & Conditions",
+    "document_type": "Legal / Terms and Conditions",
+    "report_period": null,
+    "invoice_date": null,
+    "document_date": "01-11-2022",
+    "supplier_name": "Spectro Analytical Labs Private Limited",
+    "customer_name": null,
+    "company_name": "Eurofins",
+    "plant_name": null,
+    "location": "S-1, GNEPIP, Surajpur Industrial Area, Phase-V, Kasna, Greater Noida-201308 (India)",
+    "registration_number": "U74220DL1998PTC092698",
+    "invoice_number": "D240124013/D240124013-11",
+    "bill_number": null,
+    "reference_number": "ES/F/02",
+    "total_amount": null,
+    "total_quantity": null,
+    "entries": [],
+    "additional_fields": {
+      "format_no": "ES/F/02",
+      "issue_no": "03",
+      "issue_date": "01-11-2022",
+      "customer_address_on_stamp": "Genus Paper And Boards Ltd., Distt. Moradabad (U.P.), Vill. Aghwanpur"
+    }
+  }
+}

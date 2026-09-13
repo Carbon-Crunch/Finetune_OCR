@@ -1,0 +1,102 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "report_period": {
+    "value": "31/8/21"
+  },
+  "entries": [
+    {
+      "date_period": "31/8/21",
+      "shift": "11:00",
+      "meter_reading_left": {
+        "value": "84",
+        "unit": "D.C.V"
+      },
+      "meter_reading_right": {
+        "value": "150",
+        "unit": "RPM"
+      },
+      "consumption_difference": null
+    },
+    {
+      "date_period": "31/8/21",
+      "shift": "12:00",
+      "meter_reading_left": {
+        "value": "24",
+        "unit": "D.C.V"
+      },
+      "meter_reading_right": {
+        "value": "150",
+        "unit": "RPM"
+      },
+      "consumption_difference": null
+    },
+    {
+      "date_period": "31/8/21",
+      "shift": "13:00",
+      "meter_reading_left": {
+        "value": "24",
+        "unit": "D.C.V"
+      },
+      "meter_reading_right": {
+        "value": "150",
+        "unit": "RPM"
+      },
+      "consumption_difference": null
+    },
+    {
+      "date_period": "31/8/21",
+      "shift": "14:00",
+      "meter_reading_left": {
+        "value": "24",
+        "unit": "D.C.V"
+      },
+      "meter_reading_right": {
+        "value": "150",
+        "unit": "RPM"
+      },
+      "consumption_difference": null
+    },
+    {
+      "date_period": "31/8/21",
+      "shift": "15:00",
+      "meter_reading_left": {
+        "value": "24",
+        "unit": "D.C.V"
+      },
+      "meter_reading_right": {
+        "value": "150",
+        "unit": "RPM"
+      },
+      "consumption_difference": null
+    },
+    {
+      "date_period": "31/8/21",
+      "shift": "16:00",
+      "meter_reading_left": {
+        "value": "24",
+        "unit": "D.C.V"
+      },
+      "meter_reading_right": {
+        "value": "150",
+        "unit": "RPM"
+      },
+      "consumption_difference": null
+    },
+    {
+      "date_period": "31/8/21",
+      "shift": "17:00",
+      "meter_reading_left": {
+        "value": "24",
+        "unit": "D.C.V"
+      },
+      "meter_reading_right": {
+        "value": "150",
+        "unit": "RPM"
+      },
+      "consumption_difference": null
+    }
+  ]
+}

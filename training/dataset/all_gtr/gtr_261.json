@@ -1,0 +1,132 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "POWER PRODUCTION – ( COGENERATION PLANT) ( FY 24-25)",
+    "document_type": "Generation and Consumption Report",
+    "report_period": {
+      "value": "FY 24-25"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "generation": "26928044"
+      },
+      {
+        "date_period": "May-24",
+        "generation": "30722644"
+      },
+      {
+        "date_period": "Jun-24",
+        "generation": "29368952"
+      },
+      {
+        "date_period": "Jul-24",
+        "generation": "30376376"
+      },
+      {
+        "date_period": "Aug-24",
+        "generation": "30864208"
+      },
+      {
+        "date_period": "Sep-24",
+        "generation": "29500280"
+      },
+      {
+        "date_period": "Oct-24",
+        "generation": "30296988"
+      },
+      {
+        "date_period": "Nov-24",
+        "generation": "27999944"
+      },
+      {
+        "date_period": "Dec-24",
+        "generation": "30442216"
+      },
+      {
+        "date_period": "Jan-25",
+        "generation": "30488296"
+      },
+      {
+        "date_period": "Feb-25",
+        "generation": "27557392"
+      },
+      {
+        "date_period": "Mar-25",
+        "generation": "29970120"
+      },
+      {
+        "date_period": "Apr-24",
+        "consumption": "26928053.99"
+      },
+      {
+        "date_period": "May-24",
+        "consumption": "30722666.01"
+      },
+      {
+        "date_period": "Jun-24",
+        "consumption": "29368975.01"
+      },
+      {
+        "date_period": "Jul-24",
+        "consumption": "30368354.01"
+      },
+      {
+        "date_period": "Aug-24",
+        "consumption": "30863685"
+      },
+      {
+        "date_period": "Sep-24",
+        "consumption": "29500301"
+      },
+      {
+        "date_period": "Oct-24",
+        "consumption": "30296996"
+      },
+      {
+        "date_period": "Nov-24",
+        "consumption": "27993239.99"
+      },
+      {
+        "date_period": "Dec-24",
+        "consumption": "30431796"
+      },
+      {
+        "date_period": "Jan-25",
+        "consumption": "30484574.01"
+      },
+      {
+        "date_period": "Feb-25",
+        "consumption": "27554070"
+      },
+      {
+        "date_period": "Mar-25",
+        "consumption": "29969716.01"
+      }
+    ]
+  }
+}

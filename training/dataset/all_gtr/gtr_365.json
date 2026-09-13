@@ -1,0 +1,59 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": true,
+      "degree": 270
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": true,
+      "degree": 270
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "2025-01-18"
+    },
+    "supplier_name": "Krishna Kumar",
+    "entries": [
+      {
+        "item_description": "Fire wood U.K. Liptis",
+        "material_description": "Patta Kutti",
+        "item_code": null,
+        "hsn_sac": "4401",
+        "quantity": {
+          "value": 384.4,
+          "unit": "Qtl"
+        },
+        "units": {
+          "value": "Qtl",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": 115320.0,
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

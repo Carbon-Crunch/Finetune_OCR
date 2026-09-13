@@ -1,0 +1,129 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 7,
+      "image_index": 7,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 8,
+      "image_index": 8,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 9,
+      "image_index": 9,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 10,
+      "image_index": 10,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 11,
+      "image_index": 11,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation",
+    "document_type": "Legal/Regulatory Permit",
+    "report_period": {
+      "value": "2024-08-08 to 2026-12-31"
+    },
+    "document_date": {
+      "value": "27/08/2024"
+    },
+    "company_name": "M/s DEV PRIYA PRODUCTS PVT LTD",
+    "location": "Village - Saini, 8th Km, Mawana Road, Meerut, 250002",
+    "reference_number": "27534370",
+    "entries": [
+      {
+        "material_description": "Waste paper & imported waste paper",
+        "quantity": {
+          "value": 550,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "material_description": "Alum",
+        "quantity": {
+          "value": 55,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "material_description": "Rosin",
+        "quantity": {
+          "value": 2.5,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "product_name": "Craft Paper/Duplex Board",
+        "quantity": {
+          "value": 500,
+          "unit": "MT/Day"
+        }
+      },
+      {
+        "equipment_name": "Captive Power Plant",
+        "capacity": {
+          "value": 8,
+          "unit": "MW"
+        }
+      },
+      {
+        "equipment_name": "70 TPH Multifuel boiler",
+        "fuel_use": "RDF 250 MT/Day, Biomass - 250 MT/Day and Low Sulphur Coal 350 MT/Day"
+      }
+    ]
+  }
+}

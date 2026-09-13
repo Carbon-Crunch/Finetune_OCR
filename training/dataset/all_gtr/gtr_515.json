@@ -1,0 +1,375 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "28/Mar/25"
+    },
+    "supplier_name": "SHREE GANESH COAL ENTERPRISES",
+    "entries": [
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "29.90",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "167740.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "24.82",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "138992.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "34.93",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "195608.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "29.68",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "166208.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "29.11",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "163016.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "29.62",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "165872.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "29.97",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "167832.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "30.35",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "169960.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "30.14",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "168784.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "42.16",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "236096.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "17.45",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "97720.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "18.51",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "103656.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "38.44",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "215264.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "34.95",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "195720.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "41.80",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "234080.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "42.99",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "240744.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "30.22",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "169232.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "24.41",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "136696.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "23.33",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "130648.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "STEAM COAL",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "270119",
+        "quantity": {
+          "value": "29.74",
+          "unit": "MT"
+        },
+        "units": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "166544.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

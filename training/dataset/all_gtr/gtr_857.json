@@ -1,0 +1,98 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "857",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": "10/08/2018",
+        "entries": [
+          {
+            "sample_name": "Unit # 5 Sarigam",
+            "date_period": "10/08/2018",
+            "sample_quantity": {
+              "value": "01",
+              "unit": "Kg"
+            },
+            "moisture_content": {
+              "value": "3.19",
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": "51.87",
+              "unit": "%"
+            },
+            "fixed_carbon": null,
+            "gcv": {
+              "value": "1326",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "44.94",
+              "unit": "%"
+            },
+            "supplier_name": "N R AGARWAL INDUSTRIES LIMITED",
+            "operator_name": "Dr. Arun Bajpai",
+            "remarks": "Test Report No. PLPL/180730004"
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": "10/08/2018",
+        "entries": [
+          {
+            "sample_name": "Unit # 2 Vapi",
+            "date_period": "10/08/2018",
+            "sample_quantity": {
+              "value": "01",
+              "unit": "Kg"
+            },
+            "moisture_content": {
+              "value": "13.95",
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": "46.64",
+              "unit": "%"
+            },
+            "fixed_carbon": null,
+            "gcv": {
+              "value": "1282",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "39.41",
+              "unit": "%"
+            },
+            "supplier_name": "N R AGARWAL INDUSTRIES LIMITED",
+            "operator_name": "Dr. Arun Bajpai",
+            "remarks": "Test Report No. PLPL/180730005"
+          }
+        ]
+      }
+    }
+  ]
+}

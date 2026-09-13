@@ -1,0 +1,221 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "RDF / Waste Fuel Sampling",
+  "report_period": {
+    "value": "28/08/2025"
+  },
+  "entries": [
+    {
+      "waste_type": "Dry Leaves/Vegetable Matter",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Wooden Pieces",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Paper/Cardboard",
+      "weight": {
+        "value": "0.02",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0.11",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Textile/Cotton/Jute",
+      "weight": {
+        "value": "0.03",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0.1",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Rubber/Leather/Type",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "PVC Plastic Waste (Category-1)",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "PVC Plastic Waste (Category-2)",
+      "weight": {
+        "value": "11.87",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "79.13",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "PVC Plastic Waste (Category-3)",
+      "weight": {
+        "value": "2.85",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "19.03",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "PVC Plastic Waste (Category-4)",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Metals",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Glass/Ceramic",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Solied Material/Inert",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Stones/Brick/Concrete",
+      "weight": {
+        "value": "0",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Dust",
+      "weight": {
+        "value": "0.08",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "0.63",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    },
+    {
+      "waste_type": "Moisture",
+      "weight": {
+        "value": "0.15",
+        "unit": "KG"
+      },
+      "composition_percent": {
+        "value": "1",
+        "unit": "%"
+      },
+      "gcv": null,
+      "ash_content": null,
+      "moisture_content": null
+    }
+  ]
+}

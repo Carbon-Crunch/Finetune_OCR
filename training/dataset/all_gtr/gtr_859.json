@@ -1,0 +1,139 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "859",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Energy Purchase Invoice",
+      "boilerplate_used": "energy/energy_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "ER4/E/001/25-26"
+        },
+        "invoice_date": {
+          "value": "5-Apr-25"
+        },
+        "supplier_name": "Evincea Renewables (Four) Private Limited",
+        "supplier_gstin": "AAICE0288M",
+        "buyer_name": "NIKITA PAPERS LIMITED",
+        "buyer_gstin": "AAACN0473F",
+        "total_amount": {
+          "value": "5,06,979.20",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Power Supplied",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": null,
+            "quantity": {
+              "value": "1,44,851.20",
+              "unit": "Kwh"
+            },
+            "gross_amount": {
+              "value": "5,06,979.20",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Energy Purchase Invoice",
+      "boilerplate_used": "energy/energy_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "ER4/E/001/24-25"
+        },
+        "invoice_date": {
+          "value": "6-Mar-25"
+        },
+        "supplier_name": "Evincea Renewables (Four) Private Limited",
+        "supplier_gstin": "AAICE0288M",
+        "buyer_name": "NIKITA PAPERS LIMITED",
+        "buyer_gstin": "AAACN0473F",
+        "total_amount": {
+          "value": "2,00,504.50",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Power Supplied",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": null,
+            "quantity": {
+              "value": "57,287.00",
+              "unit": "Kwh"
+            },
+            "gross_amount": {
+              "value": "2,00,504.50",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Energy Purchase Invoice",
+      "boilerplate_used": "energy/energy_purchase_invoice.json",
+      "data": {
+        "invoice_no": {
+          "value": "ER4/E/003/25-26"
+        },
+        "invoice_date": {
+          "value": "1-May-25"
+        },
+        "supplier_name": "Evincea Renewables (Four) Private Limited",
+        "supplier_gstin": "AAICE0288M",
+        "buyer_name": "NIKITA PAPERS LIMITED",
+        "buyer_gstin": "AAACN0473F",
+        "total_amount": {
+          "value": "41,297.80",
+          "unit": "Rs."
+        },
+        "entries": [
+          {
+            "item_description": "Deemed Generation for March-25",
+            "material_description": null,
+            "item_code": null,
+            "hsn_sac": null,
+            "quantity": {
+              "value": "11,799.37",
+              "unit": "Kwh"
+            },
+            "gross_amount": {
+              "value": "41,297.80",
+              "unit": "Rs."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

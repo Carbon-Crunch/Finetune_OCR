@@ -1,0 +1,465 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "953",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Stock Register",
+      "boilerplate_used": "fuel/fuel_stock_register.json",
+      "data": {
+        "report_period": {
+          "value": "2024-2025"
+        },
+        "entries": [
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "April, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "May, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "June, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "July, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "August, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "September, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "October, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "November, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "December, 2024",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "2391.3"
+            },
+            "consumption": {
+              "value": "2391.3"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "January, 2025",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "4702.35"
+            },
+            "consumption": {
+              "value": "4702.35"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "February, 2025",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "BAGASSE",
+            "date_period": "March, 2025",
+            "opening_balance": {
+              "value": "NIL"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "NIL"
+            },
+            "closing_balance": {
+              "value": "NIL"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "April, 2024",
+            "opening_balance": {
+              "value": "3020"
+            },
+            "received_quantity": {
+              "value": "12000"
+            },
+            "consumption": {
+              "value": "1865"
+            },
+            "closing_balance": {
+              "value": "13155"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "May, 2024",
+            "opening_balance": {
+              "value": "13155"
+            },
+            "received_quantity": {
+              "value": "12000"
+            },
+            "consumption": {
+              "value": "16605"
+            },
+            "closing_balance": {
+              "value": "8550"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "June, 2024",
+            "opening_balance": {
+              "value": "8550"
+            },
+            "received_quantity": {
+              "value": "12000"
+            },
+            "consumption": {
+              "value": "14405"
+            },
+            "closing_balance": {
+              "value": "6145"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "July, 2024",
+            "opening_balance": {
+              "value": "6145"
+            },
+            "received_quantity": {
+              "value": "12000"
+            },
+            "consumption": {
+              "value": "16825"
+            },
+            "closing_balance": {
+              "value": "1320"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "August, 2024",
+            "opening_balance": {
+              "value": "1320"
+            },
+            "received_quantity": {
+              "value": "24000"
+            },
+            "consumption": {
+              "value": "16005"
+            },
+            "closing_balance": {
+              "value": "9315"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "September, 2024",
+            "opening_balance": {
+              "value": "9315"
+            },
+            "received_quantity": {
+              "value": "12000"
+            },
+            "consumption": {
+              "value": "16250"
+            },
+            "closing_balance": {
+              "value": "5065"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "October, 2024",
+            "opening_balance": {
+              "value": "5065"
+            },
+            "received_quantity": {
+              "value": "24000"
+            },
+            "consumption": {
+              "value": "18630"
+            },
+            "closing_balance": {
+              "value": "104435"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "November, 2024",
+            "opening_balance": {
+              "value": "10435"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "3610"
+            },
+            "closing_balance": {
+              "value": "6825"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "December, 2024",
+            "opening_balance": {
+              "value": "6825"
+            },
+            "received_quantity": {
+              "value": "12000"
+            },
+            "consumption": {
+              "value": "6005"
+            },
+            "closing_balance": {
+              "value": "12820"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "January, 2025",
+            "opening_balance": {
+              "value": "12820"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "2925"
+            },
+            "closing_balance": {
+              "value": "9895"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "February, 2025",
+            "opening_balance": {
+              "value": "9895"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "3415"
+            },
+            "closing_balance": {
+              "value": "6480"
+            }
+          },
+          {
+            "fuel_name": "FUEL",
+            "date_period": "March, 2025",
+            "opening_balance": {
+              "value": "6480"
+            },
+            "received_quantity": {
+              "value": "NIL"
+            },
+            "consumption": {
+              "value": "1605"
+            },
+            "closing_balance": {
+              "value": "4875"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Production Summary / Machine Consumption Summary",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": "2024-2025"
+        },
+        "entries": [
+          {
+            "product_name": "CANE",
+            "date_period": "April, 2024",
+            "machine_consumption": {
+              "value": "741300"
+            }
+          },
+          {
+            "product_name": "CANE",
+            "date_period": "May, 2024",
+            "machine_consumption": {
+              "value": "121880.63"
+            }
+          },
+          {
+            "product_name": "CANE",
+            "date_period": "November, 2024",
+            "machine_consumption": {
+              "value": "660000"
+            }
+          },
+          {
+            "product_name": "CANE",
+            "date_period": "December, 2024",
+            "machine_consumption": {
+              "value": "713500"
+            }
+          },
+          {
+            "product_name": "CANE",
+            "date_period": "January, 2025",
+            "machine_consumption": {
+              "value": "779800"
+            }
+          },
+          {
+            "product_name": "CANE",
+            "date_period": "February, 2025",
+            "machine_consumption": {
+              "value": "696200"
+            }
+          },
+          {
+            "product_name": "CANE",
+            "date_period": "March, 2025",
+            "machine_consumption": {
+              "value": "776500"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

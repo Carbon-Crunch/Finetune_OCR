@@ -1,0 +1,26 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "11-Aug-2024"
+  },
+  "supplier_name": "SHIV SHAKTI ENTERPRISES",
+  "entries": [
+    {
+      "item_description": "Paddy Husk",
+      "hsn_sac": "121300",
+      "quantity": {
+        "value": "9740",
+        "unit": null
+      },
+      "units": {
+        "value": null,
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "60388",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

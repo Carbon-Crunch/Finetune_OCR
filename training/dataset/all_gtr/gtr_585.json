@@ -1,0 +1,301 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice",
+  "boilerplate": "fuel/fuel_purchase_invoice.json",
+  "invoice_date": {
+    "value": "24/Jul/2025"
+  },
+  "supplier_name": "Genus Paper & Boards Ltd.",
+  "entries": [
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "9.65",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "49230.30",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "10.43",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "53177.70",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "9.65",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "49230.30",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "9.42",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "48026.70",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "8.11",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "42972.40",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "13.40",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "68319.60",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "11.46",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "58425.60",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "7.90",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "40305.30",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "9.66",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "49276.20",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "8.64",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "44053.80",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "9.99",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "50928.60",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "8.68",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "44278.20",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "9.39",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "47878.80",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "9.82",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "50076.90",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "8.78",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "44778.00",
+        "unit": "Rs."
+      }
+    },
+    {
+      "item_description": "DEOILED PADDY HUSK",
+      "material_description": "DEOILED PADDY HUSK",
+      "item_code": null,
+      "hsn_sac": "1213",
+      "quantity": {
+        "value": "8.88",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "45277.80",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

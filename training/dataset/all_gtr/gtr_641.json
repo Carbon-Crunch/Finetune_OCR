@@ -1,0 +1,25 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy, Production & Operational",
+  "data_category": "Log book, Electricity Generation/Consumption",
+  "boilerplate": "energy/generation_report.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "06.DEC.2024"
+    },
+    "entries": [
+      {
+        "date_period": "06.DEC.2024",
+        "consumption": {
+          "value": 765438,
+          "unit": "kWh"
+        },
+        "net_generation": {
+          "value": 652898,
+          "unit": "kWh"
+        }
+      }
+    ]
+  }
+}

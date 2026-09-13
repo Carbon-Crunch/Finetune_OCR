@@ -1,0 +1,103 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "2024-25",
+  "entries": [
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "APRIL-2024",
+      "opening_balance": 0.0,
+      "received_quantity": 66.675,
+      "consumption": 66.675,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "MAY-2024",
+      "opening_balance": 0.0,
+      "received_quantity": 0.0,
+      "consumption": 0.0,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "JUNE-2024",
+      "opening_balance": 0.0,
+      "received_quantity": 0.0,
+      "consumption": 0.0,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "JULY-2024",
+      "opening_balance": 0.0,
+      "received_quantity": 0.0,
+      "consumption": 0.0,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "AUG-2024",
+      "opening_balance": 0.0,
+      "received_quantity": 0.0,
+      "consumption": 0.0,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "SEP-2024",
+      "opening_balance": 0.0,
+      "received_quantity": 0.0,
+      "consumption": 0.0,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "OCT-2024",
+      "opening_balance": 0.0,
+      "received_quantity": 0.0,
+      "consumption": 0.0,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "NOV-2024",
+      "opening_balance": 0.0,
+      "received_quantity": 213.288,
+      "consumption": 190.0,
+      "closing_balance": 213.088
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "DEC-2024",
+      "opening_balance": 213.088,
+      "received_quantity": 1351.21,
+      "consumption": 1564.29,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "JAN-2025",
+      "opening_balance": 0.0,
+      "received_quantity": 1400.9,
+      "consumption": 1400.9,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "FEBRUARY-2025",
+      "opening_balance": 0.0,
+      "received_quantity": 590.31,
+      "consumption": 590.31,
+      "closing_balance": 0.0
+    },
+    {
+      "fuel_name": "BAGGAGE",
+      "date_period": "MARCH-2025",
+      "opening_balance": 0.0,
+      "received_quantity": 0.0,
+      "consumption": 0.0,
+      "closing_balance": 0.0
+    }
+  ]
+}

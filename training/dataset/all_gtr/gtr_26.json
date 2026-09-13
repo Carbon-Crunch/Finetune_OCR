@@ -1,0 +1,104 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation (CCA) (Expansion)",
+    "document_type": "Environmental Consent/Authorization",
+    "report_period": {
+      "value": "Up to 31.03.2028"
+    },
+    "document_date": {
+      "value": "04.02.2023"
+    },
+    "company_name": "M/s Bahl Papers Mills Ltd.",
+    "location": "Kh.no. 28 min & 74/1, 5th KM Stone, Aliganj Road, Kashipur, Distt- Udham Singh Nagar",
+    "reference_number": "UKPCB/HO/Con/B-28/2023/1603",
+    "entries": [
+      {
+        "product_name": "Duplex Board",
+        "quantity": {
+          "value": "11000",
+          "unit": "MT Per Month"
+        }
+      },
+      {
+        "product_name": "Craft/Paper/Tissue Paper/MG Poster Paper",
+        "quantity": {
+          "value": "2000",
+          "unit": "MT Per Month"
+        }
+      },
+      {
+        "equipment_name": "D.G set (1000KVA) x 1",
+        "remarks": "Stack height 6.5 Mt, Fuel: Diesel 150 ltr./Day"
+      },
+      {
+        "equipment_name": "Boiler (15TPH) x 1 nos.",
+        "remarks": "Stack height 50 Mt, Fuel: Husk 130 ltr./Day, PM 150mg/NM3"
+      },
+      {
+        "equipment_name": "Boiler (27TPH) x 1 nos.",
+        "remarks": "Stack height 45 Mt, Fuel: Husk 175 Ton/Day, PM 150mg/NM3"
+      },
+      {
+        "equipment_name": "Waste to Energy Boiler (100TPD) x 1 nos.",
+        "remarks": "Stack height 30 Mt, Fuel: Non-recyclable Solid Waste, Sludge & Husk 100 TPD"
+      },
+      {
+        "material_description": "Schedule I-5.1 Hazardous Waste",
+        "quantity": {
+          "value": "0.60",
+          "unit": "MTA"
+        },
+        "remarks": "Mode of Disposal: Recyclable"
+      }
+    ],
+    "additional_fields": {
+      "caf_id": "31849",
+      "application_no": "3295351",
+      "capital_investment": "Rs. 1500.0 Lakh",
+      "effluent_standards": {
+        "pH": "6.5 to 9.0",
+        "suspended_solids": "100mg/l",
+        "bod": "30 mg/l",
+        "cod": "250 mg/l",
+        "oil_and_grease": "10 mg/l"
+      }
+    }
+  }
+}

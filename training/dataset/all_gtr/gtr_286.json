@@ -1,0 +1,328 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register",
+  "report_period": "September 2024",
+  "entries": [
+    {
+      "date_period": "02/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3920,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "03/09/24",
+      "consumption": {
+        "value": 400,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3520,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "03/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3430,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "04/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3340,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "05/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3250,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "06/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3160,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "08/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3070,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "10/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2980,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "12/09/24",
+      "consumption": {
+        "value": 800,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2180,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "12/09/24",
+      "consumption": {
+        "value": 200,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 1980,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "12/09/24",
+      "consumption": {
+        "value": 1300,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 680,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "12/09/24",
+      "received_quantity": {
+        "value": 1460,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2140,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "12/09/24",
+      "received_quantity": {
+        "value": 1000,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3140,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "13/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3050,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "15/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2960,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "16/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2870,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "17/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2780,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "18/09/24",
+      "consumption": {
+        "value": 40,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2740,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "18/09/24",
+      "consumption": {
+        "value": 40,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2700,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "19/09/24",
+      "consumption": {
+        "value": 40,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2660,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "19/09/24",
+      "consumption": {
+        "value": 40,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2620,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "19/09/24",
+      "consumption": {
+        "value": 200,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2420,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "20/09/24",
+      "consumption": {
+        "value": 90,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2330,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "22/09/24",
+      "consumption": {
+        "value": 80,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 2250,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "22/09/24",
+      "consumption": {
+        "value": 450,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 1800,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "22/09/24",
+      "received_quantity": {
+        "value": 1700,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3500,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "25/09/24",
+      "consumption": {
+        "value": 80,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3420,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "26/09/24",
+      "consumption": {
+        "value": 80,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3340,
+        "unit": "LTR"
+      }
+    },
+    {
+      "date_period": "28/09/24",
+      "consumption": {
+        "value": 80,
+        "unit": "LTR"
+      },
+      "balance": {
+        "value": 3260,
+        "unit": "LTR"
+      }
+    }
+  ]
+}

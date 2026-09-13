@@ -1,0 +1,68 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "VLL/VLS/24/23678/003",
+  "extractions": [
+    {
+      "data_type": "Fuel",
+      "data_category": "Fuel Lab Test Report",
+      "boilerplate_used": "fuel/fuel_lab_test_report.json",
+      "data": {
+        "report_period": {
+          "value": "2025-03-18"
+        },
+        "entries": [
+          {
+            "sample_name": "ETP De-inking Sludge",
+            "date_period": "2025-03-18",
+            "sample_quantity": "1 Packet X 1 No",
+            "moisture_content": {
+              "value": "57.06",
+              "unit": "%"
+            },
+            "volatile_matter": {
+              "value": "21.78",
+              "unit": "%"
+            },
+            "fixed_carbon": {
+              "value": "0.94",
+              "unit": "%"
+            },
+            "gcv": {
+              "value": "675",
+              "unit": "kcal/kg"
+            },
+            "ash_content": {
+              "value": "20.22",
+              "unit": "%"
+            },
+            "supplier_name": "MEHALI PAPERS PRIVATE LIMITED",
+            "operator_name": "Jyothi Ch",
+            "remarks": "Sample tested as received."
+          }
+        ]
+      }
+    }
+  ]
+}

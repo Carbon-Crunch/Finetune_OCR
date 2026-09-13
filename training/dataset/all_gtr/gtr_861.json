@@ -1,0 +1,240 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "multi_template_extraction": true,
+  "document_id": "861",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Power Plant Report",
+      "boilerplate_used": "energy/power_plant_report.json",
+      "data": {
+        "report_period": {
+          "value": "2024-2025"
+        },
+        "entries": [
+          {
+            "total_power_generation": {
+              "value": "55605400.00",
+              "unit": "kWh"
+            },
+            "internal_dg_generation": null,
+            "steam_generation": null,
+            "turbine_input": null,
+            "condensate": null,
+            "bleed_steam": null,
+            "boiler_fuel_use": null
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Energy",
+      "data_category": "Steam Distribution Log",
+      "boilerplate_used": "energy/steam_distribution_log.json",
+      "data": {
+        "report_period": {
+          "value": "2024-2025"
+        },
+        "entries": [
+          {
+            "date_period": "Jan-25",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "11628",
+            "distribution_to_process": "4403"
+          },
+          {
+            "date_period": "Feb-25",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "10989",
+            "distribution_to_process": "3831"
+          },
+          {
+            "date_period": "Mar-25",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "10640",
+            "distribution_to_process": "4104"
+          },
+          {
+            "date_period": "Apr-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "8731",
+            "distribution_to_process": "3391"
+          },
+          {
+            "date_period": "May-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "9070",
+            "distribution_to_process": "3327"
+          },
+          {
+            "date_period": "Jun-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "7757",
+            "distribution_to_process": "3250"
+          },
+          {
+            "date_period": "Jul-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "8293",
+            "distribution_to_process": "3313"
+          },
+          {
+            "date_period": "Aug-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "9339",
+            "distribution_to_process": "3331"
+          },
+          {
+            "date_period": "Sep-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "9275",
+            "distribution_to_process": "3371"
+          },
+          {
+            "date_period": "Oct-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "9812",
+            "distribution_to_process": "3034"
+          },
+          {
+            "date_period": "Nov-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "9886",
+            "distribution_to_process": "3173"
+          },
+          {
+            "date_period": "Dec-24",
+            "turbine_inlet_steam": null,
+            "extraction_steam": "11625",
+            "distribution_to_process": "3811"
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Daily Fuel Consumption",
+      "boilerplate_used": "fuel/daily_fuel_consumption.json",
+      "data": {
+        "report_period": {
+          "value": "2024-2025"
+        },
+        "entries": [
+          {
+            "date_period": "Apr-24",
+            "rice_husk_consumption": "49142925",
+            "steam_coal_consumption": "36923340",
+            "rdf_consumption": null,
+            "bagasse_consumption": null,
+            "biomass_consumption": null,
+            "diesel_consumption": null
+          },
+          {
+            "date_period": "Jul-24",
+            "rice_husk_consumption": "35542845",
+            "steam_coal_consumption": "49400260",
+            "rdf_consumption": null,
+            "bagasse_consumption": null,
+            "biomass_consumption": null,
+            "diesel_consumption": null
+          },
+          {
+            "date_period": "Oct-24",
+            "rice_husk_consumption": "34827600",
+            "steam_coal_consumption": "48376810",
+            "rdf_consumption": null,
+            "bagasse_consumption": null,
+            "biomass_consumption": null,
+            "diesel_consumption": null
+          },
+          {
+            "date_period": "Jan-25",
+            "rice_husk_consumption": "39072184",
+            "steam_coal_consumption": "47396595",
+            "rdf_consumption": null,
+            "bagasse_consumption": null,
+            "biomass_consumption": null,
+            "diesel_consumption": null
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": "2024-2025"
+        },
+        "entries": [
+          {
+            "product_name": "Pulp & Paper",
+            "machine_name": null,
+            "date_period": "Total",
+            "opening_stock": null,
+            "total_production": null,
+            "finish_production": null,
+            "total_dispatch": null,
+            "closing_stock": null,
+            "machine_consumption": "132182",
+            "pulp_mill_consumption": null,
+            "power_unit_per_tonne": null
+          },
+          {
+            "product_name": "Yarn",
+            "machine_name": null,
+            "date_period": "Total",
+            "opening_stock": null,
+            "total_production": null,
+            "finish_production": null,
+            "total_dispatch": null,
+            "closing_stock": null,
+            "machine_consumption": "53837",
+            "pulp_mill_consumption": null,
+            "power_unit_per_tonne": null
+          },
+          {
+            "product_name": "Textile",
+            "machine_name": null,
+            "date_period": "Total",
+            "opening_stock": null,
+            "total_production": null,
+            "finish_production": null,
+            "total_dispatch": null,
+            "closing_stock": null,
+            "machine_consumption": "55605",
+            "pulp_mill_consumption": null,
+            "power_unit_per_tonne": null
+          }
+        ]
+      }
+    }
+  ]
+}

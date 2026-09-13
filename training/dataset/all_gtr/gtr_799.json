@@ -1,0 +1,115 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Consolidated Consent to Operate and Authorisation (CCA)",
+    "document_type": "Pollution Control Board Consent Document",
+    "report_period": {
+      "value": "15/03/2022 to 31/12/2026"
+    },
+    "document_date": {
+      "value": "15/03/2022"
+    },
+    "company_name": "TEHRI PULP AND PAPER LTD UNIT 2",
+    "location": "9th Km Stone, Bhopa Road, Muzaffarnagar, MUZAFFAR NAGAR, 251001",
+    "registration_number": "15367508",
+    "entries": [
+      {
+        "product_name": "KRAFT PAPER",
+        "quantity": {
+          "value": 350,
+          "unit": "Metric Tonnes/Day"
+        }
+      },
+      {
+        "material_description": "Domestic Effluent",
+        "consumption": {
+          "value": 6.0,
+          "unit": "KLD"
+        },
+        "remarks": "Septic Tank"
+      },
+      {
+        "material_description": "Industrial Effluent",
+        "consumption": {
+          "value": 700,
+          "unit": "KLD"
+        },
+        "remarks": "ETP"
+      },
+      {
+        "sample_name": "pH",
+        "remarks": "AS PER E(P) RULES, 1986"
+      },
+      {
+        "sample_name": "SUSPENDED SOLIDS",
+        "remarks": "AS PER E(P) RULES, 1986"
+      },
+      {
+        "sample_name": "DISSOLVED SOLIDS",
+        "remarks": "AS PER E(P) RULES, 1986"
+      },
+      {
+        "sample_name": "TOTAL SOLIDS",
+        "remarks": "AS PER E(P) RULES, 1986"
+      },
+      {
+        "sample_name": "BOD",
+        "remarks": "AS PER E(P) RULES, 1986"
+      },
+      {
+        "sample_name": "COD",
+        "remarks": "AS PER E(P) RULES, 1986"
+      },
+      {
+        "equipment_name": "STEAM",
+        "remarks": "Particulate Matter"
+      }
+    ],
+    "additional_fields": {
+      "capital_investment_lakhs": 7578.0,
+      "raw_materials_permitted": "WASTE PAPER, ALUM, ROSIN AND CAUSTIC"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "843",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Production Summary / Machine Consumption Summary",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": "06/03/25"
+        },
+        "entries": [
+          {
+            "product_name": "Spray Dryer ATI 065",
+            "date_period": "06/03/25",
+            "total_production": {
+              "value": "227",
+              "unit": "MT"
+            },
+            "machine_consumption": {
+              "value": "24366",
+              "unit": "MT (Total Coal)"
+            }
+          },
+          {
+            "product_name": "Spray Dryer ATI 110",
+            "date_period": "06/03/25",
+            "total_production": {
+              "value": "509",
+              "unit": "MT"
+            },
+            "machine_consumption": {
+              "value": "54312",
+              "unit": "MT (Total Coal)"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "06/03/25"
+        },
+        "entries": [
+          {
+            "date_period": "06/03/25",
+            "runtime": {
+              "value": "21.00",
+              "unit": "hours"
+            },
+            "temperature": {
+              "value": "6.4",
+              "unit": "C"
+            },
+            "pressure": {
+              "value": "1.68",
+              "unit": "gm/cc (Density)"
+            },
+            "power": {
+              "value": "36",
+              "unit": "sec (Viscosity)"
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "runtime": {
+              "value": "23.45",
+              "unit": "hours"
+            },
+            "temperature": {
+              "value": "5.4",
+              "unit": "C"
+            },
+            "pressure": {
+              "value": "1.67",
+              "unit": "gm/cc (Density)"
+            },
+            "power": {
+              "value": "34",
+              "unit": "sec (Viscosity)"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

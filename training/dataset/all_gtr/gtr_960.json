@@ -1,0 +1,53 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Energy",
+  "data_category": "Hand Written Power Log",
+  "boilerplate_used": "energy/hand_written_power_log.json",
+  "data": {
+    "report_period": {
+      "value": "06/03/25"
+    },
+    "entries": [
+      {
+        "date_period": "06/03/25",
+        "shift": "10AM-6PM",
+        "meter_reading_left": {
+          "value": "230",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "380",
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "06/03/25",
+        "shift": "6PM-2AM",
+        "meter_reading_left": {
+          "value": "319",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "425",
+          "unit": null
+        },
+        "consumption_difference": null
+      },
+      {
+        "date_period": "06/03/25",
+        "shift": "2AM-10AM",
+        "meter_reading_left": {
+          "value": "260",
+          "unit": null
+        },
+        "meter_reading_right": {
+          "value": "525",
+          "unit": null
+        },
+        "consumption_difference": null
+      }
+    ]
+  }
+}

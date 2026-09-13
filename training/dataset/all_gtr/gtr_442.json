@@ -1,0 +1,510 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "JAN-2025"
+    },
+    "entries": [
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "1",
+        "opening_balance": {
+          "value": "100.045"
+        },
+        "received_quantity": {
+          "value": "40.950"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "110.995"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "2",
+        "opening_balance": {
+          "value": "110.995"
+        },
+        "received_quantity": {
+          "value": "62.485"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "143.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "3",
+        "opening_balance": {
+          "value": "143.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "113.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "4",
+        "opening_balance": {
+          "value": "113.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "0"
+        },
+        "closing_balance": {
+          "value": "113.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "5",
+        "opening_balance": {
+          "value": "113.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "0"
+        },
+        "closing_balance": {
+          "value": "113.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "6",
+        "opening_balance": {
+          "value": "113.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "0"
+        },
+        "closing_balance": {
+          "value": "113.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "7",
+        "opening_balance": {
+          "value": "113.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "20"
+        },
+        "closing_balance": {
+          "value": "93.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "8",
+        "opening_balance": {
+          "value": "93.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "20"
+        },
+        "closing_balance": {
+          "value": "73.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "9",
+        "opening_balance": {
+          "value": "73.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "43.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "10",
+        "opening_balance": {
+          "value": "43.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "20"
+        },
+        "closing_balance": {
+          "value": "23.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "11",
+        "opening_balance": {
+          "value": "23.480"
+        },
+        "received_quantity": {
+          "value": "40.230"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "33.710"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "12",
+        "opening_balance": {
+          "value": "33.710"
+        },
+        "received_quantity": {
+          "value": "60.600"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "64.310"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "13",
+        "opening_balance": {
+          "value": "64.310"
+        },
+        "received_quantity": {
+          "value": "50.830"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "85.140"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "14",
+        "opening_balance": {
+          "value": "85.140"
+        },
+        "received_quantity": {
+          "value": "62.980"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "118.210"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "15",
+        "opening_balance": {
+          "value": "118.210"
+        },
+        "received_quantity": {
+          "value": "72.160"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "160.280"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "16",
+        "opening_balance": {
+          "value": "160.280"
+        },
+        "received_quantity": {
+          "value": "72.200"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "202.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "17",
+        "opening_balance": {
+          "value": "202.480"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "172.480"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "18",
+        "opening_balance": {
+          "value": "172.480"
+        },
+        "received_quantity": {
+          "value": "41.650"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "184.130"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "19",
+        "opening_balance": {
+          "value": "184.130"
+        },
+        "received_quantity": {
+          "value": "51.650"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "205.740"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "20",
+        "opening_balance": {
+          "value": "205.740"
+        },
+        "received_quantity": {
+          "value": "42.940"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "218.680"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "21",
+        "opening_balance": {
+          "value": "218.680"
+        },
+        "received_quantity": {
+          "value": "39.600"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "228.280"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "22",
+        "opening_balance": {
+          "value": "228.280"
+        },
+        "received_quantity": {
+          "value": "48.840"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "247.120"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "23",
+        "opening_balance": {
+          "value": "247.120"
+        },
+        "received_quantity": {
+          "value": "9.860"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "226.980"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "24",
+        "opening_balance": {
+          "value": "226.980"
+        },
+        "received_quantity": {
+          "value": "19.340"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "216.370"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "25",
+        "opening_balance": {
+          "value": "216.370"
+        },
+        "received_quantity": {
+          "value": "49.800"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "236.170"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "26",
+        "opening_balance": {
+          "value": "236.170"
+        },
+        "received_quantity": {
+          "value": "47.140"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "253.310"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "27",
+        "opening_balance": {
+          "value": "253.310"
+        },
+        "received_quantity": {
+          "value": "59.350"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "282.660"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "28",
+        "opening_balance": {
+          "value": "282.660"
+        },
+        "received_quantity": {
+          "value": "38.720"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "291.380"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "29",
+        "opening_balance": {
+          "value": "291.380"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "261.380"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "30",
+        "opening_balance": {
+          "value": "261.380"
+        },
+        "received_quantity": {
+          "value": "0.000"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "231.380"
+        }
+      },
+      {
+        "fuel_name": "RICE HUSK",
+        "date_period": "31",
+        "opening_balance": {
+          "value": "231.380"
+        },
+        "received_quantity": {
+          "value": "8.235"
+        },
+        "consumption": {
+          "value": "30"
+        },
+        "closing_balance": {
+          "value": "209.615"
+        }
+      }
+    ]
+  }
+}

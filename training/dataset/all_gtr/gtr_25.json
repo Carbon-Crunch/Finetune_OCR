@@ -1,0 +1,28 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "invoice_date": {
+    "value": "02/01/2025"
+  },
+  "supplier_name": "GUJARAT MINERAL DEVELOPMENT CORPORATION LIMITED",
+  "entries": [
+    {
+      "item_description": "G8/G11 Mix",
+      "material_description": null,
+      "item_code": null,
+      "hsn_sac": "27011200",
+      "quantity": {
+        "value": "30.00",
+        "unit": "MT"
+      },
+      "units": {
+        "value": "MT",
+        "unit": null
+      },
+      "gross_amount": {
+        "value": "103369.9320",
+        "unit": "Rs."
+      }
+    }
+  ]
+}

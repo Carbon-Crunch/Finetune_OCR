@@ -1,0 +1,36 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "report_period": {
+    "value": "12/08/2025"
+  },
+  "entries": [
+    {
+      "sample_name": "Briquette",
+      "date_period": "12/08/2025",
+      "sample_quantity": {
+        "value": "1",
+        "unit": "Kg"
+      },
+      "moisture_content": {
+        "value": "17.2",
+        "unit": "%"
+      },
+      "volatile_matter": null,
+      "fixed_carbon": null,
+      "gcv": {
+        "value": "2815",
+        "unit": "kcal/kg"
+      },
+      "ash_content": {
+        "value": "1.6",
+        "unit": "%"
+      },
+      "supplier_name": null,
+      "operator_name": "Swati Chauhan",
+      "remarks": null
+    }
+  ]
+}

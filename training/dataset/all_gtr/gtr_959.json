@@ -1,0 +1,186 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "959",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Hand Written Power Log",
+      "boilerplate_used": "energy/hand_written_power_log.json",
+      "data": {
+        "report_period": {
+          "value": "06/03/25"
+        },
+        "entries": [
+          {
+            "date_period": "06/03/25",
+            "shift": "10-11",
+            "meter_reading_left": {
+              "value": "3600",
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": "3600",
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "shift": "11-12",
+            "meter_reading_left": {
+              "value": "3500",
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": "3500",
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "shift": "12-1",
+            "meter_reading_left": {
+              "value": "3400",
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": "3400",
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "shift": "1-2",
+            "meter_reading_left": {
+              "value": "3400",
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": "3400",
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "shift": "2-3",
+            "meter_reading_left": {
+              "value": "3400",
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": "3400",
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "shift": "3-4",
+            "meter_reading_left": {
+              "value": "3400",
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": "3400",
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "shift": "4-5",
+            "meter_reading_left": {
+              "value": "3400",
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": "3400",
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": null,
+              "unit": null
+            }
+          },
+          {
+            "date_period": "06/03/25",
+            "shift": "5-6",
+            "meter_reading_left": {
+              "value": "3500",
+              "unit": null
+            },
+            "meter_reading_right": {
+              "value": "3500",
+              "unit": null
+            },
+            "consumption_difference": {
+              "value": null,
+              "unit": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Process Log Book",
+      "boilerplate_used": "production/process_log_book.json",
+      "data": {
+        "report_period": {
+          "value": "06/03/25"
+        },
+        "entries": [
+          {
+            "date_period": "06/03/25",
+            "timestamp": "10-11",
+            "pressure": {
+              "value": "420",
+              "unit": "bar"
+            },
+            "temperature": null,
+            "flow_rate": null,
+            "runtime": null,
+            "power": null,
+            "pulp_levels": null
+          },
+          {
+            "date_period": "06/03/25",
+            "timestamp": "11-12",
+            "pressure": {
+              "value": "420",
+              "unit": "bar"
+            },
+            "temperature": null,
+            "flow_rate": null,
+            "runtime": null,
+            "power": null,
+            "pulp_levels": null
+          }
+        ]
+      }
+    }
+  ]
+}

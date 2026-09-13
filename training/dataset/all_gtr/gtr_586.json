@@ -1,0 +1,30 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "report_period": "01/Apr/2024 to 31/Mar/2025",
+  "entries": [
+    {
+      "fuel_name": "HSD (DIESEL)",
+      "fuel_type": "POWER FUEL",
+      "date_period": null,
+      "opening_balance": {
+        "value": 13884.371,
+        "unit": "LTR"
+      },
+      "received_quantity": {
+        "value": 220000.0,
+        "unit": "LTR"
+      },
+      "inwards": null,
+      "outwards": null,
+      "consumption": {
+        "value": 232785.81,
+        "unit": "LTR"
+      },
+      "closing_balance": {
+        "value": 1098.561,
+        "unit": "LTR"
+      }
+    }
+  ]
+}

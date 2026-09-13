@@ -1,0 +1,107 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "report_period": {
+    "value": "APRIL-24 TO MARCH-25"
+  },
+  "entries": [
+    {
+      "date_period": "Apr-24",
+      "consumption": {
+        "value": 1993248,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "May-24",
+      "consumption": {
+        "value": 2033810,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jun-24",
+      "consumption": {
+        "value": 1977421,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jul-24",
+      "consumption": {
+        "value": 2032613,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Aug-24",
+      "consumption": {
+        "value": 2048043,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Sep-24",
+      "consumption": {
+        "value": 1937192,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Oct-24",
+      "consumption": {
+        "value": 2049047,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Nov-24",
+      "consumption": {
+        "value": 1882302,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Dec-24",
+      "consumption": {
+        "value": 2013337,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Jan-25",
+      "consumption": {
+        "value": 1988187,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Feb-25",
+      "consumption": {
+        "value": 1801911,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    },
+    {
+      "date_period": "Mar-25",
+      "consumption": {
+        "value": 2033587,
+        "unit": "KWh"
+      },
+      "net_generation": null
+    }
+  ]
+}

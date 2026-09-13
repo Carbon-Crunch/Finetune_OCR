@@ -1,0 +1,36 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register / Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "01/Oct/2024 to 31/Dec/2024"
+    },
+    "entries": [
+      {
+        "fuel_name": "DEOILED PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "30/Dec/24",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": "204.100",
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "DEOILED PADDY HUSK",
+        "fuel_type": null,
+        "date_period": "31/Dec/24",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": "214.060",
+        "consumption": null,
+        "closing_balance": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": false,
+  "document_id": "936",
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "boilerplate_used": "generic_fallback",
+  "data": {
+    "document_title": "FLOWDIAGRAM OF PAPER",
+    "document_type": "Flowchart",
+    "company_name": "Takri Pulp & Paper Ltd.",
+    "entries": [
+      {
+        "item_description": "MACHINECHEST"
+      },
+      {
+        "item_description": "CENTRICLEANER"
+      },
+      {
+        "item_description": "BOTTOMPRESS URESCREEN"
+      },
+      {
+        "item_description": "BOTTOMHEADBOX"
+      },
+      {
+        "item_description": "BREASTROLL"
+      },
+      {
+        "item_description": "TOPMACHINE CHEST"
+      },
+      {
+        "item_description": "TOPCENTRIC LEANER"
+      },
+      {
+        "item_description": "TOPPRESSURE SCREEN"
+      },
+      {
+        "item_description": "TOPHEADBOX"
+      },
+      {
+        "item_description": "BREASTROLL"
+      },
+      {
+        "item_description": "TOPWIRE"
+      },
+      {
+        "item_description": "COUCHROLL(TOP)"
+      },
+      {
+        "item_description": "COMBINATION ROLL"
+      },
+      {
+        "item_description": "BOTTOMWIRE"
+      },
+      {
+        "item_description": "COUCHROLL"
+      },
+      {
+        "item_description": "1stPRESS"
+      },
+      {
+        "item_description": "2ndPRESS"
+      },
+      {
+        "item_description": "3rdPRESS"
+      },
+      {
+        "item_description": "DRYER1stGROUP"
+      },
+      {
+        "item_description": "DRYER2ndGROUP"
+      },
+      {
+        "item_description": "DRYER3rdGROUP"
+      },
+      {
+        "item_description": "DRYER4THGROUP"
+      },
+      {
+        "item_description": "DRYER5THGROUP"
+      },
+      {
+        "item_description": "SIZEPRESS"
+      },
+      {
+        "item_description": "DRYER8THGROUP"
+      },
+      {
+        "item_description": "DRYER7THGROUP"
+      },
+      {
+        "item_description": "SCANNER"
+      },
+      {
+        "item_description": "POPEREEL"
+      },
+      {
+        "item_description": "REWINDER"
+      },
+      {
+        "item_description": "WAREHOUSE"
+      }
+    ]
+  }
+}

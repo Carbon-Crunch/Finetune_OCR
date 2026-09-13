@@ -1,0 +1,359 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Register",
+  "report_period": {
+    "value": "2024-2025"
+  },
+  "entries": [
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "APRIL-2024",
+      "opening_balance": {
+        "value": "0.000",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "0.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "0.000",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "0.000",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "MAY-2024",
+      "opening_balance": {
+        "value": "0.000",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "0.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "0.000",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "0.000",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "JUNE-2024",
+      "opening_balance": {
+        "value": "0.000",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "0.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "0.000",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "0.000",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "JULY-2024",
+      "opening_balance": {
+        "value": "0.000",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "0.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "0.000",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "0.000",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "AUG-2024",
+      "opening_balance": {
+        "value": "0.000",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "0.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "0.000",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "0.000",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "SEP-2024",
+      "opening_balance": {
+        "value": "0.000",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "0.000",
+        "unit": null
+      },
+      "consumption": {
+        "value": "0.000",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "0.000",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "OCT-2024",
+      "opening_balance": {
+        "value": "0.000",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "1422.315",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "415",
+        "unit": null
+      },
+      "consumption": {
+        "value": "415",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "1007.315",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "NOV-2024",
+      "opening_balance": {
+        "value": "1007.315",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "279.760",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "555",
+        "unit": null
+      },
+      "consumption": {
+        "value": "555",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "732.075",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "DEC-2024",
+      "opening_balance": {
+        "value": "732.075",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "0.000",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "310",
+        "unit": null
+      },
+      "consumption": {
+        "value": "310",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "422.075",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "JAN-2025",
+      "opening_balance": {
+        "value": "422.075",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "115.270",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "422.075",
+        "unit": null
+      },
+      "consumption": {
+        "value": "422.075",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "115.270",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "FEB-2025",
+      "opening_balance": {
+        "value": "115.270",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "911.865",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "825",
+        "unit": null
+      },
+      "consumption": {
+        "value": "825",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "201.335",
+        "unit": null
+      }
+    },
+    {
+      "fuel_name": "RDF",
+      "fuel_type": null,
+      "date_period": "MAR-2025",
+      "opening_balance": {
+        "value": "201.335",
+        "unit": null
+      },
+      "received_quantity": {
+        "value": "1021.920",
+        "unit": null
+      },
+      "inwards": {
+        "value": null,
+        "unit": null
+      },
+      "outwards": {
+        "value": "1700",
+        "unit": null
+      },
+      "consumption": {
+        "value": "1700",
+        "unit": null
+      },
+      "closing_balance": {
+        "value": "323.255",
+        "unit": null
+      }
+    }
+  ]
+}

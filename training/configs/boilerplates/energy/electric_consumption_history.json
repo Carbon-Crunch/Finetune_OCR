@@ -1,0 +1,23 @@
+{
+  "data_type": "Energy",
+  "data_category": "Electric Consumption History / Generation Report",
+  "extraction_rules": "This is a tabular history or generation report document. Extract EVERY row from the table into the entries array. Each object in entries represents one month, period, or generation unit record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "date_period": null,
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "net_generation": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ]
+  }
+}

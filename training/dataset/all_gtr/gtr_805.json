@@ -1,0 +1,100 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "KAJARIA CERAMICS LTD, MALUTANA PROCESS FLOW CHART",
+    "document_type": "Process Flow Chart",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "KAJARIA CERAMICS LTD",
+    "plant_name": "MALUTANA",
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "step_name": "RAW MATERIALS"
+      },
+      {
+        "step_name": "RAW MATERIAL WEIGHING"
+      },
+      {
+        "step_name": "RAW MATERIAL CHARGING INTO BALL MILL WITH WATER & WET GRINDING"
+      },
+      {
+        "step_name": "SIEVING & DEMAGNETISING THE SLIP & STORING IN SEPARATE TANK"
+      },
+      {
+        "step_name": "SPRAY DRYING OF THE SLIP TO GET THE POWDER"
+      },
+      {
+        "step_name": "POWDER STORAGE SILOS"
+      },
+      {
+        "step_name": "PRESS HOPPERS VIA VIBRATING SCREENS"
+      },
+      {
+        "step_name": "PRESSING"
+      },
+      {
+        "step_name": "RAPID DRYING HORIZONTAL DRYER TO REMOVE THE MOISTURE & MAKE THE TILES BONE DRY"
+      },
+      {
+        "step_name": "GLAZE LINE"
+      },
+      {
+        "step_name": "PRE KILN DRYER"
+      },
+      {
+        "step_name": "COMPENSATORS"
+      },
+      {
+        "step_name": "ROLLER KILN"
+      },
+      {
+        "step_name": "POLISHING & SQUARING"
+      },
+      {
+        "step_name": "SORTING & CLASSIFICATION"
+      },
+      {
+        "step_name": "PACKING"
+      },
+      {
+        "step_name": "DISPATCH"
+      },
+      {
+        "step_name": "GLAZE & PASTE RAW MATERIAL RECEIEPT"
+      },
+      {
+        "step_name": "GLAZE/ PASTE PREPARATION"
+      },
+      {
+        "step_name": "LAB / QC / R&D"
+      }
+    ],
+    "additional_fields": {}
+  }
+}

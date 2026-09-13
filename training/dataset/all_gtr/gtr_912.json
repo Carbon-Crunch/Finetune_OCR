@@ -1,0 +1,39 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Energy Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_no": {
+      "value": "821/2024-25"
+    },
+    "invoice_date": {
+      "value": "2024-07-10"
+    },
+    "supplier_name": "Anand Triplex Board Pvt. Ltd.",
+    "supplier_gstin": "09AAECA9305M1ZD",
+    "buyer_name": "M/S ANAND DUPLEX LTD - CUSTOMERS",
+    "buyer_gstin": "09AABCA4927A1Z3",
+    "total_amount": {
+      "value": "9103920.00",
+      "unit": "Rs."
+    },
+    "entries": [
+      {
+        "item_description": "STEAM",
+        "material_description": null,
+        "item_code": null,
+        "hsn_sac": "28539090",
+        "quantity": {
+          "value": "5419.000",
+          "unit": "MT"
+        },
+        "gross_amount": {
+          "value": "8128500.00",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

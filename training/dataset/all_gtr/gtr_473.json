@@ -1,0 +1,798 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Energy",
+  "data_category": "Electric Meter Reading",
+  "extraction_rules": "This is a tabular meter reading document. Extract EVERY row from the table into the entries array. Each object in entries represents one meter reading record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "meter_reading_difference": {
+          "value": "251900",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "30356",
+          "unit": null
+        },
+        "kwh": {
+          "value": "76020",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "87370",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "145410",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "120",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "238500",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29280",
+          "unit": null
+        },
+        "kwh": {
+          "value": "79680",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "80920",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "129350",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "130",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "237700",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29520",
+          "unit": null
+        },
+        "kwh": {
+          "value": "76600",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "86970",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "134650",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "140",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "242900",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29280",
+          "unit": null
+        },
+        "kwh": {
+          "value": "47890",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "94850",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "160390",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "140",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "233100",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28780",
+          "unit": null
+        },
+        "kwh": {
+          "value": "39210",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "104100",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "174790",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "170",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "222500",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28320",
+          "unit": null
+        },
+        "kwh": {
+          "value": "33330",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "106140",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "170840",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "180",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "237100",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28480",
+          "unit": null
+        },
+        "kwh": {
+          "value": "58130",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "102810",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "160940",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "160",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "239300",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29000",
+          "unit": null
+        },
+        "kwh": {
+          "value": "72990",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "104990",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "177980",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "180",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "239800",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29100",
+          "unit": null
+        },
+        "kwh": {
+          "value": "38880",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "100900",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "171270",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "150",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "190100",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27970",
+          "unit": null
+        },
+        "kwh": {
+          "value": "45510",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "95130",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "165060",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "130",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "233500",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29410",
+          "unit": null
+        },
+        "kwh": {
+          "value": "58740",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "82400",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "147230",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "170",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "237000",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29170",
+          "unit": null
+        },
+        "kwh": {
+          "value": "51340",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "93750",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "156370",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "150",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "230000",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28530",
+          "unit": null
+        },
+        "kwh": {
+          "value": "38050",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "94760",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "163280",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "120",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "183700",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27070",
+          "unit": null
+        },
+        "kwh": {
+          "value": "47450",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "101790",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "169020",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "140",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "171000",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "27470",
+          "unit": null
+        },
+        "kwh": {
+          "value": "42580",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "98770",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "160770",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "180",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "216700",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28630",
+          "unit": null
+        },
+        "kwh": {
+          "value": "46020",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "93590",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "141970",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "120",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "230900",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28490",
+          "unit": null
+        },
+        "kwh": {
+          "value": "48030",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "99130",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "154190",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "190",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "212700",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28950",
+          "unit": null
+        },
+        "kwh": {
+          "value": "42280",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "77210",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "141330",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "140",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "245400",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29080",
+          "unit": null
+        },
+        "kwh": {
+          "value": "44540",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "100400",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "171670",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "170",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "249500",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "30050",
+          "unit": null
+        },
+        "kwh": {
+          "value": "61020",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "92160",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "158340",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "90",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "242100",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29320",
+          "unit": null
+        },
+        "kwh": {
+          "value": "72270",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "86540",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "139180",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "110",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "242100",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29220",
+          "unit": null
+        },
+        "kwh": {
+          "value": "70620",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "88840",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "142110",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "100",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "244900",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29320",
+          "unit": null
+        },
+        "kwh": {
+          "value": "70140",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "85620",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "145520",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "150",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "249800",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29480",
+          "unit": null
+        },
+        "kwh": {
+          "value": "73580",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "92730",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "146380",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "160",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "241000",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29560",
+          "unit": null
+        },
+        "kwh": {
+          "value": "89580",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "90510",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "141790",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "130",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "248000",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "29640",
+          "unit": null
+        },
+        "kwh": {
+          "value": "82320",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "97430",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "127730",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "90",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "244700",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28850",
+          "unit": null
+        },
+        "kwh": {
+          "value": "58560",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "96910",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "156740",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "150",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      },
+      {
+        "meter_reading_difference": {
+          "value": "243800",
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": "28650",
+          "unit": null
+        },
+        "kwh": {
+          "value": "56870",
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": "98530",
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": "165400",
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": "80",
+          "unit": null
+        },
+        "night_hour": null,
+        "amd": null
+      }
+    ]
+  }
+}

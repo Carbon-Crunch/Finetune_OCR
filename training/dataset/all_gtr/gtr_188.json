@@ -1,0 +1,56 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "boilerplate": "production/boiler_log_book.json",
+  "extracted_fields": {
+    "boiler_name": "30 TPH BOILER",
+    "registration_number": null,
+    "entries": [
+      {
+        "date_period": "21/09/2024",
+        "shift": "7:00 AM",
+        "total_steam_generated": null,
+        "total_feedwater": null,
+        "shift_total": null,
+        "day_total": null
+      }
+    ],
+    "summary": {
+      "total_steam_generation": {
+        "shift_a": {
+          "final_reading": null,
+          "tons": "14095"
+        },
+        "shift_b": {
+          "final_reading": null,
+          "tons": "247MT"
+        },
+        "shift_c": {
+          "final_reading": null,
+          "tons": null
+        },
+        "day_total": null
+      },
+      "feed_water_consumption": {
+        "shift_a": {
+          "final_reading": null,
+          "tons": null
+        },
+        "shift_b": {
+          "final_reading": null,
+          "tons": null
+        },
+        "shift_c": {
+          "final_reading": null,
+          "tons": null
+        },
+        "day_total": null
+      },
+      "dearator_steam_consumption": null,
+      "bed_material_consumption": "1248 kgm",
+      "bd_of_bed_material": null
+    }
+  }
+}

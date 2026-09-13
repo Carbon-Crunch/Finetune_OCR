@@ -1,0 +1,922 @@
+[
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of Coal",
+          "date_period": "18/11/2024",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 3700,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of Bagasse",
+          "date_period": "18/11/2024",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 2105,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of RDF",
+          "date_period": "18/11/2024",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 1593,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of Coal",
+          "date_period": "10/02/2025",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 3985,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of Biomass(Rice Husk)",
+          "date_period": "10/02/2025",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 3392,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of RDF",
+          "date_period": "10/02/2025",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 1840,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of Coal",
+          "date_period": "19/04/2024",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 3920,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of Coal",
+          "date_period": "30/09/2024",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 4193,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of Biomass",
+          "date_period": "30/09/2024",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 2730,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  },
+  {
+    "rotation_needed": false,
+    "degree": 0,
+    "page_orientations": [
+      {
+        "page_number": 1,
+        "image_index": 1,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 2,
+        "image_index": 2,
+        "rotation_needed": true,
+        "degree": 270
+      },
+      {
+        "page_number": 3,
+        "image_index": 3,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 4,
+        "image_index": 4,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 5,
+        "image_index": 5,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 6,
+        "image_index": 6,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 7,
+        "image_index": 7,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 8,
+        "image_index": 8,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 9,
+        "image_index": 9,
+        "rotation_needed": false,
+        "degree": 0
+      },
+      {
+        "page_number": 10,
+        "image_index": 10,
+        "rotation_needed": false,
+        "degree": 0
+      }
+    ],
+    "data_type": "Fuel",
+    "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+    "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+    "extracted_fields": {
+      "report_period": {
+        "value": null
+      },
+      "entries": [
+        {
+          "sample_name": "Analysis of Biomass",
+          "date_period": "19/04/2024",
+          "sample_quantity": null,
+          "moisture_content": null,
+          "volatile_matter": null,
+          "fixed_carbon": null,
+          "gcv": {
+            "value": 2800,
+            "unit": "kcal/kg"
+          },
+          "ash_content": null,
+          "supplier_name": "Dev Priya Products Private Limited",
+          "operator_name": null,
+          "remarks": null
+        }
+      ]
+    }
+  }
+]

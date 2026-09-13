@@ -1,0 +1,141 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "HT BILL FOR THE MONTH OF OCT-2024",
+    "document_type": "Electricity Bill and Solar Power Adjustment Report",
+    "report_period": {
+      "value": "OCT-2024"
+    },
+    "invoice_date": {
+      "value": "04-11-2024"
+    },
+    "document_date": {
+      "value": "04-11-2024"
+    },
+    "supplier_name": "Dakshin Gujarat Vij Company Ltd.",
+    "customer_name": "Revival Paper Mill P l.",
+    "company_name": "Revival Paper Mill P l.",
+    "plant_name": null,
+    "location": "Vapi GIDC",
+    "registration_number": "CIN:U40102GJ2003SGC042909",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": "4730515.06",
+      "unit": "Rs"
+    },
+    "total_quantity": null,
+    "entries": [
+      {
+        "item_description": "Demand Charges",
+        "amount": {
+          "value": "321375.00",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "Energy Charges",
+        "amount": {
+          "value": "2536602.60",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "Fuel Surcharge",
+        "amount": {
+          "value": "0.00",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "PF Adj/Rebate",
+        "amount": {
+          "value": "-29170.93",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "Electricity Duty",
+        "amount": {
+          "value": "708107.81",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "Time Of Use Charges",
+        "amount": {
+          "value": "170646.00",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "Credit Board Charges (Solar CPP)",
+        "amount": {
+          "value": "731945.69",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "Credit ED Charges (Solar CPP)",
+        "amount": {
+          "value": "109791.85",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "Debit Banking Charge (Solar CPP)",
+        "amount": {
+          "value": "111008.70",
+          "unit": "Rs"
+        }
+      },
+      {
+        "item_description": "Debit Wheeling Charges (Solar CPP)",
+        "amount": {
+          "value": "16459.89",
+          "unit": "Rs"
+        }
+      }
+    ],
+    "additional_fields": {
+      "consumer_no": "38721",
+      "tariff": "HTP-I",
+      "contract_demand": "1450",
+      "actual_max_demand": "1245",
+      "kvah": {
+        "value": "620160",
+        "unit": "KVAH"
+      },
+      "kwh": {
+        "value": "603953",
+        "unit": "KWH"
+      },
+      "billing_due_date": "14-11-2024"
+    }
+  }
+}

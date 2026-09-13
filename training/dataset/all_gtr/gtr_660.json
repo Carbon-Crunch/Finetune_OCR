@@ -1,0 +1,224 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "December-2024",
+  "entries": [
+    {
+      "date_period": "1",
+      "opening_balance": "5272.155",
+      "received_quantity": "81.340",
+      "consumption": "206",
+      "closing_balance": "5087.495"
+    },
+    {
+      "date_period": "2",
+      "opening_balance": "5087.495",
+      "received_quantity": "270.106",
+      "consumption": "249",
+      "closing_balance": "5088.595"
+    },
+    {
+      "date_period": "3",
+      "opening_balance": "5088.595",
+      "received_quantity": "125.726",
+      "consumption": "244",
+      "closing_balance": "4970.315"
+    },
+    {
+      "date_period": "4",
+      "opening_balance": "4970.315",
+      "received_quantity": "661.150",
+      "consumption": "224",
+      "closing_balance": "5407.415"
+    },
+    {
+      "date_period": "5",
+      "opening_balance": "5407.415",
+      "received_quantity": "257.560",
+      "consumption": "275",
+      "closing_balance": "5390.025"
+    },
+    {
+      "date_period": "6",
+      "opening_balance": "5390.025",
+      "received_quantity": "170.630",
+      "consumption": "244",
+      "closing_balance": "5316.655"
+    },
+    {
+      "date_period": "7",
+      "opening_balance": "5316.655",
+      "received_quantity": "111.950",
+      "consumption": "289",
+      "closing_balance": "5139.605"
+    },
+    {
+      "date_period": "8",
+      "opening_balance": "5139.605",
+      "received_quantity": "42.430",
+      "consumption": "254",
+      "closing_balance": "4928.035"
+    },
+    {
+      "date_period": "9",
+      "opening_balance": "4928.035",
+      "received_quantity": "0.000",
+      "consumption": "246",
+      "closing_balance": "4682.035"
+    },
+    {
+      "date_period": "10",
+      "opening_balance": "4682.035",
+      "received_quantity": "0.000",
+      "consumption": "219",
+      "closing_balance": "4463.035"
+    },
+    {
+      "date_period": "11",
+      "opening_balance": "4463.035",
+      "received_quantity": "0.000",
+      "consumption": "202",
+      "closing_balance": "4261.035"
+    },
+    {
+      "date_period": "12",
+      "opening_balance": "4261.035",
+      "received_quantity": "293.680",
+      "consumption": "190",
+      "closing_balance": "4364.715"
+    },
+    {
+      "date_period": "13",
+      "opening_balance": "4364.715",
+      "received_quantity": "205.090",
+      "consumption": "253",
+      "closing_balance": "4316.805"
+    },
+    {
+      "date_period": "14",
+      "opening_balance": "4316.805",
+      "received_quantity": "118.535",
+      "consumption": "266",
+      "closing_balance": "4169.340"
+    },
+    {
+      "date_period": "15",
+      "opening_balance": "4169.340",
+      "received_quantity": "65.110",
+      "consumption": "206",
+      "closing_balance": "4028.450"
+    },
+    {
+      "date_period": "16",
+      "opening_balance": "4028.450",
+      "received_quantity": "122.590",
+      "consumption": "302",
+      "closing_balance": "3849.040"
+    },
+    {
+      "date_period": "17",
+      "opening_balance": "3849.040",
+      "received_quantity": "0.000",
+      "consumption": "307",
+      "closing_balance": "3542.040"
+    },
+    {
+      "date_period": "18",
+      "opening_balance": "3542.040",
+      "received_quantity": "0.000",
+      "consumption": "305",
+      "closing_balance": "3237.040"
+    },
+    {
+      "date_period": "19",
+      "opening_balance": "3237.040",
+      "received_quantity": "283.880",
+      "consumption": "293",
+      "closing_balance": "3227.920"
+    },
+    {
+      "date_period": "20",
+      "opening_balance": "3227.920",
+      "received_quantity": "228.045",
+      "consumption": "261",
+      "closing_balance": "3194.965"
+    },
+    {
+      "date_period": "21",
+      "opening_balance": "3194.965",
+      "received_quantity": "295.316",
+      "consumption": "221",
+      "closing_balance": "3269.275"
+    },
+    {
+      "date_period": "22",
+      "opening_balance": "3269.275",
+      "received_quantity": "39.165",
+      "consumption": "275",
+      "closing_balance": "3033.440"
+    },
+    {
+      "date_period": "23",
+      "opening_balance": "3033.440",
+      "received_quantity": "141.190",
+      "consumption": "216",
+      "closing_balance": "2958.630"
+    },
+    {
+      "date_period": "24",
+      "opening_balance": "2958.630",
+      "received_quantity": "42.990",
+      "consumption": "235",
+      "closing_balance": "2766.620"
+    },
+    {
+      "date_period": "25",
+      "opening_balance": "2766.620",
+      "received_quantity": "301.685",
+      "consumption": "225",
+      "closing_balance": "2843.305"
+    },
+    {
+      "date_period": "26",
+      "opening_balance": "2843.305",
+      "received_quantity": "281.130",
+      "consumption": "248",
+      "closing_balance": "2876.435"
+    },
+    {
+      "date_period": "27",
+      "opening_balance": "2876.435",
+      "received_quantity": "205.580",
+      "consumption": "238",
+      "closing_balance": "2844.015"
+    },
+    {
+      "date_period": "28",
+      "opening_balance": "2844.015",
+      "received_quantity": "180.050",
+      "consumption": "238",
+      "closing_balance": "2786.065"
+    },
+    {
+      "date_period": "29",
+      "opening_balance": "2786.065",
+      "received_quantity": "0.000",
+      "consumption": "253",
+      "closing_balance": "2533.065"
+    },
+    {
+      "date_period": "30",
+      "opening_balance": "2533.065",
+      "received_quantity": "637.950",
+      "consumption": "267",
+      "closing_balance": "2904.015"
+    },
+    {
+      "date_period": "31",
+      "opening_balance": "2904.015",
+      "received_quantity": "323.670",
+      "consumption": "232",
+      "closing_balance": "2995.685"
+    }
+  ]
+}

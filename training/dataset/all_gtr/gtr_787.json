@@ -1,0 +1,222 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": "01/Sep/2024 to 30/Sep/2024",
+    "entries": [
+      {
+        "fuel_name": "BARSIN BALE",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "BARSIN KA TURA",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "BULBULA",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "CHANNA KA TUDA (FUEL)",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "CHILKA (RICE HUSK)",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "COTTON DUST",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": 300000.82,
+        "received_quantity": 642285.85,
+        "inwards": 642285.85,
+        "outwards": 892700.0,
+        "consumption": 892700.0,
+        "closing_balance": 49586.67
+      },
+      {
+        "fuel_name": "COTTON STICK",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "DUNG CAKES",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": 343378.25,
+        "inwards": 343378.25,
+        "outwards": 343378.25,
+        "consumption": 343378.25,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "FADDA",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "FADDA (PUNJAB)",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": 74765.64,
+        "inwards": 74765.64,
+        "outwards": 74765.64,
+        "consumption": 74765.64,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "FADDA 1121",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": 2115279.76,
+        "inwards": 2115279.76,
+        "outwards": 2065119.0,
+        "consumption": 2065119.0,
+        "closing_balance": 50160.76
+      },
+      {
+        "fuel_name": "MAKKI KA GULLA",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "MALLY (BAGGASE WASTE SLUDGE)",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "MOONG KA TURA",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "PADDY WASTE",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "ROUND BALE STRAW RICE",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "SAFEDE KI PATTIYAN (EUCALYPTUS)",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "SARSO KI BAIL",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "SARSON KA TURA",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "STRAW (RICE)",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": null,
+        "received_quantity": null,
+        "inwards": null,
+        "outwards": null,
+        "consumption": null,
+        "closing_balance": null
+      },
+      {
+        "fuel_name": "STRAW RICE (BALE)",
+        "date_period": "01/Sep/2024 to 30/Sep/2024",
+        "opening_balance": 30570152.0,
+        "received_quantity": 1631402.14,
+        "inwards": 1631402.14,
+        "outwards": 17291180.0,
+        "consumption": 17291180.0,
+        "closing_balance": 14910374.14
+      }
+    ]
+  }
+}

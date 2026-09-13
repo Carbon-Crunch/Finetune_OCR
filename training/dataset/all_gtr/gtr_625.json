@@ -1,0 +1,259 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "report_period": "2024-2025",
+  "entries": [
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "APRIL",
+      "opening_stock": {
+        "value": 2181.434,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5403.992,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 5218.815,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 2366.611,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "MAY",
+      "opening_stock": {
+        "value": 2366.611,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5012.043,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 5432.942,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1945.712,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "JUNE",
+      "opening_stock": {
+        "value": 1945.712,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5219.649,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 5134.64,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 2030.721,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "JULY",
+      "opening_stock": {
+        "value": 2030.721,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5461.531,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 4886.282,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 2605.97,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "AUGUST",
+      "opening_stock": {
+        "value": 2605.97,
+        "unit": null
+      },
+      "total_production": {
+        "value": 6060.469,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 7088.333,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1578.106,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "SEPTEMBER",
+      "opening_stock": {
+        "value": 1578.106,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5789.615,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 5777.458,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1590.263,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "OCTOBER",
+      "opening_stock": {
+        "value": 1590.263,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5508.823,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 5460.862,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1638.224,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "NOVEMBER",
+      "opening_stock": {
+        "value": 1638.224,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5388.15,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 5327.153,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1699.221,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "DECEMBER",
+      "opening_stock": {
+        "value": 1699.221,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5923.69,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 6168.979,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1453.932,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "JANUARY",
+      "opening_stock": {
+        "value": 1453.932,
+        "unit": null
+      },
+      "total_production": {
+        "value": 4312.255,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 4964.07,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 802.117,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "FEBUARY",
+      "opening_stock": {
+        "value": 802.117,
+        "unit": null
+      },
+      "total_production": {
+        "value": 5262.577,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 5105.662,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 959.032,
+        "unit": null
+      }
+    },
+    {
+      "product_name": "Duplex",
+      "machine_name": null,
+      "date_period": "MARCH",
+      "opening_stock": {
+        "value": 959.032,
+        "unit": null
+      },
+      "total_production": {
+        "value": 4357.263,
+        "unit": null
+      },
+      "total_dispatch": {
+        "value": 3832.743,
+        "unit": null
+      },
+      "closing_stock": {
+        "value": 1483.552,
+        "unit": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "boiler_name": "30 TPH Boiler",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "26/08/2024",
+      "shift": "6:00 AM",
+      "total_steam_generated": "53",
+      "total_feedwater": "64",
+      "shift_total": "79",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "5:00 AM",
+      "total_steam_generated": "50",
+      "total_feedwater": "66",
+      "shift_total": "86",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "4:00 AM",
+      "total_steam_generated": "54",
+      "total_feedwater": "65",
+      "shift_total": "84",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "3:00 AM",
+      "total_steam_generated": "50",
+      "total_feedwater": "65",
+      "shift_total": "75",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "2:00 AM",
+      "total_steam_generated": "50",
+      "total_feedwater": "65",
+      "shift_total": "79",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "1:00 AM",
+      "total_steam_generated": "52",
+      "total_feedwater": "65",
+      "shift_total": "86",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "12:00 AM",
+      "total_steam_generated": "51",
+      "total_feedwater": "70",
+      "shift_total": "81",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "11:00 PM",
+      "total_steam_generated": "52",
+      "total_feedwater": "65",
+      "shift_total": "83",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "10:00 PM",
+      "total_steam_generated": "53",
+      "total_feedwater": "64",
+      "shift_total": "82",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "9:00 PM",
+      "total_steam_generated": "51",
+      "total_feedwater": "64",
+      "shift_total": "81",
+      "day_total": "29"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "8:00 PM",
+      "total_steam_generated": "55",
+      "total_feedwater": "67",
+      "shift_total": "84",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "7:00 PM",
+      "total_steam_generated": "50",
+      "total_feedwater": "64",
+      "shift_total": "81",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "6:00 PM",
+      "total_steam_generated": "53",
+      "total_feedwater": "65",
+      "shift_total": "78",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "5:00 PM",
+      "total_steam_generated": "53",
+      "total_feedwater": "65",
+      "shift_total": "76",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "4:00 PM",
+      "total_steam_generated": "51",
+      "total_feedwater": "64",
+      "shift_total": "79",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "3:00 PM",
+      "total_steam_generated": "52",
+      "total_feedwater": "65",
+      "shift_total": "75",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "2:00 PM",
+      "total_steam_generated": "54",
+      "total_feedwater": "66",
+      "shift_total": "78",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "1:00 PM",
+      "total_steam_generated": "53",
+      "total_feedwater": "66",
+      "shift_total": "86",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "12:00 PM",
+      "total_steam_generated": "59",
+      "total_feedwater": "65",
+      "shift_total": "82",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "11:00 AM",
+      "total_steam_generated": "55",
+      "total_feedwater": "67",
+      "shift_total": "78",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "10:00 AM",
+      "total_steam_generated": "54",
+      "total_feedwater": "65",
+      "shift_total": "84",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "9:00 AM",
+      "total_steam_generated": "50",
+      "total_feedwater": "66",
+      "shift_total": "87",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "8:00 AM",
+      "total_steam_generated": "53",
+      "total_feedwater": "65",
+      "shift_total": "85",
+      "day_total": "30"
+    },
+    {
+      "date_period": "26/08/2024",
+      "shift": "7:00 AM",
+      "total_steam_generated": "53",
+      "total_feedwater": "65",
+      "shift_total": "77",
+      "day_total": "30"
+    }
+  ]
+}

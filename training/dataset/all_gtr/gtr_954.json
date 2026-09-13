@@ -1,0 +1,104 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "954",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Boiler Log Book",
+      "boilerplate_used": "production/boiler_log_book.json",
+      "data": {
+        "boiler_name": "Boiler No. 1",
+        "registration_number": null,
+        "entries": [
+          {
+            "date_period": "6.3.2025",
+            "shift": "10-11 A.M.",
+            "total_steam_generated": null,
+            "total_feedwater": "99.5",
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "6.3.2025",
+            "shift": "11-12 Noon",
+            "total_steam_generated": null,
+            "total_feedwater": "99.3",
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "6.3.2025",
+            "shift": "12-1 P.M.",
+            "total_steam_generated": null,
+            "total_feedwater": "99.6",
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "6.3.2025",
+            "shift": "1-2 P.M.",
+            "total_steam_generated": null,
+            "total_feedwater": "99.2",
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "6.3.2025",
+            "shift": "2-3 P.M.",
+            "total_steam_generated": null,
+            "total_feedwater": "99.4",
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "6.3.2025",
+            "shift": "3-4 P.M.",
+            "total_steam_generated": null,
+            "total_feedwater": "99.5",
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "6.3.2025",
+            "shift": "4-5 P.M.",
+            "total_steam_generated": null,
+            "total_feedwater": "99.3",
+            "shift_total": null,
+            "day_total": null
+          },
+          {
+            "date_period": "6.3.2025",
+            "shift": "5-6 P.M.",
+            "total_steam_generated": null,
+            "total_feedwater": "99.2",
+            "shift_total": null,
+            "day_total": null
+          }
+        ],
+        "summary": null
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Boiler Log Book",
+      "boilerplate_used": "production/boiler_log_book.json",
+      "data": {
+        "boiler_name": "Boiler No. 2",
+        "registration_number": null,
+        "entries": [
+          {
+            "date_period": "6.3.2025",
+            "shift": "10-11 A.M.",
+            "total_steam_generated": null,
+            "total_feedwater": null,
+            "shift_total": null,
+            "day_total": null
+          }
+        ],
+        "summary": null
+      }
+    }
+  ]
+}

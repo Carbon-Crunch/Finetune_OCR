@@ -1,0 +1,146 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report",
+  "boilerplate_used": "fuel/fuel_lab_test_report.json",
+  "data": {
+    "report_period": {
+      "value": "2024-2025"
+    },
+    "entries": [
+      {
+        "sample_name": "Bagasse",
+        "date_period": "April 2024",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 49.95,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 2277.46,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 3.26,
+          "unit": "%"
+        },
+        "supplier_name": null,
+        "operator_name": null,
+        "remarks": null
+      },
+      {
+        "sample_name": "Bagasse",
+        "date_period": "November 2024",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 49.98,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 2275.72,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 4.22,
+          "unit": "%"
+        },
+        "supplier_name": null,
+        "operator_name": null,
+        "remarks": null
+      },
+      {
+        "sample_name": "Bagasse",
+        "date_period": "December 2024",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 49.95,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 2277.46,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 4.08,
+          "unit": "%"
+        },
+        "supplier_name": null,
+        "operator_name": null,
+        "remarks": null
+      },
+      {
+        "sample_name": "Bagasse",
+        "date_period": "January 2025",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 49.94,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 2277.92,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 3.68,
+          "unit": "%"
+        },
+        "supplier_name": null,
+        "operator_name": null,
+        "remarks": null
+      },
+      {
+        "sample_name": "Bagasse",
+        "date_period": "February 2025",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 49.93,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 2278.5,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 3.91,
+          "unit": "%"
+        },
+        "supplier_name": null,
+        "operator_name": null,
+        "remarks": null
+      },
+      {
+        "sample_name": "Bagasse",
+        "date_period": "March 2025",
+        "sample_quantity": null,
+        "moisture_content": {
+          "value": 49.93,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 2278.62,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 3.67,
+          "unit": "%"
+        },
+        "supplier_name": null,
+        "operator_name": null,
+        "remarks": null
+      }
+    ]
+  }
+}

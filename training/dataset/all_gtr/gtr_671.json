@@ -1,0 +1,63 @@
+{
+  "rotation_needed": true,
+  "degree": 90,
+  "document_title": "ANNEXURE - B INVOICE",
+  "document_type": "Electricity Generation",
+  "report_period": {
+    "value": "NOVEMBER - 2024"
+  },
+  "invoice_date": {
+    "value": "01/12/2024"
+  },
+  "invoice_number": "Invoice No-02",
+  "company_name": "Padm. Dr. D.Y.Patil S S K Ltd",
+  "customer_name": "MSEDCL - Maharashtra State Electricity Distribution Company Ltd.",
+  "total_amount": {
+    "value": "23956258",
+    "unit": "Rs."
+  },
+  "total_quantity": {
+    "value": "3299760",
+    "unit": "KWH"
+  },
+  "entries": [
+    {
+      "kwh": {
+        "value": "3299760",
+        "unit": "KWH"
+      },
+      "kvarh": {
+        "value": "837.60",
+        "unit": "KVARH"
+      },
+      "multiplying_factor": {
+        "value": "1500",
+        "unit": null
+      },
+      "consumption": {
+        "value": "3299760",
+        "unit": "KWH"
+      },
+      "rate": {
+        "value": "7.26",
+        "unit": "Rs."
+      },
+      "amount": {
+        "value": "23956258",
+        "unit": "Rs."
+      }
+    }
+  ],
+  "additional_fields": {
+    "meter_make": "Schneider ER 300 P",
+    "meter_serial_number": "24007736",
+    "installed_generation_capacity": "20.65 MW",
+    "surplus_generation_season": "15.05 MW",
+    "surplus_generation_off_season": "18.2 MW",
+    "ct_ratio": "150/1 Amp",
+    "pt_ratio": "110 KV /110V",
+    "kvarh_percentage_delivered_above_36": "2.07%",
+    "penalty_per_kvarh": "0.25",
+    "total_penalty": "0"
+  }
+}

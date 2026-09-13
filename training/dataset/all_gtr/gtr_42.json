@@ -1,0 +1,1981 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 4,
+      "image_index": 4,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 5,
+      "image_index": 5,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 6,
+      "image_index": 6,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Renewal of Authorization for operating a facility for 'Collection, Generation, Storage, Disposal,' of Hazardous Wastes as per the Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016",
+    "document_type": "Renewal of Authorization for Hazardous Wastes",
+    "report_period": {
+      "value": "10/08/2023 to 31/03/2026"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "10/08/2023"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Trident ltd (htd)",
+    "plant_name": "Trident complex",
+    "location": "Trident complex, mansa-road, vill-dhaula, Barnala, Barnala-148107",
+    "registration_number": "R12BAR22182",
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "HWM/renew/BAR/2023/22568838",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "date_period": null,
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Schedule I 5.1-Used or spent oil",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Authorized mode of disposal: Generation, Collection, Storage, Disposal",
+        "quantity": {
+          "value": 2.0,
+          "unit": "KL/Annum"
+        },
+        "units": {
+          "value": "KL/Annum",
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": null,
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Schedule I 5.2-Wastes or residues containing oil",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Authorized mode of disposal: Generation, Collection, Storage, Disposal",
+        "quantity": {
+          "value": 100.0,
+          "unit": "Number/Annum"
+        },
+        "units": {
+          "value": "Number/Annum",
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": null,
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Schedule I 5.2-Wastes or residues containing oil",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Authorized mode of disposal: Generation, Collection, Storage, Disposal",
+        "quantity": {
+          "value": 1.2,
+          "unit": "T/Annum"
+        },
+        "units": {
+          "value": "T/Annum",
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": null,
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Schedule I 35.3-Chemical sludge from waste water treatment",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Authorized mode of disposal: Generation, Collection, Storage, Disposal",
+        "quantity": {
+          "value": 7.3,
+          "unit": "T/Annum"
+        },
+        "units": {
+          "value": "T/Annum",
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": null,
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Schedule I 33.1-Empty barrels/containers/liners contaminated with hazardous chemicals /wastes",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Authorized mode of disposal: Generation, Collection, Storage, Disposal",
+        "quantity": {
+          "value": 212.0,
+          "unit": "T/Annum"
+        },
+        "units": {
+          "value": "T/Annum",
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": null,
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Schedule I 36.2-Spent carbon or filter medium",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Authorized mode of disposal: Generation, Collection, Storage, Disposal",
+        "quantity": {
+          "value": 7.0,
+          "unit": "T/Annum"
+        },
+        "units": {
+          "value": "T/Annum",
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": null,
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Schedule I 15.2-Discarded asbestos",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Authorized mode of disposal: Generation, Collection, Storage, Disposal",
+        "quantity": {
+          "value": 7.5,
+          "unit": "T/Annum"
+        },
+        "units": {
+          "value": "T/Annum",
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      },
+      {
+        "date_period": null,
+        "date_of_receipt": null,
+        "timestamp": null,
+        "shift": null,
+        "entry_id": null,
+        "item_description": null,
+        "material_description": "Schedule I 37.3-Concentration or evaporation residues",
+        "product_name": null,
+        "machine_name": null,
+        "equipment_name": null,
+        "sample_name": null,
+        "supplier_name": null,
+        "customer_name": null,
+        "item_code": null,
+        "hsn_sac": null,
+        "truck_vehicle_no": null,
+        "conveyor_id": null,
+        "operator_name": null,
+        "remarks": "Authorized mode of disposal: Generation, Collection, Storage, Disposal",
+        "quantity": {
+          "value": 1000.0,
+          "unit": "T/Annum"
+        },
+        "units": {
+          "value": "T/Annum",
+          "unit": null
+        },
+        "weight": {
+          "value": null,
+          "unit": null
+        },
+        "amount": {
+          "value": null,
+          "unit": null
+        },
+        "gross_amount": {
+          "value": null,
+          "unit": null
+        },
+        "net_amount": {
+          "value": null,
+          "unit": null
+        },
+        "price": {
+          "value": null,
+          "unit": null
+        },
+        "rate": {
+          "value": null,
+          "unit": null
+        },
+        "consumption": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": null,
+          "unit": null
+        },
+        "generation": {
+          "value": null,
+          "unit": null
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "closing_stock": {
+          "value": null,
+          "unit": null
+        },
+        "received_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "inwards": {
+          "value": null,
+          "unit": null
+        },
+        "outwards": {
+          "value": null,
+          "unit": null
+        },
+        "balance": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading": {
+          "value": null,
+          "unit": null
+        },
+        "meter_reading_difference": {
+          "value": null,
+          "unit": null
+        },
+        "multiplying_factor": {
+          "value": null,
+          "unit": null
+        },
+        "kwh": {
+          "value": null,
+          "unit": "KWH"
+        },
+        "kvah": {
+          "value": null,
+          "unit": "KVAH"
+        },
+        "kvarh": {
+          "value": null,
+          "unit": "KVARH"
+        },
+        "peak_hour": {
+          "value": null,
+          "unit": null
+        },
+        "night_hour": {
+          "value": null,
+          "unit": null
+        },
+        "amd": {
+          "value": null,
+          "unit": null
+        },
+        "supply_voltage": {
+          "value": null,
+          "unit": "kV"
+        },
+        "sanctioned_load": {
+          "value": null,
+          "unit": null
+        },
+        "contract_demand": {
+          "value": null,
+          "unit": null
+        },
+        "billed_demand": {
+          "value": null,
+          "unit": null
+        },
+        "average_pf": {
+          "value": null,
+          "unit": null
+        },
+        "pressure": {
+          "value": null,
+          "unit": "bar"
+        },
+        "temperature": {
+          "value": null,
+          "unit": "C"
+        },
+        "flow_rate": {
+          "value": null,
+          "unit": "TPH"
+        },
+        "runtime": {
+          "value": null,
+          "unit": null
+        },
+        "power": {
+          "value": null,
+          "unit": null
+        },
+        "capacity": {
+          "value": null,
+          "unit": null
+        },
+        "nominal_capacity": {
+          "value": null,
+          "unit": null
+        },
+        "gcv": {
+          "value": null,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "volatile_matter": {
+          "value": null,
+          "unit": "%"
+        },
+        "fixed_carbon": {
+          "value": null,
+          "unit": "%"
+        },
+        "composition_percent": {
+          "value": null,
+          "unit": "%"
+        },
+        "sample_quantity": {
+          "value": null,
+          "unit": null
+        },
+        "total_trucks": {
+          "value": null,
+          "unit": null
+        },
+        "net_weight": {
+          "value": null,
+          "unit": "MT"
+        },
+        "steam_generated": {
+          "value": null,
+          "unit": null
+        },
+        "feedwater": {
+          "value": null,
+          "unit": null
+        },
+        "condensate": {
+          "value": null,
+          "unit": null
+        },
+        "bleed_steam": {
+          "value": null,
+          "unit": null
+        },
+        "extraction_steam": {
+          "value": null,
+          "unit": null
+        },
+        "fuel_use": {
+          "value": null,
+          "unit": null
+        },
+        "pulp_levels": {
+          "value": null,
+          "unit": null
+        }
+      }
+    ],
+    "additional_fields": {
+      "capital_investment": "74583.37 lakhs",
+      "industry_category": "Red",
+      "scale_of_industry": "Large",
+      "office_district": "Barnala",
+      "applicant_name_designation": "Mr Mohit Soni, (Managing Director)",
+      "authorization_type": "renew"
+    }
+  }
+}

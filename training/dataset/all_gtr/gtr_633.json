@@ -1,0 +1,194 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Energy, Production & Operational",
+  "data_category": "Log book, Electricity Generation/Consumption",
+  "template": "energy/generation_report.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": "2025-04-01 to 2025-05-01"
+    },
+    "entries": [
+      {
+        "date_period": "2025-04-01",
+        "meter_reading_start": 62953.2,
+        "meter_reading_end": 63137.1,
+        "power_generation": 183.9
+      },
+      {
+        "date_period": "2025-04-02",
+        "meter_reading_start": 63137.1,
+        "meter_reading_end": 63305.9,
+        "power_generation": 168.8
+      },
+      {
+        "date_period": "2025-04-03",
+        "meter_reading_start": 63305.9,
+        "meter_reading_end": 63497.6,
+        "power_generation": 191.7
+      },
+      {
+        "date_period": "2025-04-04",
+        "meter_reading_start": 63497.6,
+        "meter_reading_end": 63664.9,
+        "power_generation": 167.3
+      },
+      {
+        "date_period": "2025-04-05",
+        "meter_reading_start": 63664.9,
+        "meter_reading_end": 63845.4,
+        "power_generation": 180.5
+      },
+      {
+        "date_period": "2025-04-06",
+        "meter_reading_start": 63845.4,
+        "meter_reading_end": 64025.9,
+        "power_generation": 180.5
+      },
+      {
+        "date_period": "2025-04-07",
+        "meter_reading_start": 64025.9,
+        "meter_reading_end": 64212.9,
+        "power_generation": 187.0
+      },
+      {
+        "date_period": "2025-04-08",
+        "meter_reading_start": 64212.9,
+        "meter_reading_end": 64398.8,
+        "power_generation": 185.9
+      },
+      {
+        "date_period": "2025-04-09",
+        "meter_reading_start": 64398.8,
+        "meter_reading_end": 64571.5,
+        "power_generation": 172.7
+      },
+      {
+        "date_period": "2025-04-10",
+        "meter_reading_start": 64571.5,
+        "meter_reading_end": 64748.0,
+        "power_generation": 176.5
+      },
+      {
+        "date_period": "2025-04-11",
+        "meter_reading_start": 64748.0,
+        "meter_reading_end": 64922.8,
+        "power_generation": 174.8
+      },
+      {
+        "date_period": "2025-04-12",
+        "meter_reading_start": 64922.8,
+        "meter_reading_end": 65102.2,
+        "power_generation": 179.4
+      },
+      {
+        "date_period": "2025-04-13",
+        "meter_reading_start": 65102.2,
+        "meter_reading_end": 65289.3,
+        "power_generation": 187.1
+      },
+      {
+        "date_period": "2025-04-14",
+        "meter_reading_start": 65289.3,
+        "meter_reading_end": 65472.6,
+        "power_generation": 183.3
+      },
+      {
+        "date_period": "2025-04-15",
+        "meter_reading_start": 65472.6,
+        "meter_reading_end": 65475.6,
+        "power_generation": 3.0
+      },
+      {
+        "date_period": "2025-04-16",
+        "meter_reading_start": 65475.6,
+        "meter_reading_end": 65509.5,
+        "power_generation": 33.9
+      },
+      {
+        "date_period": "2025-04-17",
+        "meter_reading_start": 65509.5,
+        "meter_reading_end": 65655.7,
+        "power_generation": 146.2
+      },
+      {
+        "date_period": "2025-04-18",
+        "meter_reading_start": 65655.7,
+        "meter_reading_end": 65810.7,
+        "power_generation": 155.0
+      },
+      {
+        "date_period": "2025-04-19",
+        "meter_reading_start": 65810.7,
+        "meter_reading_end": 65997.5,
+        "power_generation": 186.8
+      },
+      {
+        "date_period": "2025-04-20",
+        "meter_reading_start": 65997.5,
+        "meter_reading_end": 66182.4,
+        "power_generation": 184.9
+      },
+      {
+        "date_period": "2025-04-21",
+        "meter_reading_start": 66182.4,
+        "meter_reading_end": 66360.1,
+        "power_generation": 177.7
+      },
+      {
+        "date_period": "2025-04-22",
+        "meter_reading_start": 66360.1,
+        "meter_reading_end": 66534.4,
+        "power_generation": 174.3
+      },
+      {
+        "date_period": "2025-04-23",
+        "meter_reading_start": 66534.4,
+        "meter_reading_end": 66729.3,
+        "power_generation": 194.9
+      },
+      {
+        "date_period": "2025-04-24",
+        "meter_reading_start": 66729.3,
+        "meter_reading_end": 66917.5,
+        "power_generation": 188.2
+      },
+      {
+        "date_period": "2025-04-25",
+        "meter_reading_start": 66917.5,
+        "meter_reading_end": 67052.7,
+        "power_generation": 135.2
+      },
+      {
+        "date_period": "2025-04-26",
+        "meter_reading_start": 67052.7,
+        "meter_reading_end": 67169.7,
+        "power_generation": 117.0
+      },
+      {
+        "date_period": "2025-04-27",
+        "meter_reading_start": 67169.7,
+        "meter_reading_end": 67336.4,
+        "power_generation": 166.7
+      },
+      {
+        "date_period": "2025-04-28",
+        "meter_reading_start": 67336.4,
+        "meter_reading_end": 67507.9,
+        "power_generation": 171.5
+      },
+      {
+        "date_period": "2025-04-29",
+        "meter_reading_start": 67507.9,
+        "meter_reading_end": 67705.3,
+        "power_generation": 197.4
+      },
+      {
+        "date_period": "2025-04-30",
+        "meter_reading_start": 67705.3,
+        "meter_reading_end": 67872.9,
+        "power_generation": 167.6
+      }
+    ]
+  }
+}

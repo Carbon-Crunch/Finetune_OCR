@@ -1,0 +1,80 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Stock Summary",
+  "extraction_rules": "This is a tabular stock register or summary. Extract EVERY row from the table into the entries array. Each object in entries represents one date, period, or fuel type record of fuel stock.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "1-Oct-25 to 31-Dec-25"
+    },
+    "entries": [
+      {
+        "fuel_name": "COAL",
+        "fuel_type": null,
+        "date_period": "October",
+        "opening_balance": {
+          "value": "853.1900",
+          "unit": "MT"
+        },
+        "received_quantity": null,
+        "inwards": {
+          "value": "0",
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": "0",
+          "unit": "MT"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": "853.1900",
+          "unit": "MT"
+        }
+      },
+      {
+        "fuel_name": "COAL",
+        "fuel_type": null,
+        "date_period": "November",
+        "opening_balance": {
+          "value": "853.1900",
+          "unit": "MT"
+        },
+        "received_quantity": null,
+        "inwards": {
+          "value": "971.1900",
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": "118.0000",
+          "unit": "MT"
+        },
+        "consumption": null,
+        "closing_balance": {
+          "value": "853.1900",
+          "unit": "MT"
+        }
+      },
+      {
+        "fuel_name": "COAL",
+        "fuel_type": null,
+        "date_period": "December",
+        "opening_balance": {
+          "value": "853.1900",
+          "unit": "MT"
+        },
+        "received_quantity": null,
+        "inwards": {
+          "value": "1007.6800",
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": "1860.8700",
+          "unit": "MT"
+        },
+        "consumption": null,
+        "closing_balance": null
+      }
+    ]
+  }
+}

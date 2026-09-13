@@ -1,0 +1,430 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Coal Receipt Register & Quality Register / Coal Consignment Report / Belt Conveyor Sample Report",
+  "extraction_rules": "This is a tabular register or report for incoming coal. Extract EVERY row from the table into the entries array. Each object in entries represents one coal receipt, consignment, or belt conveyor sample record. If the table has 50 rows, the entries array must contain 50 objects.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "03-05-2024"
+    },
+    "entries": [
+      {
+        "date_period": "03-05-2024",
+        "truck_vehicle_no": "U.P.12 RT/5595",
+        "gcv": {
+          "value": 3000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 54,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "03-05-2024",
+        "truck_vehicle_no": "de",
+        "gcv": {
+          "value": 3020,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 52,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "04-05-2024",
+        "truck_vehicle_no": "R-J.07/GE1203",
+        "gcv": {
+          "value": 3557,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "04-05-2024",
+        "truck_vehicle_no": "R-J.07/CD-2779",
+        "gcv": {
+          "value": 3584,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": 6,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "08-05-2024",
+        "truck_vehicle_no": "R-J.07/GE1203",
+        "gcv": {
+          "value": 3633,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "08-05-2024",
+        "truck_vehicle_no": "R-J.07/GB-9042",
+        "gcv": {
+          "value": 3621,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "08-05-2024",
+        "truck_vehicle_no": "R-J.07/GC-3930",
+        "gcv": {
+          "value": 3652,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "10-05-2024",
+        "truck_vehicle_no": "R.J.07/GF-7211",
+        "gcv": {
+          "value": 3647,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "10-05-2024",
+        "truck_vehicle_no": "R.J.07/GE 1971",
+        "gcv": {
+          "value": 3653,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "12-05-2024",
+        "truck_vehicle_no": "B-R.02GD/4559",
+        "gcv": {
+          "value": 4350,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "12-05-2024",
+        "truck_vehicle_no": "B.R.02GD/5989",
+        "gcv": {
+          "value": 4296,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "12-05-2024",
+        "truck_vehicle_no": "B.R.02GD/1835",
+        "gcv": {
+          "value": 4290,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "12-05-2024",
+        "truck_vehicle_no": "R.J.07/GE/7079",
+        "gcv": {
+          "value": 3661,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 10,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "13-05-2024",
+        "truck_vehicle_no": "B.R.26GA/8030",
+        "gcv": {
+          "value": 4289,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "13-05-2024",
+        "truck_vehicle_no": "B.R. 24GB/9311",
+        "gcv": {
+          "value": 4298,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 39,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "18-05-2024",
+        "truck_vehicle_no": "JH.02 AV/3989",
+        "gcv": {
+          "value": 4249,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 40,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "20-05-2024",
+        "truck_vehicle_no": "B.R.02GD/1611",
+        "gcv": {
+          "value": 4003,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 43,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "20-05-2024",
+        "truck_vehicle_no": "B.R.02GD/1835",
+        "gcv": {
+          "value": 4000,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 43,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "20-05-2024",
+        "truck_vehicle_no": "B.R.02GC/6626",
+        "gcv": {
+          "value": 3998,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 43,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "20-05-2024",
+        "truck_vehicle_no": "B.R.02GD/1456",
+        "gcv": {
+          "value": 4005,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 43,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "21-05-2024",
+        "truck_vehicle_no": "R.J.07GE/0887",
+        "gcv": {
+          "value": 3621,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 12,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "21-05-2024",
+        "truck_vehicle_no": "R.J.07GE/1202",
+        "gcv": {
+          "value": 3647,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 12,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "23-05-2024",
+        "truck_vehicle_no": "R.J.13GC/2196",
+        "gcv": {
+          "value": 3620,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 14,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "23-05-2024",
+        "truck_vehicle_no": "B.R.02GA/0269",
+        "gcv": {
+          "value": 3100,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 52,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "23-05-2024",
+        "truck_vehicle_no": "B.R.02GD/4555",
+        "gcv": {
+          "value": 3150,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 52,
+          "unit": "%"
+        }
+      },
+      {
+        "date_period": "23-05-2024",
+        "truck_vehicle_no": "B.R.02GD/3337",
+        "gcv": {
+          "value": 3570,
+          "unit": "kcal/kg"
+        },
+        "moisture_content": {
+          "value": null,
+          "unit": "%"
+        },
+        "ash_content": {
+          "value": 32,
+          "unit": "%"
+        }
+      }
+    ]
+  }
+}

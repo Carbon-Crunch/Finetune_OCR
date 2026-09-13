@@ -1,0 +1,239 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Fuel",
+  "data_category": "Fuel Lab Test Report / Coal Laboratory Test Report",
+  "extraction_rules": "This is a tabular lab test report. Extract EVERY row from the table into the entries array. Each object in entries represents one sample test record.",
+  "extracted_fields": {
+    "report_period": {
+      "value": "July - September 2024"
+    },
+    "entries": [
+      {
+        "sample_name": "Coal - Sample 1",
+        "date_period": "08/07/2024",
+        "sample_quantity": {
+          "value": 41850.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 18.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3600.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 14.0,
+          "unit": "%"
+        },
+        "supplier_name": "Reyansh Corporations",
+        "operator_name": null,
+        "remarks": "Truck no.- RJ32GB88305, Bill no-GUJ/24-25/096, Date-03/07/2024"
+      },
+      {
+        "sample_name": "Coal - Sample 2",
+        "date_period": "10/08/2024",
+        "sample_quantity": {
+          "value": 33020.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 18.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3650.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "supplier_name": "Northern Coal Fields Ltd.",
+        "operator_name": null,
+        "remarks": "Truck no.- HR39C8167, Bill no-RD1220003464, Date-04/08/2024"
+      },
+      {
+        "sample_name": "Coal - Sample 3",
+        "date_period": "28/09/2024",
+        "sample_quantity": {
+          "value": 30110.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 15.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3600.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 16.0,
+          "unit": "%"
+        },
+        "supplier_name": "Northern Coal Fields Ltd.",
+        "operator_name": null,
+        "remarks": "Truck no.- UK08CA6126, Bill no-RD1420005129, Date-23/09/2024"
+      },
+      {
+        "sample_name": "Rick Husk - Sample 1",
+        "date_period": "02/07/2024",
+        "sample_quantity": {
+          "value": 16710.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 11.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3000.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 9.0,
+          "unit": "%"
+        },
+        "supplier_name": "Singhal Traders",
+        "operator_name": null,
+        "remarks": "Truck no.-Tractor Trally, Bill no-BOS/24-25/0470, Date-01/07/2024"
+      },
+      {
+        "sample_name": "Rick Husk - Sample 2",
+        "date_period": "26/07/2024",
+        "sample_quantity": {
+          "value": 13520.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 12.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3050.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 8.0,
+          "unit": "%"
+        },
+        "supplier_name": "Vinayak Traders",
+        "operator_name": null,
+        "remarks": "Truck no.-UP21CN6256, Bill no-VT/24-25/0459, Date-25/07/2024"
+      },
+      {
+        "sample_name": "Rick Husk - Sample 3",
+        "date_period": "20/09/2024",
+        "sample_quantity": {
+          "value": 23740.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 9.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 3050.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 8.0,
+          "unit": "%"
+        },
+        "supplier_name": "SHREE NARAYAN CHEMICALS",
+        "operator_name": null,
+        "remarks": "Truck no.-PB13BN4310, Bill no-824, Date-20/09/2024"
+      },
+      {
+        "sample_name": "RDF - Sample 1",
+        "date_period": "10/08/2024",
+        "sample_quantity": {
+          "value": 38645.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 46.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1500.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 25.0,
+          "unit": "%"
+        },
+        "supplier_name": "Baba Balaji Trading Company",
+        "operator_name": null,
+        "remarks": "Truck no.-HR55AP9841, Bill no-15, Date-10/08/2024"
+      },
+      {
+        "sample_name": "RDF - Sample 2",
+        "date_period": "29/08/2024",
+        "sample_quantity": {
+          "value": 40420.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 48.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1500.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 30.0,
+          "unit": "%"
+        },
+        "supplier_name": "SBC Minerals Private Limited",
+        "operator_name": null,
+        "remarks": "Truck no.-RJ09GC4527, Bill no-SUP/RDF/2425/34, Date-29/08/2024"
+      },
+      {
+        "sample_name": "RDF - Sample 3",
+        "date_period": "28/09/2024",
+        "sample_quantity": {
+          "value": 34130.0,
+          "unit": "kg"
+        },
+        "moisture_content": {
+          "value": 43.0,
+          "unit": "%"
+        },
+        "volatile_matter": null,
+        "fixed_carbon": null,
+        "gcv": {
+          "value": 1550.0,
+          "unit": "kcal/kg"
+        },
+        "ash_content": {
+          "value": 27.0,
+          "unit": "%"
+        },
+        "supplier_name": "Baba Balaji Trading Company",
+        "operator_name": null,
+        "remarks": "Truck no.-HR55AB3303, Bill no-146, Date-28/09/2024"
+      }
+    ]
+  }
+}

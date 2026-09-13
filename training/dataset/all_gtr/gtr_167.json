@@ -1,0 +1,147 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Boiler Log Book",
+  "registration_number": "GT 10559",
+  "entries": [
+    {
+      "date_period": "11-02-2025",
+      "shift": "7.00 AM",
+      "total_steam_generated": "3958",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "8.00 AM",
+      "total_steam_generated": "3958",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "9.00 AM",
+      "total_steam_generated": "3924",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "10.00 AM",
+      "total_steam_generated": "4156",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "11.00 AM",
+      "total_steam_generated": "3854",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "12.00 PM",
+      "total_steam_generated": "4088",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "1.00 PM",
+      "total_steam_generated": "4266",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "2.00 PM",
+      "total_steam_generated": "4058",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "3.00 PM",
+      "total_steam_generated": "4074",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "4.00 PM",
+      "total_steam_generated": "3981",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "5.00 PM",
+      "total_steam_generated": "3132",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "6.00 PM",
+      "total_steam_generated": "3941",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "7.00 PM",
+      "total_steam_generated": "3837",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "8.00 PM",
+      "total_steam_generated": "3887",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "9.00 PM",
+      "total_steam_generated": "3960",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "10.00 PM",
+      "total_steam_generated": "3449",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "11.00 PM",
+      "total_steam_generated": "3281",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "12.00 AM",
+      "total_steam_generated": "3881",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "1.00 AM",
+      "total_steam_generated": "4081",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "2.00 AM",
+      "total_steam_generated": "4001",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "3.00 AM",
+      "total_steam_generated": "3161",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "4.00 AM",
+      "total_steam_generated": "4016",
+      "total_feedwater": null
+    },
+    {
+      "date_period": "11-02-2025",
+      "shift": "6.00 AM",
+      "total_steam_generated": "3952",
+      "total_feedwater": null
+    }
+  ]
+}

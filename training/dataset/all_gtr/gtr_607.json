@@ -1,0 +1,85 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "document_title": "Item Issue/ Recd. Register",
+  "document_type": "Fuel Stock Register",
+  "report_period": {
+    "value": "01/Oct/2024 to 31/Dec/2024"
+  },
+  "company_name": "Genus Paper & Boards Ltd.",
+  "location": "Kanth Road, Aghwanpur, Moradabad, 244504",
+  "entries": [
+    {
+      "date_period": "31/Oct/2024",
+      "item_description": "DEOILED PADDY HUSK",
+      "quantity": {
+        "value": 201.996,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 201.996,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "20/Nov/2024",
+      "item_description": "DEOILED PADDY HUSK",
+      "quantity": {
+        "value": 40.01,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 40.01,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "21/Nov/2024",
+      "item_description": "DEOILED PADDY HUSK",
+      "quantity": {
+        "value": 39.58,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 39.58,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "22/Nov/2024",
+      "item_description": "DEOILED PADDY HUSK",
+      "quantity": {
+        "value": 40.12,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 40.12,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "23/Nov/2024",
+      "item_description": "DEOILED PADDY HUSK",
+      "quantity": {
+        "value": 40.12,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 40.12,
+        "unit": "MT"
+      }
+    },
+    {
+      "date_period": "24/Nov/2024",
+      "item_description": "DEOILED PADDY HUSK",
+      "quantity": {
+        "value": 39.88,
+        "unit": "MT"
+      },
+      "consumption": {
+        "value": 39.88,
+        "unit": "MT"
+      }
+    }
+  ]
+}

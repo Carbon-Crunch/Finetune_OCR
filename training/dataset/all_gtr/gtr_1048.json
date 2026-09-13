@@ -1,0 +1,143 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 3,
+      "image_index": 3,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Fuel",
+  "data_category": "Fuel Purchase Invoice / Diesel Purchase Invoice",
+  "extraction_rules": "This is a tabular invoice document. Extract EVERY row from the table into the entries array. Each object in entries represents one line item.",
+  "extracted_fields": {
+    "invoice_date": {
+      "value": "Apr 1, 2025"
+    },
+    "supplier_name": "GAIL (INDIA) LTD.",
+    "entries": [
+      {
+        "item_description": "Foreign Currency Component - GCV based",
+        "material_description": "RLNG",
+        "item_code": "2711.21.00",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "5024.228",
+          "unit": "MMBTU (Gross)"
+        },
+        "units": {
+          "value": "MMBTU (Gross)",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "5363865.81",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "INR Component - GCV based",
+        "material_description": "RLNG",
+        "item_code": "2711.21.00",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "5024.228",
+          "unit": "MMBTU (Gross)"
+        },
+        "units": {
+          "value": "MMBTU (Gross)",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "924355.41",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Foreign Currency Component - GCV based",
+        "material_description": "RLNG",
+        "item_code": "2711.21.00",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "63600.000",
+          "unit": "MMBTU (Gross)"
+        },
+        "units": {
+          "value": "MMBTU (Gross)",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "63246384.00",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "INR Component - GCV based",
+        "material_description": "RLNG",
+        "item_code": "2711.21.00",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "63600.000",
+          "unit": "MMBTU (Gross)"
+        },
+        "units": {
+          "value": "MMBTU (Gross)",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "11575174.56",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "Foreign Currency Component - GCV based",
+        "material_description": "RLNG",
+        "item_code": "2711.21.00",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "1861.456",
+          "unit": "MMBTU (Gross)"
+        },
+        "units": {
+          "value": "MMBTU (Gross)",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "1987290.43",
+          "unit": "Rs."
+        }
+      },
+      {
+        "item_description": "INR Component - GCV based",
+        "material_description": "RLNG",
+        "item_code": "2711.21.00",
+        "hsn_sac": null,
+        "quantity": {
+          "value": "1861.456",
+          "unit": "MMBTU (Gross)"
+        },
+        "units": {
+          "value": "MMBTU (Gross)",
+          "unit": null
+        },
+        "gross_amount": {
+          "value": "342469.96",
+          "unit": "Rs."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "data_type": "Production & Operational",
+  "data_category": "Turbine Capacity Log",
+  "boilerplate": "production/turbine_capacity_log.json",
+  "extracted_fields": {
+    "report_period": {
+      "value": null
+    },
+    "entries": [
+      {
+        "turbine_name": "4-5 MW Turbine",
+        "nominal_capacity": {
+          "value": "4.5",
+          "unit": "MW"
+        },
+        "generation_capacity": {
+          "value": null,
+          "unit": "MW"
+        }
+      }
+    ]
+  }
+}

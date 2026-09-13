@@ -1,0 +1,54 @@
+{
+  "rotation_needed": true,
+  "degree": 270,
+  "multi_template_extraction": true,
+  "document_id": "947",
+  "extractions": [
+    {
+      "data_type": "Energy",
+      "data_category": "Steam Distribution Log",
+      "boilerplate_used": "energy/steam_distribution_log.json",
+      "data": {
+        "report_period": null,
+        "entries": [
+          {
+            "date_period": "Apr-24",
+            "turbine_inlet_steam": "1600 Tonne",
+            "extraction_steam": null,
+            "distribution_to_process": null
+          },
+          {
+            "date_period": "May-24",
+            "turbine_inlet_steam": "560 Tonne",
+            "extraction_steam": null,
+            "distribution_to_process": null
+          },
+          {
+            "date_period": "June-24",
+            "turbine_inlet_steam": "NA",
+            "extraction_steam": null,
+            "distribution_to_process": null
+          },
+          {
+            "date_period": "July-24",
+            "turbine_inlet_steam": "NA",
+            "extraction_steam": null,
+            "distribution_to_process": null
+          },
+          {
+            "date_period": "August-24",
+            "turbine_inlet_steam": "NA",
+            "extraction_steam": null,
+            "distribution_to_process": null
+          },
+          {
+            "date_period": "Sept-24",
+            "turbine_inlet_steam": "NA",
+            "extraction_steam": null,
+            "distribution_to_process": null
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "page_orientations": [
+    {
+      "page_number": 1,
+      "image_index": 1,
+      "rotation_needed": false,
+      "degree": 0
+    },
+    {
+      "page_number": 2,
+      "image_index": 2,
+      "rotation_needed": false,
+      "degree": 0
+    }
+  ],
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "KAJARIA CERAMICS LIMITED., SKHT - L1 GAS CONSUMPTION REPORT-(2024-25) & 2024-25 GAS REPORT (SCM)-L2",
+    "document_type": "Gas Consumption Report",
+    "report_period": {
+      "value": "2024-25"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": null
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "KAJARIA CERAMICS LIMITED.",
+    "plant_name": "SKHT",
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": 11958203.35,
+      "unit": "SCM"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 531816.16,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Apr-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 2258.72,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Apr-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 534074.87,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 538064.71,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 2648.05,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 540712.76,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 513514.89,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 3081.74,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 516596.63,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 518973.73,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 2271.59,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 521245.32,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 531400.6,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 3424.72,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 534825.32,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 507585.76,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 1531.97,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 509117.73,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 535108.7,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 3547.64,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 538656.34,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 209211.73,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 3006.33,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 212218.05,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 546494.13,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 2540.98,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 549035.1,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 538144.71,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 1415.12,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 539559.82,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 493180.65,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 3101.03,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 496281.68,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 561578.48,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 1024.27,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "machine_name": "L1 TOTAL",
+        "consumption": {
+          "value": 562602.75,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "TOTAL (L1)",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 6025074.22,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "TOTAL (L1)",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 29852.13,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "TOTAL (L1)",
+        "machine_name": "L1 TOTAL SCM",
+        "consumption": {
+          "value": 6054926.35,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "AVG / MONTH (L1)",
+        "machine_name": "L1 KILN",
+        "consumption": {
+          "value": 502089.52,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "AVG / MONTH (L1)",
+        "machine_name": "L1 DRIER",
+        "consumption": {
+          "value": 2487.68,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "AVG / MONTH (L1)",
+        "machine_name": "L1 TOTAL SCM",
+        "consumption": {
+          "value": 504577.2,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Apr-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 493942.31,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Apr-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 8724.61,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Apr-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 502666.92,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 486127.98,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 13200.01,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "May-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 499327.99,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 484050.64,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 15201.98,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jun-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 499252.62,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 477113.49,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 18312.62,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jul-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 495426.11,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 501360.27,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 11181.14,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Aug-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 512541.41,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 485242.44,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 8515.74,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Sep-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 493758.18,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 489398.31,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 17687.25,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Oct-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 507085.56,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 475578.35,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 21536.28,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Nov-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 497114.63,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 504095.0,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 19895.25,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Dec-24",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 523990.25,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 449477.06,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 14016.45,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Jan-25",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 463493.51,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 414415.31,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 8687.95,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Feb-25",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 423103.26,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 474409.61,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 11107.22,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "Mar-25",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 485516.83,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "TOTAL (L2)",
+        "machine_name": "L2 KILN -2",
+        "consumption": {
+          "value": 5735211.0,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "TOTAL (L2)",
+        "machine_name": "L2 DRYER-2",
+        "consumption": {
+          "value": 168066.0,
+          "unit": "SCM"
+        }
+      },
+      {
+        "date_period": "TOTAL (L2)",
+        "machine_name": "L2 TOTAL",
+        "consumption": {
+          "value": 5903277.0,
+          "unit": "SCM"
+        }
+      }
+    ],
+    "additional_fields": {}
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "multi_template_extraction": true,
+  "document_id": "844",
+  "extractions": [
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Production Summary",
+      "boilerplate_used": "production/production_summary.json",
+      "data": {
+        "report_period": {
+          "value": "12/03/24"
+        },
+        "entries": [
+          {
+            "product_name": "Base Body",
+            "date_period": "12/03/24",
+            "opening_stock": {
+              "value": "807",
+              "unit": "MT"
+            }
+          },
+          {
+            "product_name": "Top Body",
+            "date_period": "12/03/24",
+            "opening_stock": {
+              "value": "690",
+              "unit": "MT"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Production & Operational",
+      "data_category": "Machine Consumption Summary",
+      "boilerplate_used": "production/machine_consumption_summary.json",
+      "data": {
+        "report_period": {
+          "value": "12/03/24"
+        },
+        "entries": [
+          {
+            "machine_name": "Spray Dryer ATI 065",
+            "date_period": "12/03/24",
+            "machine_consumption": {
+              "value": "28124",
+              "unit": "MT"
+            },
+            "power_unit_per_tonne": {
+              "value": "103.39",
+              "unit": "kg/ton"
+            }
+          },
+          {
+            "machine_name": "Spray Dryer ATI 110",
+            "date_period": "12/03/24",
+            "machine_consumption": {
+              "value": "54079",
+              "unit": "MT"
+            },
+            "power_unit_per_tonne": {
+              "value": "103.40",
+              "unit": "kg/ton"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "data_type": "Fuel",
+      "data_category": "Daily Fuel Consumption",
+      "boilerplate_used": "fuel/daily_fuel_consumption.json",
+      "data": {
+        "report_period": {
+          "value": "12/03/24"
+        },
+        "entries": [
+          {
+            "date_period": "12/03/24",
+            "steam_coal_consumption": {
+              "value": "82212",
+              "unit": "MT"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

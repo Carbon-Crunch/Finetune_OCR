@@ -1,0 +1,510 @@
+{
+  "rotation_needed": true,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "Information for Cost Audit - Cane Crushing, Bagasse production & Bagasse Consumption 2024-25",
+    "document_type": "Cost Audit Information Report",
+    "report_period": {
+      "value": "Fin. Year 2024-25"
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "2025-03-31"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "Sahakarmaharshi Bhausaheb Thorat S. S. K. Ltd. Amrutnagar",
+    "plant_name": null,
+    "location": "Amrutnagar",
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": null,
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": 905333.42,
+      "unit": "MT"
+    },
+    "entries": [
+      {
+        "date_period": "Apr-24",
+        "quantity": {
+          "value": 79398.945,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 7455.534,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 20598.377,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 20659.65,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 285.39,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 7108.87,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 7394.261,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 18 | Boiler 1: 9768.31223 MT | Boiler 2: 10891.3378 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "May-24",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 7108.871,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 672.951,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 2 | Boiler 1: 0.000 MT | Boiler 2: 672.951 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Jun-24",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 0 | Boiler 1: 0.000 MT | Boiler 2: 0.000 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Jul-24",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 0 | Boiler 1: 0.000 MT | Boiler 2: 0.000 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Aug-24",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 0 | Boiler 1: 0.000 MT | Boiler 2: 0.000 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Sep-24",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 0 | Boiler 1: 0.000 MT | Boiler 2: 0.000 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Oct-24",
+        "quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 0 | Boiler 1: 0.000 MT | Boiler 2: 0.000 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Nov-24",
+        "quantity": {
+          "value": 88220.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 6435.92,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 22955.388,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 4248.488,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 26821.315,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 382.56,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 2187.43,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 2569.993,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 26 | Boiler 1: 13754.488 MT | Boiler 2: 13066.827 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Dec-24",
+        "quantity": {
+          "value": 230440.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 2187.433,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 59721.547,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 54943.502,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 2600.63,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 4364.848,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 2181.11,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 31 | Boiler 1: 27947.180 MT | Boiler 2: 26996.322 MT | Oliver: 0 MT | Saved: 4784.37 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Jan-25",
+        "quantity": {
+          "value": 230140.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 4364.848,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 59896.409,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 53453.5386,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 5503.93,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 5303.788,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 4364.848,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 31 | Boiler 1: 27147.984 MT | Boiler 2: 26305.545 MT | Oliver: 0 MT | Saved: 6442.87 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Feb-25",
+        "quantity": {
+          "value": 186070.0,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 5303.788,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 48458.188,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 126.7576,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 44538.606,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 2926.76,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 6222.8097,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 4957.26,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 28 | Boiler 1: 22447.685 MT | Boiler 2: 22090.921 MT | Oliver: 0 MT | Saved: 4266.11 MT | Loss due to Driage: 73.8007 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Mar-25",
+        "quantity": {
+          "value": 91064.477,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": 6222.81,
+          "unit": "MT"
+        },
+        "production": {
+          "value": 24199.248,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 2029.08,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 26309.906,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 0.0,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 4112.152,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 4112.152,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 31 | Boiler 1: 10611.387 MT | Boiler 2: 15698.519 MT | Oliver: 0 MT | Saved: 0 MT | Loss due to Driage: 0 MT | Check: 0.000"
+      },
+      {
+        "date_period": "Total",
+        "quantity": {
+          "value": 905333.42,
+          "unit": "MT"
+        },
+        "opening_stock": {
+          "value": null,
+          "unit": null
+        },
+        "production": {
+          "value": 235829.16,
+          "unit": "MT"
+        },
+        "received_quantity": {
+          "value": 6404.3256,
+          "unit": "MT"
+        },
+        "consumption": {
+          "value": 227399.469,
+          "unit": "MT"
+        },
+        "outwards": {
+          "value": 11699.27,
+          "unit": "MT"
+        },
+        "closing_stock": {
+          "value": 8515.297,
+          "unit": "MT"
+        },
+        "balance": {
+          "value": 8515.297,
+          "unit": "MT"
+        },
+        "remarks": "Days Worked: 167 | Boiler 1: 111677.046 MT | Boiler 2: 115722.423 MT | Oliver: 0 MT | Saved: 15493.35 MT | Loss due to Driage: 73.8007 MT | Check: 0"
+      }
+    ],
+    "additional_fields": {
+      "contact_email": "nilesh@dvjasso.com"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "rotation_needed": false,
+  "degree": 0,
+  "data_type": "Generic",
+  "data_category": "Generic Fallback Document",
+  "extraction_rules": "This is a generic fallback boilerplate for documents that do not match any specific category. Extract ALL available data from the document. For tabular documents, extract EVERY row from the table into the entries array. For non-tabular documents, extract all key-value pairs, dates, amounts, measurements, and relevant text fields. Be comprehensive and capture all visible data.",
+  "extracted_fields": {
+    "document_title": "4.9 MW POWER PLANT FLOW DIAGRAM",
+    "document_type": "Process Flow Diagram",
+    "report_period": {
+      "value": null
+    },
+    "invoice_date": {
+      "value": null
+    },
+    "document_date": {
+      "value": "27/10/2005"
+    },
+    "supplier_name": null,
+    "customer_name": null,
+    "company_name": "GAYATRISHAKTI PAPER & BOARDS LTD",
+    "plant_name": "GSPBL",
+    "location": null,
+    "registration_number": null,
+    "invoice_number": null,
+    "bill_number": null,
+    "reference_number": "GSPBL/PW/010",
+    "total_amount": {
+      "value": null,
+      "unit": null
+    },
+    "total_quantity": {
+      "value": null,
+      "unit": null
+    },
+    "entries": [
+      {
+        "item_description": "Boiler",
+        "capacity": {
+          "value": "40",
+          "unit": "TPH"
+        },
+        "pressure": {
+          "value": "67",
+          "unit": "KG/CM2"
+        },
+        "temperature": {
+          "value": "490",
+          "unit": "C"
+        }
+      },
+      {
+        "item_description": "Back Pressure Turbine",
+        "capacity": {
+          "value": "4.9",
+          "unit": "MW"
+        }
+      },
+      {
+        "item_description": "BFW Pump",
+        "capacity": {
+          "value": "36.7",
+          "unit": "M3/Hr"
+        }
+      },
+      {
+        "item_description": "D.M. Water Storage Tank",
+        "capacity": {
+          "value": "100",
+          "unit": "M3"
+        }
+      },
+      {
+        "item_description": "G.I.D.C Water Storage Tank",
+        "capacity": {
+          "value": "1000",
+          "unit": "M3"
+        }
+      },
+      {
+        "item_description": "D.M. Plant",
+        "capacity": {
+          "value": "30",
+          "unit": "M3/Hr"
+        }
+      }
+    ],
+    "additional_fields": {
+      "steam_header_pressure": "5KG/CM2"
+    }
+  }
+}
