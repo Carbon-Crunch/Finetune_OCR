@@ -19,8 +19,8 @@ End-to-end vision-language pipeline for **industrial document orientation detect
    - Handles multi-page PDFs, handwritten power logs, tabular process logs, and low-contrast scanned receipts.
 3. **Optimized Inference**:
    - 4-bit quantized base model + LoRA adapter runs in **~7.5 GB VRAM**, making it deployable on consumer and enterprise GPUs (RTX 3090/4090, T4, V100, A10G, A100).
-4. **Interactive Web UI & REST API**:
-   - Ready-to-use FastAPI backend with drag-and-drop document inspection web interface.
+4. **Interactive OpenAPI /docs & REST API**:
+   - Ready-to-use FastAPI backend with interactive Swagger UI (`/docs`) and ReDoc (`/redoc`) for live schema inspection and test uploads.
 
 ---
 

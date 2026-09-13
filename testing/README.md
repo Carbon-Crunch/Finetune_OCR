@@ -10,7 +10,7 @@ The testing module provides a high-throughput, low-latency document processing s
 1. **Orientation Auto-Detection**: Classifies page rotation ($0^\circ, 90^\circ, 180^\circ, 270^\circ$).
 2. **Dynamic Rotation Correction**: Automatically rotates the document image in-memory using PIL before passing it to field extraction.
 3. **Structured Field Extraction**: Generates clean, strictly formatted JSON adhering to domain-specific boilerplates (energy invoices, meter readings, coal reports, boiler logs, etc.).
-4. **Interactive Web Interface**: A modern drag-and-drop web dashboard with live orientation preview and syntax-highlighted JSON inspection.
+4. **Interactive OpenAPI /docs**: Fully documented FastAPI Swagger UI and ReDoc with Pydantic response models and "Try it out" document upload testing.
 
 ---
 
@@ -66,8 +66,10 @@ The model uses base weights from Hugging Face (`unsloth/qwen2.5-vl-7b-instruct-u
 
 ## 🌐 API Reference
 
-### 1. Web Dashboard
-Navigate to `http://localhost:8000/` in your browser. Drag and drop any document (JPEG, PNG, or PDF) to view real-time orientation detection and extracted JSON data.
+### 1. Interactive Swagger UI & OpenAPI (`/docs` & `/redoc`)
+Navigate to `http://localhost:8000/` or `http://localhost:8000/docs` in your browser.
+- **Swagger UI (`/docs`)**: Interactive API documentation where you can inspect schemas and test endpoints via the "Try it out" button.
+- **ReDoc (`/redoc`)**: Comprehensive clean technical documentation for all endpoints and schemas.
 
 ### 2. `POST /api/ocr`
 Upload an image or document for orientation detection and structured extraction.
