@@ -1,6 +1,7 @@
 """
 Industrial OCR Model Server
 FastAPI + Qwen2.5-VL-7B with LoRA adapter
+Interactive Web UI (GET /) + OpenAPI Swagger Docs (GET /docs) + REST API
 """
 
 import io
@@ -14,7 +15,7 @@ from typing import Any, Dict
 
 import torch
 from fastapi import FastAPI, File, UploadFile
-from fastapi.responses import RedirectResponse
+from fastapi.responses import HTMLResponse
 from pydantic import BaseModel, Field
 from PIL import Image
 from peft import PeftModel
@@ -70,7 +71,8 @@ app = FastAPI(
     title="Industrial Document OCR API",
     description=(
         "FastAPI service for document orientation detection and structured field extraction "
-        "using fine-tuned Qwen2.5-VL-7B-Instruct."
+        "using fine-tuned Qwen2.5-VL-7B-Instruct. "
+        "Includes an interactive Web UI at `/` and OpenAPI Swagger documentation at `/docs`."
     ),
     version="1.0.0",
     lifespan=lifespan,
@@ -193,10 +195,10 @@ def extract_json(s: str):
 # ==============================================================================
 # Endpoints
 # ==============================================================================
-@app.get("/", include_in_schema=False)
-async def root():
-    """Redirect root path to interactive Swagger OpenAPI documentation."""
-    return RedirectResponse(url="/docs")
+@app.get("/", response_class=HTMLResponse, tags=["Web UI"])
+async def index():
+    """Interactive visual Web UI for drag-and-drop document inspection."""
+    return HTML_PAGE
 
 
 @app.get("/health", response_model=HealthResponse, tags=["System"])
@@ -251,6 +253,136 @@ async def ocr_endpoint(file: UploadFile = File(..., description="Document image 
         "orientation": {"predicted_degree": pred_degree, "raw": rot_raw},
         "extraction": extraction if extraction else {"raw": ext_raw, "parse_error": True},
     }
+
+
+# ==============================================================================
+# Interactive Web Dashboard UI
+# ==============================================================================
+HTML_PAGE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Industrial OCR</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f1117; color: #e1e4e8; min-height: 100vh; }
+.container { max-width: 1200px; margin: 0 auto; padding: 2rem; }
+.header-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; }
+h1 { font-size: 1.8rem; background: linear-gradient(135deg, #58a6ff, #a371f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.nav-links a { color: #58a6ff; text-decoration: none; margin-left: 1rem; font-size: 0.9rem; font-weight: 500; border: 1px solid #30363d; padding: 0.4rem 0.8rem; border-radius: 6px; transition: all 0.2s; }
+.nav-links a:hover { background: #1f242c; border-color: #58a6ff; }
+.subtitle { color: #8b949e; margin-bottom: 2rem; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } }
+.panel { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem; }
+.upload-area { border: 2px dashed #30363d; border-radius: 8px; padding: 3rem 1.5rem; text-align: center; cursor: pointer; transition: all 0.2s; }
+.upload-area:hover, .upload-area.dragover { border-color: #58a6ff; background: #1c2128; }
+.upload-area input { display: none; }
+.upload-area p { color: #8b949e; margin-top: 0.5rem; }
+.preview { margin-top: 1rem; text-align: center; }
+.preview img { max-width: 100%; max-height: 400px; border-radius: 8px; border: 1px solid #30363d; }
+.btn { display: inline-block; padding: 0.75rem 1.5rem; background: #238636; color: #fff; border: none; border-radius: 6px; font-size: 1rem; cursor: pointer; margin-top: 1rem; transition: background 0.2s; }
+.btn:hover { background: #2ea043; }
+.btn:disabled { background: #21262d; color: #484f58; cursor: not-allowed; }
+.result { margin-top: 1rem; }
+.result-section { margin-bottom: 1rem; }
+.result-section h3 { font-size: 0.85rem; text-transform: uppercase; color: #8b949e; margin-bottom: 0.5rem; }
+.json-box { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 1rem; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; overflow-x: auto; white-space: pre-wrap; word-break: break-word; max-height: 500px; overflow-y: auto; }
+.badge { display: inline-block; padding: 0.2rem 0.6rem; border-radius: 12px; font-size: 0.8rem; font-weight: 600; }
+.badge-ok { background: #1b4332; color: #6ee7b7; }
+.spinner { display: inline-block; width: 18px; height: 18px; border: 2px solid #30363d; border-top-color: #58a6ff; border-radius: 50%; animation: spin 0.8s linear infinite; margin-right: 0.5rem; vertical-align: middle; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.status { margin-top: 1rem; color: #8b949e; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header-row">
+    <h1>Industrial OCR</h1>
+    <div class="nav-links">
+      <a href="/docs" target="_blank">📖 Swagger Docs</a>
+      <a href="/redoc" target="_blank">📚 ReDoc</a>
+      <a href="/health" target="_blank">🩺 Health</a>
+    </div>
+  </div>
+  <p class="subtitle">Qwen2.5-VL-7B + LoRA &mdash; orientation detection &amp; structured field extraction</p>
+  <div class="grid">
+    <div class="panel">
+      <div class="upload-area" id="dropzone">
+        <svg width="48" height="48" fill="none" stroke="#58a6ff" stroke-width="1.5" viewBox="0 0 24 24"><path d="M12 16V4m0 0L8 8m4-4l4 4M4 17v2a1 1 0 001 1h14a1 1 0 001-1v-2"/></svg>
+        <p>Drop a document image here or click to upload</p>
+        <input type="file" id="fileInput" accept="image/*">
+      </div>
+      <div class="preview" id="preview"></div>
+      <button class="btn" id="runBtn" disabled>Run OCR</button>
+      <div class="status" id="status"></div>
+    </div>
+    <div class="panel">
+      <div class="result" id="result">
+        <p style="color:#484f58">Results will appear here after processing.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+const dropzone = document.getElementById('dropzone');
+const fileInput = document.getElementById('fileInput');
+const preview = document.getElementById('preview');
+const runBtn = document.getElementById('runBtn');
+const status = document.getElementById('status');
+const result = document.getElementById('result');
+let selectedFile = null;
+
+dropzone.addEventListener('click', () => fileInput.click());
+dropzone.addEventListener('dragover', e => { e.preventDefault(); dropzone.classList.add('dragover'); });
+dropzone.addEventListener('dragleave', () => dropzone.classList.remove('dragover'));
+dropzone.addEventListener('drop', e => { e.preventDefault(); dropzone.classList.remove('dragover'); handleFile(e.dataTransfer.files[0]); });
+fileInput.addEventListener('change', e => handleFile(e.target.files[0]));
+
+function handleFile(file) {
+  if (!file) return;
+  selectedFile = file;
+  preview.innerHTML = `<img src="${URL.createObjectURL(file)}" alt="preview">`;
+  runBtn.disabled = false;
+  result.innerHTML = '<p style="color:#484f58">Ready. Click "Run OCR" to process.</p>';
+}
+
+runBtn.addEventListener('click', async () => {
+  if (!selectedFile) return;
+  runBtn.disabled = true;
+  status.innerHTML = '<span class="spinner"></span> Processing... (this may take 30-60s)';
+  result.innerHTML = '';
+  const fd = new FormData();
+  fd.append('file', selectedFile);
+  try {
+    const res = await fetch('/api/ocr', { method: 'POST', body: fd });
+    const data = await res.json();
+    let html = '';
+    html += '<div class="result-section"><h3>Orientation</h3>';
+    html += `<span class="badge badge-ok">${data.orientation.predicted_degree}&deg; rotation needed</span>`;
+    html += '</div>';
+    html += '<div class="result-section"><h3>Extracted Fields</h3>';
+    html += `<div class="json-box">${syntaxHighlight(JSON.stringify(data.extraction, null, 2))}</div>`;
+    html += '</div>';
+    result.innerHTML = html;
+  } catch (e) {
+    result.innerHTML = `<p style="color:#f85149">Error: ${e.message}</p>`;
+  }
+  status.innerHTML = '';
+  runBtn.disabled = false;
+});
+
+function syntaxHighlight(json) {
+  return json.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"([^"]+)":/g, '<span style="color:#79c0ff">"$1"</span>:')
+    .replace(/: "([^"]*)"/g, ': <span style="color:#a5d6ff">"$1"</span>')
+    .replace(/: (\\d+)/g, ': <span style="color:#d2a8ff">$1</span>')
+    .replace(/: (true|false|null)/g, ': <span style="color:#7ee787">$1</span>');
+}
+</script>
+</body>
+</html>"""
 
 
 if __name__ == "__main__":

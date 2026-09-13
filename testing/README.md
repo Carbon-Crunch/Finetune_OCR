@@ -49,7 +49,7 @@ testing/
 
 ---
 
-## 📦 Model Weights Setup
+## Model Weights Setup
 
 The model uses base weights from Hugging Face (`unsloth/qwen2.5-vl-7b-instruct-unsloth-bnb-4bit`) and a fine-tuned LoRA adapter:
 
@@ -64,14 +64,17 @@ The model uses base weights from Hugging Face (`unsloth/qwen2.5-vl-7b-instruct-u
 
 ---
 
-## 🌐 API Reference
+## API Reference
 
-### 1. Interactive Swagger UI & OpenAPI (`/docs` & `/redoc`)
-Navigate to `http://localhost:8000/` or `http://localhost:8000/docs` in your browser.
-- **Swagger UI (`/docs`)**: Interactive API documentation where you can inspect schemas and test endpoints via the "Try it out" button.
-- **ReDoc (`/redoc`)**: Comprehensive clean technical documentation for all endpoints and schemas.
+### 1. Interactive Web UI (`/`)
+Navigate to `http://localhost:8000/` in your browser. Drag and drop any document (JPEG, PNG, or PDF) to visually inspect orientation prediction and extracted JSON data side-by-side. Direct links to Swagger Docs and Health status are integrated into the header.
 
-### 2. `POST /api/ocr`
+### 2. Interactive Swagger UI & OpenAPI (`/docs` & `/redoc`)
+Navigate to `http://localhost:8000/docs` or `http://localhost:8000/redoc`:
+- **Swagger UI (`/docs`)**: Interactive OpenAPI specification with Pydantic response models and the "Try it out" file upload interface.
+- **ReDoc (`/redoc`)**: Comprehensive, clean technical API documentation.
+
+### 3. `POST /api/ocr`
 Upload an image or document for orientation detection and structured extraction.
 
 - **Content-Type**: `multipart/form-data`
@@ -116,7 +119,7 @@ with open("Batch3/124.JPG", "rb") as f:
 }
 ```
 
-### 3. `GET /health`
+### 4. `GET /health`
 Returns the operational health and loaded model status:
 ```json
 {
@@ -129,7 +132,7 @@ Returns the operational health and loaded model status:
 
 ---
 
-## 🧪 Testing with `Batch3/`
+## Testing with `Batch3/`
 
 The `Batch3/` directory contains sample real-world documents for testing:
 - **PDF Documents**: `120.pdf`, `121.pdf`, `122.pdf`, `129.pdf`, `141.pdf`, `148.pdf` (multi-page invoices, monthly summaries, meter logs).
